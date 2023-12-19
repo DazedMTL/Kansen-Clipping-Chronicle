@@ -1,0 +1,21 @@
+# Ignore all files
+*.*
+
+# Except
+!*.json
+!*.js
+!*.zip
+!*.7z
+!*.csv
+!*.ain
+!*.fnl
+!CC_patch3.xp3
+!version.dll
+!CC_patch3/*.ks
+!.gitignore
+!patch.bat
+!README.md
+!ENCG/*
+
+# Images
+!bg_conf_mes_t.png

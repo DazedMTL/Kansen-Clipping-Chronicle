@@ -1,0 +1,225 @@
+*0190_TOP
+[bgm storage="bgm08" time=100]
+[backlay][bg storage="BG05a"][trans time=500 method=crossfade][wt2]
+[sysbt_meswin]
+*1683|
+[fc]
+そんなこんなで、合宿二日目がスタート――[pcms]
+[backlay][rui_lo_03_f01 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
+*1684|
+[fc]
+[vo_ru s="rui0122"]
+[【累】]
+「おはよう、諸君。今日も元気に練習しよう！」[pcms][endhact]
+*1685|
+[fc]
+早朝の自主練、朝食、朝のミーティングから始まり――[pcms]
+[backlay][chara_int][bg storage="BG11a"][trans method=universal rule="blindX" vague=50 time=1000][wt2]
+*1686|
+[fc]
+午前練習、昼食、午後練習。[pcms]
+*1687|
+[fc]
+ひたすら練習漬け。[pcms]
+*1688|
+[fc]
+午前の練習が加わると、[r]
+午後の練習への負荷が思った以上に圧し掛かってくる。[pcms]
+*1689|
+[fc]
+昼食後の食休みの時にしっかりと体を休めておかないと、[r]
+すぐにバテてしまいそうだ。[pcms]
+*1690|
+[fc]
+でも……それくらいしないと、どうにもならない。[r]
+元々、持たない者の俺が、何かを手に入れようとしているんだから。[pcms]
+[backlay][mis_lo_01_f01 layer=3 x="&sf.mi_lo_x[3]" y="&sf.mi_lo_y[0]"][trans time=150 method=crossfade][wt]
+*1691|
+[fc]
+[vo_mo s="misuzu0039"]
+[【子野日】]
+「お疲れ様です！」[pcms][endhact]
+[backlay][sud_lo_01_f02 layer=2 x="&sf.su_lo_x[2]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
+*1692|
+[fc]
+[【須田】]
+「お、昨日よりタイム伸びてんじゃん。調子いいんじゃないか？」[pcms][endhact]
+[backlay][rui_lo_01_f01 layer=1 x="&sf.ru_lo_x[1]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
+*1693|
+[fc]
+[vo_ru s="rui0123"]
+[【累】]
+「ふふ……前提条件の不利は、着実に埋められているみたいだね。[r]
+　僕も見習わなくてはな」[pcms][endhact]
+[backlay][chara_int][trans time=150 method=crossfade][wt]
+*1694|
+[fc]
+体中に疲労を感じているけれど、心身ともに今までに感じたことのない[r]
+充実感が漲っているような、そんな気もしている。[pcms]
+*1695|
+[fc]
+[ns【]大久保[】nse]
+「もっとフォームを意識して……ゴホッ、ゲホッ、ゲホッ……！」[pcms][endhact]
+[backlay][tak_lo_03_f12a layer=3 x="&sf.ta_lo_x[3]" y="&sf.ta_lo_y[0]"][trans time=150 method=crossfade][wt]
+*1696|
+[fc]
+[vo_mo s="takahasi0010"]
+[【高橋】]
+「頑張るのは大事だけど、無理をするのとは違うのよ。だから、[r]
+　無理のない範囲で頑張るようにね……ふぅ」[pcms][endhact]
+[backlay][mis_lo_01_f10 layer=1 x="&sf.mi_lo_x[1]" y="&sf.mi_lo_y[0]"][trans time=150 method=crossfade][wt]
+*1697|
+[fc]
+[vo_mo s="misuzu0040"]
+[【子野日】]
+「お疲れ様です、先生……大丈夫ですか？　辛いようでしたら、[r]
+　医務室で休んでいらっしゃった方が……」[pcms][endhact]
+[backlay][tak_lo_03_f10a layer=3 x="&sf.ta_lo_x[3]" y="&sf.ta_lo_y[0]"][trans time=150 method=crossfade][wt]
+*1698|
+[fc]
+[vo_mo s="takahasi0011"]
+[【高橋】]
+「ありがとう、子野日さん。ごめんなさいね、大事な合宿なのに、[r]
+　こんな調子で……先生、ダメね」[pcms][endhact]
+*1699|
+[fc]
+高橋先生も大久保コーチも、夏風邪が悪化しているようだ。[pcms]
+[backlay][chara_int][trans time=150 method=crossfade][wt]
+*1700|
+[fc]
+水に入らず指導してくれているが……まあ、累先輩がいれば、[r]
+部の秩序は保たれるだろうから、心配することはなさそうだ。[pcms]
+[stopse_all]
+[sysbt_meswin clear]
+[backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]
+[fadeoutbgm time=500]
+[wait2 time=500]
+[bgm storage="bgm01" time=100]
+[backlay][bg storage="BG05b"]
+[rui_up_03_f02 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"]
+[trans time=500 method=crossfade][wt2]
+[sysbt_meswin]
+*1701|
+[fc]
+[vo_ru s="rui0124"]
+[【累】]
+「うん、美味しい！　この豚バラの味噌炒め、味噌ダレに入れてあるシソが[r]
+　いい味を出しているね。濃いめの味をさっぱりとさせてくれている」[pcms][endhact]
+[backlay][rir_up_03_f02 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
+*1702|
+[fc]
+[vo_ri s="riri0119"]
+[【梨里】]
+「今夜は陸上部二年が担当しました～！　おかわりもあるから、[r]
+　いっぱい食べて下さいね～！」[pcms][endhact]
+*1703|
+[fc]
+へえ、やるじゃないか、梨里。[pcms]
+[backlay][rir_up_03_f01 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
+*1704|
+[fc]
+[vo_ri s="riri0120"]
+[【梨里】]
+「どう、央。美味しい？」[pcms][endhact]
+*1705|
+[fc]
+[【央】]
+「ああ、梨里がこんなに料理上手だったなんてな。[r]
+　顕悟もきっと喜ぶよ」[pcms][endhact]
+[backlay][rir_up_03_f02 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
+*1706|
+[fc]
+[vo_ri s="riri0121"]
+[【梨里】]
+「あはは、アリガト。でも、この味付け……最上先輩に習ったんだよね。[r]
+　あたしたちだけだったら無理無理」[pcms][endhact]
+[backlay][chara_int][trans time=150 method=crossfade][wt]
+*1707|
+[fc]
+昨日に続いて今日も最上先輩のファインプレーか。[r]
+最上先輩の部屋の方に足を向けて寝られないな。[pcms]
+*1708|
+[fc]
+[vo_mo s="mogami0001"]
+[ns【]最上[】nse]
+「ふふっ、どう？　美味しい？」[pcms][endhact]
+*1709|
+[fc]
+[ns【]西野[】nse]
+「はい！　とっても美味しいです、先輩っ！」[pcms][endhact]
+[backlay][mis_up_03_g05 layer=3 x="&sf.mi_up_x[3]" y="&sf.mi_up_y[0]"][trans time=150 method=crossfade][wt]
+*1710|
+[fc]
+[vo_mo s="misuzu0041"]
+[【子野日】]
+「ちっ、ちっ……ちぃぃっ！」[pcms][endhact]
+*1711|
+[fc]
+ああ、きょうもごはんがおいしいなぁ。[pcms]
+[stopse_all]
+[sysbt_meswin clear]
+[backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]
+[wait2 time=500]
+[backlay][bg storage="BG04c"][trans time=500 method=crossfade][wt2]
+[sysbt_meswin]
+*1712|
+[fc]
+[【央】]
+「はぁぁ……いいお湯だった」[pcms][endhact]
+*1713|
+[fc]
+風呂から上がると、もう眠気が押し寄せてくる。[pcms]
+*1714|
+[fc]
+それでも、普段はクラスが違うと話す機会も少ない連中と[r]
+じっくり話す時間があって楽しい。[pcms]
+*1715|
+[fc]
+少しくらいは眠気と戦う努力をしてもいいかな。[pcms]
+[backlay][sud_lo_03_f02 layer=3 x="&sf.su_lo_x[3]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
+*1716|
+[fc]
+[【須田】]
+「さあ行くぜ！　今夜こそ我らの夢の都、シャングリ＝ラへと[r]
+　旅立つのだ！　勇者諸君、俺について来い！」[pcms][endhact]
+*1717|
+[fc]
+[【央】]
+「……おやすみ」[pcms][endhact]
+[backlay][chara_int][trans time=150 method=crossfade][wt]
+*1718|
+[fc]
+風呂のお湯で脳みそまで温まった須田の号令の元、[r]
+部屋のみんなが消灯済みの廊下へと飛び出していく。[pcms]
+[backlay][bg storage="BG04d"][trans time=500 method=crossfade][wt2]
+*1719|
+[fc]
+俺は一人、布団へと潜り込んで――[pcms]
+*1719a|
+[fc]
+[vo_ru s="rui0119a"]
+[【？？？】]
+「殺してママ！！」[pcms][endhact]
+*1720|
+[fc]
+[【央】]
+「お～……」[pcms][endhact]
+*1721|
+[fc]
+割と近くから聞こえてきた『殺してママ！！』という声。[r]
+今晩は随分と近くで出没したみたいだな、レイクサイドの怪人は。[pcms]
+*1722|
+[fc]
+アホな勇者諸君の悲鳴から逃れるため、布団を頭まで被り目をつむった。[pcms]
+*1723|
+[fc]
+さあ、明日も練習、頑張ろう。[pcms]
+*1724|
+[fc]
+――二日目は、こんなふうにあっという間に過ぎて行ったのだった。[pcms]
+[stopse_all]
+[sysbt_meswin clear]
+[backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]
+[fadeoutbgm time=500]
+[wait2 time=1000]
+[jump storage="0191.ks"]
