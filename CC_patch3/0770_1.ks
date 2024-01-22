@@ -23,16 +23,16 @@
 「あぐっ、ぐうっ、あううっ、んんぐうっ……」[pcms][endhact]
 *10777|
 [fc]
-オートロックの扉を破り、大勢の男たちが部屋に雪崩れ込んできてから[r]
-ずっと、わたしは、激しく犯されつづけていた。[pcms]
+Ever since they broke through the auto-lock door and a multitude of[r]
+men flooded into the room, I have been violently violated without end.[pcms]
 *10778|
 [fc]
-犯す男の顔が次々と変わっていくが、[r]
-その数が減ることはない。[pcms]
+The faces of the men raping me change one after another, but their[r]
+number never decreases.[pcms]
 *10779|
 [fc]
-あれから延々と、休むことなく、[r]
-獣のような男たちに身体を犯されている。[pcms]
+Since then, without any rest, I've been ravaged by these beast-like[r]
+men.[pcms]
 *10780|
 [fc]
 [vo_ju s="jun0150"]
@@ -40,20 +40,22 @@
 「はぁっ……あううっ、んぐうっ、あううっ、あああぁぅ……」[pcms][endhact]
 *10781|
 [fc]
-もう、数え切れないほど、膣内に射精を受けていた。[pcms]
+I've lost count of how many times they've ejaculated inside me.[pcms]
 *10782|
 [fc]
-身体の内も外も、精液でどろどろになり、[r]
-もう、その臭い以外を感じることは出来ない。[pcms]
+Both inside and out, my body is drenched in semen, and I can no longer[r]
+sense any smell other than that.[pcms]
 *10783|
 [fc]
-きっと……わたしの子宮の奥で、受精が始まってしまっただろう。[pcms]
+Surely... fertilization must have begun deep within my womb by now.[pcms]
 *10784|
 [fc]
-妊娠したとしても、誰の子なのかまったくわからない。[pcms]
+Even if I were to become pregnant, I have no idea whose child it would[r]
+be.[pcms]
 *10785|
 [fc]
-そもそも……名前もなにも、わからない男たちなんだから……。[pcms]
+After all... they are men whose names or anything about them I do not[r]
+know...[pcms]
 *10786|
 [fc]
 [ns【]ラグビー部員Ｂ[】nse]
@@ -65,12 +67,12 @@
 「あうううっ！　あいいいいぃぃっ！　くううぅぅぅぅっ！」[pcms][endhact]
 *10788|
 [fc]
-エネルギーの有り余っている身体の大きな男が、[r]
-力任せに、その巨大なものをわたしの奥に打ち付けてくる。[pcms]
+A large man with an excess of energy forcefully thrusts his enormous[r]
+member deep inside me.[pcms]
 *10789|
 [fc]
-その痛みと苦しみに、ただひたすら耐えながら、[r]
-悲鳴にもならない声を漏らしていた。[pcms]
+I endure the pain and suffering, letting out a voice that doesn't even[r]
+qualify as a scream.[pcms]
 *10790|
 [fc]
 [ns【]ラグビー部員Ｂ[】nse]
@@ -87,21 +89,22 @@
 [射精フラB]
 *10792|
 [fc]
-何度経験しても、慣れることのない膣内射精の感覚。[pcms]
+No matter how many times it happens, I never get used to the sensation[r]
+of being ejaculated inside.[pcms]
 *10793|
 [fc]
-搾ったホースから水が飛び出るように、[r]
-精液が、勢いよく身体の内側を叩く感触が伝わってくる。[pcms]
+Like water bursting from a squeezed hose, I feel the semen forcefully[r]
+striking the insides of my body.[pcms]
 *10794|
 [fc]
-そして、子宮に収まりきらない精液が、[r]
-狭い膣内を苦しげに圧迫して……。[pcms]
+And then, the semen that can't fit in my womb presses painfully[r]
+against the narrow walls of my vagina...[pcms]
 [se buf=0 storage="seD017"]
 [backlay][evcg storage="EV31_04" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10795|
 [fc]
-男が、満足げにその巨大なものを引き抜くと、[r]
-オシッコをするように、精液が割れ目から飛び出していた。[pcms]
+When the man pulls out his massive member with satisfaction, semen[r]
+spurts out from my slit as if I were urinating.[pcms]
 *10796|
 [fc]
 [ns【]ラグビー部員Ｂ[】nse]
@@ -113,11 +116,10 @@
 「え……」[pcms][endhact]
 *10798|
 [fc]
-今まで、わたしを犯していた男が、[r]
-また、のし掛かろうとしてくる。[pcms]
+The man who was just violating me is now trying to mount me again.[pcms]
 *10799|
 [fc]
-まだ、終わらない。[pcms]
+It's still not over.[pcms]
 [backlay][bg storage="BG04c"]
 [kan_ya layer=3 x="&sf.ya_lo_x[4]-100" y="&sf.ya_lo_y[0]"]
 [kan_ru layer=4 x="&sf.ra_lo_x[3]" y="&sf.ra_lo_y[0]"]
@@ -126,8 +128,8 @@
 [trans time=500 method=crossfade][wt2]
 *10800|
 [fc]
-前にも後ろにも、男たちはまだまだ部屋にいっぱい居て、[r]
-わたしがレイプされる様を、奇声を上げながら見ている。[pcms]
+In front and behind, there are still plenty of men in the room,[r]
+watching me being raped and shouting out bizarre cries.[pcms]
 *10801|
 [fc]
 [ns【]野球部員Ａ[】nse]
@@ -149,53 +151,53 @@
 「ひいぃ……」[pcms][endhact]
 *10804|
 [fc]
-金属バット持った他校の野球部員が、[r]
-わたしの前にいた男の頭を打ち付ける。[pcms]
+A baseball player from another school with a metal bat strikes the[r]
+head of the man in front of me.[pcms]
 *10805|
 [fc]
-野球でボールを打つのと同じスイングで、[r]
-男の頭を捉えていた。[pcms]
+With a swing just like hitting a ball in baseball, he connects with[r]
+the man's head.[pcms]
 *10806|
 [fc]
 [ns【]野球部員Ａ[】nse]
 「ナイバッティーッ！」[pcms][endhact]
 *10807|
 [fc]
-殴られた男は、頭から血と脳漿をまき散らしながら、[r]
-床に倒れ込んでいく。[pcms]
+The struck man scatters blood and brain matter from his head as he[r]
+collapses to the floor.[pcms]
 *10808|
 [fc]
-こうやって、男たちはわたしを犯すだけではなく、[r]
-おたがいに殺し合っていた。[pcms]
+In this way, the men are not only violating me but also killing each[r]
+other.[pcms]
 *10809|
 [fc]
-言動も行動も、正常からはかけ離れていて、[r]
-狂気とすら言えないような異常性を見せている。[pcms]
+Their words and actions are far removed from normality, showing a[r]
+level of abnormality that can't even be described as madness.[pcms]
 *10810|
 [fc]
-もう、この空間は、わたしが知っている世界じゃない。[pcms]
+This space is no longer the world I know.[pcms]
 *10811|
 [fc]
-この部屋だけが世界から切り取られて、[r]
-自分が生け贄に捧げられているような気持ちだった。[pcms]
+I feel as if this room has been cut off from the world and I have been[r]
+offered up as a sacrifice.[pcms]
 *10812|
 [fc]
 [ns【]野球部員Ａ[】nse]
-「グラウンドで見かけたときから、[r]
-　純ちゃんが気になってたんだよね」[pcms][endhact]
+"Ever since I saw you on the field, I've been interested in you, Jun-[r]
+chan."[pcms]
 *10813|
 [fc]
-大柄で筋肉質の野球部員が、自分のズボンを下ろしている。[pcms]
+A large, muscular baseball player is lowering his pants.[pcms]
 *10814|
 [fc]
-また……わたしは、犯されるんだ。[pcms]
+Again... I am going to be violated.[pcms]
 *10815|
 [fc]
-本当に醜いその野球部員のものは、[r]
-今までの男よりも少し長くて、固そうだった。[pcms]
+The truly ugly thing of this baseball player is slightly longer and[r]
+seems harder than those of the men before.[pcms]
 *10816|
 [fc]
-そこまで、筋肉質になっているような気がする。[pcms]
+It feels as if it's become muscular to that extent.[pcms]
 *10817|
 [fc]
 [ns【]野球部員Ａ[】nse]
@@ -213,12 +215,11 @@
 「あうううっ！　ひぎいいぃぃぃぃぃぃぃっ！」[pcms][endhact]
 *10819|
 [fc]
-その、長く醜悪なものを、[r]
-わたしの小さな身体に根本まで埋め込んできた。[pcms]
+He buries that long, hideous thing to its base in my small body.[pcms]
 *10820|
 [fc]
-子宮の形が変わるほど、内側から押されているような、[r]
-今までにない痛みだ。[pcms]
+The pain is unlike anything before, as if it's reshaping my womb from[r]
+the inside.[pcms]
 *10821|
 [fc]
 [ns【]野球部員Ａ[】nse]
@@ -231,12 +232,12 @@
 「んやぁぁぁぁぁっ！　痛いよぉぉぉぉぉぉぉっ！」[pcms][endhact]
 *10823|
 [fc]
-その固くなっている、長いものの先端が、[r]
-子宮口に入り込みそうな気さえする。[pcms]
+The hard and long tip feels like it's about to penetrate my cervical[r]
+opening.[pcms]
 *10824|
 [fc]
-わたしが痛みを訴えていることに気が付かないように、[r]
-野球部の男は激しく腰を振り立てていた。[pcms]
+Unaware of my pain, the baseball player continues to thrust his hips[r]
+violently.[pcms]
 *10825|
 [fc]
 [ns【]野球部員Ａ[】nse]
@@ -249,15 +250,16 @@
 「こ、これ以上は、む、無理、やめてぇぇっ！」[pcms][endhact]
 *10827|
 [fc]
-根本まで埋まっているのに、男は執拗に奥を求めて、[r]
-腰を密着させてくる。[pcms]
+Even though he's buried to the base, he persistently seeks deeper,[r]
+pressing his hips close to mine.[pcms]
 *10828|
 [fc]
-一度、腰を引いた状態から、勢いを付けて根本まで。[pcms]
+He pulls back once and then thrusts with momentum all the way to the[r]
+base.[pcms]
 *10829|
 [fc]
-まるで、トンネルでも掘っているみたいな、[r]
-身体を壊そうとするセックスだった。[pcms]
+It's like he's tunneling through, sex that seems intent on breaking my[r]
+body.[pcms]
 *10830|
 [fc]
 [ns【]野球部員Ａ[】nse]
@@ -269,11 +271,11 @@
 「し、死ぬぅ……殺されちゃう……っ！」[pcms][endhact]
 *10832|
 [fc]
-男は、まるで子宮を突き破ろうとしているかのようだった。[pcms]
+The man acts as if he's trying to break through my womb.[pcms]
 *10833|
 [fc]
-腰の位置を捻ったり、角度を変えたりしながら、[r]
-執拗に子宮口に先端を入れようと、もがいてくる。[pcms]
+Twisting his hips and changing angles, he struggles to insert the tip[r]
+into my cervical opening persistently.[pcms]
 *10834|
 [fc]
 [ns【]野球部員Ａ[】nse]
@@ -286,15 +288,14 @@
 「やめて、お願い……セックスなら……いいから、あぐうぅっ！」[pcms][endhact]
 *10836|
 [fc]
-わたしはもう、犯されることに諦めを覚えていた。[pcms]
+I've come to resign myself to being violated.[pcms]
 *10837|
 [fc]
-でも、痛みと苦しみからは、逃れることが出来ない。[pcms]
+But I cannot escape from the pain and suffering.[pcms]
 *10838|
 [fc]
 [ns【]野球部員Ａ[】nse]
-「あおおおぉぉぉっ！　出ちゃうよぉぉっ！[r]
-　まだ、まだなのにぃぃっ！」[pcms][endhact]
+"Ahhh! I'm going to cum! But it's still too soon!"[pcms]
 *10839|
 [fc]
 [vo_ju s="jun0160"]
@@ -302,12 +303,12 @@
 「は、早く終わらせてぇぇぇっ！」[pcms][endhact]
 *10840|
 [fc]
-野球部員の男は、その分厚い筋肉を蠢かせながら、[r]
-必死に射精を堪えている。[pcms]
+The baseball club member, with his thick muscles writhing, is[r]
+desperately trying to hold back his ejaculation.[pcms]
 *10841|
 [fc]
-でも、わたしには、セックスを促すようなテクニックは、[r]
-なにも無く、ただ犯されていることしかできない。[pcms]
+But I have no techniques to encourage sex, and can only resign myself[r]
+to being violated.[pcms]
 *10842|
 [fc]
 [ns【]野球部員Ａ[】nse]
@@ -319,12 +320,13 @@
 [射精フラB]
 *10843|
 [fc]
-その長いものが、膣奥の子宮口にぴったりと張り付き、[r]
-そこから直接、精液を注ぎ込まれている感覚だった。[pcms]
+The sensation is that his long member is pressed tightly against my[r]
+cervical opening at the back of my vagina, pouring semen directly into[r]
+it.[pcms]
 *10844|
 [fc]
-今までのように、逆流してくる精液もなく、[r]
-お腹が膨れるような苦しさを覚える。[pcms]
+Unlike before, there's no semen flowing back, and I feel a painful[r]
+swelling in my belly.[pcms]
 *10845|
 [fc]
 [vo_ju s="jun0161"]
@@ -332,25 +334,24 @@
 「ああぁ……あぐうううっ……ぬ、抜いて……」[pcms][endhact]
 *10846|
 [fc]
-わたしに、気を使ったわけではないだろうが、[r]
-野球部員はスッキリした顔で、長いものを抜いていく。[pcms]
+It's not that he was considerate of me, but with a satisfied look on[r]
+his face, the baseball club member pulls out his long member.[pcms]
 [se buf=0 storage="seD017"]
 [backlay][evcg storage="EV31_10" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10847|
 [fc]
-すると、その後を追いかけるように、[r]
-精液が滴になって飛び出してきた。[pcms]
+Then, as if chasing after it, semen starts dripping out in drops.[pcms]
 *10848|
 [fc]
 [ns【]野球部員Ａ[】nse]
 「さあ、次は裏の攻撃だぜぇぇぇっっ！」[pcms][endhact]
 *10849|
 [fc]
-まだまだ、勢いは増すばかりの長いものを手で擦ると、[r]
-また、わたしのそこに狙いを定めてくる。[pcms]
+As I rub his still vigorous member with my hand, it once again aims[r]
+for my spot.[pcms]
 *10850|
 [fc]
-苦しくて、辛いセックスが、再び始まろうとしていた。[pcms]
+The painful and difficult sex was about to begin again.[pcms]
 *10851|
 [fc]
 [ns【]サッカー部員Ａ[】nse]
@@ -369,12 +370,12 @@
 「ああぁぁ……」[pcms][endhact]
 *10854|
 [fc]
-野球部員の隣に立った男が、ジャンプした勢いのまま、[r]
-その顔面にヘディングをしていく。[pcms]
+The man standing next to the baseball club member heads towards his[r]
+face with the momentum of a jump.[pcms]
 *10855|
 [fc]
-めり込んだ頭が離れると、野球部員の顔が奇妙に凹んで、[r]
-血や涙を零しながら、その場にくずおれていった。[pcms]
+As the buried head pulls away, the baseball club member's face caves[r]
+in strangely, collapsing on the spot while shedding blood and tears.[pcms]
 [if exp="tf.scene_mode == 1 && tf.all_play == 0"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]

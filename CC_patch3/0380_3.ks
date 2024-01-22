@@ -7,8 +7,9 @@
 [endif]
 *3331|
 [fc]
-累先輩に促されて俺は、言われるまま体勢を変えた。[r]
-それは梨里との間では経験していない淫らな感触が伝わる体位だった。[pcms]
+Urged by Senpai, I changed my position as instructed. It was a lewd[r]
+position that I had not experienced with Riri, one that conveyed[r]
+indecent sensations.[pcms]
 [sysbt_meswin clear]
 [backlay][black_toplayer][trans time=500 method=crossfade][wt2][hide_chara_int]
 *scene_start
@@ -19,20 +20,19 @@
 [fc]
 [vo_ru s="rui0227"]
 [【累】]
-「ふむ……部活で鍛えられたようだね。[r]
-　随分たくましくなってきている」[pcms][endhact]
+"Hmm... It seems you've been trained in club activities. You've become[r]
+quite robust."[pcms]
 *3333|
 [fc]
-あおむけに寝そべった俺。[r]
-累先輩はその上にまたがっている。[pcms]
+Lying on my back, Senpai is straddling me.[pcms]
 *3334|
 [fc]
-それは累先輩の太ももやお尻の感触が、[r]
-俺の身体に密着していることを意味していた。[pcms]
+That meant the sensation of Senpai's thighs and buttocks were tightly[r]
+pressed against my body.[pcms]
 *3335|
 [fc]
-夕べの梨里とのセックスでは無我夢中だったけど、[r]
-今はある程度とはいえ、状況を理解できる。[pcms]
+Although I was lost in the moment during last night's sex with Riri,[r]
+now I can somewhat understand the situation.[pcms]
 *3336|
 [fc]
 [vo_ru s="rui0228"]
@@ -41,12 +41,14 @@
 *3337|
 [fc]
 [【央】]
-「お、俺だって驚いてますよ……二回も出したのに……またこんなに[r]
-　なってて……累先輩が魅力的でエロいからだ……累先輩のせいだ」[pcms][endhact]
+"I-I'm surprised too... Even after cumming twice... to be this hard[r]
+again... It's because Senpai is so attractive and erotic... It's all[r]
+Senpai's fault."[pcms]
 *3338|
 [fc]
-恥も外聞もなく俺はペニスが勃起した原因を累先輩に押し付けた。[r]
-ここに至っては今さら体裁を取り繕うこともないと思ったからだ。[pcms]
+Without any shame or concern for how it sounded, I blamed the reason[r]
+for my erection on Senpai. I thought there was no point in trying to[r]
+maintain appearances at this stage.[pcms]
 *3339|
 [fc]
 [vo_ru s="rui0229"]
@@ -54,49 +56,53 @@
 「まあ、事実だから仕方ないね。では責任を取って面倒を見よう」[pcms][endhact]
 *3340|
 [fc]
-そう宣言すると累先輩は自分の手で水着の股間部分をずらして、[r]
-隠されていた秘密の部分を見せつけた。[pcms]
+As I declared that, Senpai shifted her swimsuit to the side with her[r]
+own hands, revealing her hidden secret part.[pcms]
 *3341|
 [fc]
 [【央】]
 「あっ？」[pcms][endhact]
 *3342|
 [fc]
-そこはすでにこれまでの戯れの影響下で淫らにぬかるんでいた。[r]
-もうひとつ驚いたのは無毛だったこと。[pcms]
+It was already lewdly wet from our previous play. What surprised me[r]
+even more was that it was hairless.[pcms]
 *3343|
 [fc]
-成長途上で恥毛が薄いとかいうレベルではなく完全に無毛だった。[r]
-もしかして、エロ動画で見た剃毛プレイとかしてたのか？[pcms]
+It wasn't just sparsely grown due to being in the midst of[r]
+development; it was completely hairless. Could it be that she had done[r]
+some shaving play like I'd seen in erotic videos?[pcms]
 *3344|
 [fc]
 [vo_ru s="rui0230"]
 [【累】]
-「ああ、体質的な問題か何かで僕のここは無毛なんだよ。お従兄様は[r]
-　天然のパイパンに育ってくれて感激だ、と言っていたかな」[pcms][endhact]
+"Ah, due to some physiological issue or something, I'm hairless down[r]
+there. My cousin said he was thrilled that I naturally grew up to be a[r]
+'paipan'."[pcms]
 *3345|
 [fc]
-超絶的にエロい身体で巨乳なのにパイパンだなんてこの人は、神が、[r]
-気まぐれで創造したエロスの化身のような存在だ！[pcms]
+This person is like an incarnation of Eros created on a whim by a god,[r]
+with an extremely erotic body and huge breasts yet being a paipan![pcms]
 *3346|
 [fc]
 [【央】]
-「な、なんか……おっぱいは超巨乳でスタイル抜群なのにパイパンだ[r]
-　なんて犯罪的っスよ……反則級にエロいです累先輩ッ！」[pcms][endhact]
+"Wh-what the... With such huge breasts and an amazing figure yet a[r]
+paipan, that's criminally sexy... It's an unfair level of eroticism,[r]
+Senpai!"[pcms]
 *3347|
 [fc]
-女性器そのものが恥毛に隠されず、ありのままに直視できている。[r]
-そこは、俺を誘うようにひくひくと蠢いていた。[pcms]
+The female genitalia itself was not hidden by pubic hair and could be[r]
+directly seen. It seemed to twitch and squirm as if beckoning me.[pcms]
 *3348|
 [fc]
 [vo_ru s="rui0231"]
 [【累】]
-「ふふっ……いいかい渋江君。これはお仕置きだよ？　単に快感に[r]
-　酔い痴れるだけではダメだよ？」[pcms][endhact]
+"Hehe... Listen, Shibue-kun. This is punishment, okay? It's not good[r]
+to just be intoxicated with pleasure."[pcms]
 *3349|
 [fc]
-露出した秘裂にペニスをあてがいながら、累先輩が言った。[r]
-密着したその粘膜の熱さとなまめかしさに、俺は早くも射精を意識する。[pcms]
+While aligning my penis with her exposed slit, Senpai said. The heat[r]
+and sensuality of the mucous membranes pressed against me made me[r]
+conscious of ejaculation already.[pcms]
 *3350|
 [fc]
 [【央】]
@@ -105,8 +111,8 @@
 [fc]
 [vo_ru s="rui0232"]
 [【累】]
-「ちゃんと僕を愉しませるんだ。[r]
-　先にキミだけ射精なんてのは許さないからね」[pcms][endhact]
+"Make sure you entertain me properly. I won't allow you to ejaculate[r]
+before me."[pcms]
 *3352|
 [fc]
 [【央】]
@@ -115,12 +121,13 @@
 [fc]
 [vo_ru s="rui0233"]
 [【累】]
-「もしもそんな真似をしでかしたら……この節操ないペニスは僕が……[r]
-　締め上げて、そのまま根本から引き抜いてしまうよ？」[pcms][endhact]
+"If you dare to do such a thing... this indecent penis will be...[r]
+squeezed by me, and I'll pull it out from the root, you know?"[pcms]
 *3354|
 [fc]
-累先輩が自分の膣内の収縮でそれが可能だと示威するように脅かしてきた。[r]
-実際、そうできるという自信があるってことだろう。[pcms]
+Senpai threatened as if to demonstrate that she could actually do it[r]
+with the contractions of her vagina. It must mean she has confidence[r]
+that she can actually do it.[pcms]
 *3355|
 [fc]
 [【央】]
@@ -132,8 +139,9 @@
 「いい返事だ。では……愉しもうかッ！」[pcms][endhact]
 *3357|
 [fc]
-累先輩は俺に返事をすると、一気に体重をかけてきた。[r]
-手慣れているようで挿入はあっさりとスムーズに終わった。[pcms]
+Senpai replied to me and then suddenly put her weight on me. She[r]
+seemed experienced as the insertion was smoothly and quickly[r]
+completed.[pcms]
 [se buf=0 storage="se_sex01"]
 [evcg白フラ storage="EV09_04" layer=0 page=back visible=true left=0 top=0]
 *3358|
@@ -143,12 +151,12 @@
 [se buf=1 storage="se_sex02" loop=true]
 *3359|
 [fc]
-梨里のそれとは違って、まず最初に細やかな肉襞のひとつひとつが[r]
-からみついてくる。[pcms]
+Unlike with Riri, first off, each delicate fold of flesh began to[r]
+entangle itself around me.[pcms]
 *3360|
 [fc]
-その熱くうねる感触を楽しむ余裕もないまま、激しい締め付けが[r]
-襲いかかった。[pcms]
+Before I could even enjoy the hot writhing sensation, an intense[r]
+tightness attacked me.[pcms]
 [backlay][evcg storage="EV09_03" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *3361|
 [fc]
@@ -157,16 +165,17 @@
 「きゃふあああっ……くひああああああうっ！」[pcms][endhact]
 *3362|
 [fc]
-累先輩の淫らな声音が追い打ちを駆けてくる。[r]
-憧れの人とのセックスというだけで俺は空に舞い上がる気分だ。[pcms]
+Senpai's lewd voice added to the onslaught. Just having sex with the[r]
+person I admired made me feel like I was soaring into the sky.[pcms]
 *3363|
 [fc]
 [【央】]
 「す、すげえ締め付けッ……本気で根本から持ってかれそうッ！」[pcms][endhact]
 *3364|
 [fc]
-さっきの宣言を本当に実行されそうで怖くなり、俺は射精しそうな[r]
-ペニスの感覚を必死に抑制する。[pcms]
+Fearing that her earlier declaration would actually be carried out, I[r]
+desperately suppressed the sensation of my penis that was close to[r]
+ejaculating.[pcms]
 [backlay][evcg storage="EV09_02" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *3365|
 [fc]
@@ -176,8 +185,9 @@
 [se buf=1 storage="se_sex03" loop=true]
 *3366|
 [fc]
-累先輩は俺のことなどお構いなしで、いきなり全開という感じだった。[r]
-エロビデオの女優もかくという派手な動きで腰を振っている。[pcms]
+Senpai didn't care about me at all and went full throttle from the[r]
+start. She moved her hips in flashy movements like those of an adult[r]
+video actress.[pcms]
 *3367|
 [fc]
 [【央】]
@@ -190,8 +200,8 @@
 「知るもんかッ！　ずっと待ってたんだッ！　こうするのをッ！」[pcms][endhact]
 *3369|
 [fc]
-累先輩の膣内で俺のペニスは文字通りの拷問を受けていた。[r]
-矢継ぎ早に快感で責められて射精を促されるという責めだった。[pcms]
+Inside Senpai's vagina, my penis was literally being tortured. It was[r]
+an assault of pleasure that urged me to ejaculate one after another.[pcms]
 *3370|
 [fc]
 [vo_ru s="rui0238"]
@@ -199,8 +209,8 @@
 「ペニスなんてお上品な言葉もう使わないッ！　チンポっ！」[pcms][endhact]
 *3371|
 [fc]
-卑猥な言葉を凛とした令嬢である累先輩が口にするだけで俺は興奮[r]
-してしまう。[pcms]
+I get excited just hearing lewd words from Senpai, who is a dignified[r]
+young lady.[pcms]
 [backlay][evcg storage="EV09_02" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *3372|
 [fc]
@@ -223,8 +233,8 @@
 「ひいッ！」[pcms][endhact]
 *3376|
 [fc]
-その脅迫には奇妙な説得力があった。[r]
-恐怖を味わいながら俺は沸騰したように熱い膣内で締め上げられる。[pcms]
+The threat had a strange persuasive power. While experiencing fear, I[r]
+was squeezed tightly in her boiling hot vagina.[pcms]
 [backlay][evcg storage="EV09_02" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *3377|
 [fc]
@@ -233,23 +243,24 @@
 「ここ？　違うな……ここか？　ああん……ここ、ここだよッ！」[pcms][endhact]
 *3378|
 [fc]
-累先輩の派手な動きが一転して、穏やかな上下運動に変わる。[r]
-どうやら快感を得やすい位置取りをしていた……らしい。[pcms]
+Senpai's flashy movements suddenly changed to gentle up-and-down[r]
+motions. Apparently, she had found a position that made it easier for[r]
+her to feel pleasure.[pcms]
 [backlay][evcg storage="EV09_03" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *3379|
 [fc]
 [vo_ru s="rui0242"]
 [【累】]
-「渋江君のチンポっ……硬くて……熱くて……やっぱりコンドーム無しの[r]
-　ナマチンポ最高だようッ！」[pcms][endhact]
+"Shibue-kun's dick... so hard... and hot... raw dicks without condoms[r]
+are definitely the best!"[pcms]
 *3380|
 [fc]
 [【央】]
 「俺も最高です累先輩ッ！　このまま射精したいですッ！　膣内でッ！」[pcms][endhact]
 *3381|
 [fc]
-いくらなんでもそれは拒絶されるかとは思いながらもリクエストしていた。[r]
-万が一、それを許してもらえたらという期待があった。[pcms]
+I requested it even though I thought it would surely be rejected.[r]
+There was hope that she might allow it.[pcms]
 [backlay][evcg storage="EV09_02" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *3382|
 [fc]
@@ -258,12 +269,13 @@
 「ダメって言ったら……どうする？」[pcms][endhact]
 *3383|
 [fc]
-獲物を見つけた猛禽類みたいな鋭い目で俺はにらまれた。[pcms]
+I was glared at with sharp eyes like a bird of prey that had found its[r]
+prey.[pcms]
 *3384|
 [fc]
 [【央】]
-「従兄の人にそうしたみたいに……俺のこと挑発してるんですよね？[r]
-　そうじゃなかったとしても俺……絶対に膣内射精しますよッ！」[pcms][endhact]
+"You're provoking me just like you did with your cousin, aren't you?[r]
+Even if that's not the case, I'll definitely ejaculate inside you!"[pcms]
 *3385|
 [fc]
 [vo_ru s="rui0244"]
@@ -271,21 +283,22 @@
 「乱暴に……無理矢理か……それも悪くないね……」[pcms][endhact]
 *3386|
 [fc]
-この時点でもう累先輩が膣内射精を許してくれたのは明白だった。[pcms]
+By this point, it was clear that Senpai had allowed me to ejaculate[r]
+inside her.[pcms]
 *3387|
 [fc]
 [vo_ru s="rui0245"]
 [【累】]
-「面倒だな……もうそんなまどろっこしいの無しだ。膣内射精していい。[r]
-　でも……僕がイクより先にはダメ……絶対にダメだ！」[pcms][endhact]
+"What a hassle... Forget all that tedious stuff. You can ejaculate[r]
+inside. But... you can't do it before I come... absolutely not!"[pcms]
 *3388|
 [fc]
 [【央】]
 「もう限界ですッ！　累先輩のマンコやばいのが悪いんだからッ！」[pcms][endhact]
 *3389|
 [fc]
-どうにでもなれ、と開き直った俺はいつ射精してもおかしくない自覚を[r]
-抱きながら、こちらからもペニスで突き上げる動きを始めた。[pcms]
+To hell with it, I thought defiantly as I began to thrust up with my[r]
+penis while being aware that I could ejaculate at any moment.[pcms]
 [backlay][evcg storage="EV09_04" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *3390|
 [fc]
@@ -294,8 +307,9 @@
 「ふああああっ……イクっ……ごりごり奥を削られてるみたいだッ！」[pcms][endhact]
 *3391|
 [fc]
-累先輩がイク……絶頂する……俺のペニスで突き上げられてイク！[r]
-直接、言葉でそう示唆されると下腹部にまた血が流れ込んでいく。[pcms]
+Senpai is going to come... reach climax... come from being thrust by[r]
+my penis! Being directly suggested by words made blood flow back into[r]
+my lower abdomen.[pcms]
 [backlay][evcg storage="EV09_03" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *3392|
 [fc]
@@ -308,8 +322,8 @@
 「イカせてあげますよ……夕べまで童貞だった俺のでッ！」[pcms][endhact]
 *3394|
 [fc]
-いつの間にか俺自身の意識とは別に腰が勝手に動いていた。[r]
-急加速する突き上げはもう誰にも止められない。[pcms]
+Before I knew it, my hips were moving on their own accord. The[r]
+accelerating thrusts were unstoppable by anyone now.[pcms]
 [backlay][evcg storage="EV09_04" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 [白フラ]
 *3395|
@@ -319,16 +333,18 @@
 「イクっ……イクイクイクうううっ！　後輩の渋江君のチンポでイクっ！」[pcms][endhact]
 *3396|
 [fc]
-普段の累先輩からは想像できない下品で淫らな嬌態だった。[r]
-そして口にする淫らな叫びもまるで別人としか思えない。[pcms]
+The vulgar and lewd behavior of Senpai was unimaginable from her usual[r]
+self. And the lewd cries she uttered seemed like they were from a[r]
+completely different person.[pcms]
 *3397|
 [fc]
 [【央】]
 「先輩ッ……累先輩ッ！」[pcms][endhact]
 *3398|
 [fc]
-このまま射精して死んでしまってもいい。[r]
-そんな興奮と快感に圧倒されながら俺はひたすら膣内射精を夢見て動く。[pcms]
+I wouldn't mind dying right after ejaculating like this. Overwhelmed[r]
+by excitement and pleasure, I kept moving, dreaming only of[r]
+ejaculating inside her.[pcms]
 [backlay][evcg storage="EV09_03" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 [白フラ]
 *3399|
@@ -338,8 +354,8 @@
 「あはあああっ！　後輩チンポでイクっ……僕もうイクっ、イクううっ！」[pcms][endhact]
 *3400|
 [fc]
-のけぞって背中をしならせながら、累先輩は全身をがくがく振るわせて[r]
-派手に絶頂していた。[pcms]
+Arching her back and convulsing her entire body, Senpai climaxed[r]
+dramatically.[pcms]
 *3401|
 [fc]
 [【央】]
@@ -351,8 +367,9 @@
 [射精フラB]
 *3402|
 [fc]
-そして俺もその淫らな仕草と連動した膣内の媚肉の震えと収縮に敗れて、[r]
-念願の膣内射精を遂げていた。[pcms]
+And I, too, succumbed to the lewd movements and the trembling and[r]
+contracting of the flesh inside her, finally achieving my long-desired[r]
+ejaculation inside her.[pcms]
 [backlay][evcg storage="EV09_06" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *3403|
 [fc]
@@ -361,14 +378,16 @@
 「ああ……渋江君のチンポが爆ぜて……ドロドロした精液が広がってる」[pcms][endhact]
 *3404|
 [fc]
-恍惚とした表情で累先輩がつぶやく。[r]
-俺もなえていくペニスが肉襞の動きを味わいながら余韻に浸っていた。[pcms]
+With an ecstatic expression, Senpai murmured. My penis, growing limp,[r]
+savored the movements of the flesh folds while basking in the[r]
+afterglow.[pcms]
 *3405|
 [fc]
 [vo_ru s="rui0251"]
 [【累】]
-「ふはあ……あ……これ……これがいいんだ……膣内射精される感じが最高で[r]
-　たまんない……ナマでセックス……最高だよ……」[pcms][endhact]
+"Fuaah...ah...this...this is what's good...the feeling of being[r]
+ejaculated inside is the best, I can't get enough...raw sex...is the[r]
+best..."[pcms]
 *3406|
 [fc]
 [vo_ru s="rui0252"]
@@ -385,32 +404,33 @@
 [白フラ]
 *3407a|
 [fc]
-累先輩の独白を楽しんだ俺は、彼女の呼吸が安定するのを待って膣内から[r]
-ペニスを引き抜いた。[pcms]
+I enjoyed Senpai's monologue and waited for her breathing to stabilize[r]
+before pulling my penis out from inside her.[pcms]
 *3408|
 [fc]
-秘裂の断面からは、だらだらと白濁した精液が垂れてくる。[r]
-不覚にもその淫らな光景は俺をさらに勃起させてしまった。[pcms]
+From the cross-section of her secret slit, thick white semen dripped[r]
+down. Involuntarily, that lewd sight made me hard again.[pcms]
 *3409|
 [fc]
 [【央】]
 「累先輩と……憧れの累先輩と俺……セックスした……膣内射精までした」[pcms][endhact]
 *3410|
 [fc]
-梨里とのセックスとは違って、ある意味では俺は今夜、累先輩に逆レイプ[r]
-されたようなものだった。[pcms]
+The sex with Senpai was different from that with Riri; in a sense,[r]
+tonight I was almost reverse-raped by Senpai.[pcms]
 *3411|
 [fc]
-だが決して不快ではなかった。[r]
-自分の中に秘められていた何かを解放してもらった、そんな気がする。[pcms]
+But it wasn't unpleasant at all. I felt as if something hidden within[r]
+me had been released.[pcms]
 *3412|
 [fc]
 [【央】]
 「気持ち良かった……興奮した……累先輩……最高だった……」[pcms][endhact]
 *3413|
 [fc]
-そのつぶやきは、さっきの累先輩のそれと同様で、俺自身の独白であり、[r]
-彼女に聞かせて、どうこうするつもりはなかったが自然に言ってしまった。[pcms]
+That murmur was similar to Senpai's earlier one; it was my own[r]
+soliloquy, not meant for her to hear or respond to, but it came out[r]
+naturally.[pcms]
 *3414|
 [fc]
 [vo_ru s="rui0254"]
@@ -424,22 +444,23 @@
 [fc]
 [vo_ru s="rui0255"]
 [【累】]
-「それは僕も同じだ。しかし……浅ましいところを見せてしまったね。[r]
-　幻滅したかい？　憧れの累先輩がこんな淫らな娘で？」[pcms][endhact]
+"I feel the same way. However... I've shown you a shameful side of[r]
+myself. Are you disappointed? To see your admired Senpai being such a[r]
+lewd girl?"[pcms]
 *3417|
 [fc]
 [【央】]
 「……驚きはしましたけど……なんか……幻滅とかそういうのとは違う」[pcms][endhact]
 *3418|
 [fc]
-なんだろう、まだ上手く言葉にできない。[r]
-それに俺はもっと累先輩と……セックスを続けていたい。[pcms]
+I can't quite put it into words yet. Besides, I want to continue[r]
+having sex with Senpai...[pcms]
 *3419|
 [fc]
 [vo_ru s="rui0256"]
 [【累】]
-「さて、一段落はしたが、まだまだ渋江君のチンポは物足りなさそうだし[r]
-　……お掃除フェラというやつをしてあげようか？」[pcms][endhact]
+"Well, we've taken a break, but it seems your penis still isn't[r]
+satisfied... Shall I give you a 'cleanup blowjob'?"[pcms]
 *3420|
 [fc]
 [【央】]
@@ -451,8 +472,8 @@
 「後輩を満足させるのも先輩の務めだからね」[pcms][endhact]
 *3422|
 [fc]
-そう言うと先輩は体勢を変えてくれた。[r]
-俺のペニスは待ちきれずにぶるぶる震えていた。[pcms]
+With that said, Senpai changed her position. My penis trembled[r]
+eagerly, unable to wait.[pcms]
 [if exp="tf.scene_mode == 1 && tf.all_play == 0"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]

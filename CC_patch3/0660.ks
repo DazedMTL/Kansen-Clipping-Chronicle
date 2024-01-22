@@ -16,38 +16,41 @@
 「……よしっ、着いたぞ！　次は清原君だ、急いで！」[pcms][endhact]
 *8526|
 [fc]
-バスの屋根の上に降りた累先輩が下から声をかけてくる。[pcms]
+Senpai Rui, who had descended onto the roof of the bus, calls out from[r]
+below.[pcms]
 [backlay][bg storage="bg16f"]
 [rir_lo_03_f05 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"]
 [trans time=300 method=crossfade][wt2]
 *8527|
 [fc]
-その声に応じて、梨里がカーテン三枚を結んで作ったロープを掴み、[r]
-降りていく。[pcms]
+In response to his voice, Riri grabs the rope made from tying three[r]
+curtains together and starts to descend.[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8528|
 [fc]
-梨里の体が食堂の陰に隠れると、カーテンを巻きつけた体に重みがかかる。[r]
-なんとか踏ん張って耐えないと、梨里は真っ逆さまだ。[pcms]
+As Riri's body hides in the shadow of the dining hall, the weight on[r]
+her curtain-wrapped body increases. She has to brace herself or she'll[r]
+fall headfirst.[pcms]
 *8529|
 [fc]
-普段の梨里だったら、このくらいの高さは問題ないんだろうけど、[r]
-足の怪我のせいでそういうわけにもいかない。[pcms]
+Normally, this height wouldn't be a problem for Riri, but with her leg[r]
+injury, it's not so simple.[pcms]
 *8530|
 [fc]
-下で累先輩がサポートしてくれているから心配はないだろうけど……。[pcms]
+Senpai Rui is supporting her from below, so there shouldn't be[r]
+anything to worry about...[pcms]
 [se buf=0 storage="seB010"]
 *8531|
 [fc]
-食堂の中に居る感染者たちが、[r]
-降りていく梨里や累先輩を見つけて騒ぎ出している。[pcms]
+The infected inside the dining hall have noticed Riri and Senpai Rui[r]
+descending and are starting to make a commotion.[pcms]
 *8532|
 [fc]
-煙が目隠しになっていてくれたけど、[r]
-完全に姿を隠すというわけにはいかない。[pcms]
+The smoke has been a screen for us, but it's not enough to completely[r]
+hide our figures.[pcms]
 *8533|
 [fc]
-急がないと……！[pcms]
+We have to hurry...![pcms]
 [backlay][bg storage="BG02c"]
 [rir_lo_03_f05 layer=4 x="&sf.ri_lo_x[4]" y="&sf.ri_lo_y[0]"]
 [rui_lo_02_f04 layer=5 x="&sf.ru_lo_x[5]" y="&sf.ru_lo_y[0]"]
@@ -60,19 +63,20 @@
 [backlay][chara_int][bg storage="bg16f"][trans time=300 method=crossfade][wt2]
 *8535|
 [fc]
-カーテンから感じられた重量が消えたと同時に、累先輩の声。[r]
-急いで体に巻きつけたカーテンのロープを外すと、下に投げ落とした。[pcms]
+Just as the weight I felt on the curtain vanishes, I hear Senpai Rui's[r]
+voice. I quickly unwrap the curtain rope tied around me and throw it[r]
+down.[pcms]
 *8536|
 [fc]
-受け取った累先輩と梨里が回収してくれているはずで、[r]
-俺も食堂の屋根の縁に立つ。[pcms]
+Senpai Rui and Riri should be collecting it below, and I too stand on[r]
+the edge of the dining hall roof.[pcms]
 *8537|
 [fc]
-うっ……こ、こうやって見ると、意外と高いな……。[pcms]
+Ugh...from up here, it's surprisingly high...[pcms]
 *8538|
 [fc]
-下から聞こえてくる、今にも突き破りそうな感染者たちの窓を叩く音も、[r]
-恐怖と焦りを煽ってくる。[pcms]
+The sound of the infected pounding on the windows below, as if they[r]
+could break through at any moment, stokes my fear and urgency.[pcms]
 [backlay][bg storage="BG02c"]
 [rir_lo_03_f08 layer=4 x="&sf.ri_lo_x[4]" y="&sf.ri_lo_y[0]"]
 [rui_lo_02_f04 layer=5 x="&sf.ru_lo_x[5]" y="&sf.ru_lo_y[0]"]
@@ -84,8 +88,8 @@
 「央、早く！」[pcms][endhact]
 *8540|
 [fc]
-梨里の、悲鳴一歩手前のような呼びかけに、[r]
-恐怖に囚われそうになっていた心が解き放たれた。[pcms]
+Riri's call, almost like a scream, frees my heart that was about to be[r]
+imprisoned by fear.[pcms]
 [backlay][chara_int][bg storage="bg16f"][trans time=300 method=crossfade][wt2]
 *8541|
 [fc]
@@ -93,25 +97,26 @@
 「よ、よしっ、いくぞ！」[pcms][endhact]
 *8542|
 [fc]
-下にいる二人に、というよりも、自分に言い聞かせ、[r]
-縁に手をかけて空中に身を乗り出した。[pcms]
+Telling myself more than the two below, I grip the edge and lean out[r]
+into the air.[pcms]
 *8543|
 [fc]
-最後の一人なんだから、飛び降りる以外に方法はない。[pcms]
+Being the last one, there's no other way but to jump down.[pcms]
 *8544|
 [fc]
-ふと、累先輩に飛び込みを教えてもらった時のことが頭を過る。[pcms]
+Suddenly, I remember the time Senpai Rui taught me how to dive.[pcms]
 *8545|
 [fc]
-あの時は、突き落とされて、その後で累先輩が着いてきてくれた。[pcms]
+Back then, I was pushed off, and afterwards Senpai Rui followed after[r]
+me.[pcms]
 *8546|
 [fc]
-今度は、累先輩が下で待っていてくれる。[r]
-そう考えたら、怖いものなんてなんにもない。[pcms]
+This time, Senpai Rui is waiting for me below. With that thought,[r]
+there's nothing to be afraid of.[pcms]
 *8547|
 [fc]
-窓を叩く感染者たちに焦らされることもなく、体勢を整えると、[r]
-手を離してバスの屋根に飛び降りた。[pcms]
+Without being rushed by the infected pounding on the windows, I steady[r]
+myself and let go, jumping down onto the roof of the bus.[pcms]
 *8548|
 [fc]
 [【央】]
@@ -133,24 +138,24 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8551|
 [fc]
-思った以上に足場が悪く、着地と同時に転んでしまい、[r]
-バスから落ちそうになった。[pcms]
+The footing was worse than I expected, and as soon as I landed, I[r]
+stumbled and nearly fell off the bus.[pcms]
 *8552|
 [fc]
-すんでのところで累先輩と梨里が捕まえてくれたが、[r]
-上半身が完全にはみ出てしまった。[pcms]
+Senpai Rui and Riri catch me just in time, but my upper body is[r]
+completely hanging over the edge.[pcms]
 [backlay][evcg storage="EV50_02" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *8553|
 [fc]
-そこに伸びてくる、感染者たちの手。[pcms]
+There, reaching out to me, are the hands of the infected.[pcms]
 *8554|
 [fc]
 [【央】]
 「うわっ！　く、クソッ……よっ！」[pcms][endhact]
 *8555|
 [fc]
-上体起こしの要領で上半身を上げ、感染者たちの手から逃れて、[r]
-何とかバスの上に無事到着することが出来た。[pcms]
+With a sit-up motion, I raise my upper body and escape from the hands[r]
+of the infected, managing to safely arrive on top of the bus.[pcms]
 [backlay][bg storage="BG02c"]
 [rui_lo_02_f01 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"]
 [trans time=300 method=crossfade][wt2]
@@ -162,26 +167,28 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8557|
 [fc]
-車の橋の先に目をやる。[pcms]
+I look ahead at the bridge made of cars.[pcms]
 *8558|
 [fc]
-煙が上がり、炎の熱気が顔を炙ってくる。[pcms]
+Smoke rises and the heat of the flames scorches my face.[pcms]
 *8559|
 [fc]
-その中で視線の先の横転したバスが地獄の門のように横たわっている。[pcms]
+In the midst of it all, a bus lying on its side ahead looks like the[r]
+gates of hell.[pcms]
 *8560|
 [fc]
-あれを越えれば、きっと助かる――[pcms]
+If we can get past that, we'll surely be saved--[pcms]
 *8561|
 [fc]
-そんな希望に縋り、二人の顔を横目で見る。[pcms]
+Clinging to that hope, I glance sideways at the faces of the two[r]
+others.[pcms]
 *8562|
 [fc]
-炎で照らされた累先輩と梨里は、ビックリするほどキレイだった。[pcms]
+Lit by the flames, Senpai Rui and Riri look surprisingly beautiful.[pcms]
 *8563|
 [fc]
-キレイで、艶めかしささえ漂っていて……。[r]
-これがキャンプファイヤーだったら良かったのにな。[pcms]
+They're beautiful and even seem alluring... If only this were a[r]
+campfire instead.[pcms]
 [backlay][rui_lo_02_f05 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8564|
 [fc]
@@ -190,15 +197,15 @@
 「行こう、最後の難関も三人で越えるんだ！」[pcms][endhact]
 *8565|
 [fc]
-濡れたタオルを巻いた足で車の橋を踏みしめ、[r]
-累先輩が力強く宣言した。[pcms]
+With a wet towel wrapped around her foot, Senpai Rui steps firmly onto[r]
+the car bridge and declares with conviction.[pcms]
 *8566|
 [fc]
-橋の周りには、俺たちを見つけたらしい感染者たちが集まってきている。[pcms]
+Around the bridge, infected who seem to have spotted us are gathering.[pcms]
 *8567|
 [fc]
-炎には近付いてこないけれど、[r]
-それ以外の場所からは這い上がろうとしてきている。[pcms]
+They don't come close to the flames, but they're trying to crawl up[r]
+from everywhere else.[pcms]
 [backlay][rir_lo_03_f05 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8568|
 [fc]
@@ -213,42 +220,43 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8570|
 [fc]
-累先輩を先頭に、梨里が続き、俺が[ruby text="しんがり"]殿。[pcms]
+With Senpai Rui leading, followed by Riri, I bring up the rear as[r]
+(ruby text="しんがり")the last guard.[pcms]
 *8571|
 [fc]
-バットを握り締め、凹凸の激しい車の橋の上を渡って行く。[pcms]
+Gripping my bat tightly, we cross over the uneven car bridge.[pcms]
 *8572|
 [fc]
-感染者たちもボンネットの上に登り、俺たちを追いかけようと[r]
-しているものの、凹凸の激しい場所ではやっぱり上手く歩けないようだ。[pcms]
+The infected also climb onto the hoods of cars trying to chase after[r]
+us, but they can't walk well on such an uneven surface.[pcms]
 *8573|
 [fc]
-転倒してそのまま車の橋から落ちていくのもいる。[pcms]
+Some fall off the car bridge as they tumble down.[pcms]
 *8574|
 [fc]
-だが、中には知恵の働くヤツもいるみたいで、[r]
-這い上ってきた体勢そのままに、這って俺たちを追いかけてきている。[pcms]
+However, it seems there are some smart ones among them; maintaining[r]
+their crawling posture, they continue to pursue us.[pcms]
 *8575|
 [fc]
-思ったよりも早く、数も多い。[pcms]
+They're faster than I thought, and there are more of them.[pcms]
 *8576|
 [fc]
 [【央】]
 「くそっ……！」[pcms][endhact]
 *8577|
 [fc]
-悪態をつきながら、車の橋を見渡す。[pcms]
+Cursing under my breath, I survey the car bridge.[pcms]
 *8578|
 [fc]
-炎に照らし出されたこの車たちは、もう走ることはないだろう。[r]
-いわば、車の屍だ。[pcms]
+The cars illuminated by the flames will probably never run again. They[r]
+are, in a sense, the corpses of cars.[pcms]
 *8579|
 [fc]
-俺たちはその鋼の屍を踏み越えて、[r]
-生への道をひた走っている。[pcms]
+We are running for our lives, stepping over these steel corpses.[pcms]
 *8580|
 [fc]
-生きるための犠牲がひとつ増えた……何としても生き残るんだ！[pcms]
+The sacrifices we make to live just increased by one... I must survive[r]
+at all costs![pcms]
 [stopbgm]
 [backlay][rir_lo_03_f08 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8581|
@@ -263,20 +271,20 @@
 「梨里！」[pcms][endhact]
 *8583|
 [fc]
-足を滑らせ転びかけた梨里の手を掴み、支える。[pcms]
+I grab Riri's hand as she slips and nearly falls, supporting her.[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 [bgm storage="bgm13" time=100]
 *8584|
 [fc]
-その拍子で足下に視線を落とすと、[r]
-血に染まった車の中で中年男がフロントガラスを殴りつけていた。[pcms]
+As I do so, I glance down and see a middle-aged man pounding on the[r]
+windshield from inside a blood-stained car.[pcms]
 *8585|
 [fc]
-血まみれなのは、同乗者――奥さんと子供……か？[r]
-家族の結末が、こんなのって……。[pcms]
+The bloodied ones are his passengershis wife and child...? To think[r]
+this is how their family ends...[pcms]
 *8586|
 [fc]
-梨里を支えて先に行かせると――[pcms]
+After making sure Riri is steady and can move ahead[pcms]
 [backlay][rui_up_02_f04 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *8587|
 [fc]
@@ -290,43 +298,46 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8589|
 [fc]
-車の窓から伸びてきた手が、累先輩の足を掴んだ。[r]
-その手を目がけて、バットを振るう。[pcms]
+A hand stretching out from a car window grabs Senpai Rui's leg. I[r]
+swing my bat at that hand.[pcms]
 [se buf=0 storage="seB008"]
 [白フラ]
 *8590|
 [fc]
-手はあっさりと折れ、累先輩の足から外れた。[r]
-そのままもう一度、手を殴りつけた。[pcms]
+The hand breaks off easily, releasing Senpai Rui's leg. I strike it[r]
+again for good measure.[pcms]
 *8591|
 [fc]
-関節がふたつ増えたような手は車の中へと戻って行ったが、[r]
-車の橋に群がる感染者の数はさらに増えてきている。[pcms]
+Though the hand with its newly formed joints retreats back into the[r]
+car, the number of infected gathering on the car bridge is increasing.[pcms]
 [sysbt_meswin clear]
 [backlay][evcg storage="EV51_02" layer=0 page=back visible=true left=0 top=0][trans time=500 method=crossfade][wt2]
 [wait2 time=500]
 [sysbt_meswin]
 *8592|
 [fc]
-這い寄ってこない者も、周囲に集まってうごめいている。[pcms]
+Those who aren't crawling towards us are writhing around, gathering in[r]
+the vicinity.[pcms]
 *8593|
 [fc]
-まるでセンターにいた全員が感染者になってしまい、最後の生き残りである[r]
-俺たちを狩り出そうとしているしているかのようだ。[pcms]
+It's as if everyone who was at the center has turned into infected,[r]
+all trying to hunt us downthe last survivors.[pcms]
 *8594|
 [fc]
-さっき、累先輩と梨里が炎に照らされた時はキレイだって思った。[pcms]
+I thought Senpai Rui and Riri looked beautiful illuminated by the[r]
+flames earlier.[pcms]
 *8595|
 [fc]
-けど、この光景は地獄としか言いようがない。[pcms]
+But this scene is nothing short of hellish.[pcms]
 *8596|
 [fc]
-煙で呼吸が苦しく、熱で炙られ体力がどんどん消耗していく。[r]
-そんな中、闇の奥で炎に照らされてうごめく地獄の亡者たち。[pcms]
+My breathing is labored from the smoke, my strength sapped by the[r]
+heat, and amidst it all, the damned souls of hell writhing in the[r]
+darkness, illuminated by flames.[pcms]
 *8597|
 [fc]
-蜘蛛の糸は、自分たちで手繰り寄せなければいけない。[r]
-残念だが、ここにはお釈迦様はいないみたいだから。[pcms]
+We must pull ourselves up by our own spider's thread. Unfortunately,[r]
+it seems there's no Buddha here to help us.[pcms]
 [backlay][bg storage="BG02c"]
 [tak_lo_03_k01 layer=3 x="&sf.ta_lo_x[3]" y="&sf.ta_lo_y[0]"]
 [trans time=500 method=crossfade][wt2]
@@ -334,26 +345,27 @@
 [fc]
 [vo_mo s="takahasi0056"]
 [【高橋】]
-「あしなさん、きよはらさん、しぶえくん！　みつけたわよぉ！[r]
-　さあ、いっしょになりましょうよぉ！　しあわせなのよ、すごぉく！」[pcms][endhact]
+"Ashina-san, Kiyohara-san, Shibue-kun! I've found you! Come, let's be[r]
+together! It's blissful, so very blissful!"[pcms]
 *8599|
 [fc]
 [【央】]
 「高橋ちゃんっ……！？」[pcms][endhact]
 *8600|
 [fc]
-聞き覚えのある声が、俺たちを呼んできた。[pcms]
+A familiar voice calls out to us.[pcms]
 *8601|
 [fc]
-そちらを向くと――見覚えのある顔が、歪んだ笑みを浮かべて大挙して[r]
-押し寄せてきていた。[pcms]
+Turning towards itI see familiar faces with twisted smiles bearing[r]
+down on us en masse.[pcms]
 *8602|
 [fc]
-高橋先生、勇二、小野寺先生、佐竹先輩、加藤先輩、そして西野君も。[pcms]
+Teacher Takahashi, Yuuji, Teacher Onodera, Senpai Satake, Senpai Kato,[r]
+and even Nishino-kun.[pcms]
 *8603|
 [fc]
-全員、感染者になってしまっていて、爛々と赤く輝く瞳で俺たちを[r]
-獲物として見据えている。[pcms]
+All of them have become infected, their eyes glowing red as they[r]
+fixate on us as prey.[pcms]
 *8604|
 [fc]
 [【央】]
@@ -367,24 +379,23 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8606|
 [fc]
-もう横転したバスは目の前だ。[pcms]
+The overturned bus is right in front of us now.[pcms]
 *8607|
 [fc]
-これを上って、越えてしまえば、[r]
-この感染者たちは追ってくることは出来ないはずだ。[pcms]
+If we climb over it, these infected shouldn't be able to follow us.[pcms]
 *8608|
 [fc]
-腹を見せている大型バスのシャフトに手をかけ、[r]
-登って行く累先輩。[pcms]
+Senpai Rui places her hands on the exposed shaft of the overturned bus[r]
+and begins to climb.[pcms]
 *8609|
 [fc]
-そんな先輩に背を向け、俺はバットを構えた。[pcms]
+With my back to Senpai Rui, I ready my bat.[pcms]
 *8610|
 [fc]
-這いあがってきた感染者たちがもうすぐそこまで迫っていたからだ。[pcms]
+Because the infected crawling up towards us are almost upon us.[pcms]
 *8611|
 [fc]
-時間を稼がないと――[pcms]
+We need to buy time[pcms]
 [backlay][rui_lo_02_f04 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8612|
 [fc]
@@ -393,21 +404,22 @@
 「よし、掴まれ！」[pcms][endhact]
 *8613|
 [fc]
-バスを登りきった累先輩が、手を差し出してくる。[pcms]
+Having climbed atop the bus, Senpai Rui reaches out her hand to me.[pcms]
 *8614|
 [fc]
-俺の隣で串を持って迎撃態勢を取っていた梨里に視線を向け――[pcms]
+I look over at Riri who stands beside me with a skewer, ready to[r]
+intercept[pcms]
 [backlay][rir_lo_03_f04 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *sel|梨里に任せる／自分が残る
 [fc]
 [vo_ri s="riri0821"]
 [【梨里】]
-「央、行って！　あたしじゃ時間かかるから、先に行って先輩と一緒に[r]
+"Go ahead, Tsugumi! It'll take me longer, so you go first and join[r]
+Senpai."[pcms]
 　引っ張り上げて！！」[pcms_sel][endhact]
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	
-	[hisout txt="選択肢“梨里に任せる”"][r]
-	[hisout txt="選択肢“自分が残る”"][r]
+<></>[pcms]
 [endif]
 [hr]
 [履歴出力復帰]
@@ -427,7 +439,7 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8617|
 [fc]
-梨里にバットを手渡し、累先輩の手を取る。[pcms]
+I hand over my bat to Riri and take Senpai Rui's hand.[pcms]
 [backlay][rui_lo_02_f05 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8618|
 [fc]
@@ -440,15 +452,16 @@
 「はいっ！」[pcms][endhact]
 *8620|
 [fc]
-累先輩が引っ張り上げるのに合わせて、[r]
-シャフトや部品に手足をかけて登って行く。[pcms]
+As Senpai Rui pulls me up, I climb by grabbing onto shafts and parts[r]
+of the bus.[pcms]
 *8621|
 [fc]
-その間、梨里は襲ってくる感染者たちをバットで迎撃していた。[pcms]
+In the meantime, Riri is batting away the attacking infected.[pcms]
 *8622|
 [fc]
-思ったよりもいいスイングで、高橋先生と勇二の頭を殴り飛ばしている。[r]
-顕悟にでも習ったんだろうか、俺より鋭い振りじゃないか。[pcms]
+She swings better than I expected, knocking off the heads of Teacher[r]
+Takahashi and Yuuji. Maybe she learned from Ken'go; her swing seems[r]
+sharper than mine.[pcms]
 *8623|
 [fc]
 [【央】]
@@ -461,12 +474,13 @@
 「ああ！　清原君、キミもくるんだ！」[pcms][endhact]
 *8625|
 [fc]
-累先輩と同じように手を伸ばし、梨里を引き上げようと――[pcms]
+Just like Senpai Rui did for me, I reach out my hand to pull up Riri[pcms]
 [se buf=0 storage="seB081"]
 [backlay][evcg storage="EV50_03" layer=0 page=back visible=true left=0 top=0][trans method=universal rule="DtoT" vague=300 time=300][wt2]
 *8626|
 [fc]
-した瞬間、バスの中から無数の手が伸びてきて、俺と累先輩を捕らえた。[pcms]
+The moment I do that, countless hands stretch out from inside the bus[r]
+and seize me and Senpai Rui.[pcms]
 [backlay][bg storage="BG02c"]
 [rui_lo_02_f04 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"]
 [trans time=300 method=crossfade][wt2]
@@ -477,14 +491,15 @@
 「なっ……！？」[pcms][endhact]
 *8628|
 [fc]
-引きずり込まれる！！[pcms]
+We're being dragged in!![pcms]
 *8629|
 [fc]
-なんで？　なんでこんな場所で！？[r]
-だってもうすぐなんだぞ！？　もうすぐ助かるのに！！[pcms]
+Why? Why here of all places!? We're so close! We're about to be[r]
+saved!![pcms]
 *8630|
 [fc]
-混乱しきった俺を掴む手は多すぎて、抵抗する隙さえ与えてくれるない。[pcms]
+The hands grabbing me in my confusion are too many; they don't even[r]
+give me a chance to resist.[pcms]
 [backlay][rir_up_03_f17 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *8631|
 [fc]
@@ -493,12 +508,12 @@
 「いやぁぁぁっ！！　央っ、央ぁぁぁっ！！！」[pcms][endhact]
 *8632|
 [fc]
-梨里の伸ばした手が空を切る。[pcms]
+Riri's outstretched hand cuts through the air.[pcms]
 [backlay][evcg storage="EV50_01" layer=0 page=back visible=true left=0 top=0][trans time=500 method=crossfade][wt2]
 *8633|
 [fc]
-俺の手はバスの中に引きずり込まれ、最期に見た梨里は、[r]
-追いついた感染者たちに群がられていた。[pcms]
+As my hand is dragged into the bus, the last thing I see is Riri being[r]
+swarmed by the infected that caught up to her.[pcms]
 *8634|
 [fc]
 [vo_ru s="rui0767"]
@@ -506,34 +521,33 @@
 「いぎっ、ぐっ……うがっ、ぎゃああああああああっっ！！！」[pcms][endhact]
 *8635|
 [fc]
-累先輩の悲鳴が聞こえる。[r]
-耳を覆いたくなるほどの断末魔は、すぐに聞こえなくなった。[pcms]
+I can hear Senpai Rui's screams. The death throes are so intense I[r]
+want to cover my ears, but soon they fade away.[pcms]
 [stopse_all]
 *8636|
 [fc]
-俺の耳がダメになったのか、累先輩が絶命してしまったのか。[pcms]
+Either my ears have gone bad, or Senpai Rui has breathed her last.[pcms]
 *8637|
 [fc]
 [【央】]
 「ぎっ……！？」[pcms][endhact]
 *8638|
 [fc]
-目も見えない。[r]
-眼球が抉り取られたからだ。[pcms]
+I can't see anything. It's because my eyeballs have been gouged out.[pcms]
 [sysbt_meswin clear]
 [se buf=0 storage="seB037"]
 [evcg赤フラ storage="EV50_01" layer=0 page=back visible=true left=0 top=0]
 [sysbt_meswin]
 *8639|
 [fc]
-指が噛み砕かれ、全身に鋭い痛みが走る。[pcms]
+My fingers are bitten off, and sharp pains run through my entire body.[pcms]
 [se buf=0 storage="seB029"]
 *8640|
 [fc]
-喉を襲った鋭い痛みは、きっと食い千切られたものだろう。[pcms]
+The sharp pain in my throat must be from it being bitten off.[pcms]
 *8641|
 [fc]
-お陰で俺は、断末魔さえも上げられず――[pcms]
+Thanks to that, I can't even let out my death throes--[pcms]
 [sysbt_meswin clear]
 [backlay][red_toplayer][trans method=universal rule="blood1" vague=50 time=1500][wt2][hide_chara_int]
 [fadeoutbgm time=2000]
@@ -561,8 +575,7 @@
 *8642|
 [fc]
 [【央】]
-「先に行け！　オマエを最後になんてしたら、[r]
-　顕悟にぶん殴られちまうだろ！」[pcms][endhact]
+"Go on ahead! If you make me the last one, Kengo will punch me out!"[pcms]
 [backlay][rir_up_03_f01 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *8643|
 [fc]
@@ -572,23 +585,25 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8644|
 [fc]
-累先輩の手を取り、梨里がバスを登り始める。[pcms]
+As Riri begins to climb the bus, taking Senpai Rui's hand.[pcms]
 [backlay][tak_lo_03_k01 layer=3 x="&sf.ta_lo_x[3]" y="&sf.ta_lo_y[0]"][trans time=150 method=crossfade][wt]
 [se buf=0 storage="seB039"]
 *8645|
 [fc]
-それを横目で見ながら、俺はバットをフルスイングした。[pcms]
+While watching them from the corner of my eye, I swing my bat with[r]
+full force.[pcms]
 [se buf=0 storage="seB008"]
 [白フラ]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8646|
 [fc]
-その一発は、迫ってきていた高橋先生のこめかみを叩き、[r]
-頭蓋骨が砕ける感触とともに、車の橋の上から高橋先生を退場させた。[pcms]
+That one hit strikes Teacher Takahashi's temple, shattering his skull[r]
+and sending him off the bridge of the bus.[pcms]
 [backlay][yuj_lo_04_k01 layer=3 x="&sf.yu_lo_x[3]" y="&sf.yu_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8647|
 [fc]
-地面に重い物が落ちる音と同時に、今度は勇二が迫ってきた。[pcms]
+As I hear the sound of something heavy hitting the ground, Yuuji comes[r]
+at me next.[pcms]
 [se buf=0 storage="seB039"]
 *8648|
 [fc]
@@ -598,31 +613,30 @@
 [白フラ]
 *8649|
 [fc]
-大振りのその一発は、それでも動きの鈍い勇二に当たり、[r]
-顎を吹き飛ばす。[pcms]
+The big swing hits the slow-moving Yuuji, blowing his jaw away.[pcms]
 [se buf=0 storage="seB008"]
 [白フラ]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8650|
 [fc]
-けど、その一撃は致命傷にならなかったみたいで、[r]
-もう一発、今度は側頭部を殴り飛ばして車の下に落とした。[pcms]
+But that blow wasn't fatal, so I hit him again, this time smashing his[r]
+temple and dropping him under the bus.[pcms]
 *8651|
 [fc]
-次から次へと向かってくる、見知った顔。[pcms]
+One after another, familiar faces come at me.[pcms]
 *8652|
 [fc]
-須田を殺して、子野日さんを殺して、そして高橋先生に勇二。[pcms]
+Killing Suda, killing Konohi-san, and then Teacher Takahashi and[r]
+Yuuji.[pcms]
 *8653|
 [fc]
-友達や知り合いを殺したいなんてことがあるか！[r]
-こんなのもうイヤだ！[pcms]
+Who would want to kill friends and acquaintances? I'm sick of this![pcms]
 *8654|
 [fc]
-でも……コイツらの仲間入りをするのは――死ぬのはもっとイヤだ！[pcms]
+But... joining themdyingis even more unbearable![pcms]
 *8655|
 [fc]
-友達を、知り合いを殺してでも……俺は生き残る！[pcms]
+I will survive, even if it means killing friends and acquaintances...[pcms]
 [backlay][rir_lo_03_f04 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8656|
 [fc]
@@ -631,20 +645,22 @@
 「央！　こっちに早く！」[pcms][endhact]
 *8657|
 [fc]
-梨里の声が、感染者たちのうめきと叫びを切り裂いて耳に届いた。[r]
-ちらりと振り返ると、梨里と累先輩が俺に向かって手を伸ばしていた。[pcms]
+Riri's voice cuts through the moans and screams of the infected and[r]
+reaches my ears. Glancing back, I see Riri and Senpai Rui reaching out[r]
+their hands to me.[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8658|
 [fc]
-それを確認し、目の前に来ていた小野寺先生の顔面にバットを叩き込んだ。[pcms]
+Confirming that, I slam my bat into the face of Teacher Onodera who[r]
+had come before me.[pcms]
 [se buf=0 storage="seB040"]
 [wait2 time=500]
 [se buf=0 storage="seB008"]
 [白フラ]
 *8659|
 [fc]
-が、当たりが浅かったのか、少しふらついただけで、[r]
-鈍い動きのまま迫ってくる。[pcms]
+But maybe because the hit was shallow, he only staggered a bit and[r]
+kept coming at me with dull movements.[pcms]
 *8660|
 [fc]
 [【央】]
@@ -655,12 +671,12 @@
 [白フラ]
 *8661|
 [fc]
-今度こそ！　と気合を込めてバットを叩き付け――[r]
-小野寺先生の頭蓋骨と一緒に、バットも砕けてしまった。[pcms]
+This time for sure! With all my might, I strike with the bat-- and[r]
+along with Teacher Onodera's skull, the bat also shatters.[pcms]
 *8662|
 [fc]
-グリップ部分からちょっと先だけ残ったバット。[r]
-武器を失った俺に、佐竹先輩が突撃してくる。[pcms]
+Only a little beyond the grip remains of the bat. Without a weapon,[r]
+Senior Satake charges at me.[pcms]
 *8663|
 [fc]
 [【央】]
@@ -668,14 +684,14 @@
 [se buf=0 storage="seB040"]
 *8664|
 [fc]
-グリップをしっかりと握り、とっさに佐竹先輩目がけて、[r]
-割れたバットを突き出した。[pcms]
+Gripping what's left of the bat firmly, I thrust it instinctively[r]
+towards Senior Satake's face.[pcms]
 [se buf=0 storage="seB008"]
 [白フラ]
 *8665|
 [fc]
-先の尖ったバットの残骸は、佐竹先輩の顎下に突き刺さった。[r]
-だが……浅い！[pcms]
+The sharp end of the broken bat pierces under Senior Satake's chin.[r]
+But... it's shallow![pcms]
 *8666|
 [fc]
 [【央】]
@@ -683,45 +699,46 @@
 [se buf=0 storage="seB008"]
 *8667|
 [fc]
-突き立てたバットの残骸を押し込むように、[r]
-グリップエンドを思いっきり叩いた。[pcms]
+I push on the remaining piece of bat as if driving it in further,[r]
+striking hard at the grip end.[pcms]
 *8668|
 [fc]
-尖った先端が貫通し、延髄を砕いて顔を出した。[pcms]
+The sharp tip penetrates through, shattering the medulla oblongata and[r]
+emerging from his face.[pcms]
 *8669|
 [fc]
-後頭部の辺りから噴水のように血を噴き出す佐竹先輩を横目で見ながら、[r]
-俺は累先輩と梨里の手を取った。[pcms]
+As blood spurts out like a fountain from around Senior Satake's head,[r]
+I take Senpai Rui and Riri's hands.[pcms]
 *8670|
 [fc]
-シャフト部分に足をかけ、引っ張られるのと同時にジャンプする勢いで[r]
-バスの上に飛び乗った。[pcms]
+I step on the shaft part and jump onto the top of the bus with the[r]
+momentum of being pulled up.[pcms]
 *8671|
 [fc]
-肩越しにバスの下を見ると、感染者たちが大量に集まってきていた。[pcms]
+Looking over my shoulder down at the bus, I see a large number of[r]
+infected gathering.[pcms]
 *8672|
 [fc]
-だが、バスをよじ登ることは出来ないようで、[r]
-ただ溜まってバスを引っ掻いているだけだ。[pcms]
+But they seem unable to climb up the bus; they just accumulate and[r]
+scratch at it.[pcms]
 *8673|
 [fc]
-そして――[pcms]
+And then--[pcms]
 [backlay][bg storage="BG01f"][trans time=500 method=crossfade][wt2]
 *8674|
 [fc]
-目の前に広がる光景――[pcms]
+The scene that unfolds before me--[pcms]
 *8675|
 [fc]
 [【央】]
 「とうとう……」[pcms][endhact]
 *8676|
 [fc]
-来た。[r]
-あの地獄から脱出したんだ……！[pcms]
+We've made it. We've escaped that hell...![pcms]
 *8677|
 [fc]
-道の向こう側には、センター側と比べたらいないも同然程度の数しか、[r]
-感染者の姿は見えない。[pcms]
+On the other side of the road, compared to the center side, there are[r]
+hardly any infected in sight.[pcms]
 [backlay][rui_lo_02_f05 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8678|
 [fc]
@@ -730,7 +747,7 @@
 「感慨にふけるのはまだ早いぞ！」[pcms][endhact]
 *8679|
 [fc]
-累先輩がバスを飛び降り、周回道路側に立った。[pcms]
+Senpai Rui jumps off the bus and stands on the side of the loop road.[pcms]
 [backlay][rir_lo_03_f04 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8680|
 [fc]
@@ -739,28 +756,29 @@
 「先に行って！」[pcms][endhact]
 *8681|
 [fc]
-確かに、俺が先に行って、累先輩と一緒に梨里が降りるのを[r]
-フォローしないとな。[pcms]
+Sure enough, I should go first and then follow up to help Riri get[r]
+down with Senpai Rui.[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8682|
 [fc]
-周回道路側はバスの天井が向いているから、[r]
-手がかりになるようなものはほとんどない。[pcms]
+The loop road side faces the roof of the bus, so there's hardly[r]
+anything to grab onto as a handhold.[pcms]
 *8683|
 [fc]
-降りようとしたら飛び降りる以外にないんだ。[r]
-足を怪我した梨里には、補助が二人はいないとキツイだろう。[pcms]
+If we try to get down, there's no other way but to jump. It's going to[r]
+be tough for Riri with her injured leg without the help of two people.[pcms]
 *8684|
 [fc]
 [【央】]
 「じゃあ先に行って待ってるからな。しっかり受け止めてやる！」[pcms][endhact]
 *8685|
 [fc]
-親指を立てたポーズを取ったまま俺も累先輩に続いてバスを飛び降りる。[pcms]
+While maintaining a thumbs-up pose, I follow Senpai Rui and jump off[r]
+the bus.[pcms]
 *8686|
 [fc]
-さっきと違い、今度は着地を華麗に決め、[r]
-梨里を手伝おうと手を伸ばしながら振り向いた――[pcms]
+Unlike before, this time I land gracefully and turn around to help[r]
+Riri, reaching out my hand--[pcms]
 [se buf=0 storage="seB081"]
 *8687|
 [fc]
@@ -769,19 +787,20 @@
 [backlay][evcg storage="EV50_03" layer=0 page=back visible=true left=0 top=0][trans method=universal rule="DtoT" vague=300 time=300][wt2]
 *8688|
 [fc]
-梨里の足下の窓ガラスが割れ、[r]
-中から手が飛び出してきた。[pcms]
+The window glass beneath Riri's feet breaks, and hands burst out from[r]
+inside.[pcms]
 *8689|
 [fc]
-手は梨里の足を掴み、バランスを崩した梨里はそのまま倒れてしまった。[pcms]
+The hands grab Riri's leg, and as she loses her balance, she falls[r]
+over.[pcms]
 *8690|
 [fc]
 [【央】]
 「梨――！」[pcms][endhact]
 *8691|
 [fc]
-伸ばした俺の手に、梨里も必死になって手を伸ばしてくる。[r]
-指先が触れ――[pcms]
+Riri desperately reaches out to my extended hand. Our fingertips[r]
+touch--[pcms]
 [backlay][bg storage="BG01f"]
 [rir_up_03_f17 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"]
 [trans time=300 method=crossfade][wt2]
@@ -792,11 +811,13 @@
 「あきらぁぁぁああぁぁぁぁっっ！！！」[pcms][endhact]
 *8693|
 [fc]
-一瞬で、梨里の下半身がバスの中に引きずり込まれた。[r]
-指先が触れたはずの手は遥か遠くへと行ってしまい、俺の手は空を切った。[pcms]
+In an instant, Riri's lower body is dragged into the bus. The hand[r]
+that should have touched mine is now far away, and my hand cuts[r]
+through the air.[pcms]
 *8694|
 [fc]
-さらにバスの中から手が飛び出し、梨里の体に絡み、肩や顔を掴んだ。[pcms]
+More hands emerge from inside the bus, entangling Riri's body and[r]
+grabbing her shoulders and face.[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8695|
 [fc]
@@ -804,46 +825,45 @@
 「お、おいっ……梨里！？」[pcms][endhact]
 *8696|
 [fc]
-弾かれるようにバスに取り付くも、[r]
-その瞬間に梨里の体はバスの中に完全に引っ張り込まれてしまった。[pcms]
+As if repelled, I cling to the bus, but in that moment, Riri's body is[r]
+completely pulled inside.[pcms]
 *8697|
 [fc]
-悪夢……としか言いようのない状況を破ったのは――[pcms]
+The situation that broke the nightmare was--[pcms]
 *8698|
 [fc]
 [vo_ri s="riri0827"]
 [【梨里】]
-「やだっ！　助けて央ぁっ！！　死にたくないっ！　いやぁあああぁぁっっ！！[r]
-　央っ、顕悟ぉっ！！！　たすけてっ！！　たすけてぇっっ！！！」[pcms][endhact]
+"No! Help me, please! I don't want to die! Noooooo!! Kazumi, help me!![r]
+Help meeee!!!"[pcms]
 *8699|
 [fc]
-バスの中から響いてくる、梨里の悲鳴。[pcms]
+Riri's screams echo from inside the bus.[pcms]
 *8700|
 [fc]
 [【央】]
 「梨里！　梨里ぃぃっ！！！　今行くっ！！　絶対に助けるから！！！」[pcms][endhact]
 *8701|
 [fc]
-バスをよじ登り、梨里のところへと行こうとするも、屋根側の手がかりも足がかりも[r]
-無いような面では登ることが出来ない。[pcms]
+Trying to climb the bus to reach Riri is futile; there's nothing on[r]
+the roof side to grab or step on.[pcms]
 *8702|
 [fc]
 [vo_ri s="riri0828"]
 [【梨里】]
-「顕悟っ！！　あきらぁぁぁっ！！　助けっ……いぎっ、ひぐぅぅぅっ！！！[r]
-　助けてぇっ……ぎっ、ひがっ、あっ……ぎぃぃいぃいぃぃぃっっ！！！」[pcms][endhact]
+"Kazumi!! Akiraaaaa!! Help...ugh, higuuuu!! Help me...ugh, higah,[r]
+ah...gyiiiiii!!!"[pcms]
 *8703|
 [fc]
 [【央】]
-「おおおおおおおおっっ！！！　梨里っ、梨里ぃっ！！[r]
-　クソッ！　返せっ！　梨里を返せよぉっ！！」[pcms][endhact]
+"Ooooooh!!! Riri, Ririii!! Damn it! Give her back! Give me back[r]
+Riri!!"[pcms]
 *8704|
 [fc]
-断末魔の叫びが響き、俺の心臓を貫く。[pcms]
+The death throes echo, piercing through my heart.[pcms]
 *8705|
 [fc]
-梨里を取り戻さないと！[r]
-梨里を……俺の梨里を！！[pcms]
+I have to get Riri back! My Riri...[pcms]
 [backlay][rui_lo_02_f04 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8706|
 [fc]
@@ -853,22 +873,23 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8707|
 [fc]
-梨里の悲鳴に惹き寄せられたのか、[r]
-感染者たちが腐肉にたかる蛆のように寄ってきた。[pcms]
+Perhaps drawn by Riri's screams, the infected gather like maggots on[r]
+rotting flesh.[pcms]
 *8708|
 [fc]
-でも、それが――[pcms]
+But that--[pcms]
 *8709|
 [fc]
 [【央】]
 「それがどうしたぁっ！　梨里を取り戻すんだ！　絶対に、梨里をっ！！」[pcms][endhact]
 *8710|
 [fc]
-バスの屋根に爪を立て、必死に登ろうとする。[r]
-軋むような音が響き、指先に痛みが走るが、そんなことはどうでもいい。[pcms]
+I dig my nails into the roof of the bus, desperately trying to climb.[r]
+The creaking sound echoes, and pain shoots through my fingertips, but[r]
+none of that matters.[pcms]
 *8711|
 [fc]
-今すぐにここを登って、梨里を――[pcms]
+I need to climb up here now and save Riri--[pcms]
 [backlay][rui_lo_02_f04 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8712|
 [fc]
@@ -877,10 +898,10 @@
 「渋江君！」[pcms][endhact]
 *8713|
 [fc]
-腕を掴まれ、振りほどこうとした時だった。[pcms]
+It was when I tried to shake off the arm that grabbed me.[pcms]
 *8714|
 [fc]
-頬に痛みが走ったのは。[pcms]
+That's when I felt a pain on my cheek.[pcms]
 [backlay][rui_lo_02_f04 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8715|
 [fc]
@@ -893,7 +914,7 @@
 「先……輩……」[pcms][endhact]
 *8717|
 [fc]
-もう、梨里の悲鳴は、聞こえなかった。[pcms]
+By then, I could no longer hear Riri's screams.[pcms]
 *8718|
 [fc]
 [vo_ru s="rui0772"]
@@ -901,13 +922,13 @@
 「行くぞ、渋江君」[pcms][endhact]
 *8719|
 [fc]
-手を、引かれた。[pcms]
+My hand was pulled.[pcms]
 *8720|
 [fc]
-されるがままに、俺は歩く。[pcms]
+Without resisting, I walk on.[pcms]
 *8721|
 [fc]
-視界の中で、バスが遠ざかって行くのを、ただ茫然と見つめながら。[pcms]
+Staring blankly as the bus grows distant in my field of view.[pcms]
 [stopse_all]
 [sysbt_meswin clear]
 [backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]

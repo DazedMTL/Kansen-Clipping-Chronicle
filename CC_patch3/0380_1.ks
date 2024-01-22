@@ -15,81 +15,85 @@
 「ふう……」[pcms][endhact]
 *3032|
 [fc]
-夕べから今日にかけては、いろんな事件が多すぎた。[r]
-布団に横たわった俺は、何もせず心と身体を休ませていた。[pcms]
+Since last night and into today, there have been too many incidents.[r]
+Lying in my futon, I did nothing but rest my mind and body.[pcms]
 *3033|
 [fc]
-できれば、このまま眠ってしまいたい。[r]
-何もかも忘れて心地良いまどろみに浸っていたかった。[pcms]
+I wish I could just fall asleep like this. I wanted to forget[r]
+everything and immerse myself in a comfortable drowsiness.[pcms]
 *3034|
 [fc]
 [【央】]
 「眠れないな……」[pcms][endhact]
 *3035|
 [fc]
-夕べの梨里とのセックスもあるが、朝の事件も安眠を妨害している。[r]
-累先輩を襲い、しかもその直後に死んでしまったと聞けば当然のことだ。[pcms]
+There was the sex with Riri last night, but the incident this morning[r]
+also disturbed my sleep. It's only natural, hearing that someone[r]
+attacked Rui-senpai and then died right after.[pcms]
 *3036|
 [fc]
-練習を早々に切り上げたのは確かだけど、それなりには泳いでいた。[r]
-ほどほどの疲労はあるはずなのに、それが眠気に結び付いてはくれない。[pcms]
+I did cut practice short, but I still swam a fair amount. I should be[r]
+feeling a moderate amount of fatigue, but it doesn't seem to translate[r]
+into sleepiness.[pcms]
 *3037|
 [fc]
 [【央】]
 「こんな時は外に散歩でも……」[pcms][endhact]
 *3038|
 [fc]
-立ち上がろうとしたが、すぐに朝のあの光景が浮かんで身体が止まった。[r]
-夜になってから屋外で個人行動を取るのは危険な気がする。[pcms]
+I tried to get up, but the scene from this morning flashed in my mind[r]
+and my body froze. It feels dangerous to go outside alone at night[r]
+after what happened.[pcms]
 *3038a|
 [fc]
-いくらなんでも、また朝みたいな暴漢どもが襲ってくるとは思えないけど、[r]
-夜の暗がりが不気味に思えてしまう。[pcms]
+I can't imagine those thugs from this morning would attack again, but[r]
+the darkness of the night seems ominous.[pcms]
 *3039|
 [fc]
 [【央】]
-「眠れないし、悩み事はあるし、なのに解決方法はさっぱり浮かばない。[r]
-　八方塞がりってやつか……」[pcms][endhact]
+"I can't sleep, I have worries, and yet no solutions come to mind.[r]
+It's like I'm at an impasse..."[pcms]
 *3040|
 [fc]
-そんな風に自嘲めいた独白をしても、気が紛れるわけでもなかった。[r]
-孤独を忘れ、漠然とした恐怖をごまかしているだけだった。[pcms]
+Even a self-deprecating monologue like that didn't distract me. It[r]
+only served to forget the loneliness and mask the vague fear.[pcms]
 *3041|
 [fc]
 [【央】]
-「それにしても須田のやつら、[r]
-　一体いつになったらこの部屋に戻ってくるんだ？」[pcms][endhact]
+"Even so, when are Suda and the others going to come back to this[r]
+room?"[pcms]
 *3042|
 [fc]
-同室になった他の男子たちが戻ってくる気配はまるでない。[pcms]
+There's no sign of the other guys who share the room coming back.[pcms]
 *3043|
 [fc]
-具合が悪いから寝てると言って夕食にも出て来なかったくせに、[r]
-俺がプールでの練習から戻ると誰もいなかった。[pcms]
+They said they were feeling sick and didn't come out for dinner, but[r]
+when I returned from pool practice, no one was here.[pcms]
 *3044|
 [fc]
 [【央】]
 「まさか……旧館……のぞきスポットにでも行ってんのかな？」[pcms][endhact]
 *3045|
 [fc]
-これだけ長時間、不在というのなら、他には適当な理由が思い当たらない。[r]
-それならそれでいいけど、あんな事件があったってのに精神的にタフだな。[pcms]
+If they're absent for this long, I can't think of any good reason. But[r]
+considering the incident that happened, they seem mentally tough.[pcms]
 [se buf=0 storage="seA035"]
 *3046|
 [fc]
-そんな事を考えていると不意にドアがノックされた。[pcms]
+As I was thinking about this, there was an unexpected knock on the[r]
+door.[pcms]
 *3047|
 [fc]
-いちいちノックをしてくるって事は須田たちじゃないな。[r]
-じゃあ、いったい誰だろう。[pcms]
+If someone is knocking, it's not Suda and the others. Then who could[r]
+it be?[pcms]
 *3048|
 [fc]
 [【央】]
 「どーぞ、鍵は開けてあるから」[pcms][endhact]
 *3049|
 [fc]
-もしかしたら梨里かもしれない、と思った。[r]
-夕べの一件で俺と話をするつもりでいるなら好都合だ。[pcms]
+I thought it might be Riri. If she intends to talk to me about last[r]
+night's incident, that would be convenient.[pcms]
 [backlay][rui_lo_03_f24 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *3050|
 [fc]
@@ -98,8 +102,8 @@
 「やあ、こんばんは渋江君」[pcms][endhact]
 *3051|
 [fc]
-だが、部屋に入ってきたのは梨里ではなく、累先輩だった。[r]
-ジャージ姿のままで無遠慮に俺に近付いてくる。[pcms]
+But it wasn't Riri who came into the room; it was Rui-senpai. She[r]
+approached me without reservation, still in her jersey.[pcms]
 *3052|
 [fc]
 [【央】]
@@ -112,16 +116,16 @@
 「この部屋の他の人たちは？」[pcms][endhact]
 *3054|
 [fc]
-こちらからの質問には答えず、先輩は質問で返してきた。[pcms]
+She didn't answer my questions but responded with her own.[pcms]
 *3055|
 [fc]
-なんだか気になるけど、立場的にはこちらが後輩だし。[r]
-ここは折れておくか。[pcms]
+It's somewhat concerning, but since I'm the junior here, I guess I[r]
+should give in.[pcms]
 *3056|
 [fc]
 [【央】]
-「須田たちは、遊びにでも行ってるみたいで。[r]
-　俺だけ留守番ですよ」[pcms][endhact]
+"Suda and the others seem to have gone out to play. I'm the only one[r]
+on house-sitting duty."[pcms]
 [backlay][rui_lo_03_f26 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *3057|
 [fc]
@@ -134,8 +138,8 @@
 「は、はあ？」[pcms][endhact]
 *3059|
 [fc]
-つまり累先輩は俺にだけ何か用があるってことか。[r]
-やっぱり朝のあの騒ぎに関連しての注意とか、そういうことだろうな。[pcms]
+So Rui-senpai has some business just with me. It's probably related to[r]
+the commotion this morning, some kind of warning or something.[pcms]
 [backlay][rui_lo_03_f24 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *3060|
 [fc]
@@ -144,13 +148,13 @@
 「座ってもいいかな？」[pcms][endhact]
 *3061|
 [fc]
-座るも何も、この部屋は俺や須田たち野郎どもが寝るためだけの部屋で[r]
-応接セットどころかパイプ倚子さえ置いてない。[pcms]
+There's nowhere to sit; this room is just for Suda and us guys to[r]
+sleep in. There isn't even a reception set or a simple chair.[pcms]
 *3062|
 [fc]
 [【央】]
-「この布団でよければ……まあ座布団代わりってことで。[r]
-　布団の仲間だし問題無いですよね」[pcms][endhact]
+"If you don't mind this futon... well, consider it a makeshift[r]
+cushion. It's part of the bedding, so no problem, right?"[pcms]
 [backlay][rui_lo_03_f02 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *3063|
 [fc]
@@ -163,8 +167,8 @@
 「褒められた、と言うことにしておきます」[pcms][endhact]
 *3065|
 [fc]
-個性的とか、そういうレベルでの好意的評価なんだろうから、[r]
-その感想はありがたく受け取っておこう。[pcms]
+It must be some kind of positive assessment at an individual level, so[r]
+I'll gratefully accept that opinion.[pcms]
 [backlay][rui_up_03_f24 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *3066|
 [fc]
@@ -177,32 +181,33 @@
 「具合、どうなんですか――」[pcms][endhact]
 *3068|
 [fc]
-なんとも間が悪いことに俺の発言と累先輩の発言がお互いに食い合って、[r]
-微妙な気まずさを作ってしまった。[pcms]
+Unfortunately, my words and Rui-senpai's overlapped with each other,[r]
+creating an awkward silence.[pcms]
 *3069|
 [fc]
-一見すると健康そのものだと安心していた俺だったが、近くに来たことで、[r]
-累先輩が熱でもあるみたいに顔がほんのりと赤くなっていると気付いた。[pcms]
+I had been reassured by her seemingly healthy appearance at first[r]
+glance, but as she came closer, I noticed her face was slightly[r]
+flushed as if she had a fever.[pcms]
 *3070|
 [fc]
-どうも熱っぽいようだし、どことなく目も潤んでいるように見える。[r]
-単純に考えれば風邪か何かだ。[pcms]
+She seems feverish and her eyes appear somewhat moist. Simply put, it[r]
+might be a cold.[pcms]
 *3071|
 [fc]
-暴漢のひとりに噛み付かれたショックで精神的にダメージを受けてしまい、[r]
-それが原因で風邪を引いてしまった。[pcms]
+The shock of being bitten by one of the thugs has caused her mental[r]
+damage, which in turn led to her catching a cold.[pcms]
 *3072|
 [fc]
-メンタルの影響でフィジカルが引きずられるというのはスポーツをやってる[r]
-からこそ理解できる。[pcms]
+Being involved in sports myself, I understand how mental stress can[r]
+drag down physical health.[pcms]
 *3073|
 [fc]
-ほんのささいな傷付く一言だけで、金メダルを狙える選手がダメダメになる[r]
-例は、スポーツ雑誌やドキュメンタリーでいくつも見てきた。[pcms]
+A single hurtful remark can ruin an athlete aiming for a gold medal;[r]
+I've seen plenty of such cases in sports magazines and documentaries.[pcms]
 *3074|
 [fc]
-病は気からという昔からある言葉は決してでたらめではない。[r]
-水泳をやるようになってから、改めて気付いたことのひとつだ。[pcms]
+The old saying "illness begins with the mind" is not nonsense. It's[r]
+something I've come to realize since starting swimming.[pcms]
 [backlay][rui_up_03_f23 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *3075|
 [fc]
@@ -215,8 +220,7 @@
 「あの……噛み付かれたとこ、跡とか残ってないですよね？」[pcms][endhact]
 *3077|
 [fc]
-しまった！[r]
-女子である累先輩にはデリケートすぎる内容だったか？[pcms]
+Damn! Was that too delicate a subject for Rui-senpai, who is a girl?[pcms]
 [backlay][rui_up_03_f02 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *3078|
 [fc]
@@ -229,16 +233,16 @@
 「良かった」[pcms][endhact]
 *3080|
 [fc]
-傷の痕跡は残ってない。[r]
-たぶん軽い風邪か何かで微熱がある程度。累先輩の体調はそんなところか。[pcms]
+There are no traces of wounds. Maybe it's just a light cold with a[r]
+slight fever. That seems to be Rui-senpai's condition.[pcms]
 *3081|
 [fc]
 [【央】]
 「なんか、ほっとしましたよ。さっきからそれが気がかりで眠れなくて」[pcms][endhact]
 *3082|
 [fc]
-俺はウソをついていた。[r]
-本当はそれとは別に梨里明とのことでも悩んでいた。[pcms]
+I was lying. The truth is that I was also troubled by my affair with[r]
+Riri Akira.[pcms]
 [backlay][rui_up_03_f23 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *3083|
 [fc]
@@ -247,16 +251,17 @@
 「もうひとつの気がかりなことは？」[pcms][endhact]
 *3084|
 [fc]
-サトリの妖怪か何かのように累先輩は俺の心を見透かしてそう言った。[r]
-累先輩を相手にすると表情が素になってしまう。今後は気を付けよう。[pcms]
+Rui-senpai read my mind like a satori yokai and said that. When[r]
+dealing with Rui-senpai, my expressions tend to become genuine. I'll[r]
+have to be more careful in the future.[pcms]
 *3085|
 [fc]
 [【央】]
 「男子特有のプライベートな事情なんで、ノーコメントでお願いします」[pcms][endhact]
 *3086|
 [fc]
-累先輩ほど聡明な人なら、察してくれるはず！[r]
-察してくれッ！[pcms]
+If someone as perceptive as Rui-senpai is around, she should figure it[r]
+out! Please figure it out![pcms]
 [backlay][rui_up_03_f26 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *3087|
 [fc]
@@ -270,16 +275,16 @@
 [backlay][rui_up_03_f24 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *3089|
 [fc]
-累先輩は無防備なまでに俺に近付いていた。[r]
-ジャージの胸元からおっぱいの谷間が見えている。[pcms]
+Rui-senpai approached me with her guard completely down. The cleavage[r]
+of her breasts was visible from the opening of her jersey.[pcms]
 *3090|
 [fc]
-もしかして累先輩、汗かいてんのか？[r]
-透明な液体の粒が胸元に落ち込んでいく。[pcms]
+Could it be that Rui-senpai is sweating? Drops of clear liquid are[r]
+falling onto her chest area.[pcms]
 *3091|
 [fc]
-微熱を帯びているその上気した肌の色と乱れがちな呼吸音が、[r]
-俺を下品な妄想に駆り立ててしまう。[pcms]
+The slightly feverish hue of her skin and her erratic breathing are[r]
+driving me into indecent fantasies.[pcms]
 [backlay][rui_up_03_f23 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *3092|
 [fc]
@@ -288,20 +293,22 @@
 「お願いというか……僕から渋江くんに折り入って相談がある」[pcms][endhact]
 *3093|
 [fc]
-たとえばその折り入ってのお願いというのが、政略結婚する前に、[r]
-自分の意思でそれなりに好意を抱く男に抱かれたい、とか。[pcms]
+For example, her earnest request might be that before entering into an[r]
+arranged marriage, she wants to be embraced by a man she has some[r]
+affection for on her own terms.[pcms]
 *3094|
 [fc]
-つまりそれは累先輩が俺を憎からず想ってくれているというわけで、[r]
-そんな都合のいいセックスがお膳立てされることをどこかで期待した。[pcms]
+In other words, it means Rui-senpai has some fondness for me, and[r]
+somewhere inside I hoped for such convenient sex to be arranged for[r]
+me.[pcms]
 *3095|
 [fc]
 [【央】]
 「やっぱり朝のあの騒ぎとか、勝手に突然死した連中のことですよね？」[pcms][endhact]
 *3096|
 [fc]
-下手をすると自分の下品な欲望がバレしてしまいそうな気がして、俺は[r]
-そっちの方向に話題を誘導した。[pcms]
+I felt like if I wasn't careful, my vulgar desires would be exposed,[r]
+so I steered the conversation in a different direction.[pcms]
 [backlay][rui_up_03_f26 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *3097|
 [fc]
@@ -310,16 +317,15 @@
 「とても大切な相談だよ。渋江君の力を借りたいんだ……ぜひ」[pcms][endhact]
 *3098|
 [fc]
-荷物運びとか掃除とか、きっと、そういうことに違いない。[r]
-うぬぼれて変な期待するな俺！[pcms]
+It must be something like carrying luggage or cleaning. Don't get[r]
+ahead of yourself and expect something weird, me![pcms]
 *3099|
 [fc]
 [【央】]
 「い、いいスっよ。なんなりとご注文してください累先輩」[pcms][endhact]
 *3100|
 [fc]
-笑った。[r]
-冗談めかして笑ったつもりだった。[pcms]
+I laughed. I meant it to be a joke, but I laughed.[pcms]
 [backlay][rui_up_03_f24 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *3101|
 [fc]
@@ -332,8 +338,8 @@
 「……？」[pcms][endhact]
 *3103|
 [fc]
-累先輩の言葉の意味を理解できないまま、事態は急展開する。[r]
-それは――[pcms]
+Without understanding the meaning behind Rui-senpai's words, the[r]
+situation took a sudden turn. That was--[pcms]
 [sysbt_meswin clear]
 [fadeoutbgm time=500]
 [backlay][black_toplayer][trans time=500 method=crossfade][wt2][hide_chara_int]
@@ -349,17 +355,17 @@
 「渋江君……僕の熱が伝わっているのが……わかる？」[pcms][endhact]
 *3105|
 [fc]
-突然、累先輩は俺に抱き付いてきていた。[r]
-やわらかい感触と、何かいい匂いが鼻孔をくすぐってくる。[pcms]
+Suddenly, Rui-senpai hugged me. The soft sensation and a pleasant[r]
+scent tickled my nostrils.[pcms]
 *3106|
 [fc]
 [【央】]
-「は、はい……わかります……累先輩の身体……熱くなってて……[r]
-　あ、あの……すごくやわらかくって……いい匂いがしてて……」[pcms][endhact]
+"Ye-yes... I understand... Rui-senpai's body... it's getting hot...[r]
+Ah, um... it's really soft... and smells good..."[pcms]
 *3107|
 [fc]
-俺はもう能動的な言動を一切できなくなっていた。[r]
-ただひたすら累先輩の感触と匂いに酔っていた。[pcms]
+I was no longer capable of any proactive actions. I was simply[r]
+intoxicated by the feel and scent of Rui-senpai.[pcms]
 *3108|
 [fc]
 [vo_ru s="rui0149"]
@@ -367,20 +373,21 @@
 「本題というのは、これだよ」[pcms][endhact]
 *3109|
 [fc]
-そう言って累先輩はもっと密着してくる。[r]
-胸の谷間が目の前に近付いてくる。[pcms]
+Rui-senpai said that as she came closer. Her cleavage drew nearer to[r]
+my eyes.[pcms]
 *3110|
 [fc]
 [【央】]
 「そ、それ、どういう意味――」[pcms][endhact]
 *3111|
 [fc]
-鼻血でも出てしまいそうに興奮し、とっくに俺の股間は大変だった。[r]
-勃起してしまったペニスを累先輩の身体に押し当てないように必死だった。[pcms]
+I was so excited I felt like I might get a nosebleed, and my groin[r]
+area was already in serious trouble. I was desperately trying not to[r]
+press my erect penis against Rui-senpai's body.[pcms]
 *3112|
 [fc]
-はっきり言ってズボンの上からでも見ればわかるレベルになっている。[r]
-もし累先輩の視線が俺の下半身に向いたら即バレだ。[pcms]
+To be frank, it was visible even through my pants. If Rui-senpai's[r]
+gaze were to drift to my lower half, she'd notice immediately.[pcms]
 *3113|
 [fc]
 [vo_ru s="rui0150"]
@@ -388,8 +395,9 @@
 「身体が……子宮の奥が疼いて……男が欲しくてたまらないんだ」[pcms][endhact]
 *3114|
 [fc]
-エロ小説とかエロマンガでしか聞かない言葉が累先輩の口から出た。[r]
-これって夢だよな、と自問自答するが現実だった。[pcms]
+Words I'd only heard in erotic novels or manga came out of Rui-[r]
+senpai's mouth. I asked myself if this was a dream, but it was[r]
+reality.[pcms]
 *3115|
 [fc]
 [vo_ru s="rui0151"]
@@ -397,12 +405,12 @@
 「だから僕とセックスしてもらおうと思ってね」[pcms][endhact]
 *3116|
 [fc]
-累先輩は俺の耳元で、そうささやいた。[r]
-それだけでペニスがより充血して硬くなったのを実感する。[pcms]
+Rui-senpai whispered that into my ear. Just that alone made me feel my[r]
+penis swell and harden even more.[pcms]
 *3117|
 [fc]
-まるで俺自身の妄想が具現化したような非現実的な言葉だった。[r]
-いくらなんでも、これは冗談……だよな？[pcms]
+It was like my own delusions had materialized into reality. This has[r]
+to be a joke... right?[pcms]
 *3118|
 [fc]
 [【央】]
@@ -418,8 +426,8 @@
 「くあッ？」[pcms][endhact]
 *3121|
 [fc]
-累先輩の手が伸びたその先はテントを張ってる俺の下腹部。[r]
-犬や猫でもなでるみたいに先輩がそこで指を動かす。[pcms]
+Rui-senpai's hand reached for the tent in my lower abdomen. She moved[r]
+her fingers there as if she were petting a dog or cat.[pcms]
 *3122|
 [fc]
 [vo_ru s="rui0153"]
@@ -427,17 +435,19 @@
 「ぜひキミの素直な気持ちを聞かせて欲しいものだね」[pcms][endhact]
 *3123|
 [fc]
-そりゃあもちろん累先輩とセックスしたい。[r]
-幸か不幸か夕べもう初体験は済ませてるから上手くやれるはず。[pcms]
+Of course, I wanted to have sex with Rui-senpai. Fortunately or[r]
+unfortunately, since I had already lost my virginity last night, I[r]
+should be able to handle it well.[pcms]
 *3124|
 [fc]
 [【央】]
-「ほ、本題に入りましょうよ？　こんなエロ系の悪ざけなんて、[r]
-　累先輩らしくないです」[pcms][endhact]
+"Let's, let's get to the main topic, shall we? This kind of erotic[r]
+teasing isn't like you, Rui-senpai."[pcms]
 *3125|
 [fc]
-本音を言えばこのまま、なし崩し的に累先輩と肉体関係を持ちたい。[r]
-女から誘われて断るなんて男らしくないし。[pcms]
+If I'm being honest, I want to have a physical relationship with Rui-[r]
+senpai without making a fuss about it. It wouldn't be manly to refuse[r]
+when a woman is inviting me.[pcms]
 *3126|
 [fc]
 [vo_ru s="rui0154"]
@@ -445,8 +455,7 @@
 「僕らしくない？　そんなことはないよ。今のこれが僕らしい言動さ」[pcms][endhact]
 *3127|
 [fc]
-どういう意味だよ？[r]
-これが……今が累先輩らしいって？[pcms]
+What do you mean by that? This is... typical of Rui-senpai?[pcms]
 *3128|
 [fc]
 [vo_ru s="rui0155"]
@@ -458,12 +467,13 @@
 「そ、それは……」[pcms][endhact]
 *3130|
 [fc]
-古武術の心得がある累先輩を相手に戦えってのは無理だ。[r]
-でも素人の俺だって逃げ出すことならできる。[pcms]
+It's impossible to fight against Rui-senpai who knows ancient martial[r]
+arts. But even an amateur like me could run away.[pcms]
 *3131|
 [fc]
-そうしないのは、できないのは、この甘美な誘惑に屈しかけているからだ。[r]
-累先輩の言葉が、表情が、その熱と感触が魔法じみた金縛りをかけている。[pcms]
+I didn't run away because I was succumbing to this sweet temptation.[r]
+Rui-senpai's words, her expressions, the heat and sensation they[r]
+conveyed were like a magical paralysis spell.[pcms]
 *3132|
 [fc]
 [vo_ru s="rui0156"]
@@ -471,16 +481,17 @@
 「ふふっ……抵抗は無意味だよ？」[pcms][endhact]
 *3133|
 [fc]
-吐息が吹きかけられた。[r]
-累先輩の指先が俺のズボンの上からペニスをなで回していた。[pcms]
+A breath was blown on me. Rui-senpai's fingertips were stroking my[r]
+penis over my pants.[pcms]
 *3134|
 [fc]
 [【央】]
 「くッ……累先輩ッ……俺ッ……俺もうッ！」[pcms][endhact]
 *3135|
 [fc]
-理性を振り捨てて野獣のように欲望だけを満たしたかった。[r]
-累先輩の身体を、夕べ梨里にそうしたように貪りたかった。[pcms]
+I wanted to cast aside reason and satisfy my desires like a wild[r]
+beast. I wanted to devour Rui-senpai's body as I did with Riri last[r]
+night.[pcms]
 *3136|
 [fc]
 [vo_ru s="rui0157"]
@@ -488,8 +499,8 @@
 「こらえ性が無いね、渋江君は♪」[pcms][endhact]
 *3137|
 [fc]
-累先輩がこちらの反応を楽しんでいるのは明らかだった。[r]
-男としてはぶざまで情けないが、それで余計に興奮していた。[pcms]
+It was clear that Rui-senpai was enjoying my reaction. It was[r]
+embarrassing and pathetic as a man, but that only excited me more.[pcms]
 *3138|
 [fc]
 [vo_ru s="rui0158"]
@@ -505,8 +516,9 @@
 [backlay][rui_lo_01_f23 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *3139|
 [fc]
-そう言うと先輩はスルスルっとジャージを脱ぎ捨ててしまう。[r]
-全裸だった――と一瞬誤解したが部活の競泳用水着だった。[pcms]
+With that said, senpai smoothly took off her jersey. For a moment I[r]
+misunderstood and thought she was completely naked--but she was[r]
+wearing her club's competitive swimsuit.[pcms]
 *3140|
 [fc]
 [【央】]
@@ -529,8 +541,8 @@
 「こういった特別な装いでのセックスは興奮する。違うかな？」[pcms][endhact]
 *3144|
 [fc]
-これまでの部活の練習で、[r]
-水着姿の累先輩をエロい目で見た回数は数知れない。[pcms]
+I've lost count of how many times I've looked at Rui-senpai in her[r]
+swimsuit with lecherous eyes during club practice.[pcms]
 *3145|
 [fc]
 [vo_ru s="rui0161"]
@@ -538,8 +550,8 @@
 「男子からの期待には、応えてあげるのが女子の作法というものだよ」[pcms][endhact]
 *3146|
 [fc]
-まるで、これまでの俺のエロ視線とそこに秘められた欲望を見透かして[r]
-いるかのように累先輩が笑った。[pcms]
+As if seeing right through all the lewd stares and hidden desires I've[r]
+had up until now, Rui-senpai laughed.[pcms]
 *3147|
 [fc]
 [【央】]
@@ -551,20 +563,22 @@
 「僕にはそう思えたんだよ。現にココは悦んでくれているし」[pcms][endhact]
 *3149|
 [fc]
-ズボンと下着ごしだったが累先輩の指先がペニスの亀頭部分をかすめる。[r]
-そのもどかしい刺激に目がくらんでしまう。[pcms]
+Though it was through pants and underwear, Rui-senpai's fingertips[r]
+grazed the tip of my penis. The frustrating stimulation made my vision[r]
+blur.[pcms]
 *3150|
 [fc]
-このままだと、やばいことになる。[r]
-累先輩も俺も取り返しが付かないことになる。そう思った。[pcms]
+If things continue this way, it'll lead to trouble. Both Rui-senpai[r]
+and I might end up doing something irreversible. That's what I[r]
+thought.[pcms]
 *3151|
 [fc]
 [【央】]
 「累先輩っ……もうやめましょうよ、こんな事……」[pcms][endhact]
 *3152|
 [fc]
-泣き言だった。[r]
-自分の欲望を必死にごまかして常識人を装う体裁でしかなかった。[pcms]
+It was a whine. It was nothing more than desperately trying to[r]
+disguise my desires while pretending to be a person of common sense.[pcms]
 [backlay][rui_lo_01_f18 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *3153|
 [fc]
@@ -574,8 +588,9 @@
 *3154|
 [fc]
 [【央】]
-「その逆です！　尊敬してるし、ずっと憧れてて……俺にとっては[r]
-　部活に打ち込む今の自分の原点っていうか恩人っていうか……」[pcms][endhact]
+"It's the opposite! I respect you, and I've always admired you... For[r]
+me, you're like the origin of my current self who is devoted to club[r]
+activities... like a benefactor..."[pcms]
 *3155|
 [fc]
 [vo_ru s="rui0164"]
@@ -587,8 +602,7 @@
 「累先輩は俺にとって大切な存在なんですッ！」[pcms][endhact]
 *3157|
 [fc]
-言った。[r]
-とうとう言ってしまった。[pcms]
+I said it. I finally said it.[pcms]
 [backlay][rui_lo_01_f02 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *3158|
 [fc]
@@ -597,8 +611,9 @@
 「そうか……やはりそうだったんだね♪」[pcms][endhact]
 *3159|
 [fc]
-うぬぼれるつもりは無かったが累先輩はうれしそうに目を細めてくれた。[r]
-その反応がますます俺のペニスを充血させ、硬くさせてしまう。[pcms]
+I didn't intend to be conceited, but Rui-senpai narrowed her eyes[r]
+happily at what I said. That reaction made my penis swell and harden[r]
+even more.[pcms]
 [backlay][rui_up_01_f23 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *3160|
 [fc]
@@ -611,8 +626,9 @@
 「……は、はいッ！　欲しいですッ！」[pcms][endhact]
 *3162|
 [fc]
-わずかな間を置いてから、そう答えてしまう自分がいた。[r]
-心も身体も累先輩に翻弄されていて、他には何も考えられなかった。[pcms]
+After a brief pause, there I was, giving such an answer. My heart and[r]
+body were completely at the mercy of Rui-senpai, and I couldn't think[r]
+of anything else.[pcms]
 *3163|
 [fc]
 [vo_ru s="rui0167"]
@@ -620,8 +636,8 @@
 「いいよ、じゃあ一緒に愉しもうか？」[pcms][endhact]
 *3164|
 [fc]
-累先輩は舌なめずりをすると、こちらを見つめてそう言った。[r]
-俺はもう、それに対して、うなずくだけだった。[pcms]
+Rui-senpai licked her lips and looked at me as she said that. All I[r]
+could do was nod in response.[pcms]
 [if exp="tf.scene_mode == 1 && tf.all_play == 0"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]

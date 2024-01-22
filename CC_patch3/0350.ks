@@ -10,18 +10,18 @@
 *2684|
 [fc]
 [【央】]
-「はあっ、はあ～……も、もう大丈夫だろ……」[pcms][endhact]
+「はあっ、はあ……も、もう大丈夫だろ……」[pcms][endhact]
 *2685|
 [fc]
-俺達は全力疾走で旧館まで走り、[r]
-扉の開いていた部屋に飛び込んで鍵を掛けた。[pcms]
+We sprinted at full speed to the old building, dove into a room with[r]
+an open door, and locked it behind us.[pcms]
 *2686|
 [fc]
-やっとの事で安全地帯に飛び込むことが出来て、[r]
-ほんの少しだけど、心に余裕が出来た。[pcms]
+Finally making it to a safe zone, we were able to relax a little bit,[r]
+if only just slightly.[pcms]
 *2687|
 [fc]
-――あまり良くない方向で。[pcms]
+--In not such a good way.[pcms]
 [backlay][rir_up_01_f17 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2688|
 [fc]
@@ -31,15 +31,15 @@
 *2689|
 [fc]
 [【央】]
-「俺に言うなよ！　俺だって意味わかんねえんだよ！[r]
-　なんで皆あんななってんだよ！？　普通じゃねえよ、あんなの……」[pcms][endhact]
+"Don't ask me! I don't get it either! Why has everyone become like[r]
+that!? It's not normal, not at all..."[pcms]
 [backlay][rir_up_01_f15 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2690|
 [fc]
 [vo_ri s="riri0697"]
 [【梨里】]
-「大体、須田っちのアレなによ！　何であんなことしてくるの！？[r]
-　意味わかんない！　須田っち、あんなヤツじゃなかったのに……」[pcms][endhact]
+"And what's with Suda's thing! Why did he do that!? I don't[r]
+understand! Suda wasn't like that before..."[pcms]
 *2691|
 [fc]
 [【央】]
@@ -47,27 +47,27 @@
 *2692|
 [fc]
 [【央】]
-「須田……俺……俺が、あんなこと……うわああああああああああああぁっ！[r]
-　俺、須田の事、殺しちまった！　頭潰して、動かなく……あ、ああぁあ！」[pcms][endhact]
+"Suda... I... I did something terrible... Uwaaaaaaah! I killed Suda! I[r]
+crushed his head, and he stopped moving... Ah, aahhh!"[pcms]
 [backlay][rir_up_01_f10 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2692a|
 [fc]
 [vo_ri s="riri0698"]
 [【梨里】]
-「お、落ち着いて……だって、あれは……須田っちが……。[r]
-　だ、だから、央はきっと、悪く無い……」[pcms][endhact]
+"Calm down... Because, that was... Suda did... So, you're definitely[r]
+not to blame..."[pcms]
 *2693|
 [fc]
 [【央】]
-「悪く無いっていっても！　やっちまったんだよ！！[r]
-　俺が、殺しちまったんだよ……ううぅぅ……須田……」[pcms][endhact]
+"Even if you say I'm not to blame! I still did it!! I killed him...[r]
+Uuuu... Suda..."[pcms]
 [backlay][rir_up_01_f05 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2694|
 [fc]
 [vo_ri s="riri0699"]
 [【梨里】]
-「ねえ、あのさ……アンタが話してたオカルト。[r]
-　アレのせいじゃないかな……って思うんだ」[pcms][endhact]
+"Hey, you know... about that occult stuff you were talking about. I'm[r]
+thinking maybe it's because of that..."[pcms]
 *2695|
 [fc]
 [【央】]
@@ -77,37 +77,39 @@
 [fc]
 [vo_ri s="riri0700"]
 [【梨里】]
-「だって、変じゃない。いっきなり皆が変になっちゃうなんて、考えにくい。[r]
-　それに――」[pcms][endhact]
+"It's strange, isn't it? It's hard to believe that everyone would[r]
+suddenly change like that. And besides--"[pcms]
 *2697|
 [fc]
-梨里は、淡々とした口調で今まで起きた事件の事を話し出す。[pcms]
+Riri began to talk about the incidents that had occurred so far in a[r]
+detached tone.[pcms]
 *2698|
 [fc]
-夏風邪の流行、暴力事件、行方不明に交通事故。[r]
-生物兵器の漏洩……。[pcms]
+The spread of summer colds, violent incidents, missing persons,[r]
+traffic accidents. The leak of a biological weapon...[pcms]
 *2699|
 [fc]
-そこに加えて、突然起きた、皆の変化。[pcms]
+And then, the sudden change in everyone.[pcms]
 *2700|
 [fc]
-今の状況をあの噂になぞらえて考えてみると、[r]
-何となく……辻褄が合う気がする。[pcms]
+If you think about the current situation in light of those rumors,[r]
+somehow... it feels like things are starting to make sense.[pcms]
 *2701|
 [fc]
-状況を整理すると、須田も、大久保コーチも、他の奴らも咳をしていた。[r]
-風邪を引いていたヤツがああなるのか？[pcms]
+When you organize the situation, Suda, Coach Okubo, and the others[r]
+were coughing. Could it be that those who caught a cold ended up like[r]
+that?[pcms]
 *2702|
 [fc]
-でも、累先輩はどうだろう。[r]
-確かに、あの騒ぎの後からは熱を出していたけど。[pcms]
+But what about senior Rui? Certainly, he had a fever after the[r]
+commotion.[pcms]
 *2703|
 [fc]
-いや、待て？　先輩は、腕に怪我をしている。噛まれたんだったかな？[pcms]
+No, wait? Senior has an injury on his arm. Was it a bite?[pcms]
 *2704|
 [fc]
-噛まれてうつる……狂犬病なんかがそうだ。[r]
-じゃあ、先輩はそれであんな風になった？[pcms]
+Bites can transmit diseases... like rabies. So did senior become like[r]
+that because of it?[pcms]
 *2705|
 [fc]
 [【央】]
@@ -117,19 +119,19 @@
 [fc]
 [vo_ri s="riri0701"]
 [【梨里】]
-「え……？　あ、あたし……須田っちに首、舐められたんだけど……！[r]
-　あたしもあんな風になっちゃうの……！？」[pcms][endhact]
+"Eh...? Ah, I... Suda licked my neck...! Am I going to become like[r]
+that too...!?"[pcms]
 *2707|
 [fc]
 [【央】]
-「いや、細菌とかウイルスって身体の中に入らなきゃ大丈夫だと思う。[r]
-　キズから入るとか、口とかから……そうでなければ、多分……」[pcms][endhact]
+"No, I think you're okay as long as bacteria or viruses don't enter[r]
+your body. Through a wound or orally... otherwise, probably..."[pcms]
 [backlay][rir_up_01_f10 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2708|
 [fc]
 [【央】]
-「どっちかというと、ゲホゲホしまくってた須田と同じ部屋で寝てた、[r]
-　俺の方が怪しいぞ……」[pcms][endhact]
+"If anything, I'm more suspicious since I slept in the same room as[r]
+Suda who was coughing non-stop..."[pcms]
 *2709|
 [fc]
 [vo_ri s="riri0702"]
@@ -137,15 +139,15 @@
 「でも、熱も無いし、咳も出てないよ。大丈夫……きっと」[pcms][endhact]
 *2710|
 [fc]
-俺達は、確証の持てない推測を続け、安心しようとしたけど――[r]
-やっぱり、不安をぬぐい去る事は出来なかった。[pcms]
+We continued with our uncertain speculations, trying to reassure[r]
+ourselves-- but we couldn't shake off the anxiety.[pcms]
 *2711|
 [fc]
-妙にソワソワする。でも、何を話してもネガティブな事を[r]
-言ってしまいそうで、口を開きたくない。[pcms]
+I feel oddly restless. But whatever we talk about seems likely to be[r]
+negative, so I don't want to open my mouth.[pcms]
 *2712|
 [fc]
-それは梨里も同じようで、俺達は黙り込んでしまう。[pcms]
+Riri seemed to feel the same way, and we fell silent.[pcms]
 [backlay][rir_up_01_f13 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2713|
 [fc]
@@ -154,23 +156,24 @@
 「……うーん」[pcms][endhact]
 *2714|
 [fc]
-そんな中、梨里はケータイを弄りだした。[r]
-電話やメールの受信がないか確認しているんだろう。[pcms]
+In the midst of this, Riri started fiddling with her cellphone. She's[r]
+probably checking for phone calls or emails.[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *2715|
 [fc]
-俺も同じようにケータイを弄り出す。[pcms]
+I started fiddling with my cellphone as well.[pcms]
 *2716|
 [fc]
-電話は繋がらない。[pcms]
+The phone doesn't connect.[pcms]
 *2717|
 [fc]
-ネットも重く、どのサイトにアクセスしても『タイムアウト』の文字。[pcms]
+The internet is slow, and every site I try to access shows "Timeout".[pcms]
 [fadeoutbgm time=500]
 *2718|
 [fc]
-メールを問い合わせると、前に受信していたメッセージが何件かある。[r]
-両親からや、先に帰った友達、そして顕悟からのものだった。[pcms]
+When I check my email, there are several messages that I had received[r]
+earlier. From my parents, friends who had gone home earlier, and from[r]
+Ken'go.[pcms]
 [bgm storage="bgm08" time=100]
 *2719|
 [fc]
@@ -178,12 +181,12 @@
 「顕悟からメッセージ、来てたんだな」[pcms][endhact]
 *2720|
 [fc]
-見れば、東京駅で足止めされてる、おまえ達は大丈夫か？[r]
-みたいな内容だった。[pcms]
+Looking at them, they say things like being stuck at Tokyo Station and[r]
+asking if we're okay.[pcms]
 *2721|
 [fc]
-なんだか少し嬉しくなって、梨里に声をかける。[r]
-梨里も同時に俺を見て、ほんの少しだけ、嬉しそうに口元を緩めた。[pcms]
+I feel a bit happy and call out to Riri. Riri looks at me at the same[r]
+time and her mouth relaxes into a slight smile.[pcms]
 [backlay][rir_up_01_f02 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2722|
 [fc]
@@ -196,15 +199,15 @@
 「そうだな！」[pcms][endhact]
 *2724|
 [fc]
-慌ててメールを返そうとする。[pcms]
+I hurry to reply to the email.[pcms]
 *2725|
 [fc]
-だけど、すぐ思いとどまる。[pcms]
+But then I hesitate.[pcms]
 *2726|
 [fc]
 [【央】]
-「なあ……梨里、おまえだけ送れよ。俺の事も書いてくれ。[r]
-　ヤローからメール貰ったって、面白くないだろ」[pcms][endhact]
+"Hey... Riri, you send it. Write about me too. It wouldn't be fun[r]
+getting an email from that jerk."[pcms]
 [backlay][rir_up_01_g01 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2727|
 [fc]
@@ -223,41 +226,41 @@
 「……分かったよ」[pcms][endhact]
 *2730|
 [fc]
-梨里は、渋々といった様子でメールを打ち始めたが、[r]
-そのまま、ぽつりぽつりと口を開きだした。[pcms]
+Riri started typing the email reluctantly but then began to speak in[r]
+bits and pieces.[pcms]
 [backlay][rir_lo_01_f10 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *2731|
 [fc]
 [vo_ri s="riri0707"]
 [【梨里】]
-「昨日さぁ……あんな事しちゃったけど……やっぱ……顕悟の事が好き。[r]
-　あ、央の事ももちろん好きだけどね。でもそれは――」[pcms][endhact]
+"You know... after what happened yesterday... I still like Ken'go. Ah,[r]
+and of course I like you too. But that's--"[pcms]
 *2732|
 [fc]
 [【央】]
 「…………」[pcms][endhact]
 *2733|
 [fc]
-梨里は携帯に目を向けたまま、口元を小さく震わせる。[pcms]
+Riri kept her eyes on her cellphone while her lips trembled slightly.[pcms]
 [backlay][rir_lo_01_f13 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *2734|
 [fc]
 [vo_ri s="riri0708"]
 [【梨里】]
-「アンタとは、ずっと……一緒の、幼なじみ。[r]
-　ずっとずっと、友達でいたい。それが……分かったんだ」[pcms][endhact]
+"You've always been... my childhood friend. I want us to always be[r]
+friends forever. That's what I realized."[pcms]
 [backlay][rir_lo_01_f10 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *2735|
 [fc]
 [vo_ri s="riri0709"]
 [【梨里】]
-「そりゃね、あの……すっごいキモチ良かったし、興奮もしたよ。[r]
-　顕悟の彼女だってのに……こんなんじゃ、ダメだよね……」[pcms][endhact]
+"I mean, it felt really good... and it was exciting. Even though I'm[r]
+Ken'go's girlfriend... this isn't right..."[pcms]
 *2736|
 [fc]
 [【央】]
-「ダメって言ったら、俺もそうだよ。気持ち良かったのは俺も同じだし。[r]
-　でもさ……これって顕悟を裏切って、傷つけるような事、だよな」[pcms][endhact]
+"If you say it's wrong, then I'm the same. It felt good for me too.[r]
+But... this is like betraying Ken'go and hurting him, right?"[pcms]
 *2737|
 [fc]
 [【央】]
@@ -267,13 +270,13 @@
 [fc]
 [vo_ri s="riri0710"]
 [【梨里】]
-「あたしも一緒だよ。でもね、それで気が付いた事もある。あたしが[r]
-　好きなのは……本当に一緒に気持ちよくなりたいのは、顕悟だって事」[pcms][endhact]
+"I feel the same way. But you know, I realized something. The one I[r]
+really love... the one I truly want to feel good with is Kengo."[pcms]
 *2739|
 [fc]
 [【央】]
-「そっか……俺は逆だ。累先輩が好きなんだけどさ。[r]
-　あの人は、憧れなんだ……って」[pcms][endhact]
+"I see... For me, it's the opposite. I do like Rui-senpai, but she's[r]
+someone I admire... that's it."[pcms]
 *2740|
 [fc]
 [【梨里】]
@@ -281,52 +284,54 @@
 *2741|
 [fc]
 [【央】]
-「ホントに好きなのは、お前だったって、気が付いたんだ。[r]
-　でもさ、遅かったな」[pcms][endhact]
+"I realized that the one I truly love is you. But... it's too late,[r]
+isn't it?"[pcms]
 [backlay][rir_lo_01_f13 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *2742|
 [fc]
 [vo_ri s="riri0712"]
 [【梨里】]
-「そうだね。でもごめんね、その気持ちには応えられないよ。[r]
-　顕悟がいるんだもん」[pcms][endhact]
+"Yeah. But I'm sorry, I can't return those feelings. Because I have[r]
+Kengo."[pcms]
 *2743|
 [fc]
 [【央】]
 「そりゃ、そうだな」[pcms][endhact]
 *2744|
 [fc]
-梨里の言うことは、もう気が付いていた。[r]
-まあ、当然と言えば当然だし、ここでしつこく食い下がる気も無い。[pcms]
+The things Riri was saying, I had already realized them. Well, it's[r]
+only natural, and I don't feel like being persistent here."[pcms]
 [backlay][rir_lo_01_f10 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *2745|
 [fc]
 [vo_ri s="riri0713"]
 [【梨里】]
-「昨日のこと……あれっきりにしよう。あたしと、アンタだけの秘密。[r]
-　それでね……虫が良いかもしれないけど。また、友達に戻ってくれる？」[pcms][endhact]
+"Let's make yesterday's event... a one-time secret between you and me.[r]
+And... it might be too much to ask, but can we go back to being[r]
+friends?"[pcms]
 *2746|
 [fc]
-少し俯き気味に、語尾は消え入るように、不安そうに――[pcms]
+With a slight bow and her voice fading at the end, she looked[r]
+anxious--[pcms]
 *2747|
 [fc]
-梨里はぽつりと呟いた。[pcms]
+Riri muttered softly.[pcms]
 *2748|
 [fc]
-その表情や声に、梨里は俺と同じように、三人の関係が崩れる事を恐れてる。[r]
-そう、確信した。[pcms]
+From her expression and voice, I was certain that Riri feared the[r]
+relationship between the three of us falling apart just as I did.[pcms]
 *2749|
 [fc]
 [【央】]
 「なあ、梨里」[pcms][endhact]
 *2750|
 [fc]
-俺は梨里に握手を求め、手を差し出す。[pcms]
+I asked Riri for a handshake and reached out my hand.[pcms]
 *2751|
 [fc]
 [【央】]
-「『女』になったお前、最高にエロかったぜ。[r]
-　正直、あれで見納めかと思うと残念だけどな」[pcms][endhact]
+"You became a 'woman', and you were incredibly erotic. Honestly, it's[r]
+a shame to think that was the last time."[pcms]
 [backlay][rir_up_01_g01 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2752|
 [fc]
@@ -336,12 +341,11 @@
 [backlay][rir_up_01_f02 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2753|
 [fc]
-苦笑いをしながら、梨里も手を差し出し、手を組んだ。[pcms]
+With a wry smile, Riri also reached out her hand and we clasped hands.[pcms]
 *2754|
 [fc]
 [【央】]
-「でもさ、それでもよかったら、またよろしくな。[r]
-　友達として――」[pcms][endhact]
+"But still, if you're okay with it, let's keep in touch. As friends--"[pcms]
 [backlay][rir_up_01_f01 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2755|
 [fc]
@@ -350,10 +354,10 @@
 「これからも、ずっと、ずっと友達でいてね。約束だよ――」[pcms][endhact]
 *2756|
 [fc]
-俺と梨里は見つめ合ったまま、強く手を握り握手を交わす。[pcms]
+Riri and I looked at each other and shook hands firmly.[pcms]
 *2757|
 [fc]
-その時――[pcms]
+At that moment--[pcms]
 [stopbgm]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 [se buf=0 storage="seA036"]
@@ -361,16 +365,16 @@
 [fc]
 [vo_ru s="rui0632"]
 [【累】]
-「しぶえくん？　そこにいるのかい？　なあ、しぶえくん……。[r]
-　いっしょにきもちよくなろう。そして、ぼくのなかまになろう！」[pcms][endhact]
+??? "Shibue-kun? Are you there? Hey, Shibue-kun... Let's feel good[r]
+together. And become one of my companions!"[pcms]
 [bgm storage="bgm13" time=100]
 [se buf=0 storage="seA038"]
 *2759|
 [fc]
 [vo_ru s="rui0633"]
 [【累】]
-「しぶえッ！　そこにいるのだろう！　あけろ……ここをあけろ！[r]
-　いますぐだ！　ぼくのいうことが、きけないのか！？」[pcms][endhact]
+??? "Shibue! You're there, aren't you! Open up... open this door![r]
+Right now! Can't you hear what I'm saying!?"[pcms]
 [se buf=0 storage="seA038"]
 [se buf=1 storage="seA032"]
 [backlay][rir_up_01_f16 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
@@ -381,11 +385,12 @@
 「ひっ……い、いやっ……もうやだぁっ！！」[pcms][endhact]
 *2761|
 [fc]
-累先輩の声の他、高橋ちゃんや、子野日さんのうなり声も聞こえる。[r]
-それどころか、無数の男達の叫び声も聞こえてくる。[pcms]
+In addition to Rui-senpai's voice, I could hear Takahashi-chan's[r]
+groans and Konohi-san's moans. Not just that, but also the shouts of[r]
+countless men.[pcms]
 *2762|
 [fc]
-追い詰められたか……。[pcms]
+Cornered, huh...[pcms]
 *2763|
 [fc]
 [【央】]
@@ -393,7 +398,7 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *2764|
 [fc]
-俺は思わず梨里の身体を引き寄せ、強く抱きしめる。[pcms]
+I instinctively pulled Riri close and hugged her tightly.[pcms]
 *2765|
 [fc]
 [vo_ru s="rui0634"]
@@ -409,12 +414,12 @@
 [se buf=1 storage="seA032"]
 *sel|このまま様子を見る／すぐに窓から脱出
 [fc]
-ドン、という音とともに扉が大きく揺れる。[r]
+With a loud thud, the door shook violently.[pcms]
 このままじゃ、ブッ壊されそうだ。[pcms_sel]
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	
-	[hisout txt="選択肢“このまま様子を見る”"][r]
-	[hisout txt="選択肢“すぐに窓から脱出”"][r]
+(hisout txt="Choice 'Watch the situation unfold'") (hisout txt="Choice[r]
+'Escape through the window immediately'")[pcms]
 [endif]
 [hr]
 [履歴出力復帰]
@@ -429,11 +434,12 @@
 *2767|
 [fc]
 [【央】]
-「本当に気が付いてるのか？　中が見えるワケでもないのに。[r]
-　このままやり過ごすか」[pcms][endhact]
+"Are you really aware of what's happening? You can't see inside.[r]
+Should we just let this pass?"[pcms]
 *2768|
 [fc]
-抱きしめた梨里にそう囁くと、コクリと小さく頷いた。[pcms]
+I whispered to Riri as I hugged her, and she nodded slightly in[r]
+agreement.[pcms]
 *2769|
 [fc]
 [【央】]
@@ -464,7 +470,7 @@
 「おんなおんなおんなおんなににくにくにく」[pcms][endhact]
 *2774|
 [fc]
-ドアが破られ、沢山の人がなだれ込んでくる！[pcms]
+The door was broken down, and a flood of people poured in![pcms]
 [backlay][rir_up_01_f17 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2775|
 [fc]
@@ -478,15 +484,14 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *2777|
 [fc]
-俺はとっさに梨里を部屋の脇へと突き飛ばし、[r]
-自分に、注意を引きつけるよう、大声で叫んだ。[pcms]
+I quickly pushed Riri to the side of the room and shouted loudly to[r]
+draw attention to myself.[pcms]
 [backlay][rui_lo_05_k02 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *2778|
 [fc]
 [vo_ru s="rui0636"]
 [【累】]
-「しぶえッ！　きさま、いるならへんじをしたまえ！[r]
-　しつれいだろうがぁあああああああああああ！！」[pcms][endhact]
+??? "Shibue! If you're there, respond! It's rude but aaaaaaaaah!!"[pcms]
 *2779|
 [fc]
 [【央】]
@@ -507,8 +512,8 @@
 [backlay][red_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]
 *2782|
 [fc]
-猛烈な勢いで突進してきた累先輩に抱きつかれ、[r]
-そのまま窓ガラスを突き破って、俺の身体は部屋から押し出された。[pcms]
+Rui-senpai hugged me with tremendous force as she charged in, and we[r]
+both crashed through the window glass, pushing me out of the room.[pcms]
 [se buf=0 storage="seB013"]
 [backlay][bg storage="BGskyb"][trans time=500 method=crossfade][wt2]
 *2783|
@@ -517,8 +522,8 @@
 「ぐあ……」[pcms][endhact]
 *2784|
 [fc]
-累先輩と共に地面に落ちた俺は、したたかに背中を打ち付け、[r]
-息が出来なくなってしまった。[pcms]
+I fell to the ground with Rui-senpai and hit my back hard, leaving me[r]
+breathless.[pcms]
 *2785|
 [fc]
 [【央】]
@@ -528,35 +533,35 @@
 [fc]
 [vo_ru s="rui0638"]
 [【累】]
-「きさまは！　なぜぼくのいうことをきかない！[r]
-　おしおきだ！」[pcms][endhact]
+??? "You! Why won't you listen to me! This is your punishment!"[pcms]
 *2787|
 [fc]
-真っ赤に染まった空が、急に暗く影になる。[pcms]
+The sky dyed red suddenly turned dark with shadows.[pcms]
 *2788|
 [fc]
-先輩の真っ赤な目と、真っ赤な口が、俺の顔に迫る。[pcms]
+Rui-senpai's red eyes and red mouth loomed over my face.[pcms]
 *2789|
 [fc]
-そのまま、先輩の口は俺の頬を掠め――[pcms]
+Then, Rui-senpai's mouth grazed my cheek--[pcms]
 [se buf=0 storage="seB037"]
 *2790|
 [fc]
-勢いよく喉に噛みついた。[pcms]
+And she bit down hard on my throat.[pcms]
 [se buf=0 storage="seB034"]
 [backlay][red_toplayer][trans method=universal rule="blood1" vague=50 time=500][wt2][hide_chara_int]
 *2791|
 [fc]
-直後、ブチブチという音と、大量の液体が噴き出す音が聞こえ、[r]
-すぐに俺の目の前は暗い闇に包まれた。[pcms]
+Immediately after, I heard a snapping sound and the gushing of a large[r]
+amount of liquid, and then darkness enveloped everything before my[r]
+eyes.[pcms]
 [backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]
 *2792|
 [fc]
-不思議と、痛みが消えていく。[pcms]
+Strangely enough, the pain began to fade away.[pcms]
 *2793|
 [fc]
-それどころか、なんだか水の中に沈んでいくような、[r]
-重く、冷たい静寂が身体を包み込む。[pcms]
+Instead, it felt like I was sinking into water, enveloped by a heavy,[r]
+cold silence.[pcms]
 [sysbt_meswin clear]
 [fadeoutbgm time=2000]
 [stopse_all]
@@ -581,8 +586,8 @@
 *2794|
 [fc]
 [【央】]
-「ここにいたら、どのみちやられる！[r]
-　声だけでも、すっげー人数だ！　ここから出ないと……！」[pcms][endhact]
+"If we stay here, we'll be done for anyway! There are so many[r]
+voices... We have to get out of here...!"[pcms]
 [backlay][rir_up_01_f16 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2795|
 [fc]
@@ -597,23 +602,24 @@
 [se buf=0 storage="seA008"]
 *2797|
 [fc]
-俺は窓を勢いよく開き、外の様子を窺う。[pcms]
+I forcefully opened the window and peeked outside.[pcms]
 *2798|
 [fc]
-外にもおかしな奴らがうろついてはいたが、数はまばらで、[r]
-どうにも出来ないワケじゃなさそうだ。[pcms]
+There were some strange people loitering outside too, but they were[r]
+sparse in number and it seemed manageable.[pcms]
 *2799|
 [fc]
-少し離れてはいるが、裏庭の駐車スペースの先に、[r]
-森が見える。あそこまで行く事が出来れば、累先輩達から逃げられるかも！[pcms]
+Although it's a bit far, I can see the forest beyond the parking space[r]
+in the backyard. If we can make it there, we might be able to escape[r]
+from Rui-senpai and the others![pcms]
 [se buf=0 storage="seB095"]
 [se buf=1 storage="seA032"]
 *2800|
 [fc]
 [vo_ru s="rui0639"]
 [【累】]
-「しぶえしぶえしぶえしぶえッ！　きみだけだぞ、[r]
-　ぼくのいうことをきかないのは！　いいかげんにしろコラァ！」[pcms][endhact]
+"Shibue, shibue, shibue, shibue! You're the only one who won't listen[r]
+to me! Enough is enough, hey!"[pcms]
 [se buf=0 storage="seB095"]
 [se buf=1 storage="seA032"]
 [wait2 time=200]
@@ -622,15 +628,15 @@
 *2801|
 [fc]
 [【央】]
-「もうダメだ、いくぞ梨里！[r]
-　気をつけて降りればなんとかなる！」[pcms][endhact]
+"It's no use, let's go Riri! We can manage if we're careful getting[r]
+down!"[pcms]
 *2802|
 [fc]
-抱きしめたまま、梨里に強く言い聞かせ、[r]
-窓枠に手を掛ける。[pcms]
+While holding her tight, I firmly told Riri and put my hands on the[r]
+window frame.[pcms]
 *2803|
 [fc]
-梨里も頷きながら、大きく息を吸い込んだ。[pcms]
+Riri also nodded and took a deep breath.[pcms]
 *2804|
 [fc]
 [【央】]
@@ -639,7 +645,7 @@
 [fc]
 [vo_ru s="rui0640"]
 [【累】]
-「あっはああああああぁあっ！！　し～ぶゥえ～ぇぇっ！！」[pcms][endhact]
+「あっはああああああぁあっ！！　しぶゥえぇぇっ！！」[pcms][endhact]
 [se buf=0 storage="seB095"]
 [se buf=1 storage="seA032"]
 [wait2 time=200]
@@ -653,7 +659,7 @@
 「うぉおぉおおおおおぉぉっ！！」[pcms][endhact]
 *2807|
 [fc]
-梨里をかばいながら窓から飛び出した。[pcms]
+I jumped out of the window while shielding Riri.[pcms]
 [backlay][bg storage="BG12b"]
 [rir_lo_01_f08 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"]
 [trans time=500 method=crossfade][wt2]
@@ -669,8 +675,8 @@
 「ぐっ……いっ、いてぇっ……」[pcms][endhact]
 *2810|
 [fc]
-梨里は上手いこと着地出来たようだ。[r]
-だけど俺は、勢い余って地面を転がる。[pcms]
+It seems Riri managed to land well, but I rolled on the ground due to[r]
+the momentum.[pcms]
 *2811|
 [fc]
 [vo_ru s="rui0641"]
@@ -680,16 +686,15 @@
 *2812|
 [fc]
 [【央】]
-「くっ……うううっ……梨里、いくぞっ！！[r]
-　ああ、いてぇ……」[pcms][endhact]
+"Ugh... uuu... Riri, let's go!! Ah, it hurts..."[pcms]
 *2813|
 [fc]
-どうやら落ちた時に足を痛めてしまったらしい。[r]
-しかも、どこに忘れたのか、靴が片方無くなっていた。[pcms]
+It seems I hurt my foot when I fell. Moreover, I've somehow lost one[r]
+of my shoes.[pcms]
 *2814|
 [fc]
-だけど、そんな事気にしている余裕はない。[r]
-俺達を追って、累先輩や他のやつらまで、窓から飛び降りだした。[pcms]
+But there's no time to worry about that. Rui-senpai and the others[r]
+started jumping out of the window after us.[pcms]
 [se buf=0 storage="seB025"]
 *2815|
 [fc]
@@ -703,8 +708,8 @@
 「ぎ、ぐ……」[pcms][endhact]
 *2817|
 [fc]
-俺達を追って『落ちてきた』連中が、着地に失敗して、[r]
-頭から落ちたり、肩から落ちたりしていた。[pcms]
+The ones who "fell" after us failed their landings, falling headfirst[r]
+or onto their shoulders.[pcms]
 [backlay][rir_lo_01_f16 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *2818|
 [fc]
@@ -713,25 +718,26 @@
 「あ……ああぁ……首が……折れて……」[pcms][endhact]
 *2819|
 [fc]
-それぞれがまともに受け身もとらず落ちたせいで、[r]
-まるで投げ捨てられたおもちゃのように、体がおかしな方に曲がっていく。[pcms]
+Because each of them fell without properly bracing for impact, their[r]
+bodies bent in strange ways, like discarded toys.[pcms]
 [se buf=0 storage="seB025"]
 *2820|
 [fc]
 [ns【]男子生徒D[】nse]
-「あ、あるぇ～……うで？　うごかねぇなぁ～」[pcms][endhact]
+「あ、あるぇ……うで？　うごかねぇなぁ」[pcms][endhact]
 *2821|
 [fc]
-ドサリと人が落ちる音の直後、鈍くイヤな音が連続して響く。[r]
-このまま聞いていたら、気が変になってしまいそうな不快な音だ。[pcms]
+Right after the sound of bodies hitting the ground, a series of dull[r]
+and unpleasant sounds echoed. It was a disturbing noise that could[r]
+drive one mad if listened to for too long.[pcms]
 *2822|
 [fc]
-大体、立ち止まっていたら連中に捕まってしまう。[pcms]
+If we stand still, we'll be caught by them.[pcms]
 *2823|
 [fc]
 [vo_mo s="takahasi0048"]
 [【高橋】]
-「あ～……まってぇ～……あ」[pcms][endhact]
+「あ……まってぇ……あ」[pcms][endhact]
 [backlay][rir_lo_01_f17 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *2824|
 [fc]
@@ -740,8 +746,8 @@
 「高橋ちゃんっ！？　危ないッ！！」[pcms][endhact]
 *2825|
 [fc]
-高橋ちゃんも俺達を追いかけ、窓から身を乗り出していたが、[r]
-そのまま頭から落ちてしまった。[pcms]
+Takahashi-chan also chased after us and leaned out of the window, but[r]
+she fell headfirst.[pcms]
 *2826|
 [fc]
 [vo_mo s="takahasi0049"]
@@ -751,8 +757,8 @@
 [backlay][rir_lo_01_f16 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *2827|
 [fc]
-高橋ちゃんは頭のてっぺんから地面に落ち、[r]
-そのまま動かなくなってしまった。[pcms]
+Takahashi-chan hit the ground headfirst and then stopped moving[r]
+altogether.[pcms]
 *2828|
 [fc]
 [【央】]
@@ -761,11 +767,11 @@
 [se buf=0 storage="seA052"]
 *2829|
 [fc]
-そのまま梨里の背中を突き飛ばすようにして、俺達は森へと走り出す。[pcms]
+As if pushing Riri's back, we started running towards the forest.[pcms]
 *2830|
 [fc]
-足は痛むが、あそこまで行けばなんとかなるだろう。[r]
-そう、信じて。[pcms]
+My foot hurts, but if we can make it there, somehow it'll be okay.[r]
+That's what I believe.[pcms]
 [fadeoutbgm time=500]
 [sysbt_meswin clear]
 [backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]

@@ -8,7 +8,7 @@
 「うぉぉおおおおぉぉっっ！！　ヤバイヤバイヤバイ！」[pcms][endhact]
 *4659|
 [fc]
-急いで寝巻きから、運動着に着替える。[pcms]
+I hurriedly change out of my pajamas and into my gym clothes.[pcms]
 [if exp="f.l_riri_look == 1"]
 	[jump target=*見てはいけないものを見た]
 [endif]

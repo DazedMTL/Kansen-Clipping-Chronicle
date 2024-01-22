@@ -3,19 +3,20 @@
 [sysbt_meswin]
 *8288|
 [fc]
-窓の外は、旧館の裏庭。[r]
-植え込みで区切られた向こうは駐車スペースで、その先が森だ。[pcms]
+Outside the window is the back garden of the old building. Beyond the[r]
+divided hedges is a parking space, and beyond that, the forest.[pcms]
 *8289|
 [fc]
 [【央】]
 「……よしっ」[pcms][endhact]
 *8290|
 [fc]
-発光させたケミカルライトを数本投げ、[r]
-窓の下にいる感染者たちを別方向へと誘導した。[pcms]
+I threw several chemlights that I had activated, leading the infected[r]
+below the window in a different direction.[pcms]
 *8291|
 [fc]
-あとは静かに下りていけば、見つかることなく森まで行けるだろう。[pcms]
+If we descend quietly from here, we should be able to reach the forest[r]
+without being found.[pcms]
 [backlay][bg storage="BG08c"]
 [rui_lo_02_f05 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"]
 [trans time=500 method=crossfade][wt2]
@@ -26,24 +27,25 @@
 「こちらは準備完了だ。連中が戻ってくる前に行こう」[pcms][endhact]
 *8293|
 [fc]
-累先輩が、カーテンで作ったロープを窓の桟に結び付け、下に垂らす。[pcms]
+Senpai Rui tied a rope made from curtains to the window sill and let[r]
+it hang down.[pcms]
 *8294|
 [fc]
-先輩の足にはタオルが巻き付けられていて、[r]
-裸足よりはマシになっている。[pcms]
+Senpai's legs are wrapped in towels, which is better than being[r]
+barefoot.[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8295|
 [fc]
-先頭を切って、累先輩が下りていく。[pcms]
+Leading the way, Senpai Rui begins to descend.[pcms]
 *8296|
 [fc]
-素早く降りた先輩が、下で新たにケミカルライトを投げて、[r]
-さらに感染者たちを逆方向へと誘導してくれている。[pcms]
+Senpai, who descended swiftly, throws more chemlights below, further[r]
+leading the infected in the opposite direction.[pcms]
 [backlay][bg storage="BGskyc"][trans time=500 method=crossfade][wt2]
 *8297|
 [fc]
-続いて子野日さん、梨里、俺の順で降りていき、[r]
-素早く植え込みの向こうへと走る。[pcms]
+Following Senpai Rui, Konohi-san, Riri, and I descend in that order[r]
+and quickly run beyond the hedges.[pcms]
 [se buf=0 storage="seA052" loop=true]
 [backlay][bg storage="BG02c"][trans time=500 method=crossfade][wt2]
 *8298|
@@ -59,16 +61,16 @@
 [backlay][rir_up_03_f05 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *8300|
 [fc]
-片足を引きずるようにして、それでも懸命に走る梨里。[r]
-そんな梨里を庇うように、隣を走っていく。[pcms]
+Riri runs desperately, dragging one leg as if it's injured, and I run[r]
+beside her as if to protect her.[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8301|
 [fc]
-累先輩も子野日さんの手を取って走っていて、[r]
-俺たちの少し前を行っている。[pcms]
+Senpai Rui also takes Konohi-san's hand and runs ahead of us by a[r]
+little.[pcms]
 *8302|
 [fc]
-そんな俺たちに――[pcms]
+And then to us--[pcms]
 [backlay][kan_ru layer=3 x="&sf.ra_lo_x[3]" y="&sf.ra_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8303|
 [fc]
@@ -76,27 +78,29 @@
 「おおおおおおんなぁぁぁぁぁぁぁぁっっ！！！！」[pcms][endhact]
 *8304|
 [fc]
-流石に気付かれた！[pcms]
+We've been noticed for sure![pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8305|
 [fc]
-駐車スペースを駆け抜けている時、[r]
-背中に感染者の叫びがぶつかってきた。[pcms]
+As we dash through the parking space, the screams of the infected hit[r]
+our backs.[pcms]
 [backlay][evcg storage="EV52_01" layer=0 page=back visible=true left=0 top=0][trans method=universal rule="LtoR" vague=100 time=200][wt2]
 *8306|
 [fc]
-走りながら振り向くと、予想以上の数の感染者が追ってきている。[pcms]
+Looking back while running, I see more infected chasing us than I[r]
+expected.[pcms]
 *8307|
 [fc]
 [【央】]
 「急いで！　追いつかれる！」[pcms][endhact]
 *8308|
 [fc]
-感染者たちの中から、動きの速い連中が抜け出て追ってくる。[pcms]
+From among the infected, those who move quickly break away and pursue[r]
+us.[pcms]
 *8309|
 [fc]
-怪我が少ないのか、それともなりたてだからなのか、[r]
-俺たちよりも足が速く、距離が少しずつ詰まっている。[pcms]
+Whether they have fewer injuries or are newly turned, their legs are[r]
+faster than ours, and they are slowly closing the distance.[pcms]
 [backlay][bg storage="BG02c"]
 [rir_up_03_f15 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"]
 [trans time=300 method=crossfade][wt2]
@@ -107,8 +111,7 @@
 「クソッ！　なんでこんなに遅いのよ！」[pcms][endhact]
 *8311|
 [fc]
-自由にならない自分の足に悪態をつきながら、[r]
-それでも懸命に走る。[pcms]
+Cursing my legs that won't move freely, I still run with all my might.[pcms]
 [backlay][rui_up_02_f04 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *8312|
 [fc]
@@ -118,8 +121,8 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8313|
 [fc]
-累先輩の声に、もう目の前まで迫った森へと向かって、[r]
-全力で走る。[pcms]
+At Senpai Rui's voice, we head towards the forest right in front of us[r]
+and run with all our strength.[pcms]
 [backlay][bg storage="BG14c"][trans time=500 method=crossfade][wt2]
 *8314|
 [fc]
@@ -127,14 +130,15 @@
 「よし、森に入った！」[pcms][endhact]
 *8315|
 [fc]
-目的地にはついたけれど、追われていることには違いない。[pcms]
+We've reached our destination, but we're still being chased.[pcms]
 *8316|
 [fc]
-目印になってしまうからライトをつけたり出来ないから、[r]
-足下に不安があるけど、それは連中も一緒だ。[pcms]
+We can't turn on lights because they would serve as markers, and[r]
+although there's uncertainty underfoot, the infected are in the same[r]
+situation.[pcms]
 *8317|
 [fc]
-上手く立ち回れば逃げられるはず……！[pcms]
+If we maneuver well, we should be able to escape...![pcms]
 [sysbt_meswin clear]
 [backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]
 [stopse buf=0]
@@ -147,14 +151,14 @@
 「はぁっ、はぁっ、はぁっ……」[pcms][endhact]
 *8319|
 [fc]
-森の中を走り回る俺たち。[pcms]
+We run through the forest.[pcms]
 *8320|
 [fc]
-感染者のうめきや叫びは、背後からだけじゃなく、[r]
-周囲からも聞こえてくるようになってきた。[pcms]
+The groans and screams of the infected are now coming not only from[r]
+behind but also from all around us.[pcms]
 *8321|
 [fc]
-とにかく鉢合わせしないように気をつけないと……。[pcms]
+We must be careful not to run into them at any cost...[pcms]
 [backlay][rui_lo_02_f16 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8322|
 [fc]
@@ -168,8 +172,8 @@
 「累先輩！？」[pcms][endhact]
 *8324|
 [fc]
-突然、前を走っていた累先輩が転げるようにして倒れ、[r]
-手を引っ張られていた子野日さんも転んでしまった。[pcms]
+Suddenly, Senpai Rui who was running ahead falls as if tumbling over,[r]
+and Konohi-san who was being pulled by the hand also falls down.[pcms]
 [backlay][mis_lo_03_f05 layer=3 x="&sf.mi_lo_x[3]" y="&sf.mi_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8325|
 [fc]
@@ -183,12 +187,12 @@
 「大丈夫ですか、累先輩！」[pcms][endhact]
 *8327|
 [fc]
-駆け寄った俺の目に映ったのは、[r]
-累先輩の足に突き刺さった木の枝だった。[pcms]
+What caught my eye as I rushed over was a branch that had pierced[r]
+through Senpai Rui's foot.[pcms]
 *8328|
 [fc]
-鋭いその先端が足の甲を貫いていて、[r]
-靴代わりに巻いたタオルがジワリと血に染まっていく。[pcms]
+The sharp tip had penetrated the top of her foot, and the towel[r]
+wrapped as a substitute for shoes was slowly staining with blood.[pcms]
 [backlay][rui_up_02_f16 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *8329|
 [fc]
@@ -197,29 +201,29 @@
 「ま、まいったな……ぐっ、ぅぅっ……あぐぅっ！！」[pcms][endhact]
 *8330|
 [fc]
-歯を食いしばり、突き刺さった枝を累先輩が引き抜いた途端、[r]
-タオルが一瞬で真っ赤になってしまった。[pcms]
+Senpai Rui grits her teeth and as soon as she pulls out the stuck[r]
+branch, the towel turns bright red in an instant.[pcms]
 *8331|
 [fc]
-マズイ、この怪我じゃ累先輩は……。[pcms]
+This is bad, with this injury Senpai Rui is...[pcms]
 [fadeoutbgm time=500]
 [backlay][mis_lo_03_f10 layer=3 x="&sf.mi_lo_x[3]" y="&sf.mi_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8332|
 [fc]
-茫然とその光景を見つめている子野日さんが、[r]
-不意に顔を上げて周囲を見回した。[pcms]
+Konohi-san, who had been staring blankly at the scene, suddenly lifts[r]
+her face and looks around.[pcms]
 *8333|
 [fc]
-四方八方から聞こえてくる感染者たちの声。[r]
-かなり近くまで迫ってきている。[pcms]
+The voices of the infected can be heard from all directions. They are[r]
+closing in on us quite closely.[pcms]
 [bgm storage="bgm12" time=100]
 [backlay][mis_up_03_k01 layer=3 x="&sf.mi_up_x[3]" y="&sf.mi_up_y[0]"][trans time=150 method=crossfade][wt]
 *8334|
 [fc]
 [vo_mo s="misuzu0217"]
 [【子野日】]
-「……けひっ……ゲヒヒッ……か、会長っ……！　わたしのために、[r]
-　犠牲になって下さって、最期までありがとうございましたぁ～～～！！」[pcms][endhact]
+"...kehi...gehihi... Pre-president...! Thank you for sacrificing[r]
+yourself for me until the very end~~~!!"[pcms]
 *8335|
 [fc]
 [【央】]
@@ -235,19 +239,20 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8337|
 [fc]
-歪んだ笑みを浮かべ、子野日さんがあまりにも屑なセリフを吐き捨て、[r]
-赤い瞳を閃かせて一人、走り出した。[pcms]
+With a twisted smile, Konohi-san spits out such despicable words and[r]
+dashes off alone with her red eyes flashing.[pcms]
 *8338|
 [fc]
 [【央】]
 「子野日さん……発症してたぞ、アレ」[pcms][endhact]
 *8339|
 [fc]
-知能が低下して、生存本能が丸出しになったんだろうか。[pcms]
+Perhaps her intelligence has diminished and her survival instincts are[r]
+fully exposed.[pcms]
 *8340|
 [fc]
-走り去る背中は既に見えなくなっているから、[r]
-確認は出来ない……支度もないけれど。[pcms]
+I can no longer see her retreating figure, so I can't confirm it...[r]
+nor am I prepared to do so.[pcms]
 [backlay][rui_up_02_f18 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *8341|
 [fc]
@@ -266,18 +271,19 @@
 「そうですよ！　先輩一人だけ置いて行くなんて……！」[pcms][endhact]
 *8344|
 [fc]
-バットを握り、累先輩を庇うようにして、[r]
-背中から向かってきているはずの感染者たちに対峙する。[pcms]
+Gripping a bat, I stand ready to protect Senpai Rui against the[r]
+infected that must be approaching from behind.[pcms]
 *8345|
 [fc]
-梨里も同じ思いのようで、足の痛みに顔を歪めながらも、構えを取った。[pcms]
+Riri seems to share the same sentiment, taking a stance while[r]
+grimacing with pain in her leg.[pcms]
 [backlay][rui_up_02_f04 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *8346|
 [fc]
 [vo_ru s="rui0742"]
 [【累】]
-「馬鹿なことを言うんじゃない！[r]
-　みんなで死ぬ必要なんかない……うわっ！？」[pcms][endhact]
+"Don't say such foolish things! There's no need for all of us to[r]
+die...whoa!?"[pcms]
 *8347|
 [fc]
 [【央】]
@@ -285,13 +291,13 @@
 [backlay][kan_de0 layer=3 x="&sf.de_lo_x[3]" y="&sf.de_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8348|
 [fc]
-振り向くと、横合いから突然飛び出してきた感染者が、[r]
-累先輩に組み付こうとしていた。[pcms]
+As I turn around, an infected suddenly leaps out from the side and[r]
+tries to grapple with Senpai Rui.[pcms]
 [se buf=0 storage="seB008"]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8349|
 [fc]
-その頭を思いっきりバットで叩き、弾き飛ばした。[pcms]
+I strike its head hard with the bat and knock it away.[pcms]
 [backlay][rir_lo_03_f04 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8350|
 [fc]
@@ -301,14 +307,15 @@
 [backlay][evcg storage="EV53_02" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *8351|
 [fc]
-施設の明かりを背負って走ってくる感染者の群れ。[pcms]
+A horde of infected running towards us, illuminated by the facility's[r]
+lights.[pcms]
 *8352|
 [fc]
-飛び掛かってきた一人を、梨里が串を目玉に突き差し、[r]
-怯んだところを中段突きで吹っ飛ばした。[pcms]
+Riri thrusts a skewer into the eye of one that leaped at her, and when[r]
+it flinched, she blew it away with a mid-level thrust.[pcms]
 *8353|
 [fc]
-けど、その間に感染者がタックルで組み付いてきた。[pcms]
+But in that moment, another infected tackled and grappled with her.[pcms]
 [backlay][bg storage="BG14c"]
 [rir_lo_03_f17 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"]
 [trans time=300 method=crossfade][wt2]
@@ -325,13 +332,13 @@
 [backlay][black_toplayer][trans method=universal rule="TtoD" vague=300 time=200][wt2][hide_chara_int]
 *8356|
 [fc]
-普段なら躱せただろうそれを、踏ん張りが利かずに避けることも出来ずに[r]
-喰らってしまい、押し倒されてしまった。[pcms]
+Normally, she would have been able to dodge it, but unable to brace[r]
+herself, she couldn't avoid it and was pushed down.[pcms]
 [backlay][bg storage="BGskyc"][trans time=500 method=crossfade][wt2]
 *8357|
 [fc]
-慌ててバットを振り上げた俺だが、その腕に鋭い痛みが走り、[r]
-振り下ろすことが出来なかった。[pcms]
+In a panic, I raised my bat, but a sharp pain ran through my arm,[r]
+preventing me from swinging it down.[pcms]
 [se buf=0 storage="seB037"]
 [赤フラ]
 *8358|
@@ -340,27 +347,28 @@
 「ぐぅううっ！！」[pcms][endhact]
 *8359|
 [fc]
-噛みつかれた……！[pcms]
+I've been bitten...![pcms]
 *8360|
 [fc]
-そう思った瞬間、何人もの感染者が俺に群がり押し倒した。[pcms]
+The moment I realized that, several infected swarmed over me and[r]
+pushed me down.[pcms]
 *8361|
 [fc]
 [vo_ri s="riri0807"]
 [【梨里】]
-「央っ！　央ぁぁぁぁっ！！　やっ、いぎっ、ぃっ……、[r]
-　ぐぁぁあああああぁぁっっ！！！」[pcms][endhact]
+"Tsugumi! Tsugumi ahhhh!! No, agh, ah... gaaaahhhhhhhh!!!"[pcms]
 *8362|
 [fc]
-梨里の口から上がる、獣のような悲鳴。[pcms]
+A beast-like scream escapes from Riri's mouth.[pcms]
 [sysbt_meswin clear]
 [se buf=0 storage="seB037"]
 [evcg赤フラ storage="EV50_01" layer=0 page=back visible=true left=0 top=0]
 [sysbt_meswin]
 *8363|
 [fc]
-噛みつかれた手を梨里へと伸ばすも、全身を痛みが襲い、[r]
-食い千切られるイヤな感触が遅れて襲い掛かってくる。[pcms]
+Even as I reach out my bitten hand towards Riri, pain engulfs my[r]
+entire body, and the unpleasant sensation of being torn apart follows[r]
+belatedly.[pcms]
 *8364|
 [fc]
 [vo_ru s="rui0743"]
@@ -368,12 +376,12 @@
 「渋江君！　清原く……がっ、ああっ……ああああああああっっ！！！」[pcms][endhact]
 *8365|
 [fc]
-感染者たちに群がられて見えないが、累先輩も襲われてしまったのだろう。[r]
-断末魔の声が響いた。[pcms]
+I can't see through the swarm of infected, but it seems Senpai Rui has[r]
+also been attacked. Her death throes echo.[pcms]
 *8366|
 [fc]
-こんなところで……俺は、誰も……守れないまま……。[r]
-俺は、梨里にも、顕悟にも……なれな……。[pcms]
+In a place like this... I can't protect anyone... I couldn't become[r]
+like Riri or Kagewo...[pcms]
 [sysbt_meswin clear]
 [backlay][red_toplayer][trans method=universal rule="blood1" vague=50 time=1500][wt2][hide_chara_int]
 [fadeoutbgm time=2000]

@@ -5,58 +5,60 @@
 *5316|
 [fc]
 [【央】]
-「ふう～っ！！　キモチ良いな～……」[pcms][endhact]
+「ふうっ！！　キモチ良いな……」[pcms][endhact]
 [bgm storage="bgm08" time=100]
 *5317|
 [fc]
-距離にして８００メートル程。そんなに大変な距離じゃないけど、[r]
-さすがに日がな一日泳いでいると疲れはする。[pcms]
+It's about 800 meters. It's not that tough of a distance, but swimming[r]
+all day under the sun can certainly be tiring.[pcms]
 *5318|
 [fc]
-でも、その疲れが逆に心地よい。[pcms]
+But that fatigue somehow feels pleasant.[pcms]
 *5319|
 [fc]
 [【央】]
 「さてっと、今日はこの位にしておくかな……」[pcms][endhact]
 *5320|
 [fc]
-と、プールから上がって、あたりを見回す。[pcms]
+And so, I get out of the pool and look around.[pcms]
 *5321|
 [fc]
-いつもなら、子野日さんがタオルを持って『お疲れさまです！』なんて、[r]
-元気のいい声を掛けてくれるんだけど。[pcms]
+Normally, Konohi-san would be here with a towel, cheerfully saying[r]
+"Good work!"[pcms]
 *5322|
 [fc]
-でも、今はいない。[pcms]
+But she's not here now.[pcms]
 *5323|
 [fc]
-さっき別れた時は体育館に行くって言ってたのもあるけど、[r]
-やっぱり体調が悪いんだろう。あの後にでも部屋に戻ったに違いない。[pcms]
+She said she was going to the gym when we parted ways earlier, but I[r]
+guess she must be feeling unwell. She probably went back to her room[r]
+afterwards.[pcms]
 *5324|
 [fc]
-そんな中、練習に付き合わせて……悪いことしたな。[r]
-後でお礼がてら謝っておこう。[pcms]
+In the midst of all this, I feel bad for making her join my[r]
+practice... I should apologize and thank her later.[pcms]
 *5325|
 [fc]
-お礼と言えば――[pcms]
+Speaking of thanks--[pcms]
 *5326|
 [fc]
-あのこと、累先輩にお礼を言っておこう。[r]
-こういうのはほっとくと後で後悔するんだ。[pcms]
+I should thank Rui-senpai for that matter. If I don't do it now, I[r]
+might regret it later.[pcms]
 [backlay][bg storage="プール飛び込み台"]
 [rui_lo_01_f05 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"]
 [trans time=500 method=crossfade][wt2]
 *5327|
 [fc]
-なんて一人呟きながら、飛び込み台の上に立つ累先輩に目を向ける。[pcms]
+Muttering to myself, I turn my gaze to Rui-senpai, who stands on the[r]
+diving board.[pcms]
 *5328|
 [fc]
-相変わらずの綺麗なフォームに、目が釘付けになる。[pcms]
+As always, I'm captivated by her beautiful form.[pcms]
 *5329|
 [fc]
 [【央】]
-「なんだかんだで、ちょっと怖いんだよな、高飛び台って。[r]
-　久しぶりだし……おっと……」[pcms][endhact]
+"Despite everything, high diving boards are a bit scary. It's been a[r]
+while... whoops..."[pcms]
 [backlay][rui_lo_01_f01 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *5330|
 [fc]
@@ -65,15 +67,15 @@
 「ん？　どうした渋江君。キミも飛び込みの練習がしたくなったのかい？」[pcms][endhact]
 *5331|
 [fc]
-累先輩は、飛び込み台の上で身体を捻り、[r]
-飛び込み時のイメージトレーニングをしているようだ。[pcms]
+Rui-senpai is twisting her body on the diving board, seemingly doing[r]
+image training for her dive.[pcms]
 *5332|
 [fc]
-プールの水でヌルヌルと光る水着が、整った身体を、[r]
-より艶めかしく見せる。[pcms]
+The swimsuit, glistening with pool water, accentuates her well-[r]
+proportioned body, making it look even more enticing.[pcms]
 *5333|
 [fc]
-って、今はそうじゃなくて……。[pcms]
+But that's not what I should be focusing on right now...[pcms]
 *5334|
 [fc]
 [【央】]
@@ -83,8 +85,8 @@
 [fc]
 [vo_ru s="rui0659"]
 [【累】]
-「ああ、気にしなくてもいいのに。美鈴君には無理をさせて[r]
-　しまったが……清原くんは大丈夫かい？」[pcms][endhact]
+"Ah, you don't have to worry about it. I may have pushed Misuzu-kun[r]
+too hard... but are you okay, Kiyohara-kun?"[pcms]
 *5337|
 [fc]
 [【央】]
@@ -108,34 +110,34 @@
 [backlay][chara_int][bg storage="BG11b"][trans method=universal rule="LtoR" vague=100 time=300][wt2]
 *5341|
 [fc]
-声のした方に振り返ると、そこでは女の子が、[r]
-ジャージ姿の男子に詰め寄っていた。[pcms]
+Turning towards the source of the voice, I see a girl confronting a[r]
+boy in a jersey.[pcms]
 *5342|
 [fc]
-どうにも、触っただの触ってないだのと、大声で言い争っている。[pcms]
+They're arguing loudly about whether someone was touched or not.[pcms]
 [backlay][yuj_lo_04_f01 layer=3 x="&sf.yu_lo_x[3]" y="&sf.yu_lo_y[0]"][trans time=150 method=crossfade][wt]
 *5343|
 [fc]
-目をこらして見れば、見覚えのある男……。[r]
-純ちゃんの彼氏の、勇二、だった。[pcms]
+If I strain my eyes, I recognize the boy... It's Jun-chan's boyfriend,[r]
+Yuuji.[pcms]
 *5344|
 [fc]
-あいつは陸上部の筈。[r]
-どうしてプールなんかに来てるんだろ。[pcms]
+He's supposed to be in the track and field club. What's he doing at[r]
+the pool?[pcms]
 *5345|
 [fc]
-俺は、ため息をつきながら、騒ぎを収めようと、[r]
-勇二の方に向かおうとした。[pcms]
+I sigh and decide to go over to Yuuji to try and calm the commotion.[pcms]
 *5346|
 [fc]
-だが――[pcms]
+But--[pcms]
 *5347|
 [fc]
 [ns【]女子部員[】nse]
 「何よ！　触らないでって言ってるでしょ！？」[pcms][endhact]
 *5348|
 [fc]
-勇二の手が、女の子の胸に伸び、柔らかそうな膨らみを鷲づかみにした。[pcms]
+Yuuji's hand reaches out and grabs the soft-looking swell of the[r]
+girl's chest.[pcms]
 *5349|
 [fc]
 [ns【]男子生徒[】nse]
@@ -147,19 +149,19 @@
 [fc]
 [vo_ru s="rui0661"]
 [【累】]
-「なかなか大胆だね。しかし、痴話げんかというワケでもなさそうだけど。[r]
-　そうそう見られるものじゃないから、ここから見物でも……」[pcms][endhact]
+"Quite bold, aren't we? But it doesn't seem like just a lovers'[r]
+quarrel. It's not something you see every day, so maybe I'll just[r]
+watch from here..."[pcms]
 *5351|
 [fc]
 [【央】]
-「先輩、のんきな事言ってる場合じゃ無さそうですよ……。[r]
-　俺、ちょっと行ってきま……」[pcms][endhact]
+"Senpai, this doesn't seem like the time to be carefree... I'm going[r]
+to go over there..."[pcms]
 [backlay][chara_int][bg storage="BG11b"][trans method=universal rule="LtoR" vague=100 time=300][wt2]
 *5352|
 [fc]
 [ns【]男子生徒[】nse]
-「がっ……ぎぃぃいっ！？　ゆっ、勇二ッ！？[r]
-　お、おま……ぎゃあぁああぁあっ！！」[pcms][endhact]
+"Gah... gyiiiiii!? Yuu, Yuuji!? Wha... gyaaaaaaaah!!"[pcms]
 [backlay][yuj_lo_04_f05 layer=3 x="&sf.yu_lo_x[3]" y="&sf.yu_lo_y[0]"][trans time=150 method=crossfade][wt]
 *5353|
 [fc]
@@ -171,11 +173,11 @@
 「え……？　アイツ、噛みついた……？」[pcms][endhact]
 *5355|
 [fc]
-それは、遠目にも分かった。[pcms]
+It was clear even from a distance.[pcms]
 *5356|
 [fc]
-勇二が、止めに入った男の首に噛みつき、[r]
-そのまま勢いよく首を振った。[pcms]
+Yuuji bit into the neck of the guy who tried to intervene and then[r]
+violently shook his head.[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 [se buf=0 storage="seD020"]
 [sysbt_meswin clear]
@@ -184,8 +186,8 @@
 [fadeoutbgm time=500]
 *5357|
 [fc]
-直後、真っ赤なしぶきに包まれたまま、[r]
-男二人は、青く光るプールの水の中に落ちていった。[pcms]
+Immediately after, enveloped in a spray of red, the two men fell into[r]
+the blue glowing waters of the pool.[pcms]
 [bgm storage="bgm05" time=100]
 [backlay][chara_int_top][bg storage="プール飛び込み台"]
 [rui_up_01_f16 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"]
@@ -204,47 +206,45 @@
 [se buf=0 storage="seD020"]
 *5360|
 [fc]
-組み付かれていた女の子の悲鳴を合図に、[r]
-累先輩はプールに飛び込んでいく。[pcms]
+Triggered by the girl's scream who was caught up in it, Rui-senpai[r]
+dives into the pool.[pcms]
 *5361|
 [fc]
-相変わらず美しい飛び込みに少し目が奪われたけど、[r]
-すぐに我に返った俺は、先輩の後を追おうとする。が――[pcms]
+I was momentarily distracted by her beautiful dive, but I quickly came[r]
+to my senses and prepared to follow after her. But--[pcms]
 *5362|
 [fc]
-ここの高さは１０メートルある。[r]
-大体ビルの三階くらいの高さだ。[pcms]
+This height is 10 meters. It's about as high as the third floor of a[r]
+building.[pcms]
 *5363|
 [fc]
-普通ならこんな所から落ちたら大けがだ。[r]
-もっとも、下は水だから、きちんと飛び込めばそんな事はないけど。[pcms]
+Normally, falling from this height would result in serious injury. But[r]
+since there's water below, if you dive properly, that won't happen.[pcms]
 *5364|
 [fc]
-俺もちゃんと飛び込みの練習しておくんだったな……。[r]
-階段降りた方がいいかな……でも、かっこわりーしな……。[pcms]
+I should have practiced diving properly too... Maybe it's better to go[r]
+down the stairs... but that would look lame...[pcms]
 *5365|
 [fc]
 [【央】]
-「こんな……ううううっ！！[r]
-　くっ、くそっ！！　俺だってな、俺だってッ！！」[pcms][endhact]
+"Like this... uuuuuugh!! Damn it!! I mean it too, I mean it!!"[pcms]
 *5366|
 [fc]
-自分でもよく分からないかけ声を上げ、[r]
-覚悟を決めてプールへと飛び込む。[pcms]
+With a shout that I didn't quite understand myself, I braced myself[r]
+and dove into the pool.[pcms]
 [backlay][black_toplayer][trans method=universal rule="TtoD" vague=300 time=300][wt2][hide_chara_int]
 [se buf=0 storage="seD020"]
 *5367|
 [fc]
-少し失敗して、腹を打ち付けたけど、[r]
-そんなに酷い事にはならなかった。[pcms]
+I made a bit of a mistake and hit my stomach, but it wasn't too bad.[pcms]
 *5368|
 [fc]
-飛び込んですぐはその痛みと心臓の鼓動が凄く、[r]
-ほんの少しの間身体が固まったけど……。[pcms]
+Right after diving in, the pain and my pounding heart were intense,[r]
+and for a brief moment my body froze...[pcms]
 [backlay][bg storage="BG11b"][trans time=500 method=crossfade][wt2]
 *5369|
 [fc]
-そのままプールサイドへと泳ぎ、先輩の方へと向かう。[pcms]
+But then I swam to the poolside and headed towards senpai.[pcms]
 [backlay][rui_lo_01_f05 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *5370|
 [fc]
@@ -253,20 +253,21 @@
 「ほら、早くこちらへ！　手を貸すよ！」[pcms][endhact]
 *5371|
 [fc]
-累先輩はすでにプールサイドに上がり、[r]
-この場から逃れ、上がろうとした人達を手助けしていた。[pcms]
+Rui-senpai had already climbed out of the pool and was helping people[r]
+escape from the scene.[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *5372|
 [fc]
-俺はどうしようかと考えながら、プールから出した顔を左右に振る。[pcms]
+As I pondered what to do, I shook my head from side to side after[r]
+emerging from the pool.[pcms]
 *5373|
 [fc]
-そこで、勇二を助けようとしていた男達の姿が見えない事に気が付き、[r]
-潜水しようとした――[pcms]
+I then noticed that the men who had been trying to help Yuuji were[r]
+nowhere to be seen, and I was about to dive--[pcms]
 *5374|
 [fc]
-すると、奇声を上げながら一人が浮かび上がり、[r]
-両手をじたばたとさせて、もがきだした。[pcms]
+Just then, one of them surfaced with a strange scream, flailing his[r]
+arms and starting to struggle.[pcms]
 *5375|
 [fc]
 [【央】]
@@ -274,23 +275,23 @@
 [se buf=0 storage="seD020"]
 *5376|
 [fc]
-その男の方に向かおうとした矢先、[r]
-プールサイドに立っていた人達が、俺より早く、彼の元へと向かった。[pcms]
+As I was about to head towards the man, the people standing poolside[r]
+got to him before me, faster than I could.[pcms]
 *5377|
 [fc]
 [【央】]
 「……」[pcms][endhact]
 *5378|
 [fc]
-彼ら、彼女らは苦しそうにもがく男の身体を支え、[r]
-プールサイドへと戻り出す。[pcms]
+They supported the struggling man's body and started to head back to[r]
+the poolside.[pcms]
 *5379|
 [fc]
 [ns【]男子生徒A[】nse]
 「お、おい暴れるなよ！　危ないって！　おいっ！」[pcms][endhact]
 *5380|
 [fc]
-俺の出番は無くなったってワケだけど……。[pcms]
+It seems my turn to help was over...[pcms]
 *5381|
 [fc]
 [ns【]男子生徒A[】nse]
@@ -301,14 +302,16 @@
 「えっ……あ、あああぁあっ！」[pcms][endhact]
 *5383|
 [fc]
-溺れた男は、さっきの勇二のように、助けに入った男に噛みついていた。[pcms]
+The drowning man, like Yuuji earlier, was biting the man who came to[r]
+his aid.[pcms]
 *5384|
 [fc]
 [ns【]男子生徒A[】nse]
 「ぐっ……あ、あがっ……いっ、いてぇぇっ！！　いてえよおっ！！」[pcms][endhact]
 *5385|
 [fc]
-水に濡れて、少し薄くなった赤い色がプールに広がっていく。[pcms]
+The red color, thinned a bit by the water, began to spread throughout[r]
+the pool.[pcms]
 *5386|
 [fc]
 [ns【]女子部員[】nse]
@@ -319,18 +322,18 @@
 「おい、やべえぜ！　逃げろッ！！」[pcms][endhact]
 *5388|
 [fc]
-プールサイドに立っていた人達は、[r]
-みるみる広がっていく赤い色に推されるように、一斉に逃げ出していく。[pcms]
+The people standing by the poolside started fleeing all at once, as if[r]
+pushed by the rapidly spreading red.[pcms]
 *5389|
 [fc]
-その中でただ一人、累先輩がこちらに向かい泳いでくる。[pcms]
+In the midst of it all, only Rui-senpai was swimming towards me.[pcms]
 *5390|
 [fc]
-ダメだ……何か、ヤバい！[pcms]
+No good... Something's really bad![pcms]
 *5391|
 [fc]
-本能的なカンで危険を察した俺は、泳いでいく累先輩の手を握り、[r]
-引き留める。[pcms]
+With an instinctive sense of danger, I grabbed Rui-senpai's hand as[r]
+she swam towards me and held her back.[pcms]
 [backlay][rui_up_01_f04 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *5392|
 [fc]
@@ -345,25 +348,24 @@
 *5394|
 [fc]
 [【勇二】]
-「がばぁっ……なんだよ、うっせーなぁ……くっ……くくっ！！[r]
-　えへぁ～……」[pcms][endhact]
+"Gah... what's up, shut up... cough... cough!! Ehehe..."[pcms]
 *5395|
 [fc]
-水の中から、緩慢な動きでプールサイドに上がった血まみれの男が、[r]
-俺達の方に振り返り、気味の悪い笑みを浮かべた。[pcms]
+From the water, the blood-covered man who had climbed out onto the[r]
+poolside turned towards us with a creepy smile.[pcms]
 *5396|
 [fc]
 [【央】]
 「勇二……？」[pcms][endhact]
 *5397|
 [fc]
-思わずそう呼んだものの……あれは勇二に似た何かだ。[r]
-そうとしか思えない程の様相に、俺も、先輩も動きを止める。[pcms]
+Although I called out without thinking... that thing resembled Yuuji.[r]
+It was so similar that both senpai and I stopped in our tracks.[pcms]
 *5398|
 [fc]
 [【勇二】]
-「お？　おおお～？　でっけぇオッパイじゃねえか！[r]
-　いいねぇ……いいねぇ！！　貸せよ、俺に貸せよぉっ！」[pcms][endhact]
+"Oh? Oooh? What huge boobs! Nice... very nice!! Let me have them, lend[r]
+them to me!"[pcms]
 [backlay][rui_lo_01_f04 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *5399|
 [fc]
@@ -376,8 +378,8 @@
 [eval exp="sf.EV40_03 = 1"][backlay][image storage="EV40_03" layer=3 page=back visible=true left=0 top=0][trans method=universal rule="LtoR" vague=100 time=200][wt2]
 *5400|
 [fc]
-累先輩は、猛烈な勢いで突進してきた勇二の腕を取り、[r]
-くるりと投げ飛ばした。[pcms]
+Rui-senpai grabbed Yuuji's arm as he charged at her with ferocious[r]
+speed and threw him over her shoulder.[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *5401|
 [fc]
@@ -398,8 +400,8 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *5404|
 [fc]
-勇二は受け身も取らず、脇からプールサイドに落ちてしまった。[r]
-そのせいか、骨が折れるイヤな音が鳴り響く。[pcms]
+Yuuji fell poolside without breaking his fall, possibly breaking bones[r]
+with a nasty sound as a result.[pcms]
 *5405|
 [fc]
 [【央】]
@@ -408,8 +410,7 @@
 *5406|
 [fc]
 [【勇二】]
-「がばっ……わ、わるい……？　おレの何が……悪い？[r]
-　くくっ……あははははっ！！」[pcms][endhact]
+"Gah... sorry...? What's wrong with me...? Cough... hahaha!!"[pcms]
 [backlay][rui_up_01_f16 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *5407|
 [fc]
@@ -424,7 +425,7 @@
 *5409|
 [fc]
 [ns【]男A[】nse]
-「あっははははっ！　まてまてまてぇ～！」[pcms][endhact]
+「あっははははっ！　まてまてまてぇ！」[pcms][endhact]
 *5410|
 [fc]
 [ns【]男B[】nse]
@@ -439,11 +440,11 @@
 「おい、どうした？　何があったんだ！？」[pcms][endhact]
 *5413|
 [fc]
-さっき逃げていった連中が、悲鳴を上げながら戻ってきた。[pcms]
+The people who had fled earlier came back screaming.[pcms]
 *5414|
 [fc]
-しかもその後ろからは、なんだか変な奴らが沢山追いかけてきていて……。[r]
-まるで、奇妙な鬼ごっこの様になっていた。[pcms]
+And behind them, a bunch of weirdos were chasing after them... It was[r]
+like a bizarre game of tag.[pcms]
 *5415|
 [fc]
 [ns【]女子部員[】nse]
@@ -451,34 +452,33 @@
 *5416|
 [fc]
 [ns【]男A[】nse]
-「つ～かまえたぁっ！　あっはあぁあぁ！！」[pcms][endhact]
+「つかまえたぁっ！　あっはあぁあぁ！！」[pcms][endhact]
 *5417|
 [fc]
 [ns【]女子部員[】nse]
 「ぎゃっ！！」[pcms][endhact]
 *5418|
 [fc]
-躓き、転んだ女の子に男が飛びかかる。[pcms]
+A man pounced on a girl who tripped and fell.[pcms]
 *5419|
 [fc]
 [ns【]男B[】nse]
-「はらへったぁっ！　ああーあああたまんねえっ！！[r]
-　あがあぁ～……んっ！！」[pcms][endhact]
+"I'm so hungry! Ahh, this is too good!! Aghhh... mmm!!"[pcms]
 *5420|
 [fc]
 [ns【]男子生徒B[】nse]
 「ぎやぁあああああああああああああああぁぁあっ！」[pcms][endhact]
 *5421|
 [fc]
-逃げる男に追いつき、組み付き……そして、また首筋に噛みついて、[r]
-勢いよく押し倒す。[pcms]
+Catching up to a fleeing man, grappling him... and then biting into[r]
+his neck and forcefully pushing him down.[pcms]
 *5422|
 [fc]
-逃げてきた人達は、追いかけてきた人達によって、[r]
-次々と押し倒され、噛みつかれ、服をはぎ取られていく――[pcms]
+The people who had fled were being knocked down one after another by[r]
+their pursuers, bitten, and stripped of their clothes--[pcms]
 *5423|
 [fc]
-そこかしこで吹き上がる血しぶきと、悲鳴がプールの中に広がっていく。[pcms]
+Blood splattered everywhere and screams filled the pool area.[pcms]
 *5424|
 [fc]
 [【央】]
@@ -497,14 +497,14 @@
 [backlay][yuj_lo_04_k01 layer=3 x="&sf.yu_lo_x[3]" y="&sf.yu_lo_y[0]"][trans time=150 method=crossfade][wt]
 *5427|
 [fc]
-阿鼻叫喚に目を取られた俺達――累先輩に向けて、[r]
-再び勇二の手が伸びる。[pcms]
+Distracted by the pandemonium, Yuuji's hand reached out for Rui-senpai[r]
+again--[pcms]
 [se buf=0 storage="seB040"]
 [eval exp="sf.EV40_03 = 1"][backlay][image storage="EV40_03" layer=3 page=back visible=true left=0 top=0][trans method=universal rule="LtoR" vague=100 time=200][wt2]
 *5428|
 [fc]
-だが、それはまたしてもすんでの所でくみ取られ、[r]
-もう一度円を描き宙を舞い、頭から真っ逆さまに落下していく。[pcms]
+But once more, just in time, it was caught and sent spinning through[r]
+the air, plummeting headfirst.[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 [se buf=0 storage="seB012"]
 [se buf=1 storage="seB025"]
@@ -518,43 +518,44 @@
 「うわああああああああぁあっ！！」[pcms][endhact]
 *5431|
 [fc]
-ガシュッ……。[r]
-びしゃっ……。[pcms]
+Gash... Splash...[pcms]
 *5432|
 [fc]
-まるでを落とした時のような音が鳴り響き、[r]
-直後、薄桃色をした白子のような、柔らかい物体が辺りに広がっていく。[pcms]
+The sound echoed like dropping a melon, followed by a soft object[r]
+spreading around like pale pink roe.[pcms]
 *5433|
 [fc]
-そして、勇二は大きく身体を痙攣させ、[r]
-口から泡を吹き……動きを止めた。[pcms]
+Then Yuuji convulsed greatly, foamed at the mouth... and stopped[r]
+moving.[pcms]
 *5434|
 [fc]
 [【央】]
 「ゆ、勇二……？　勇二ッ！？」[pcms][endhact]
 *5435|
 [fc]
-ホラー映画やスプラッター映画なんかでよく見る光景が、[r]
-目の前で繰り広げられる。[pcms]
+The kind of scene you'd often see in horror or splatter movies was[r]
+unfolding right before our eyes.[pcms]
 *5436|
 [fc]
-まるで現実味のない現実に、俺の足は震え、全身から血の気が引いていく。[r]
-何より、コレを平然とやってのけた累先輩に対しても。[pcms]
+In this surreal reality that felt so unreal, my legs trembled and I[r]
+felt the blood drain from my entire body. Above all, I was also[r]
+shocked by how calmly Rui-senpai handled the situation.[pcms]
 [backlay][rui_lo_01_f05 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *5437|
 [fc]
 [vo_ru s="rui0669"]
 [【累】]
-「渋江君、様子のおかしいのが増えてきた。[r]
-　ここにいてはいけない。逃げるよ！」[pcms][endhact]
+"Shibue-kun, there are more and more acting strange. We can't stay[r]
+here. We need to run!"[pcms]
 *5438|
 [fc]
-さすがに端正な顔を蒼白にしつつも、先輩は俺の手を取って走り出した。[pcms]
+Even with her normally composed face now pale, senpai took my hand and[r]
+started running.[pcms]
 *5439|
 [fc]
 [【央】]
-「は、はいっ！　でも、どこに……？　出入り口は、あっち……、[r]
-　連中の来た方ですよ！」[pcms][endhact]
+"Yes! But where to...? The entrance is that way..., where those people[r]
+came from!"[pcms]
 [backlay][rui_lo_01_f04 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *5440|
 [fc]
@@ -564,10 +565,10 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *5441|
 [fc]
-先輩は顔を上げ、目をスタンド席の方へと向けた。[pcms]
+Senpai looked up and directed her gaze towards the stands.[pcms]
 *5442|
 [fc]
-あそこから逃げるって事か！？[pcms]
+Are we going to escape from there!?[pcms]
 [stopse_all]
 [sysbt_meswin clear]
 [backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]

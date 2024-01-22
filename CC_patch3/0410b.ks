@@ -4,51 +4,55 @@
 [sysbt_meswin]
 *4736|
 [fc]
-朝練でランニングに出た五十嵐さんが、[r]
-キャンプ場近くで暴漢に襲われてしまった。[pcms]
+Igarashi-san, who went out for a morning run, was attacked by a thug[r]
+near the campsite.[pcms]
 *4737|
 [fc]
-暴漢は一人ではなく、男が三人に女が一人の計四人。[pcms]
+The thug wasn't alone; there were three men and one woman, making a[r]
+total of four people.[pcms]
 *4738|
 [fc]
-襲われたのは五十嵐さんだけじゃなく、キャンプ場にいた一般客や、[r]
-同じくグラウンドで朝練をしていた生徒たちもだ。[pcms]
+It wasn't just Igarashi-san who was attacked; ordinary campers and[r]
+students who were also practicing on the ground in the morning were[r]
+targeted as well.[pcms]
 *4739|
 [fc]
-そこに、グラウンドで練習をしていた梨里も巻き込まれてしまった。[pcms]
+During that, Riri, who was practicing on the ground, got caught up in[r]
+it too.[pcms]
 *4740|
 [fc]
-というか、自分から五十嵐さんを守るために、[r]
-自分から暴漢に立ち向かっていったのだ。[pcms]
+In fact, she confronted the thugs herself to protect Igarashi-san.[pcms]
 *4741|
 [fc]
-暴漢たちは、梨里やラグビー部員、格技系部員の活躍によって取り押さえられたが、[r]
-怪我人も多数で、梨里も五十嵐さんも怪我をしたらしい。[pcms]
+The thugs were subdued by the efforts of Riri, the rugby club members,[r]
+and the martial arts club members, but there were many injuries, and[r]
+it seems both Riri and Igarashi-san were hurt.[pcms]
 *4742|
 [fc]
-取り押さえられた暴漢は、その後突然死んでしまったそうだ。[pcms]
+The subdued thug suddenly died afterward.[pcms]
 *4743|
 [fc]
-そんなことになるような取り押さえ方はしていなかったはずで、[r]
-原因は不明。[pcms]
+There shouldn't have been such a violent subduing that would cause[r]
+that; the cause is unknown.[pcms]
 *4744|
 [fc]
-朝食の後、施設利用者は全員、自室待機ということになった。[pcms]
+After breakfast, all facility users were instructed to stay in their[r]
+rooms.[pcms]
 *4745|
 [fc]
-今は、センターの職員や、合宿に参加している各学園の代表者が会合をもち、[r]
-今回の件の説明と、今後の対応を協議している。[pcms]
+Now, the center's staff and representatives from each school[r]
+participating in the camp are holding a meeting to explain this[r]
+incident and discuss future responses.[pcms]
 *4746|
 [fc]
-いずれ警察の事情聴取などもあるかもしれないけど……とにかく、[r]
-今はショックで放心状態に近い。[pcms]
+There might be police inquiries later... but anyway, I'm almost in a[r]
+state of shock right now.[pcms]
 *4747|
 [fc]
-噛み合わせの悪かった歯車が、音を立てて崩れ落ちた。[r]
-そんな気分だ。[pcms]
+It feels like gears that meshed poorly have collapsed with a clatter.[pcms]
 *4748|
 [fc]
-これから一体、どうなってしまうのか……。[pcms]
+What on earth is going to happen from now on...?[pcms]
 [backlay][bg storage="BG15a"][trans time=500 method=crossfade][wt2]
 *4749|
 [fc]
@@ -62,16 +66,16 @@
 「央、医務室では静かにしなさい」[pcms][endhact]
 *4751|
 [fc]
-飛び込んだ俺に、[r]
-イスに座った梨里が笑いながらそんな冗談ともつかないことを言う。[pcms]
+Riri, sitting on a chair, said such an unfunny joke to me with a laugh[r]
+as I dived in.[pcms]
 *4752|
 [fc]
-けど、今の俺は――[pcms]
+But right now, I--[pcms]
 *4753|
 [fc]
 [【央】]
-「馬鹿っ！　危ないことすんな！　オマエに何かあったら、[r]
-　俺はどうしたらいいんだよ……」[pcms][endhact]
+"Idiot! Don't do something dangerous! What am I supposed to do if[r]
+something happens to you..."[pcms]
 [backlay][rir_up_02a_f13 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *4754|
 [fc]
@@ -80,38 +84,38 @@
 「央……うん、ゴメン。心配させちゃって……」[pcms][endhact]
 *4755|
 [fc]
-思わず大声を出してしまったけど、それが効いたのか梨里が俯き、[r]
-しおらしい態度で謝ってきた。[pcms]
+I raised my voice unintentionally, but it seemed to have an effect as[r]
+Riri looked down and apologized with a meek attitude.[pcms]
 *4756|
 [fc]
-まったく、頼むよ……オマエに何かあったら、[r]
-俺は顕悟になんて謝ればいいんだよ……。[pcms]
+Really, I beg you... If something happens to you, how am I supposed to[r]
+apologize to Ken'go...[pcms]
 *4757|
 [fc]
 [【央】]
 「それで、怪我は？」[pcms][endhact]
 *4758|
 [fc]
-見ると、梨里の両手に包帯が巻かれている。[r]
-そんなにヒドイ怪我なのか……？[pcms]
+Looking at her, Riri's hands were wrapped in bandages. Is it such a[r]
+bad injury...?[pcms]
 [backlay][rir_lo_02a_f01 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *4759|
 [fc]
 [vo_ri s="riri0248"]
 [【梨里】]
-「大丈夫、ちょっと切っただけだから。ただ箇所が多いから、[r]
-　こんなに巻き巻きされちゃったけど」[pcms][endhact]
+"I'm fine, it's just a little cut. But because there are many places,[r]
+I got all wrapped up like this."[pcms]
 *4760|
 [fc]
 [【央】]
 「そ、そうか……それなら……」[pcms][endhact]
 *4761|
 [fc]
-良くはないけど、良かった……。[pcms]
+It's not good, but I'm relieved...[pcms]
 *4762|
 [fc]
-梨里のことだからムキになって立ち向かっていって、[r]
-大怪我でもしてしまったかと……。[pcms]
+I was worried that Riri, being who she is, would get herself into a[r]
+serious injury by recklessly confronting them...[pcms]
 [backlay][rir_lo_02a_f10 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *4763|
 [fc]
@@ -120,13 +124,14 @@
 「でも……なんか不気味な相手だった」[pcms][endhact]
 *4764|
 [fc]
-包帯まみれの梨里の手が伸びてきて、俺の服の裾を摘まんだ。[pcms]
+Riri's bandage-wrapped hands reached out and pinched the hem of my[r]
+clothes.[pcms]
 *4765|
 [fc]
 [vo_ri s="riri0250"]
 [【梨里】]
-「蹴っても殴っても全然手ごたえが無くて……異様に力が強かったけど、[r]
-　動きは鈍くて……」[pcms][endhact]
+"Kicking and punching didn't feel effective at all... They were[r]
+abnormally strong, but their movements were slow..."[pcms]
 *4766|
 [fc]
 [vo_ri s="riri0251"]
@@ -134,17 +139,18 @@
 「歯を叩き折られても出血しても、全然怯まないで向かってきて……」[pcms][endhact]
 *4767|
 [fc]
-服を掴む手が微かに震え、握る力が強くなる。[pcms]
+The hand holding my clothes trembled faintly, gripping harder.[pcms]
 *4768|
 [fc]
 [vo_ri s="riri0252"]
 [【梨里】]
-「身を守ろうともしないで、ただただ襲い掛かってきて……まるで、[r]
-　人間じゃない何かと戦ってたみたいで……」[pcms][endhact]
+"They kept attacking without trying to protect themselves... It was[r]
+like fighting something that wasn't human..."[pcms]
 *4769|
 [fc]
-服の裾を掴んでいる梨里の手を取り、痛くない程度の力で握り返す。[r]
-その途端、梨里の身体が小さく震えた。[pcms]
+I took Riri's hand that was holding my clothes and squeezed back with[r]
+just enough force not to hurt. At that moment, Riri's body trembled[r]
+slightly.[pcms]
 *4770|
 [fc]
 [【央】]
@@ -154,16 +160,17 @@
 [fc]
 [vo_ri s="riri0253"]
 [【梨里】]
-「うん……あたし、頑張ったんだよ……でも、純のこと、[r]
-　守れなくて……怪我させちゃって……」[pcms][endhact]
+"Yeah... I did my best... But I couldn't protect Jun... and ended up[r]
+hurting him..."[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *4772|
 [fc]
-俺の視線から逃げるように、顔を逸らして俯いてしまった。[r]
-そんな梨里を見て、俺は一度、仕切られたカーテンの外に出た。[pcms]
+She turned her face away as if to escape my gaze and hung her head.[r]
+Seeing Riri like that, I stepped outside beyond the partitioned[r]
+curtain once.[pcms]
 *4773|
 [fc]
-そして……。[pcms]
+And then...[pcms]
 *4774|
 [fc]
 [【央】]
@@ -180,27 +187,27 @@
 「あ、あはは……」[pcms][endhact]
 *4777|
 [fc]
-これは、元気ってことでいいんだろうか……？[pcms]
+Is this supposed to mean she's feeling better...?[pcms]
 *4778|
 [fc]
-苦笑を浮かべた顔色は悪く、[r]
-それでも元気そうに振舞っているのがかえって痛々しい。[pcms]
+Her pale face with a wry smile looked bad, and her attempt to act[r]
+energetic only made her seem more pitiful.[pcms]
 *4779|
 [fc]
-だけど、本当に痛々しいのは、包帯を巻かれた左腕だ。[pcms]
+But what's truly pitiful is her left arm wrapped in bandages.[pcms]
 *4780|
 [fc]
-話によると、暴漢に噛みつかれたらしい。[pcms]
+According to the story, she was bitten by a thug.[pcms]
 *4781|
 [fc]
-深く噛みつかれてしまったようで、それが原因なのか、[r]
-熱が出てしまって、それで安静が必要になっているようだ。[pcms]
+She was bitten deeply, and it seems that has caused a fever,[r]
+necessitating rest.[pcms]
 *4782|
 [fc]
-ベッドサイドには、心配そうに寄り添う勇二の姿。[pcms]
+At her bedside is Yuuji, looking worriedly at her side.[pcms]
 *4783|
 [fc]
-彼女がこんな目に遭わされたなんて、悔しいだろうな……。[pcms]
+It must be frustrating for him that she had to go through this...[pcms]
 *4784|
 [fc]
 [【央】]
@@ -218,8 +225,8 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *4787|
 [fc]
-やっぱり、五十嵐さんも梨里のこと心配してたんだな。[r]
-お互いに心配し合ってて、本当に仲がいいんだな、この二人は。[pcms]
+I guess Igarashi-san was also worried about Riri. They both care for[r]
+each other so much; they really are close friends.[pcms]
 *4788|
 [fc]
 [【央】]
@@ -234,43 +241,49 @@
 「うっ……す、すみませんでした……」[pcms][endhact]
 *4791|
 [fc]
-友達の顔を見た方が安心するだろうと、自室待機からこっそり抜け出してきた俺を[r]
-入れてくれた、話のわかるオッサンだ。[pcms]
+The understanding old man let me in because he thought seeing a[r]
+friend's face would be reassuring after I sneaked out from being[r]
+confined to my room.[pcms]
 *4792|
 [fc]
 [ns【]保健医[】nse]
-「それにしても、今年は大変な年だよ。夏風邪だけでもパンク寸前なのに、[r]
-　この事件だ。勘弁してほしいもんだね」[pcms][endhact]
+"Even so, this year has been tough. Just the summer colds are enough[r]
+to push us to the brink, and now this incident. I wish we could get a[r]
+break."[pcms]
 *4793|
 [fc]
-どこか飄々とした調子でぼやきながら、自分の肩を叩いている。[pcms]
+While grumbling in a somewhat detached tone, he patted his own[r]
+shoulder.[pcms]
 *4794|
 [fc]
 [【央】]
 「やっぱり、おかしいですよね？　こんなに夏風邪が流行ってるなんて」[pcms][endhact]
 *4795|
 [fc]
-例のオカルト系サイトの検証――[pcms]
+Verification of that occult-themed website--[pcms]
 *4796|
 [fc]
-あれがどうしても頭の隅にこびりついて離れてくれず、つい尋ねてしまった。[r]
-そんな俺に、保健医の先生は大した関心を示した様子もなく……。[pcms]
+It just wouldn't leave the corner of my mind, and I found myself[r]
+asking about it. To that, the school nurse didn't seem particularly[r]
+interested...[pcms]
 *4797|
 [fc]
 [ns【]保健医[】nse]
-「二週間くらい前からかな、急に増え始めてね。あんまりおかしいから[r]
-　保健局に届けたら、同じような報告がいろんなところからきてるそうだよ」[pcms][endhact]
+"It started about two weeks ago, suddenly began to increase. It was so[r]
+strange that when I reported it to the public health center, it seems[r]
+they've received similar reports from various places."[pcms]
 *4797a|
 [fc]
-そんなに広範囲で流行しているのか……。[pcms]
+So it's spreading that widely...[pcms]
 *4798|
 [fc]
-確かに、そんなニュースもあったような気がするけど……。[pcms]
+Indeed, I feel like there was some news about that...[pcms]
 *4799|
 [fc]
 [ns【]保健医[】nse]
-「夏風邪患者の血液検査をするそうだから、何かしら異常があったら、[r]
-　すぐに発表されるだろうね。はい、これ」[pcms][endhact]
+"They're going to do blood tests on the summer cold patients, so if[r]
+there's anything abnormal, it'll probably be announced right away.[r]
+Here, take this."[pcms]
 *4800|
 [fc]
 [【央】]
@@ -281,15 +294,15 @@
 「病気は予防が肝心だよ。出来るだけ着けておくようにね」[pcms][endhact]
 *4802|
 [fc]
-手渡されたのは、何の変哲もないマスクだった。[r]
-まあ、風邪の予防にマスクは基本だよな……。[pcms]
+What was handed to me was an unremarkable mask. Well, masks are basic[r]
+for preventing colds, after all...[pcms]
 *4803|
 [fc]
-お礼を言い、勇二にも声をかけて、[r]
-仕切りのカーテンから出ようとする。[pcms]
+I said thanks, called out to Yuuji as well, and tried to leave through[r]
+the partition curtain.[pcms]
 *4804|
 [fc]
-そんな俺の後ろで……。[pcms]
+Behind me...[pcms]
 [backlay]
 [yuj_up_04_f01 layer=1 x="&sf.yu_up_x[1]" y="&sf.yu_up_y[0]"]
 [jun_up_04a_f11 layer=2 x="&sf.ju_up_x[2]" y="&sf.ju_up_y[0]"][trans time=150 method=crossfade][wt]
@@ -301,17 +314,18 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *4806|
 [fc]
-五十嵐さんと勇二が、キスをしていた。[pcms]
+Igarashi-san and Yuuji were kissing.[pcms]
 *4807|
 [fc]
-さ、流石に肉体関係のあるカップルは格が違った……。[pcms]
+Wow, a couple with a physical relationship really is on a different[r]
+level...[pcms]
 *4808|
 [fc]
-圧倒的なリア充パゥワーを見せつけられ、[r]
-俺は敗北感を抱えたまま医務室を後にしたのだった……。[pcms]
+Overwhelmed by their display of sheer relationship power, I left the[r]
+infirmary feeling defeated...[pcms]
 *4809|
 [fc]
-おっと、梨里を置いてくとこだった。[pcms]
+Oops, I almost left without Riri.[pcms]
 [stopse_all]
 [sysbt_meswin clear]
 [backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]

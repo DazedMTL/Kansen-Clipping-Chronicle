@@ -4,19 +4,21 @@
 [sysbt_meswin]
 *7837|
 [fc]
-グラウンド沿いの森を進み、センターへと向かった俺たち。[pcms]
+We made our way through the forest along the ground and headed towards[r]
+the center.[pcms]
 *7838|
 [fc]
-途中、バケモノたちに見つかりそうになったりもしたけれど、[r]
-発光させたケミカルライトを使って気を逸らしたりしてなんとかやり過ごした。[pcms]
+Along the way, we almost got spotted by monsters, but we managed to[r]
+distract them using chemlights we lit up.[pcms]
 *7839|
 [fc]
-そしてようやく、プール裏にたどり着いたわけだが、[r]
-やっぱりここにもバケモノ化した人たちがうろついていた。[pcms]
+Finally, we arrived behind the pool, but as expected, there were[r]
+people who had turned into monsters lurking around.[pcms]
 *7840|
 [fc]
-センターの中からも悲鳴と絶叫が聞こえてきているから、[r]
-やっぱりキャンプ場と同じことになってしまっているんだろう。[pcms]
+Screams and shrieks could be heard coming from inside the center, so[r]
+it seems like the same thing that happened at the campsite is[r]
+happening here.[pcms]
 [backlay][sud_lo_03_f30 layer=3 x="&sf.su_lo_x[3]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7841|
 [fc]
@@ -24,33 +26,33 @@
 「さっさと行こうぜ！　ヤツらの頭かち割ってやる！」[pcms][endhact]
 *7842|
 [fc]
-バットの先で地面を突きながら、須田が非常口を睨み付けている。[pcms]
+With the tip of his bat touching the ground, Suda glares at the[r]
+emergency exit.[pcms]
 *7843|
 [fc]
-その表情は笑顔――というよりも、凶暴さを剥き出しにした顔、[r]
-と言ってもいいかもしれない。[pcms]
+His expression is more of a ferocious grin than a smile, it might be[r]
+fair to say.[pcms]
 *7844|
 [fc]
 [【央】]
-「おい、須田……大丈夫かオマエ。いくらなんでも、[r]
-　テンション上がりすぎなんじゃ……」[pcms][endhact]
+"Hey, Suda... are you okay? You're getting a little too hyped up..."[pcms]
 [backlay][sud_lo_03_f02 layer=3 x="&sf.su_lo_x[3]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7845|
 [fc]
 [【須田】]
-「大丈夫、大丈夫！　渋江～、やきうやろうぜ～！[r]
-　ボールはバケモノの頭な～」[pcms][endhact]
+"I'm fine, I'm fine! Shibue~, let's play baseball~! The ball is the[r]
+monsters' heads~"[pcms]
 *7846|
 [fc]
-まったく大丈夫じゃないじゃないか。[r]
-追い詰められて妙な方向にキレたってだけじゃないような気もするけど……。[pcms]
+He's clearly not okay. It feels like he's snapped in a weird way due[r]
+to being cornered...[pcms]
 [backlay][rir_lo_03_f06 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7846a|
 [fc]
 [vo_ri s="riri0779"]
 [【梨里】]
-「あんまりグズグズしてると手遅れになっちゃうかもしれないよ。[r]
-　早く行こう、央」[pcms][endhact]
+"If we dawdle too much, it might be too late. Let's go quickly,[r]
+Tsugumi."[pcms]
 *7847|
 [fc]
 [【央】]
@@ -58,41 +60,43 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *7848|
 [fc]
-夜練習の時間だから、累先輩はプールに来ているはずだ。[r]
-もしかしたら、子野日さんも一緒にいるかもしれないし。[pcms]
+Since it's time for night practice, Senpai Rui should be at the pool.[r]
+Maybe Konno Hina-san is with her too.[pcms]
 *7849|
 [fc]
-五十嵐さんと勇二は、多分部屋にいるんだろうけど、[r]
-ここからだと外を回っていくよりも、一旦、中に入ってしまった方が近い。[pcms]
+Igarashi-san and Yuuji are probably in their room, but from here it's[r]
+closer to go inside first rather than going around outside.[pcms]
 *7850|
 [fc]
-もっとも、建物の中にどれだけの数のバケモノ化した人がいるのかどうか、[r]
-それが一番重要な問題になるんだけど。[pcms]
+The most important issue, however, is how many people who have turned[r]
+into monsters are inside the building.[pcms]
 *7851|
 [fc]
 [【央】]
 「一階から行くか、二階から入るか……」[pcms][endhact]
 *7852|
 [fc]
-それぞれ入口はふたつずつある。[pcms]
+There are two entrances each.[pcms]
 *7853|
 [fc]
-一階の非常口ふたつはそれぞれ更衣室の近く。[pcms]
+The two emergency exits on the first floor are each near a changing[r]
+room.[pcms]
 *7854|
 [fc]
-二階への非常階段のところの出入り口は、[r]
-スタンド席用の非常口になっている。[pcms]
+The entrance by the emergency stairs to the second floor is for the[r]
+stand seats' emergency exit.[pcms]
 *7855|
 [fc]
-女子更衣室に籠城している可能性もあるけれど、スタンド席は普段は[r]
-あまり人の立ち入りはなかったから、バケモノ化した人たちもいないかもしれない。[pcms]
+There's also a chance that they're holed up in the girls' changing[r]
+room, but since the stand seats aren't usually accessed much, there[r]
+might not be any monsters there.[pcms]
 *sel|１Fの非常口／２Fの非常口
 [fc]
 一度、高いところから状況を確認してからっていう手もあるだろうし……。[pcms_sel]
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	
-	[hisout txt="選択肢“１Fの非常口”"][r]
-	[hisout txt="選択肢“２Fの非常口”"][r]
+(hisout txt="Choice “1F Emergency Exit") (hisout txt="Choice “2F[r]
+Emergency Exit")[pcms]
 [endif]
 [hr]
 [履歴出力復帰]
@@ -114,20 +118,20 @@
 [backlay][chara_int5][trans time=150 method=crossfade][wt]
 *7858|
 [fc]
-俺の選択に、小さく頷く梨里と、[r]
-勢い込んで頷きながら飛び出す須田。[pcms]
+At my choice, Riri nods slightly, and Suda nods vigorously as he[r]
+rushes out.[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *7859|
 [fc]
-慌てて追いかけた俺たちの目の前に、[r]
-揺れるような足取りでバケモノ化した人が物陰から唐突に現れた。[pcms]
+In front of us, who hurriedly followed, a person who had turned into a[r]
+monster appeared abruptly from behind cover with an unsteady gait.[pcms]
 *7860|
 [fc]
-驚きの声を上げかけ――俺はそれを飲み込んでしまった。[pcms]
+About to let out a cry of surprise--I swallowed it instead.[pcms]
 [fadeoutbgm time=500]
 *7861|
 [fc]
-目の前に現れたのは、知った顔――[pcms]
+The one who appeared before us was a familiar face--[pcms]
 [bgm storage="bgm13" time=100]
 [backlay][tak_lo_03_k01 layer=3 x="&sf.ta_lo_x[3]" y="&sf.ta_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7862|
@@ -136,21 +140,22 @@
 「高橋ちゃん……！」[pcms][endhact]
 *7863|
 [fc]
-他のバケモノ化した人たちと同様、高橋先生も歪んだ笑顔を浮かべて、[r]
-俺を見据えてきた。[pcms]
+Just like the other transformed people, Teacher Takahashi also had a[r]
+twisted smile as she stared at me.[pcms]
 *7864|
 [fc]
-真っ赤な目で見据えられ、慌ててバットを構え――動けない。[pcms]
+Being stared at with those blood-red eyes, I hurriedly readied my bat[r]
+--but couldn't move.[pcms]
 *7865|
 [fc]
-だって、高橋先生なんだぞ？[pcms]
+Because it's Teacher Takahashi, you know?[pcms]
 *7866|
 [fc]
-優しくて、一生懸命で、ちょっと頼りないけど。[pcms]
+Kind, hardworking, a bit unreliable but...[pcms]
 *7867|
 [fc]
-同じ目線まで下りてきてくれて、心配してくれたり、[r]
-一緒に悩んでくれたりしてた、そんな先生なんだぞ……？[pcms]
+The teacher who would come down to our level to worry and ponder with[r]
+us...[pcms]
 *7868|
 [fc]
 [vo_mo s="takahasi0050"]
@@ -158,11 +163,11 @@
 「しぶえくん……きよはらさんも……いいこだから……たべられてねぇ？」[pcms][endhact]
 *7869|
 [fc]
-背筋に冷たく長い針を突き刺されたような感覚が襲い、[r]
-バットを振り下ろそうとする。[pcms]
+A sensation like cold long needles being thrust into my spine assaults[r]
+me as I try to swing down my bat.[pcms]
 *7870|
 [fc]
-けど、どうしても躊躇ってしまって下りてこない。[pcms]
+But I hesitate and can't bring myself to do it.[pcms]
 [backlay][rir_lo_03_f08 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7871|
 [fc]
@@ -171,7 +176,7 @@
 「央！」[pcms][endhact]
 *7872|
 [fc]
-梨里の叫び声に、倒れそうになって一歩、後ずさったその時――[pcms]
+At Riri's scream, I nearly fell and took a step back--[pcms]
 [backlay]
 [tak_lo_03_k01 layer=3 x="&sf.ta_lo_x[3]" y="&sf.ta_lo_y[0]"]
 [sud_lo_03_f30 layer=5 x="&sf.su_lo_x[5]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
@@ -184,11 +189,12 @@
 [backlay][chara_int3][trans time=150 method=crossfade][wt]
 *7874|
 [fc]
-須田が高橋先生の後ろから、バットでその頭を殴り飛ばした。[pcms]
+That's when Suda struck Teacher Takahashi's head from behind with his[r]
+bat.[pcms]
 *7875|
 [fc]
-高橋先生の顔がひしゃげ、体が地面に叩きつけられた。[r]
-そんな高橋先生に馬乗りになり、須田がバットを振り下ろし続けている。[pcms]
+Teacher Takahashi's face caved in, and her body was slammed to the[r]
+ground. Suda mounted her and continued to swing down his bat.[pcms]
 *7876|
 [fc]
 [【央】]
@@ -198,8 +204,8 @@
 *7877|
 [fc]
 [【須田】]
-「ふひっ、ふひひひひゃぁぁぁぁっ！！　死ねっ、しねっ！[r]
-　しねしねしねしねしねしねしねしねしねしねっっ！！」[pcms][endhact]
+"Fufuh, fuhuhuhuhuhahahah!! Die, die![r]
+Diediediediediediediediediedie!!"[pcms]
 [se buf=0 storage="seB007"]
 [wait2 time=100]
 [se buf=0 storage="seB007"]
@@ -207,26 +213,25 @@
 [se buf=0 storage="seB008"]
 *7878|
 [fc]
-鈍い打撃音に粘りつくような水音が混じりだし、[r]
-周りの地面に赤い飛沫が撒き散らせている。[pcms]
+The dull sound of blows mixed with a sticky wet sound began to spread,[r]
+and red splatters were scattered around on the ground.[pcms]
 *7879|
 [fc]
-須田のバットが振り下ろされるたびに細かく跳ねていた高橋先生の体が、[r]
-ぴくりとも動かなくなっても、須田の手は止まらない。[pcms]
+Even though Teacher Takahashi's body, which had been twitching with[r]
+each bat strike, stopped moving altogether, Suda's hands didn't stop.[pcms]
 *7880|
 [fc]
 [【央】]
 「須田、もうやめろ！」[pcms][endhact]
 *7881|
 [fc]
-ダメだ。[r]
-こんな状況におかれて、須田もおかしくなってしまった。[pcms]
+No good. Placed in such a situation, Suda has gone mad too.[pcms]
 *7882|
 [fc]
-そうわかっていながらも、言わずにはいられない。[pcms]
+I know this, yet I can't help but speak out.[pcms]
 *7883|
 [fc]
-そんな俺に――[pcms]
+To me--[pcms]
 [backlay][chara_int][rir_up_03_f04 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *7884|
 [fc]
@@ -235,23 +240,24 @@
 「央、こっち！　早く！」[pcms][endhact]
 *7885|
 [fc]
-いつの間にか、梨里が非常口のドアノブに手をかけていた。[pcms]
+Riri had already reached for the emergency exit doorknob without me[r]
+noticing.[pcms]
 *7886|
 [fc]
-プールの使用時間だから、鍵は開いているはずだ。[r]
-すぐにでも中に入れる。[pcms]
+The pool is supposed to be open for use now, so the lock should be[r]
+open. We can enter right away.[pcms]
 *7887|
 [fc]
-須田は……。[pcms]
+Suda...[pcms]
 [backlay][sud_lo_03_k01 layer=3 x="&sf.su_lo_x[3]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7888|
 [fc]
 [【須田】]
-「ひかっ、くきかかかかかかかっ！　殴る！　死ぬ！[r]
-　死ね死ね死ね死ねもっと死ねぇぇええぇぇぇっっ！！」[pcms][endhact]
+"Hikah, kukikakakakakakakak! Hit! Die! Die die die die die more[r]
+dieeeee!!"[pcms]
 *7889|
 [fc]
-あんな状態じゃ、置いていくしかない……。[pcms]
+In such a state, there's no choice but to leave him behind...[pcms]
 [backlay][chara_int][rir_up_03_f10 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *7890|
 [fc]
@@ -259,11 +265,12 @@
 「行こう、梨里……！」[pcms][endhact]
 *7891|
 [fc]
-頷く俺に頷き返し、梨里がドアノブを回した。[pcms]
+I nod in agreement, and Riri turns the doorknob.[pcms]
 [se buf=0 storage="seB093"]
 *7891|
 [fc]
-その途端、内側から弾けるようにして非常口のドアが開き――[pcms]
+The moment she does, the emergency exit door bursts open from the[r]
+inside--[pcms]
 [stopbgm]
 [bgm storage="bgm04" time=100]
 [backlay][evcg storage="EV53_01" layer=0 page=back visible=true left=0 top=0][trans method=universal rule="wipe" vague=300 time=300][wt2]
@@ -278,7 +285,7 @@
 「うわぁああああああああっっ！！！」[pcms][endhact]
 *7894|
 [fc]
-バケモノたちが、怒濤の勢いで飛び出してきた。[pcms]
+Monsters, with the force of a torrent, came rushing out.[pcms]
 *7895|
 [fc]
 [ns【]男[】nse]
@@ -289,8 +296,8 @@
 「きゃひっ、んひはははははははははっ！！」[pcms][endhact]
 *7897|
 [fc]
-幾人ものバケモノたちが、俺と梨里にすごい力で組み付いてくる。[r]
-抵抗することも出来ず、バケモノたちの波に飲み込まれていく俺と梨里。[pcms]
+Several monsters cling to Riri and me with incredible strength. Unable[r]
+to resist, we are swallowed up by the wave of monsters.[pcms]
 [backlay][rir_up_03_f17 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *7898|
 [fc]
@@ -303,28 +310,27 @@
 「梨里っ！　梨里ぃぃぃっ！！」[pcms][endhact]
 *7900|
 [fc]
-バケモノの手を払い除け、必死に伸ばした手。[r]
-その手に鋭い痛みが走った。[pcms]
+Brushing aside the hands of the monsters, I desperately reach out. A[r]
+sharp pain runs through my hand.[pcms]
 *7901|
 [fc]
-噛まれた。[r]
-そう思った時には、全身のあちこちから同じ痛みが響いてきた。[pcms]
+I've been bitten. By the time I realize it, the same pain is[r]
+resonating from all over my body.[pcms]
 *7902|
 [fc]
-く、喰われるのかっ……！？[r]
-俺も、生きたまま……！[pcms]
+Am I going to be eaten...!? Alive...![pcms]
 *7903|
 [fc]
-痛みと絶望で、急激に意識が遠のいていく。[pcms]
+The pain and despair rapidly pull my consciousness away.[pcms]
 *7904|
 [fc]
-ゴメン、梨里……守れなくて……。[pcms]
+I'm sorry, Riri... I couldn't protect you...[pcms]
 *7905|
 [fc]
-すまん、顕悟……梨里のこと、守れなくて……。[pcms]
+I'm sorry, Akihiro... I couldn't protect Riri...[pcms]
 *7906|
 [fc]
-自分の体のあちこちが千切れていく感触に包まれながら、俺は――[pcms]
+As I feel the sensation of parts of my body being torn off, I--[pcms]
 [sysbt_meswin clear]
 [backlay][red_toplayer][trans method=universal rule="blood1" vague=50 time=1500][wt2][hide_chara_int]
 [fadeoutbgm time=2000]
@@ -360,28 +366,29 @@
 [se buf=0 storage="seA052"]
 *7908|
 [fc]
-俺の掛け声とともに、駆け出した。[pcms]
+With my shout, I started running.[pcms]
 *7909|
 [fc]
-目指すは非常階段。[r]
-二階からの侵入を試みる。[pcms]
+My goal is the emergency staircase. I'll try to enter from the second[r]
+floor.[pcms]
 [stopse buf=0]
 *7910|
 [fc]
-駆け上り、非常口に飛びつくようにしてドアノブに手をかけ、[r]
-回した――けど、開かない！？[pcms]
+I run up and grab the doorknob of the emergency exit as if leaping at[r]
+it, and turn it--but it won't open!?[pcms]
 *7911|
 [fc]
-あんまり使わないから鍵をかけたままだったのか！？[r]
-プールの使用時間だから開けてあると思ったのに！[pcms]
+Was it locked because it's not used often!? I thought it would be[r]
+unlocked since it's pool time![pcms]
 *7912|
 [fc]
 [【央】]
 「くそっ！　開けっ、開けよっ！！」[pcms][endhact]
 *7913|
 [fc]
-開かないとわかっていても、ドアノブを回しまくってしまう。[r]
-焦ってる場合じゃなくて、打開策を考えなくちゃいけないのに……！[pcms]
+Even though I know it won't open, I keep turning the doorknob[r]
+frantically. This is no time to panic; I need to think of a way[r]
+out...![pcms]
 [backlay][rir_lo_03_f08 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7914|
 [fc]
@@ -391,31 +398,31 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *7915|
 [fc]
-梨里の声に振り向くと、[r]
-階段をバケモノ化した女子が昇ってこようとしていた。[pcms]
+When I turn at Riri's voice, I see a monsterized girl trying to climb[r]
+up the stairs.[pcms]
 *7916|
 [fc]
-ぎくしゃくしているものの、思ったよりも機敏な動きで階段に足をかけ――[r]
-躓いた。[pcms]
+Despite her jerky movements, she's more agile than I thought and steps[r]
+onto the staircase--and trips.[pcms]
 *7917|
 [fc]
 [【央】]
 「段差は苦手なのか……？」[pcms][endhact]
 *7918|
 [fc]
-どうにも足が持ち上がらないようで、何度も何度も階段に足を取られ、[r]
-立っては転び、転んでは立ってを繰り返している。[pcms]
+It seems she can't lift her feet properly, repeatedly getting caught[r]
+on the stairs, standing up and falling down over and over.[pcms]
 *7919|
 [fc]
-とはいえ、これはチャンスだ。[r]
-この間に何とか非常口の鍵を開けないと。[pcms]
+But this is a chance. We have to unlock the emergency exit during this[r]
+time.[pcms]
 *7920|
 [fc]
-立つのを諦め、這うようにして昇ってくるのを横目に見ながら、[r]
-非常口に向き直る。[pcms]
+Giving up on standing, she crawls up as I turn back to face the[r]
+emergency exit.[pcms]
 *7921|
 [fc]
-と――[pcms]
+And--[pcms]
 [backlay][sud_up_03_f04 layer=3 x="&sf.su_up_x[3]" y="&sf.su_up_y[0]"][trans time=150 method=crossfade][wt]
 *7922|
 [fc]
@@ -424,8 +431,8 @@
 [se buf=0 storage="seB033"]
 *7923|
 [fc]
-須田が俺を押し退け、ドアに対峙したと同時にバットを[r]
-ドアノブに振り下ろした。[pcms]
+Suda pushes me aside and confronts the door, swinging his bat at the[r]
+doorknob.[pcms]
 [se buf=0 storage="seB033"]
 [wait2 time=500]
 [se buf=0 storage="seB033"]
@@ -433,16 +440,16 @@
 [se buf=0 storage="seB091"]
 *7924|
 [fc]
-二度、三度とバットが振り下ろされ、[r]
-鈍い音を立ててドアノブが破壊されて転げ落ちる。[pcms]
+Twice, three times he swings down, and with dull sounds, the doorknob[r]
+is destroyed and falls off.[pcms]
 [backlay][sud_up_03_f05 layer=3 x="&sf.su_up_x[3]" y="&sf.su_up_y[0]"][trans time=150 method=crossfade][wt]
 *7925|
 [fc]
-そのまま須田がドアノブのあった穴に指を突っ込み、[r]
-何やら弄くり回し始めた。[pcms]
+Suda then sticks his fingers into the hole where the doorknob was and[r]
+starts fiddling around with something.[pcms]
 *7926|
 [fc]
-そして――[pcms]
+And then--[pcms]
 [se buf=0 storage="seC030"]
 [backlay][sud_up_03_f02 layer=3 x="&sf.su_up_x[3]" y="&sf.su_up_y[0]"][trans time=150 method=crossfade][wt]
 *7927|
@@ -466,11 +473,11 @@
 「ふっふっふっ、よせよ、照れるぜ」[pcms][endhact]
 *7930|
 [fc]
-……それは褒め言葉なのか？[r]
-そしてオマエはそれで照れてていいのか？[pcms]
+...Is that supposed to be a compliment? And should you really be[r]
+blushing about it?[pcms]
 *7931|
 [fc]
-色々と言いたいことはあるけれど、今はそれどころじゃない。[pcms]
+There's a lot I want to say, but now's not the time for that.[pcms]
 [backlay]
 [rir_lo_03_f05 layer=4 x="&sf.ri_lo_x[4]" y="&sf.ri_lo_y[0]"]
 [sud_lo_03_f01 layer=5 x="&sf.su_lo_x[5]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
@@ -480,8 +487,8 @@
 「いいか、開けるからな……気をつけろよ」[pcms][endhact]
 *7933|
 [fc]
-頷く二人を見て、ドアを開ける。[r]
-と、その瞬間――[pcms]
+I look at the two nodding at each other and open the door. And at that[r]
+moment--[pcms]
 [backlay][chara_int][mis_up_03_f17 layer=3 x="&sf.mi_up_x[3]" y="&sf.mi_up_y[0]"][trans time=150 method=crossfade][wt]
 *7934|
 [fc]
@@ -498,12 +505,12 @@
 [se buf=0 storage="seB008"]
 *7936|
 [fc]
-反射的に身を翻した俺のいた場所を、重く硬く大きなものが切り裂き、[r]
-鈍い音を立てて非常階段の床にめり込んだ。[pcms]
+I reflexively flip over and something heavy, hard, and large slices[r]
+through where I was standing and embeds itself into the floor of the[r]
+emergency staircase with a dull sound.[pcms]
 *7937|
 [fc]
-消火器！？[r]
-こんなもん喰らったら……っていうか！[pcms]
+A fire extinguisher!? If that hit me... but wait![pcms]
 [backlay][rir_up_03_f08 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *7938|
 [fc]
@@ -515,16 +522,16 @@
 [fc]
 [vo_mo s="misuzu0198"]
 [【子野日】]
-「え……え……？　せ、先輩たちっ……！？　おかしくなってない……？[r]
-　ふぁ……ぁぁ……」[pcms][endhact]
+"Eh...eh...? Se-seniors...!? Aren't you acting strange...?[r]
+Fuh...ahhh..."[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *7940|
 [fc]
-俺たちの姿を見て、子野日さんが安心したようにへたり込んでしまった。[pcms]
+Seeing us, Konohi-san collapses in relief as if reassured.[pcms]
 *7941|
 [fc]
-そんな子野日さんと同じように、俺たちも安堵のため息をつく。[r]
-良かった、とりあえず子野日さんは無事だった……。[pcms]
+Just like Konohi-san, we also let out sighs of relief. Good, at least[r]
+Konohi-san is safe...[pcms]
 *7942|
 [fc]
 [【央】]
@@ -537,16 +544,16 @@
 「せ、先輩っ！　後ろっ、後ろっ！」[pcms][endhact]
 *7944|
 [fc]
-累先輩は、と聞きかけた俺に、恐怖に顔を歪ませながら俺の背後を指差す[r]
-子野日さん。[pcms]
+"Is Rui-senpai..." As I begin to ask, Konohi-san points behind me with[r]
+a face twisted in fear.[pcms]
 *7945|
 [fc]
-そ、そうだ、そういえば……！[pcms]
+That's right, come to think of it...![pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *7946|
 [fc]
-振り向くと、もうすぐそこまで、[r]
-バケモノ化した女子が這い登ってきていた。[pcms]
+When I turn around, a monsterized girl is already crawling up close to[r]
+us.[pcms]
 [backlay][rir_up_03_f04 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *7947|
 [fc]
@@ -557,21 +564,22 @@
 [se buf=1 storage="seB019"]
 *7948|
 [fc]
-梨里がバケモノの顔面を思いっきり蹴り飛ばし、[r]
-その勢いでバケモノ化した女子は階段を転がり落ちていく。[pcms]
+Risato kicks the monster's face with all her might, and with that[r]
+force, the monsterized girl tumbles down the stairs.[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *7949|
 [fc]
-途中、踊り場の床に強かに全身を打ち付け、大きく体を痙攣させた。[r]
-バケモノ化した女子の後頭部から、ジワリと広がっていく赤い水溜り。[pcms]
+Midway, her body slams hard against the floor of the landing, causing[r]
+her to convulse greatly. From the back of the monsterized girl's head,[r]
+a red pool slowly spreads.[pcms]
 *7950|
 [fc]
 [【央】]
 「……もう動けなさそうだな。それで……累先輩は？」[pcms][endhact]
 *7951|
 [fc]
-俺の言葉に、怯えきっていた子野日さんの目が大きく見開き、[r]
-しがみ付くようにして詰め寄ってきた。[pcms]
+At my words, Konohi-san's eyes widen in fear, and she clings to me as[r]
+she approaches.[pcms]
 [backlay][mis_up_03_f16 layer=3 x="&sf.mi_up_x[3]" y="&sf.mi_up_y[0]"][trans time=150 method=crossfade][wt]
 *7952|
 [fc]

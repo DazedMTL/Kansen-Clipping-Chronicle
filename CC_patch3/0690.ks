@@ -4,13 +4,13 @@
 [sysbt_meswin]
 *8813|
 [fc]
-それから、どれくらい時間が経ったのか、[r]
-外はいつの間にか明るくなって、窓から日が差していた。[pcms]
+And then, I'm not sure how much time had passed, but it had become[r]
+bright outside, and the sun was shining through the window.[pcms]
 [backlay][bg storage="BG13d"][trans time=500 method=crossfade][wt2]
 *8814|
 [fc]
-わたしは、時計を見ることもなく、[r]
-スポーツセンターのキャンプ場に出て……その光景を目の当たりにする。[pcms]
+I went out to the sports center's campsite without even looking at the[r]
+clock... and witnessed that scene.[pcms]
 *8815|
 [fc]
 [vo_ju s="jun0045"]
@@ -18,60 +18,65 @@
 「…………」[pcms][endhact]
 *8816|
 [fc]
-それは……動物が一斉に集団自殺をしたような、異様な光景だった。[pcms]
+It was... an eerie sight, like animals had suddenly committed mass[r]
+suicide.[pcms]
 *8817|
 [fc]
-気持ち悪い。[pcms]
+Disgusting.[pcms]
 *8818|
 [fc]
-それが始めに思った素直な感想だ。[pcms]
+That was my honest first impression.[pcms]
 *8819|
 [fc]
-朝焼けが照らす淡い光線のキャンプ場に、[r]
-見渡す限りの人が倒れている。[pcms]
+In the campsite bathed in the pale light of dawn, people were[r]
+collapsed as far as the eye could see.[pcms]
 *8820|
 [fc]
-折り重なり合い、絡み合い、ピクリとも動かない肉の束、[r]
-この全ての人が……死んでいる。[pcms]
+They were piled on top of each other, intertwined, bundles of flesh[r]
+that didn't move an inch, all of these people... were dead.[pcms]
 *8821|
 [fc]
-人の原形をとどめている身体は、まだマシな方で、[r]
-手足や頭の皮、指やら、わからないものまで……たくさん散らばっていた。[pcms]
+Bodies that still retained their human shape were the better off ones;[r]
+hands, feet, heads, fingers, and unidentifiable things... were[r]
+scattered everywhere.[pcms]
 *8822|
 [fc]
-視界に入る限り、動く人はどこにもいない。[pcms]
+As far as my eyes could see, there was no one moving.[pcms]
 *8823|
 [fc]
-犯され、侵され、冒された人の群れ……。[pcms]
+A crowd of people who had been violated, invaded, and desecrated...[pcms]
 *8824|
 [fc]
-貪り食われた、四肢の切れ端……。[pcms]
+Gnawed upon remnants of limbs...[pcms]
 *8825|
 [fc]
-屍に集る虫の羽音と、蠢く影。[pcms]
+The buzzing of insects gathering on the corpses and the wriggling[r]
+shadows.[pcms]
 *8826|
 [fc]
-食欲を満たす本能に突き動かされている野生動物の姿。[pcms]
+The sight of wild animals driven by the instinct to satisfy their[r]
+hunger.[pcms]
 *8827|
 [fc]
-ここは……この場所は、もう終わっていた。[pcms]
+This place... this place was already finished.[pcms]
 *8828|
 [fc]
-風に乗って、微かな腐敗臭が漂ってくる。[pcms]
+The faint smell of decay was carried by the wind.[pcms]
 *8829|
 [fc]
-生命の活動が終わって……土に帰ろうとしているんだ。[pcms]
+The activities of life had ended... and they were trying to return to[r]
+the soil.[pcms]
 *8830|
 [fc]
-でも、探す必要もないほどに転がっている死体の数々は、[r]
-どれもそれほどには、悲惨さを訴えかけてはこなかった。[pcms]
+But the numerous bodies lying around, so easy to find, did not seem to[r]
+convey such a tragedy.[pcms]
 *8831|
 [fc]
-手足や目や耳を失いながら……、[r]
-どの死体も、みな奇妙な笑顔を浮かべている。[pcms]
+Even though they had lost hands, eyes, and ears... each corpse wore a[r]
+strange smile.[pcms]
 *8832|
 [fc]
-恍惚としたような、麻薬中毒者のような……。[pcms]
+Like those in ecstasy, like drug addicts...[pcms]
 *8833|
 [fc]
 [vo_ju s="jun0046"]
@@ -79,29 +84,30 @@
 「くうっ……い、痛い……痛いよぉ……」[pcms][endhact]
 *8834|
 [fc]
-わたしは、誰もいない場所で泣き言を零しながら、[r]
-腕の力で地面を這っていく。[pcms]
+I was crawling on the ground with all my might, whining in a place[r]
+where no one else was.[pcms]
 *8835|
 [fc]
-身体はボロボロで、歩くどころか立つことも出来ない。[pcms]
+My body was battered; I couldn't even stand, let alone walk.[pcms]
 *8836|
 [fc]
-全身の骨と筋肉が悲鳴を上げるように、[r]
-鋭い痛みを間断なく伝えてくる。[pcms]
+Every bone and muscle in my body seemed to scream out in sharp pain[r]
+without respite.[pcms]
 *8837|
 [fc]
-自分の足なのに、上手く閉じることが出来ない。[pcms]
+I couldn't properly close my own legs.[pcms]
 *8838|
 [fc]
-関節が外れているみたいに痛くて、[r]
-吊っているような脱力感があった。[pcms]
+It hurt as if my joints were dislocated, and there was a sensation of[r]
+being suspended, a feeling of powerlessness.[pcms]
 *8839|
 [fc]
-きっと、骨折やヒビで身体中の骨を痛めている。[pcms]
+I must have damaged all the bones in my body with fractures and[r]
+cracks.[pcms]
 *8840|
 [fc]
-もしかしたら、もう二度と立つことも出来ずに、[r]
-車椅子で生活する未来が待っているのかも知れない。[pcms]
+Perhaps I will never be able to stand again and a future of living in[r]
+a wheelchair awaits me.[pcms]
 *8841|
 [fc]
 [vo_ju s="jun0047"]
@@ -109,25 +115,26 @@
 「ふふ……ふぐっ……そんなの……馬鹿みたい……」[pcms][endhact]
 *8842|
 [fc]
-数秒後には、無数に転がる死体の仲間になるかも知れないのに、[r]
-わたしは、未来のことなんて考えてる。[pcms]
+Even though I might become one of the countless dead bodies lying[r]
+around in a few seconds, I'm thinking about the future.[pcms]
 *8843|
 [fc]
-本当にどうかしているみたいだけれど……、[r]
-少しずつ、わたしは地面を這って進んでいた。[pcms]
+It seems crazy, but little by little, I was crawling on the ground and[r]
+moving forward.[pcms]
 *8844|
 [fc]
-異様に、喉が渇いている。[pcms]
+I'm extremely thirsty.[pcms]
 *8845|
 [fc]
-そういえば、まともな水分を補給していない。[pcms]
+Come to think of it, I haven't had a proper intake of water.[pcms]
 *8846|
 [fc]
-辺りを見回すと、誰の物とも知れない水筒が転がっていた。[pcms]
+Looking around, I saw a water bottle that belonged to no one in[r]
+particular rolling on the ground.[pcms]
 *8847|
 [fc]
-手を伸ばしても届かないそれに、わたしは全ての力を使って、[r]
-近づいていく。[pcms]
+I used all my strength to get closer to it, even though I couldn't[r]
+reach it with my hand stretched out.[pcms]
 *8848|
 [fc]
 [vo_ju s="jun0048"]
@@ -135,8 +142,8 @@
 「み、水……水が……飲みたい……」[pcms][endhact]
 *8849|
 [fc]
-これだけ荒廃したキャンプ場でも、[r]
-個人の持ち物なら、中身が残っているかも知れない。[pcms]
+Even in this devastated campsite, if it's personal belongings, there[r]
+might still be something inside.[pcms]
 *8850|
 [fc]
 [vo_ju s="jun0049"]
@@ -144,17 +151,17 @@
 「うっ……くうっ……水……」[pcms][endhact]
 *8851|
 [fc]
-伸ばした指先に、水筒の紐が引っかかる。[pcms]
+The string of the water bottle caught on my outstretched fingertips.[pcms]
 *8852|
 [fc]
-それをたぐり寄せようとして、しばらく足掻いたが、[r]
-水筒はこちらにやってきてはくれなかった。[pcms]
+I struggled for a while trying to pull it towards me, but the water[r]
+bottle wouldn't come my way.[pcms]
 *8853|
 [fc]
-何故か。[pcms]
+Why?[pcms]
 *8854|
 [fc]
-重いから……中身が入っているから。[pcms]
+Because it's heavy... because there's something inside it.[pcms]
 *8855|
 [fc]
 [vo_ju s="jun0050"]
@@ -162,18 +169,19 @@
 「くううっ、んうううっ……」[pcms][endhact]
 *8856|
 [fc]
-それに思い至ったわたしは、無駄なことをやめ、[r]
-泥だらけの腕で、地面を這う。[pcms]
+Realizing this, I stopped doing pointless things and crawled on the[r]
+ground with my muddy arms.[pcms]
 *8857|
 [fc]
-そして……その、重い水筒を掴んだ。[pcms]
+And then... I grabbed that heavy water bottle.[pcms]
 *8858|
 [fc]
-軽く振って確認する必要もなく、中身が入っている。[pcms]
+There was no need to shake it lightly to check; it was filled with[r]
+something.[pcms]
 *8859|
 [fc]
-わたしは、みっともないほどに取り乱しながら、[r]
-その水筒のキャップを開け、一気に口に流し込んでいく。[pcms]
+I frantically opened the cap of the water bottle and poured its[r]
+contents into my mouth in one go.[pcms]
 *8860|
 [fc]
 [vo_ju s="jun0051"]
@@ -181,14 +189,15 @@
 「んぐっ！　んんっ、んむっ、んぐっ、んぐっ……」[pcms][endhact]
 *8861|
 [fc]
-中に入っていたのは、この世の物とも思えないほど甘くて爽やかな、[r]
-スポーツドリンクだった。[pcms]
+What was inside was a sports drink so sweet and refreshing it seemed[r]
+otherworldly.[pcms]
 *8862|
 [fc]
-こんなに美味しいスポーツドリンクを、わたしは飲んだことがない。[pcms]
+I've never tasted a sports drink as delicious as this.[pcms]
 *8863|
 [fc]
-それはそうだろう、この丸一日、わたしが飲んだ物といえば……。[pcms]
+Of course, that makes sense, considering the only thing I've had to[r]
+drink all day...[pcms]
 *8864|
 [fc]
 [vo_ju s="jun0052"]
@@ -196,20 +205,22 @@
 「んぐうっ、ぐぶうっ、げぼぉぉぉぉっ、んぐえぇぇぇぇっ！」[pcms][endhact]
 *8865|
 [fc]
-ふと、自分の身体から漂う精液の匂いを嗅いだ途端、[r]
-あのえぐ味のある塩味が脳裏に蘇っていた。[pcms]
+The moment I caught a whiff of the semen smell wafting from my body,[r]
+the salty taste with a hint of bitterness came flooding back to my[r]
+mind.[pcms]
 *8866|
 [fc]
-そして、間髪を置かずに、収めたばかりのスポーツドリンクを、[r]
-胃の中から吐き出していく。[pcms]
+Without a moment's delay, I began to vomit the sports drink I had just[r]
+consumed back up from my stomach.[pcms]
 *8867|
 [fc]
-喉の奥から甘い味が抜けきってしまうと、[r]
-その後から出てきたものは……全部精液の香りだった。[pcms]
+Once the sweet taste had completely left the back of my throat, what[r]
+followed... was all scented with semen.[pcms]
 *8868|
 [fc]
-強烈な生臭さとおぞましい嫌悪感が全身を支配し、[r]
-身体中の水分の全てを吐ききるように、戻していく。[pcms]
+An intense fishy smell and a disgusting sense of revulsion took over[r]
+my entire body, making me vomit until it felt like I had expelled all[r]
+the fluids in me.[pcms]
 *8869|
 [fc]
 [vo_ju s="jun0053"]
@@ -217,11 +228,11 @@
 「げうえぇぇぇぇ、げぁぇぇぇ、ぼうぐぇぇぇぇ……」[pcms][endhact]
 *8870|
 [fc]
-自分の身体中、内と外から漂う精液の匂い。[pcms]
+The smell of semen was emanating from inside and outside my body.[pcms]
 *8871|
 [fc]
-肌にこびりついて離れない、白い粉のような物まで、[r]
-あの独特な匂いを放っている。[pcms]
+Even the white powdery substance that clung to my skin and wouldn't[r]
+come off was emitting that distinctive smell.[pcms]
 *8872|
 [fc]
 [vo_ju s="jun0054"]
@@ -229,8 +240,7 @@
 「ぐうう……ぐろぉぉぉ……」[pcms][endhact]
 *8873|
 [fc]
-わたしは、自分の[ruby text="としゃ"][ch text="吐瀉"]物にまみれるようにして倒れ込み、[r]
-そのまま……気を失った。[pcms]
+I collapsed into my own vomit and lost consciousness just like that...[pcms]
 [stopse_all]
 [sysbt_meswin clear]
 [backlay][black_toplayer][trans time=1000 method=crossfade][wt2][hide_chara_int]
@@ -239,15 +249,14 @@
 [sysbt_meswin]
 *8875|
 [fc]
-しばらく……気を失っていたらしい。[pcms]
+It seems I was out for a while...[pcms]
 *8876|
 [fc]
-身体は、痛いままだけれども、[r]
-野犬にかじられた形跡などはなかった。[pcms]
+My body still hurts, but there are no signs of being gnawed on by[r]
+stray dogs.[pcms]
 *8877|
 [fc]
-でも、ここにこのまま留まっていたら……、[r]
-わたしの背中に抑えられない悪寒が走る。[pcms]
+But if I stay here... an uncontrollable chill runs down my back.[pcms]
 *8878|
 [fc]
 [vo_ju s="jun0055"]
@@ -255,24 +264,24 @@
 「くっ……ううっ……あううっ……」[pcms][endhact]
 *8879|
 [fc]
-まだ中身が残っている水筒を首にかけると、[r]
-肘と片足の膝を使うようにして、地面を這っていく。[pcms]
+With the water bottle still half full around my neck, I started[r]
+crawling on the ground using my elbows and one knee.[pcms]
 *8880|
 [fc]
-もう、何処が痛くて、何処が無事なのかわからないけれど……、[r]
-肘からは血が滲んでいるのが見えた。[pcms]
+I can't tell what hurts and what's intact anymore... but I could see[r]
+blood seeping from my elbows.[pcms]
 *8881|
 [fc]
-すり切れて、皮が剥けてしまったらしい。[pcms]
+They seem to be scraped raw, the skin peeled away.[pcms]
 *8882|
 [fc]
-痛い……もう、楽になりたい……。[pcms]
+It hurts... I just want to be at ease...[pcms]
 *8883|
 [fc]
-誰か助けて欲しい……。[pcms]
+I want someone to save me...[pcms]
 *8884|
 [fc]
-そう思いながらも、わたしは再び地面を這い始めた。[pcms]
+Even so, I started crawling on the ground again.[pcms]
 *8885|
 [fc]
 [vo_ju s="jun0056"]
@@ -280,10 +289,10 @@
 「ああぁ……はぁ……はぁ……」[pcms][endhact]
 *8886|
 [fc]
-長い、長い時間、地面を這いつづける。[pcms]
+I kept crawling on the ground for a long, long time.[pcms]
 *8887|
 [fc]
-走っていけば、数分の距離を、何時間もかけて――[pcms]
+A distance that would take only a few minutes to run took hours...[pcms]
 [stopse_all]
 [sysbt_meswin clear]
 [backlay][black_toplayer][trans time=1000 method=crossfade][wt2][hide_chara_int]
@@ -297,55 +306,53 @@
 「あつっ……」[pcms][endhact]
 *8889|
 [fc]
-チクッとした痛みに腕を確認すると、[r]
-腕にガラスの破片が刺さっていた。[pcms]
+When I felt a sharp pain and checked my arm, there was a piece of[r]
+glass stuck in it.[pcms]
 *8890|
 [fc]
-膝も擦り切れて、ジンジンとした痛みを訴えかけてきている。[pcms]
+My knees were also scraped raw, throbbing with pain.[pcms]
 *8891|
 [fc]
-何処か、休めるところを探さないと……。[pcms]
+I need to find somewhere to rest...[pcms]
 *8892|
 [fc]
-腕のガラス片を慎重に取り除きながら、[r]
-辺りを見回していく。[pcms]
+Carefully removing the glass shard from my arm, I looked around.[pcms]
 *8893|
 [fc]
-さっき、気を失ったときは、たまたま無事だったけれど、[r]
-野犬や野鳥に身体を[ruby text="ついば"]啄まれるかも知れない。[pcms]
+When I lost consciousness earlier, I was lucky to be unharmed, but[r]
+wild dogs or birds might peck at my body next time.[pcms]
 *8894|
 [fc]
-水筒の中身を一口すすろうとするが、[r]
-中身が出てこなかった。[pcms]
+I tried to take a sip from the water bottle, but nothing came out.[pcms]
 *8895|
 [fc]
-もう、空になっている……。[pcms]
+It's empty now...[pcms]
 *8896|
 [fc]
-スポーツドリンクの糖分と栄養で疲労を癒してきたけれど、[r]
-もう、それも終わりのようだった。[pcms]
+The sugar and nutrients from the sports drink had been soothing my[r]
+fatigue, but now that seemed to be over as well.[pcms]
 *8897|
 [fc]
-食料と水……それに休める場所……。[pcms]
+Food and water... and a place to rest...[pcms]
 *8898|
 [fc]
-あたりのテントを調べるために、[r]
-胸から上を起こして、また這い始める。[pcms]
+To check the tents around me, I propped up my upper body and started[r]
+crawling again.[pcms]
 *8899|
 [fc]
-壊れていない、まだ無事なテントの中をのぞくと、[r]
-そこには知らない誰かの死体が転がっていた。[pcms]
+Peeking inside a tent that wasn't destroyed, there lay an unknown[r]
+person's dead body.[pcms]
 *8900|
 [fc]
-わたしと同じように、逃げてきて力尽きたのか、[r]
-寝ているところを襲われたのか、それはわからない。[pcms]
+I don't know if they ran out of strength while fleeing like me or were[r]
+attacked while sleeping.[pcms]
 *8901|
 [fc]
-贅沢を言っている場合ではないけれど、ここを使う気になれないわたしは、[r]
-次のテントまで、更に這っていく。[pcms]
+I can't bring myself to use this place, so I crawl further to the next[r]
+tent.[pcms]
 *8902|
 [fc]
-でも、そこにも……テントの中には、無惨な死体が転がっていた。[pcms]
+But there too... inside the tent lay another gruesome corpse.[pcms]
 *8903|
 [fc]
 [vo_ju s="jun0058"]
@@ -353,17 +360,17 @@
 「うっ……うううっ……」[pcms][endhact]
 *8904|
 [fc]
-自然に、涙が込み上げてくる。[pcms]
+Naturally, tears welled up in my eyes.[pcms]
 *8905|
 [fc]
-でも、今は誰もいないテントで休みたい。[pcms]
+But right now, I want to rest in a tent where no one else is.[pcms]
 *8906|
 [fc]
-外で寝ることは、考えられなかった。[pcms]
+The thought of sleeping outside was unthinkable.[pcms]
 *8907|
 [fc]
-弱って出血している自分は、きっと生きたまま、[r]
-虫に集られ、野生動物に歯を突き立てられる。[pcms]
+If I do, weakened and bleeding as I am, I'll surely be swarmed by[r]
+insects while alive and have wild animals sink their teeth into me.[pcms]
 *8908|
 [fc]
 [vo_ju s="jun0059"]
@@ -371,17 +378,16 @@
 「あ……あぁ……誰か……」[pcms][endhact]
 *8909|
 [fc]
-熱中症にでもなったように、視界がぼやけていく。[pcms]
+It's like I've come down with heatstroke, my vision is blurring.[pcms]
 *8910|
 [fc]
-意識が[ruby text="もうろう"][ch text="朦朧"]朦朧としているんだ。[pcms]
+My consciousness is hazy.[pcms]
 *8911|
 [fc]
-でも、駄目だ、今寝たら……そこで、終わってしまうかもしれない。[pcms]
+But no, I can't sleep now... if I do, it might all be over.[pcms]
 *8912|
 [fc]
-わたしは、家に帰ることを心に誓って、[r]
-自分を奮い立たせていく。[pcms]
+I vow to myself that I will return home, and I muster up my strength.[pcms]
 *8913|
 [fc]
 [vo_ju s="jun0060"]
@@ -389,40 +395,42 @@
 「行かなきゃ……みんな……待ってる……」[pcms][endhact]
 *8914|
 [fc]
-この、戦争が始まったような状況が、[r]
-わたしには、何が何だかわからなかった。[pcms]
+This situation, like a war has started, I can't make heads or tails of[r]
+it.[pcms]
 *8915|
 [fc]
-家族は無事なのか、友達は、他の人たちは、[r]
-みんなどうなっているのか……。[pcms]
+I wonder if my family is safe, my friends, and everyone else... what's[r]
+become of them?[pcms]
 *8916|
 [fc]
-前にネットで見た、ウイルスを用いた生物兵器の噂を思い出す。[pcms]
+I remember rumors I saw on the internet about biological weapons using[r]
+viruses.[pcms]
 *8917|
 [fc]
-あの話が本当で、『夏風邪』の正体が、[r]
-漏れ出したウイルスなのだとしたら……。[pcms]
+If those stories are true and the "summer cold" is actually a leaked[r]
+virus...[pcms]
 *8918|
 [fc]
-それが、人をあんな獣のように変えてしまったのだろうか。[pcms]
+Could it be what turned people into those beast-like creatures?[pcms]
 *8919|
 [fc]
-宿舎の中には、友達や、見たことのある人の死体もあった。[pcms]
+Inside the dormitory, there were bodies of friends and people I[r]
+recognized.[pcms]
 *8920|
 [fc]
-食べられていたり、ヤツらのように変わってしまった人も……。[pcms]
+Some were eaten, others had turned into one of them...[pcms]
 *8921|
 [fc]
-でも、ヤツらのようになっている人の中には、[r]
-風邪を引いていなかった友達の死体もあった。[pcms]
+But among those who had turned, there were also bodies of friends who[r]
+hadn't caught the cold.[pcms]
 *8922|
 [fc]
-死体に残されていた噛み傷、酷い陵辱の姿、[r]
-セックスの痕跡……。[pcms]
+The bite marks left on the bodies, the terrible indignities, the[r]
+traces of sex...[pcms]
 *8923|
 [fc]
-もしかしたら、そういうことをされる、[r]
-それがきっかけで、奴らの仲間になってしまうのかもしれない。[pcms]
+Maybe being subjected to such acts was the trigger for becoming one of[r]
+them.[pcms]
 *8924|
 [fc]
 [vo_ju s="jun0061"]
@@ -430,54 +438,51 @@
 「はぁ、はぁ……あううっ……」[pcms][endhact]
 *8925|
 [fc]
-でも……ヤツらに噛まれたり、犯されたはずの自分は、[r]
-なんともないままだ。[pcms]
+But... despite being bitten and violated by them, I remain unaffected.[pcms]
 *8926|
 [fc]
-それが原因ではないのかもしれない。[pcms]
+That might not be the cause after all.[pcms]
 *8927|
 [fc]
-わからない……なにも、なにもわからない……。[pcms]
+I don't understand... I don't understand anything...[pcms]
 *8928|
 [fc]
-でも……ひとつだけハッキリしていることがある。[pcms]
+But... there's one thing that's clear to me.[pcms]
 *8929|
 [fc]
-それは……まだ、わたしが生きているということ。[pcms]
+And that is... I'm still alive.[pcms]
 *8930|
 [fc]
-どんなに激しく、この身を責められたとしても、[r]
-自分はまだ生きている。[pcms]
+No matter how fiercely this body is tormented, I am still alive.[pcms]
 *8931|
 [fc]
-そして、まだ……死にたくない。[pcms]
+And I still... don't want to die.[pcms]
 *8932|
 [fc]
-なにが起こっているのか、理由もわからずに、[r]
-あんな陵辱を受けて、惨めに死にたくない。[pcms]
+I don't want to die a miserable death without knowing why this is[r]
+happening, after enduring such humiliation.[pcms]
 *8933|
 [fc]
-絶対に生きる。[pcms]
+I will definitely survive.[pcms]
 *8934|
 [fc]
-歯を食いしばって、生きてみせる！[pcms]
+I clench my teeth and vow to live![pcms]
 *8935|
 [fc]
-ガラスで、擦り傷だらけになっている腕を使って、[r]
-前に進んでいく。[pcms]
+Using my arms, covered in scrapes from glass, I push forward.[pcms]
 *8936|
 [fc]
-とにかく、今は生き残ること。[pcms]
+For now, the priority is to survive.[pcms]
 *8937|
 [fc]
-そのために、まずは休む。[pcms]
+To do that, first I need to rest.[pcms]
 *8938|
 [fc]
-角度的に見えないテントを、ひとつひとつ確認していくと、[r]
-無人のまま入り口の開いているテントを見つけた。[pcms]
+Checking each tent that's out of sight, I find one with its entrance[r]
+open and no one inside.[pcms]
 *8939|
 [fc]
-中には、荒らされていない、手つかずの荷物も見える。[pcms]
+Inside, I can see belongings that haven't been touched or disturbed.[pcms]
 *8940|
 [fc]
 [vo_ju s="jun0062"]
@@ -485,14 +490,14 @@
 「あぁ……あああぁ……」[pcms][endhact]
 *8941|
 [fc]
-やっと見つけた……ここなら……。[pcms]
+I've finally found it... this place will do...[pcms]
 *8942|
 [fc]
-思わず顔がほころんでしまう。[pcms]
+I can't help but crack a smile.[pcms]
 *8943|
 [fc]
-気を緩めてはいけないと思いながらも、[r]
-最後の力を振り絞るように、地面を進んでいった。[pcms]
+Even though I know I shouldn't let my guard down, I crawl forward as[r]
+if squeezing out the last of my strength.[pcms]
 *8944|
 [fc]
 [vo_ju s="jun0063"]
@@ -510,12 +515,12 @@
 「ひいぃぃっ！」[pcms][endhact]
 *8947|
 [fc]
-テントの入り口に手が届くかという、その時、[r]
-何処かから、ヤツらのうめき声が聞こえてきた。[pcms]
+Just as my hand is about to reach the entrance of the tent, a moaning[r]
+sound from one of them reaches me from somewhere.[pcms]
 *8948|
 [fc]
-思わず身をすくめて辺りを見回すと、[r]
-目的のテントの後ろから、男がのっそりと現れる。[pcms]
+I instinctively shrink back and look around, only to see a man slowly[r]
+emerge from behind the tent I was aiming for.[pcms]
 *8949|
 [fc]
 [vo_ju s="jun0065"]
@@ -523,15 +528,15 @@
 「ううっ、くうっ、ど、どうして……」[pcms][endhact]
 *8950|
 [fc]
-ヤツらは、どういうわけかみんな死んでいた。[pcms]
+All of them seemed to be dead for some reason.[pcms]
 *8951|
 [fc]
-そういう病気なのか、ウイルスとかの影響なのか、[r]
-とにかく、見渡す限りの死体の山だった。[pcms]
+Whether it's some kind of disease or an effect of a virus, it was just[r]
+a mountain of corpses as far as the eye could see.[pcms]
 *8952|
 [fc]
-この動く者のない世界で、みんな死んだと思っていたのに……！[r]
-まだ、生きている者がいるなんて……。[pcms]
+In this world devoid of movement, where I thought everyone was dead...[r]
+there are still living beings![pcms]
 *8953|
 [fc]
 [vo_ju s="jun0066"]
@@ -539,47 +544,46 @@
 「…………」[pcms][endhact]
 *8954|
 [fc]
-もう、今から逃げ出すほどの体力も気力も残されていない。[pcms]
+I no longer have the physical or mental strength left to flee now.[pcms]
 *8955|
 [fc]
-せっかく、ここまで生きて、逃げ延びてきたのに……。[pcms]
+After all this effort to stay alive and escape...[pcms]
 *8956|
 [fc]
-また、散々に犯されて……自分は死ぬんだ。[pcms]
+I'll be violated again and again... and then I'll die.[pcms]
 *8957|
 [fc]
-変な風に曲がっている足を広げられて、[r]
-あちこちが軋みを上げてい身体を、嬲られるんだ……。[pcms]
+My legs, bent in strange ways, are spread apart, and my body creaks as[r]
+it's toyed with...[pcms]
 *8958|
 [fc]
 [ns【]感染者[】nse]
 「お゛お゛ん゛……な゛あ゛あ゛……」[pcms][endhact]
 *8959|
 [fc]
-自分の死を宣告するような、その不気味な声を聞きながら、[r]
-わたしはその瞬間を待った。[pcms]
+Listening to that eerie voice, as if announcing my own death, I waited[r]
+for the moment to come.[pcms]
 *8960|
 [fc]
-きっと、腕を掴んで身体を仰向けにするんだろう。[pcms]
+They will surely grab my arm and flip my body over.[pcms]
 *8961|
 [fc]
-そして、その上に乗ってくる。[pcms]
+And then, they will climb on top of me.[pcms]
 *8962|
 [fc]
-汚いものを、カチカチに強ばらせて……。[pcms]
+With something filthy, stiffened rock-hard...[pcms]
 *8963|
 [fc]
 [ns【]感染者[】nse]
 「お゛……お゛れ゛の゛　だあ゛あ゛あ゛……」[pcms][endhact]
 *8964|
 [fc]
-もう、人間とは思えない形相をしたその顔が、[r]
-わたしに近づいてくる。[pcms]
+The face of someone who no longer seems human approaches me.[pcms]
 [backlay][black_toplayer][trans method=universal rule="RtoL" vague=100 time=200][wt2][hide_chara_int]
 *8965|
 [fc]
-そして、生臭い息が吹きかけられると思った瞬間、[r]
-わたしの背後から腕が伸びて……がっしりとその顔を掴んでいた。[pcms]
+Just when I thought I would feel their foul breath upon me, an arm[r]
+reached from behind me and firmly grasped that face.[pcms]
 *8966|
 [fc]
 [vo_ju s="jun0067"]
@@ -587,10 +591,10 @@
 「え……？」[pcms][endhact]
 *8967|
 [fc]
-細いけれど、しっかりと日に焼けた、健康そうな腕。[pcms]
+It was a thin yet sun-tanned, healthy-looking arm.[pcms]
 *8968|
 [fc]
-あいつらのものとは違う、確かに意志を感じさせる動き……。[pcms]
+It moved with a definite will, unlike theirs.[pcms]
 [backlay][bg storage="BG13d"]
 [kan_ma0 layer=3 x="&sf.ma_lo_x[3]" y="&sf.ma_lo_y[0]"]
 [trans time=500 method=crossfade][wt2]
@@ -603,8 +607,8 @@
 *8970|
 [fc]
 [quakesp time=10000 laynum=3 hmax=10 vmax=10]
-その指が、すさまじい力でヤツらの顔に食い込んだかと思うと、[r]
-そのままめり込むように、頬骨を砕いていく。[pcms]
+As those fingers dug into their face with tremendous force, they[r]
+crushed the cheekbones as if burying into them.[pcms]
 [se buf=0 storage="seB025"]
 *8971|
 [fc]
@@ -613,26 +617,28 @@
 「う゛ぁ……あ゛あ゛あ゛……う゛わ゛ぁ゛あ゛……ぶ゛しゅ゛」[pcms][endhact]
 *8972|
 [fc]
-人差し指が眼窩にめり込み、鼻があり得ない角度に曲がっているが、[r]
-ヤツらは、痛みとも快楽ともつかない声を上げつづけていた。[pcms]
+The index finger penetrated the eye socket, and the nose bent at an[r]
+impossible angle, yet they continued to emit sounds that were neither[r]
+of pain nor pleasure.[pcms]
 [sysbt_meswin clear]
 [se buf=0 storage="seD015"]
 [backlay][red_toplayer][trans method=universal rule="blood1" vague=50 time=1500][wt2][hide_chara_int]
 [sysbt_meswin]
 *8973|
 [fc]
-背後から伸びてきた手が、ヤツらの顔面を[ruby text="むし"]毟るように掴むと、[r]
-血と涙の混ざったような液体がこぼれ落ち、大穴を空ける。[pcms]
+When the hand that reached from behind grasped their face as if to[r]
+tear it off, a liquid mixed with blood and tears spilled out, leaving[r]
+a gaping hole.[pcms]
 *8974|
 [fc]
-そして……。[pcms]
+And then...[pcms]
 *8975|
 [fc]
-ヤツらは、フラフラと二、三歩よろけてわたしに[ruby text="つまづ"]躓くと、[r]
-顔から地面に突っ込むように倒れた。[pcms]
+They staggered two or three steps before tripping over me and fell[r]
+face-first to the ground.[pcms]
 *8976|
 [fc]
-顔の穴から脳漿がこぼれ落ち、ピクピクとけいれんしている。[pcms]
+Brain matter spilled from the hole in their face, convulsing.[pcms]
 *8977|
 [fc]
 [vo_ju s="jun0068"]
@@ -640,8 +646,8 @@
 「うっ……くうっ……」[pcms][endhact]
 *8978|
 [fc]
-わたしは、自分の後ろから伸びてきた腕の正体を確かめるために、[r]
-痛む身体を酷使しながら、振り返った。[pcms]
+I turned around, straining my aching body, to see who the arm reaching[r]
+from behind me belonged to.[pcms]
 [backlay][bg storage="BG13d"]
 [rir_lo_05_k04 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"]
 [trans time=1000 method=crossfade][wt2]
@@ -657,29 +663,28 @@
 「り……リリー？」[pcms][endhact]
 *8981|
 [fc]
-そこには、変わり果てた姿の梨里が立っていた。[pcms]
+There stood Riri, transformed beyond recognition.[pcms]
 *8982|
 [fc]
-血にまみれ、陸上のウェアはボロボロになり、[r]
-髪の毛も寝起きのように乱れている。[pcms]
+Covered in blood, her track suit was torn to shreds, and her hair was[r]
+as disheveled as if she had just woken up.[pcms]
 *8983|
 [fc]
-梨里も、わたしと同じような目に遭ったのかと思ったが……、[r]
-どこか様子がおかしい。[pcms]
+I thought Riri had gone through the same ordeal as me... but something[r]
+about her was off.[pcms]
 *8984|
 [fc]
-その目は、ヤツらと同じように爛々と赤く輝き、[r]
-不気味な光を放っている。[pcms]
+Her eyes shone red and bright like theirs, emitting an eerie light.[pcms]
 *8985|
 [fc]
-まさか……。[pcms]
+No way...[pcms]
 *8986|
 [fc]
-あまりのことに、わたしは身動きが取れなかった。[pcms]
+I was so shocked that I couldn't move.[pcms]
 *8987|
 [fc]
-梨里は、わたしのそばに、がくっと両膝を付き、[r]
-そのまま赤い瞳で見つめてくる。[pcms]
+Riri knelt down beside me with a thud and stared at me with those red[r]
+eyes.[pcms]
 *8988|
 [fc]
 [vo_ju s="jun0070"]
@@ -693,12 +698,11 @@
 「…………」[pcms][endhact]
 *8990|
 [fc]
-梨里は、血に塗れた手をわたしに伸ばすと、[r]
-やさしく……頬に触れてきた。[pcms]
+Riri reached out her blood-stained hand and gently... touched my[r]
+cheek.[pcms]
 *8991|
 [fc]
-まるで、なにかを確認しているように、[r]
-頬を撫でている……。[pcms]
+It was as if she was confirming something, caressing my cheek...[pcms]
 *8992|
 [fc]
 [vo_ju s="jun0071"]
@@ -712,46 +716,48 @@
 「…………」[pcms][endhact]
 *8994|
 [fc]
-数秒の間、わたしは梨里と見つめ合っていた。[pcms]
+For a few seconds, Riri and I looked into each other's eyes.[pcms]
 *8995|
 [fc]
-なにもわからない、どんな表情も読み取れない、その瞳を……。[pcms]
+I couldn't understand anything, couldn't read any expression in those[r]
+eyes...[pcms]
 [se buf=0 storage="seA083"]
 *8996|
 [fc]
-その時、梨里の更に背後から、誰か人の気配がした。[pcms]
+Then, I sensed someone else's presence behind Riri.[pcms]
 *8997|
 [fc]
-そこには、この場に似つかわしくない、[r]
-きれいに整えられた黒いスーツの男が立っている。[pcms]
+There stood a man in a neatly tailored black suit, completely out of[r]
+place in this scene.[pcms]
 *8998|
 [fc]
-キャンプ場で起こった惨劇など、まるで関係のない話なのか、[r]
-その空間だけ切り取られたかのように、洒落た姿だった。[pcms]
+As if the tragedy that had occurred at the campsite had nothing to do[r]
+with him, he seemed like he was cut out from another space entirely,[r]
+dressed so stylishly.[pcms]
 *8999|
 [fc]
-でも、その肩には、ショルダーバッグやリュックなど、[r]
-持てそうな荷物を持てるだけ、でたらめに背負っている。[pcms]
+But on his shoulder were all sorts of bags he could carry, haphazardly[r]
+loaded with belongings.[pcms]
 *9000|
 [fc]
-片手には、血が赤黒く固まって、[r]
-こびりついているシャベルを持っていた。[pcms]
+In one hand, he held a shovel with blood caked on it, turned dark red[r]
+and sticky.[pcms]
 *9001|
 [fc]
-わたしたちは、お互いに、自然と目が合う。[pcms]
+We naturally locked eyes with each other.[pcms]
 *9002|
 [fc]
-この人は……人間だ。[pcms]
+This person is... human.[pcms]
 *9003|
 [fc]
-ヤツらじゃない。[pcms]
+Not one of them.[pcms]
 *9004|
 [fc]
-それは、お互いの認識であったようで、[r]
-その男の人は、梨里に向かってシャベルを振り上げていた。[pcms]
+It seemed we both recognized this fact, as the man raised his shovel[r]
+towards Riri.[pcms]
 *9005|
 [fc]
-わたしが、襲われているように見えたのか……！[pcms]
+Did it look like I was being attacked...![pcms]
 *9006|
 [fc]
 [vo_ju s="jun0072"]
@@ -759,29 +765,29 @@
 「待って！　この子はまだ生きてる！」[pcms][endhact]
 *9007|
 [fc]
-男は、シャベルを振り上げたまま、その動きを止めていた。[pcms]
+The man stopped moving while still holding the shovel aloft.[pcms]
 *9008|
 [fc]
-そして、わたしと梨里を交互に眺める。[pcms]
+Then he alternated his gaze between me and Riri.[pcms]
 *9009|
 [fc]
-ようやく理解した。[pcms]
+I finally understood.[pcms]
 *9010|
 [fc]
-梨里は……この子は、わたしを助けてくれたんだ。[pcms]
+Riri... This child, she saved me.[pcms]
 *9011|
 [fc]
-変わり果てた姿になっても、わたしを覚えてくれていて、[r]
-助けてくれたんだ。[pcms]
+Even though she was horribly disfigured, she remembered me and came to[r]
+my rescue.[pcms]
 *9012|
 [fc]
-仙北のタイガーリリー。[pcms]
+Tiger Lily of Senboku.[pcms]
 *9013|
 [fc]
-優しくて、生意気で、正義感の強い、自慢の親友。[pcms]
+Kind, cheeky, with a strong sense of justice, my proud best friend.[pcms]
 *9014|
 [fc]
-わたしの……大切な親友……。[pcms]
+My... dear best friend...[pcms]
 *9015|
 [fc]
 [vo_ju s="jun0073"]
@@ -789,10 +795,10 @@
 「うっ……うううっ……ありがとう、リリー……」[pcms][endhact]
 *9016|
 [fc]
-梨里の友情を感じ取ったわたしの瞳から、自然に涙が溢れていた。[pcms]
+Tears naturally overflowed from my eyes as I felt Riri's friendship.[pcms]
 *9017|
 [fc]
-血に塗れた手を握り、何度も礼を述べる。[pcms]
+Clasping her blood-covered hand, I thanked her over and over.[pcms]
 [backlay][rir_up_05_k04 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *9018|
 [fc]
@@ -808,13 +814,14 @@
 [backlay][rir_lo_05_k04 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *9020|
 [fc]
-梨里は、わたしをしばらく見つめると、[r]
-ゆらゆらと立ち上がり……歩き始めた。[pcms]
+After looking at me for a while, Riri slowly stood up and... began to[r]
+walk.[pcms]
 [backlay][chara_int][trans time=300 method=crossfade][wt2]
 [bgm storage="bgm16" time=1000]
 *9021|
 [fc]
-わたしに背を向けるように、キャンプ場の外へと……。[pcms]
+She started walking out of the campsite, as if turning her back on[r]
+me...[pcms]
 *9022|
 [fc]
 [vo_ju s="jun0075"]
@@ -822,60 +829,61 @@
 「…………」[pcms][endhact]
 *9023|
 [fc]
-わたしは、その背中を見送ることしかできなかった。[pcms]
+All I could do was watch her back as she left.[pcms]
 *9024|
 [fc]
-もう、心しか通わせることの出来ない親友を……。[pcms]
+My best friend, with whom I could now only communicate in spirit...[pcms]
 *9025|
 [fc]
-後ろから、無造作に毛布が掛けられる。[pcms]
+A blanket was carelessly thrown over me from behind.[pcms]
 *9026|
 [fc]
-わたしの傍らにしゃがみ込んだスーツの男が、[r]
-毛布を掛けてくれたらしい。[pcms]
+The man in the suit squatting beside me seemed to have covered me with[r]
+the blanket.[pcms]
 *9027|
 [fc]
-そして、立てないわたしの身体を支えるように手を伸ばしてくる男に……、[r]
-身を任せた。[pcms]
+And to the man who reached out to support my body, unable to stand...[r]
+I entrusted myself.[pcms]
 *9028|
 [fc]
-香ばしく、甘い香りが身体を包み込んでいく。[pcms]
+A savory, sweet scent enveloped my body.[pcms]
 *9029|
 [fc]
-何とも言えない不思議な香りだったけれど、[r]
-どういうわけか安心できる香りだった。[pcms]
+It was an indescribable, mysterious scent, but somehow it was[r]
+comforting.[pcms]
 [sysbt_meswin clear]
 [backlay][evcg storage="ev04_trueエンド_01" layer=0 page=back visible=true left=0 top=0][trans time=500 method=crossfade][wt2]
 [sysbt_meswin]
 *9030|
 [fc]
-梨里は、キャンプ場からグラウンドの方に歩いて行き、[r]
-その向こうに続く田澤湖の方に向かっている。[pcms]
+Riri walked from the campsite towards the ground and headed towards[r]
+Lake Tazawa beyond that.[pcms]
 [backlay][evcg storage="ev04_trueエンド_06" layer=0 page=back visible=true left=0 top=0][trans time=500 method=crossfade][wt2]
 *9031|
 [fc]
-今まで何処にいたのか、何人かのヤツらが現れると、[r]
-梨里の後を追うように歩いていった。[pcms]
+Wherever they had been until now, several of them appeared and[r]
+followed after Riri as if chasing her.[pcms]
 *9032|
 [fc]
-宿舎の方から、キャンプ場の中から、[r]
-フラフラとした足取りでついていく。[pcms]
+From the dormitory, from inside the campsite, they followed with[r]
+unsteady steps.[pcms]
 *9033|
 [fc]
-でも……おかしなことに、ヤツらは、[r]
-わたしとスーツの男には反応しなかった。[pcms]
+But... strangely enough, they didn't react to me and the man in the[r]
+suit.[pcms]
 *9034|
 [fc]
-何かに憑かれたように梨里の後ろ姿を見つめ、[r]
-その後について行こうとしている。[pcms]
+As if possessed, they stared at Riri's retreating figure and tried to[r]
+follow her.[pcms]
 *9035|
 [fc]
-湖を越え、森と山を進んだその先には、かつてわたしが生まれ育ち、[r]
-今も梨里の家がある画館の街があった。[pcms]
+Beyond the lake, through the forest and mountains, there lay the town[r]
+of Kakunodate where I was born and raised, and where Riri's house[r]
+still is.[pcms]
 *9036|
 [fc]
-梨里や、それにつづくヤツらが……そこ……、[r]
-家族や友人が住む、自分の故郷に帰ろうとしているように見える。[pcms]
+It seemed as if Riri and those following her... there... were trying[r]
+to return to their hometown where their families and friends live.[pcms]
 *9037|
 [fc]
 [vo_ju s="jun0076"]
@@ -883,15 +891,15 @@
 「ありがとう、梨里……さようなら」[pcms][endhact]
 *9038|
 [fc]
-わたしは、もう一度……梨里の背中に向けて別れを告げた。[pcms]
+I bid farewell to Riri's back once more...[pcms]
 *9039|
 [fc]
-スーツの男は、何も言わずに梨里の背中を見送りながら、[r]
-わたしの身体を支えてくれる。[pcms]
+The man in the suit said nothing but supported me while watching[r]
+Riri's back as she left.[pcms]
 *9040|
 [fc]
-日の光が差す中、見えなくなるまで……、[r]
-わたしは、故郷を目指す親友の背中を見送っていた。[pcms]
+In the sunlight, until she was out of sight... I watched the back of[r]
+my best friend heading towards our hometown.[pcms]
 [sysbt_meswin clear]
 [backlay][white_toplayer][trans time=1500 method=crossfade][wt2][hide_chara_int]
 [fadeoutbgm time=2000]

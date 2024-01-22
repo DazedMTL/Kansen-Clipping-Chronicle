@@ -18,39 +18,41 @@
 [backlay][mis_lo_01a_f01 layer=3 x="&sf.mi_lo_x[3]" y="&sf.mi_lo_y[0]"][trans time=150 method=crossfade][wt]
 *1786|
 [fc]
-タオルを受け取り、膝に手をついたまま荒い息をつき続ける。[pcms]
+I take the towel and continue to breathe heavily while kneeling.[pcms]
 *1787|
 [fc]
-午後の練習時間が短くなったけれど、練習メニューの変更はしたくない。[r]
-だからその分、こなすスピードを上げてるんだけど……。[pcms]
+The afternoon practice time has been shortened, but I don't want to[r]
+change the practice menu. So instead, I'm increasing the speed at[r]
+which I complete it...[pcms]
 *1788|
 [fc]
 [【央】]
-「はぁっ……はぁっ……ふぅ……ふぅぅ……ん、[r]
-　はぁぁ……流石に堪えるなぁ」[pcms][endhact]
+"Haa... Haa... Phew... Phew... Hmm, Haaa... It's really taking a toll[r]
+on me."[pcms]
 *1789|
 [fc]
-別に急に体力がついたわけじゃないんだから、[r]
-無理をすると一気に疲れが襲い掛かってくる。[pcms]
+It's not like my stamina has suddenly increased, so if I push myself[r]
+too hard, fatigue will hit me all at once.[pcms]
 *1790|
 [fc]
-でも、須田だったらこのくらいは楽にこなしている。[r]
-早くもっと体力をつけて……。[pcms]
+But if it were Suda, he'd be able to handle this much with ease. I[r]
+need to build up my stamina quickly...[pcms]
 *1791|
 [fc]
 [【央】]
 「あれ？　そういえば、須田がいないみたいだけど……」[pcms][endhact]
 *1792|
 [fc]
-プールサイドにも、プールの中にも須田の姿がない。[r]
-とうとう変態行為かセクハラで追放されたか？[pcms]
+There's no sign of Suda at the poolside or in the pool. Has he finally[r]
+been expelled for his perverted behavior or sexual harassment?[pcms]
 [backlay][mis_lo_01a_f07 layer=3 x="&sf.mi_lo_x[3]" y="&sf.mi_lo_y[0]"][trans time=150 method=crossfade][wt]
 *1793|
 [fc]
 [vo_mo s="misuzu0043"]
 [【子野日】]
-「須田先輩なら、高橋先生を医務室に連れて行ってくれました。[r]
-　高橋先生も相当無理をしていたみたいで……」[pcms][endhact]
+"If you're looking for Suda-senpai, he took Takahashi-sensei to the[r]
+infirmary. It seems Takahashi-sensei was also pushing herself too[r]
+hard..."[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *1794|
 [fc]
@@ -58,23 +60,24 @@
 「ああ、そうか……」[pcms][endhact]
 *1795|
 [fc]
-顔色、悪かったもんなぁ……高橋先生。[pcms]
+Her complexion was indeed bad... Takahashi-sensei.[pcms]
 *1796|
 [fc]
-それにしても、子野日さんみたいな胸が平坦で小柄な女子が好きな、呼吸する性欲、[r]
-歩くＨ１１年法律第５２号である須田が、高橋先生を思いやるとは。[pcms]
+Even so, for Suda, a walking personification of sexual desire and a[r]
+living H11 Law No. 52 who likes flat-chested and petite girls like[r]
+Konohi-san, to show concern for Takahashi-sensei is unexpected.[pcms]
 *1797|
 [fc]
-たまにはいいところもあるんだな。[r]
-今度ジュースでも奢ってやろう。[pcms]
+Sometimes he does have his good points. I'll treat him to some juice[r]
+next time.[pcms]
 *1798|
 [fc]
-練習が終わったら、高橋ちゃんのお見舞いもしたいな。[r]
-高橋ちゃんが落ち込んでると、こっちも落ち込んできちゃうし。[pcms]
+Once practice is over, I'd like to visit Takahashi-chan too. If[r]
+Takahashi-chan is feeling down, it makes me feel down as well.[pcms]
 *1799|
 [fc]
-そうと決まれば、練習、練習。[r]
-時間は有意義に使わなきゃ。[pcms]
+Now that it's decided, practice, practice. I have to use my time[r]
+meaningfully.[pcms]
 *1800|
 [fc]
 [【央】]

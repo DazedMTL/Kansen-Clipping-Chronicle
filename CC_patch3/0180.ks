@@ -10,34 +10,32 @@
 「ん、ぐぅ……はっ！」[pcms][endhact]
 *1571|
 [fc]
-夢……？[r]
-夢か……。[pcms]
+A dream...? Was it a dream...[pcms]
 *1572|
 [fc]
-……っていうか、どんな夢見てたんだっけ、俺。[pcms]
+...Wait, what kind of dream was I having again?[pcms]
 *1573|
 [fc]
-こんなふうに目が覚めるくらいだから、[r]
-いい夢じゃないのは確かだと思うけど。[pcms]
+Waking up like this, I'm sure it wasn't a good dream.[pcms]
 *1574|
 [fc]
-だったら憶えてない方が幸せなのかな……？[pcms]
+I wonder if it's better that I don't remember it...?[pcms]
 *1575|
 [fc]
-軽く目を擦って周りを見ると、[r]
-合宿初日の練習で疲れ果てた部員たちが熟睡しきった顔で寝ている。[pcms]
+As I rub my eyes and look around, I see the exhausted members of the[r]
+club sleeping peacefully after the first day of training camp.[pcms]
 *1576|
 [fc]
-朝にちょっとだけアクシデントがあったけど、[r]
-まあまあ平穏な一日だったんじゃないだろうか。[pcms]
+There was a little accident this morning, but overall, it was a fairly[r]
+peaceful day.[pcms]
 *1577|
 [fc]
 [【央】]
 「……顕悟のヤツ、どうしてるかな」[pcms][endhact]
 *1578|
 [fc]
-新幹線で事故があったみたいだけど、無事に鎌倉につけたかな。[r]
-ちゃんと梨里と仲直りしてくれればいいんだけど。[pcms]
+I heard there was an accident on the Shinkansen, but I wonder if they[r]
+made it to Kamakura safely. I hope they made up with Riri.[pcms]
 *1579|
 [fc]
 [【須田】]
@@ -78,57 +76,58 @@
 [backlay][chara_int3][trans time=150 method=crossfade][wt]
 *1586|
 [fc]
-須田の誘導に従い、足音を抑えて進む。[pcms]
+Following Suda's lead, we move forward with muffled footsteps.[pcms]
 *1587|
 [fc]
-センターの一階の廊下を、見回りの先生たちに見つからないよう気を付けて、[r]
-暗闇の中を忍び歩く。[pcms]
+We sneak through the darkness of the first floor hallway of the[r]
+center, careful not to be spotted by the patrolling teachers.[pcms]
 *1588|
 [fc]
-目的地は、センター旧館側体育館。[r]
-そこに併設された体育倉庫こそが、俺たちの目指す桃源郷。[pcms]
+Our destination is the gym attached to the old building of the center.[r]
+The attached gym storage is our promised land.[pcms]
 *1589|
 [fc]
-夢と希望とエロスの結節点――らしい。[pcms]
+The nexus of dreams, hope, and eros--apparently.[pcms]
 *1590|
 [fc]
-須田曰く、繁盛期のみ一部使用される旧館は人の立ち入りがほとんどなく、[r]
-そのために静かで邪魔の入らない場所になっているのだそうだ。[pcms]
+According to Suda, the old building, which is only used during peak[r]
+seasons, has little foot traffic, making it a quiet and undisturbed[r]
+place.[pcms]
 *1591|
 [fc]
-つまり、良からぬことをしていても、誰にも見つかることはない。[pcms]
+In other words, even if we're up to no good, no one will find us.[pcms]
 [backlay][sud_lo_03_f05 layer=3 x="&sf.su_lo_x[3]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
 *1592|
 [fc]
 [【須田】]
-「クラスの友達の兄貴の同級生の知人が、[r]
-　そこでチェリーを散らしたらしい……」[pcms][endhact]
+"A friend of a classmate's older brother's acquaintance supposedly[r]
+lost his virginity there..."[pcms]
 *1593|
 [fc]
 [【央】]
 「クラスの友達の兄貴の同級生の知人……遥か彼方の話だな」[pcms][endhact]
 *1594|
 [fc]
-ネットの書き込みよりも信憑性に欠ける話だ。[r]
-もう着いてきたことに後悔し始めてきたぞ……。[pcms]
+It's a story less credible than an internet post. I'm starting to[r]
+regret coming along...[pcms]
 [backlay][sud_lo_03_f02 layer=3 x="&sf.su_lo_x[3]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
 *1595|
 [fc]
 [【須田】]
-「安心しろ。たとえそこがどんな夢も叶う愛の国じゃなくても、[r]
-　まだまだ望みは残っているさ」[pcms][endhact]
+"Relax. Even if that place isn't a land where all dreams of love come[r]
+true, there's still hope left."[pcms]
 [backlay][chara_int3][trans time=150 method=crossfade][wt]
 *1596|
 [fc]
-須田が指折り数えながら、キャンプ場の森、[r]
-メインプールの裏、と欲望の波動関数が収束する場所とやらを挙げていく。[pcms]
+Suda counts on his fingers and lists places like the campsite forest,[r]
+behind the main pool, where the wave function of desire converges.[pcms]
 *1597|
 [fc]
-……さっさと回ってさっさと帰ろう。[r]
-どうせ何にもなかったってオチだろうから。[pcms]
+...Let's just get this over with and head back. It's probably going to[r]
+end with nothing happening anyway.[pcms]
 *1598|
 [fc]
-コイツにはそんな末路がお似合いだ。[pcms]
+That kind of anticlimactic end would suit this guy just fine.[pcms]
 *1599|
 [fc]
 [【央】]
@@ -141,19 +140,19 @@
 [backlay][chara_int3][trans method=universal rule="TtoD" vague=300 time=150][wt2]
 *1601|
 [fc]
-ボヤキの途中、窓の外に揺らめく人影を見たような気がして、[r]
-慌てて床に張り付いた。[pcms]
+In the midst of my grumbling, I thought I saw a flickering shadow[r]
+outside the window and quickly plastered myself to the floor.[pcms]
 *1602|
 [fc]
-須田も俺の警告に従い、同じように冷たい床に張り付く。[pcms]
+Suda also heeds my warning and sticks to the cold floor just like me.[pcms]
 *1603|
 [fc]
-どのくらいの時間だろうか、しばらく床と一体化していた俺たちは、[r]
-ゆっくりと体を起こして窓から外を覗き見た。[pcms]
+I don't know how much time passed, but eventually we slowly raised our[r]
+bodies and peeked outside the window again.[pcms]
 *1604|
 [fc]
-揺らめく人影は、そのまま森の中へと歩き去ってしまい、[r]
-こちらを振り返るようなことはなかった。[pcms]
+The flickering shadow walked off into the forest and didn't seem to[r]
+look back at us.[pcms]
 [backlay][sud_up_03_f10 layer=3 x="&sf.su_up_x[3]" y="&sf.su_up_y[0]"][trans time=150 method=crossfade][wt]
 *1605|
 [fc]
@@ -162,54 +161,53 @@
 *1606|
 [fc]
 [【央】]
-「今のは、キャンプ場の一般利用客かな……？[r]
-　こんな夜に、どこに行こうとしてるんだろう」[pcms][endhact]
+"Was that a general guest at the campsite...? Where could they be[r]
+going at this time of night?"[pcms]
 [backlay][chara_int3][trans time=150 method=crossfade][wt]
 *1607|
 [fc]
-どこかの学園の関係者とも思えない身なりだったし、[r]
-酔っぱらってたのかな。[pcms]
+Their attire didn't seem like someone from any school, maybe they were[r]
+drunk.[pcms]
 *1608|
 [fc]
-身をかがめ、旧館へと向かう廊下の曲がり角の壁へと張り付いて、[r]
-慎重にその先を覗き込むと――[pcms]
+Crouching down, we stick to the wall at the corner leading to the old[r]
+building's hallway and cautiously peek around it--[pcms]
 [backlay][rir_up_04_f08 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *1609|
 [fc]
 [vo_ri s="riri0107"]
 [【梨里】]
-「～～～～～～～っっ！？？」[pcms][endhact]
+「っっ！？？」[pcms][endhact]
 *1610|
 [fc]
 [【央】]
 「―――――っっ！！？」[pcms][endhact]
 *1611|
 [fc]
-突如、これ以上ないほど見知った顔が暗闇の向こうから現れ、[r]
-驚きに悲鳴を上げかける。[pcms]
+Suddenly, a very familiar face appears from the darkness on the other[r]
+side, and I almost scream in surprise.[pcms]
 [backlay][chara_int3][trans time=150 method=crossfade][wt]
 *1612|
 [fc]
-が、それを封じ込めようと梨里の手が俺の口を塞ぎ、[r]
-同様に俺の手が梨里の口を塞いだ。[pcms]
+But Riri's hand covers my mouth to stifle it, and my hand does the[r]
+same to hers.[pcms]
 *1613|
 [fc]
-何だってこんなところに梨里が……！？[pcms]
+Why is Riri here in such a place...!?[pcms]
 *1614|
 [fc]
-こんな至近距離まで気配を感じさせないなんて……。[r]
-『仙北のタイガーリリー』恐るべし……。[pcms]
+Not letting any presence be felt from such a close distance...[r]
+"Senboku's Tiger Lily" is formidable indeed...[pcms]
 *1615|
 [fc]
-……ってほどでもないか。[r]
-梨里も俺の気配を感じられなかったんだろうし。[pcms]
+...Well, maybe not. Riri probably didn't notice me either.[pcms]
 *1616|
 [fc]
-お互いに驚きで乱れた息を互いの手のひらに吐き出しながら、[r]
-徐々に呼吸と落ち着きを整えていく。[pcms]
+We both exhale our disordered breaths onto each other's palms as we[r]
+gradually regain our composure and breathing.[pcms]
 *1617|
 [fc]
-そして……。[pcms]
+And then...[pcms]
 *1618|
 [fc]
 [【央】]
@@ -223,11 +221,11 @@
 [backlay][rir_up_04_f20 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *1620|
 [fc]
-何故か焦ったような口調の梨里の後ろで、[r]
-人の気配を感じた。[pcms]
+Behind Riri, who spoke in a hurried tone for some reason, I felt[r]
+someone else's presence.[pcms]
 *1621|
 [fc]
-首をめぐらし、覗き込んでみると……。[pcms]
+I turn my head and take a look...[pcms]
 [backlay][rir_up_04_f04 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *1622|
 [fc]
@@ -237,11 +235,11 @@
 [backlay][chara_int3][trans time=150 method=crossfade][wt]
 *1623|
 [fc]
-よくわからない非難を受けている俺の目に映ったのは、[r]
-陸上部の女子二人。[pcms]
+What appeared before my eyes, which were being subjected to[r]
+incomprehensible accusations, were two girls from the track team.[pcms]
 *1624|
 [fc]
-確か黒沢と岩瀬だったよな。[pcms]
+I believe their names were Kurosawa and Iwase.[pcms]
 *1625|
 [fc]
 [【央】]
@@ -251,12 +249,12 @@
 [fc]
 [vo_ri s="riri0110"]
 [【梨里】]
-「ち、違っ……！　あたしはただ、女の子二人だけじゃ危険だろうから、[r]
-　ボディガードってことで……！」[pcms][endhact]
+"No, that's not it...! I just thought it would be dangerous for two[r]
+girls alone, so I acted as a bodyguard..."[pcms]
 *1627|
 [fc]
-得心した、という俺の言葉に、梨里は必死になって否定し、[r]
-後ろの二人は真っ赤になってしまっている。[pcms]
+To my words that seemed convinced, Riri desperately denies it while[r]
+the two behind her turn bright red.[pcms]
 *1628|
 [fc]
 [【央】]
@@ -270,8 +268,8 @@
 *1630|
 [fc]
 [【央】]
-「……あのな、俺はオマエのその顔を見てどんな感情を[r]
-　読み取ればいいっていうんだ」[pcms][endhact]
+"...Hey, what kind of emotion am I supposed to read from that[r]
+expression on your face?"[pcms]
 [backlay][rir_up_04_g05 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *1631|
 [fc]
@@ -282,8 +280,8 @@
 *1632|
 [fc]
 [【須田】]
-「いいじゃんいいじゃん。どうせだし、[r]
-　俺たちで一緒に大人の冒険しちゃおうぜ？」[pcms][endhact]
+"Come on, it's fine. Since we're here, why don't we go on an adult[r]
+adventure together?"[pcms]
 [backlay][sud_lo_03_f08 layer=3 x="&sf.su_lo_x[3]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
 *1633|
 [fc]
@@ -293,16 +291,16 @@
 [backlay][sud_lo_03_f10 layer=3 x="&sf.su_lo_x[3]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
 *1634|
 [fc]
-後ろに隠れていたはずの須田が、いつの間にか黒沢と、[r]
-その後ろに隠れている岩瀬の前に行っていた。[pcms]
+Suda, who was supposed to be hiding behind, had somehow made his way[r]
+in front of Kurosawa and Iwase, who was hiding behind her.[pcms]
 *1635|
 [fc]
-あいかわらず、呑気で調子のいい奴だ。[pcms]
+As always, he's a carefree and easygoing guy.[pcms]
 *1636|
 [fc]
 [【央】]
-「まあ、でも……ここまで来たのに手ぶらで帰るのも癪だな……。[r]
-　一緒に行ってみるか？」[pcms][endhact]
+"Well, but... it would be frustrating to go back empty-handed after[r]
+coming all this way... Shall we go together?"[pcms]
 [backlay][rir_up_04_g05 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *1637|
 [fc]
@@ -317,14 +315,14 @@
 「ふぷぅっ！　あ、あたしは別に、それでもいいけど……」[pcms][endhact]
 *1638|
 [fc]
-ようやく顔を元に戻し、乗り気なのかそうでもないのか曖昧な様子で[r]
-梨里が頷く。[pcms]
+Riri finally regained her composure and nodded ambiguously, as if she[r]
+was somewhat eager to go.[pcms]
 *1639|
 [fc]
-その間に、黒沢と岩瀬を須田が口説き落としていた。[pcms]
+In the meantime, Suda had sweet-talked Kurosawa and Iwase.[pcms]
 *1640|
 [fc]
-勿論、非性的な意味で。[pcms]
+Of course, in a non-sexual sense.[pcms]
 [backlay][sud_lo_03_f02 layer=3 x="&sf.su_lo_x[3]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
 *1641|
 [fc]
@@ -332,8 +330,8 @@
 「よしっ、決まり決まり！　行こうぜぇ」[pcms][endhact]
 *1642|
 [fc]
-浮かれた小声で歩き出そうと、[r]
-須田が前を向いたその瞬間――[pcms]
+With a cheerful whisper, Suda turned to lead the way just as he was[r]
+about to start walking--[pcms]
 [stopbgm]
 [backlay][white_toplayer][trans method=universal rule="wipe" vague=300 time=500][wt2]
 *1643|
@@ -342,7 +340,7 @@
 「うおっ、まぶしっ！」[pcms][endhact]
 *1644|
 [fc]
-俺たち五人を、強い光が照らし出した。[pcms]
+The five of us were suddenly illuminated by a strong light.[pcms]
 [bgm storage="bgm05" time=1000]
 [hide_chara_int]
 [backlay][bg storage="BG03d"]
@@ -350,8 +348,8 @@
 [trans method=universal rule="wipe" vague=300 time=1000][wt2]
 *1645|
 [fc]
-懐中電灯の光の向こう、[r]
-闇に慣れた目にボンヤリと映ったのは……。[pcms]
+Beyond the flashlight beam, what faintly appeared to our eyes[r]
+accustomed to the dark was...[pcms]
 [backlay][evcg storage="EV44_01" layer=0 page=back visible=true left=0 top=0][trans time=150 method=crossfade][wt2]
 *1646|
 [fc]
@@ -368,11 +366,11 @@
 「うおっ、なんだってんだよっ……！？」[pcms][endhact]
 *1649|
 [fc]
-穴の開いた袋を頭に被り、揺れる懐中電灯の明かりで俺たちを照らしながら[r]
-ゆっくりと近付いてくるその姿は……。[pcms]
+The figure slowly approaching us with a bag with holes over its head,[r]
+shining a swaying flashlight on us was...[pcms]
 *1650|
 [fc]
-レイクサイドの怪人、恐怖の殺人鬼！　……って。[pcms]
+The lakeside phantom, the terrifying murderer! ...or so they say.[pcms]
 [backlay][bg storage="BG03d"]
 [rir_lo_04_f16 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"]
 [trans time=300 method=crossfade][wt2]
@@ -386,12 +384,14 @@
 [trans time=150 method=crossfade][wt]
 *1652|
 [fc]
-女子三人が床に座り込み、泣きベソをかいてしまっているのを横目で[r]
-見ながら、近付いてくる怪人を良く眺める。[pcms]
+While glancing sideways at the three girls who had sat down on the[r]
+floor and started crying, I took a good look at the approaching[r]
+phantom.[pcms]
 [backlay][rui_lo_03b_袋女3 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=500 method=crossfade][wt]
 *1653|
 [fc]
-ようやく見えてきた首から下のジャージ姿に、何やら見覚えが……。[pcms]
+Finally able to see below the neck of the jersey figure, there was[r]
+something familiar...[pcms]
 [fadeoutbgm time=500]
 *1654|
 [fc]
@@ -401,12 +401,13 @@
 [fc]
 [vo_ru s="rui0119"]
 [ns【]袋女[】nse]
-「いやいや、何を言っているんだい、キミは。僕はそんな聡明で有能な[r]
-　ヒトじゃないヨ？　早く寝ない悪い子は、殺してママ！」[pcms][endhact]
+"No, no, what are you talking about? I'm not such a clever and capable[r]
+person. Bad kids who don't go to bed early get killed by mama!"[pcms]
 *1657|
 [fc]
-……まだ微妙に拗ねてたのか、この人は。[r]
-ジャージに包まれた豊満なその胸は、誰がどう見たって累先輩だろうに。[pcms]
+...Was this person still slightly sulking? Wrapped in a jersey, those[r]
+ample breasts could only belong to Senpai Rui, no matter how you[r]
+looked at them.[pcms]
 [backlay][sud_lo_03_f08 layer=3 x="&sf.su_lo_x[3]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
 *1658|
 [fc]
@@ -417,16 +418,17 @@
 *1659|
 [fc]
 [【央】]
-「全裸の女幽霊だけじゃなくて、こっちの怪人の正体も[r]
-　累先輩だったんですか……」[pcms][endhact]
+"So it wasn't just a naked female ghost, but Senpai Rui was also the[r]
+phantom..."[pcms]
 *1660|
 [fc]
-正体を見破ったことで、後ろの三人もパニックから立ち直ったようで、[r]
-戸惑いながらも袋の怪人を見つめている。[pcms]
+Having seen through the true identity, the three behind also seemed to[r]
+recover from their panic and were staring at the bagged phantom with[r]
+confusion.[pcms]
 [backlay][rir_lo_04_f16 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *1661|
 [fc]
-まあ、梨里だけは……哀れなり。[pcms]
+Well, except for Riri... poor thing.[pcms]
 *1662|
 [fc]
 [【央】]
@@ -445,8 +447,8 @@
 「あっ……」[pcms][endhact]
 *1665|
 [fc]
-黒沢が俺の後ろから手を伸ばし、累先輩の被っている袋を剥ぎ取った。[r]
-と、その下から現れたのは――[pcms]
+Kurosawa reached out from behind me and ripped off the bag that Senpai[r]
+Rui was wearing. And what appeared from beneath was--[pcms]
 [backlay][evcg storage="EV45_01" layer=0 page=back visible=true left=0 top=0][trans time=150 method=crossfade][wt2]
 *1666|
 [fc]
@@ -464,11 +466,12 @@
 「冷たいね、渋江君。もう少しいいリアクションを期待していたのだが」[pcms][endhact]
 *1669|
 [fc]
-俺だけじゃない、須田も黒沢も岩瀬も同じように、呆れ返ってしまっている。[pcms]
+Not just me, but Suda, Kurosawa, and Iwase were all equally[r]
+dumbfounded.[pcms]
 *1670|
 [fc]
-袋の下から現れたのは、真っ白なホッケーマスク。[r]
-徹底しているというか、何というか……。[pcms]
+What appeared from under the bag was a stark white hockey mask. It's[r]
+either thorough or... well, something else.[pcms]
 *1671|
 [fc]
 [vo_mo s="kurosawa0003"]
@@ -479,11 +482,12 @@
 [rui_up_03_f07 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=300 method=crossfade][wt]
 *1672|
 [fc]
-袋を床に叩き付け、ホッケーマスクも剥ぎ取る黒沢。[pcms]
+Kurosawa, who has a surprisingly low boiling point, threw the bag on[r]
+the floor and ripped off the hockey mask as well.[pcms]
 *1673|
 [fc]
-意外と沸点の低い彼女の攻撃を受け、[r]
-マスクを剥ぎ取られてしまった累先輩は……。[pcms]
+Receiving her attack with such a low threshold for anger, Senpai Rui[r]
+had her mask ripped off and...[pcms]
 [backlay][rui_up_03_g05 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *1674|
 [fc]
@@ -516,12 +520,12 @@
 「悪霊退散悪霊退散悪霊退散……」[pcms][endhact]
 *1680|
 [fc]
-口の端から舌を出し、[r]
-どこぞの洋菓子店のマスコットみたいな顔をした累先輩。[pcms]
+With her tongue sticking out from the corner of her mouth, Senpai Rui[r]
+had a face like a mascot from some Western confectionery store.[pcms]
 *1681|
 [fc]
-……さ、戻って寝よう。[r]
-明日も練習、頑張ろう。[pcms]
+...Let's go back and sleep. We have to do our best in practice[r]
+tomorrow too.[pcms]
 *1682|
 [fc]
 [vo_ri s="riri0118"]

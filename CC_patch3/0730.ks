@@ -4,107 +4,102 @@
 [sysbt_meswin]
 *9293|
 [fc]
-今日もまた、トレーニングが始まった。[pcms]
+Today, training began again.[pcms]
 *9294|
 [fc]
-ストレッチをして、軽くジョグから入る、[r]
-いつもの練習メニュー。[pcms]
+Starting with stretches and a light jog, the usual practice routine.[pcms]
 *9295|
 [fc]
-グラウンドから外れて、ランニングコースに入ると、[r]
-キャンプ場の近くまで差し掛かる。[pcms]
+Leaving the ground and entering the running course, I approach near[r]
+the campsite.[pcms]
 *9296|
 [fc]
-ふと、昨日見た、赤いテントが目に入ってきた。[pcms]
+Suddenly, I saw the red tent that I saw yesterday.[pcms]
 *9297|
 [fc]
-風邪引きのカップルが入っていった、赤いテントだ。[pcms]
+It's the red tent that the couple with a cold went into.[pcms]
 *9298|
 [fc]
-なんとなく、そのテントを眺めていると、[r]
-クーラーボックスが出しっぱなしになっていることに気が付いた。[pcms]
+Somehow, as I gaze at the tent, I notice that the cooler box has been[r]
+left out.[pcms]
 *9299|
 [fc]
-昨日と同じまま……なんだろうか。[pcms]
+Just like yesterday... I wonder.[pcms]
 *9300|
 [fc]
-それとも、たまたま……？[pcms]
+Or is it just a coincidence...?[pcms]
 *9301|
 [fc]
-あたしは、妙な予感で足を止めると、[r]
-そのクーラーボックスを見た。[pcms]
+I stop in my tracks with a strange premonition and look at the cooler[r]
+box.[pcms]
 *9302|
 [fc]
-なんとなく、胸騒ぎがする。[pcms]
+I have an uneasy feeling.[pcms]
 *9303|
 [fc]
-悪い予感と言ってもいい。[pcms]
+You could even call it a bad premonition.[pcms]
 *9304|
 [fc]
-あのカップル……特に、風邪を引いていた男の人は、[r]
-大丈夫だったんだろうか。[pcms]
+That couple... especially the man who had a cold, I wonder if he's[r]
+alright.[pcms]
 *9305|
 [fc]
-まさか、具合が悪くなって、そのまま動けないとか……、[r]
-最悪、死んでいたりして……。[pcms]
+Don't tell me he got worse and can't move... or at worst, he's dead...[pcms]
 *9306|
 [fc]
-辺りを見回してみると、テントはたくさんあるんだけど、[r]
-人の姿が見あたらなかった。[pcms]
+Looking around, there are many tents, but I can't see anyone around.[pcms]
 *9307|
 [fc]
-なにかイベントでもあるのか、それとも、[r]
-単に何処かへ出かけている時間なのか……。[pcms]
+Is there some event going on, or is it simply a time when everyone has[r]
+gone out somewhere...?[pcms]
 *9308|
 [fc]
-普通に、テントの中で休んでいたり、[r]
-寝ていたりするのかも知れないけれど……。[pcms]
+They might just be resting or sleeping inside their tents normally...[pcms]
 *9309|
 [fc]
-このテントの周りは、とても静かだった。[pcms]
+The area around this tent is very quiet.[pcms]
 *9310|
 [fc]
-遠く、グラウンドの方から練習の掛け声が、[r]
-うっすらと響いてくる。[pcms]
+In the distance, I can faintly hear the shouts from practice on the[r]
+ground.[pcms]
 *9311|
 [fc]
-まるで、霊園に一人で立っているような、[r]
-不気味な感覚だった。[pcms]
+It felt eerie, like standing alone in a cemetery.[pcms]
 *9312|
 [fc]
-誰か居たら……怒られるかも知れないけど……。[pcms]
+If someone were here... I might get scolded...[pcms]
 *9313|
 [fc]
-あたしは、その赤いテントに近づいていく。[pcms]
+I approach the red tent.[pcms]
 *9314|
 [fc]
-中には人の気配がない。[pcms]
+There's no sign of anyone inside.[pcms]
 *9315|
 [fc]
-耳を近づけても、寝ている呼吸音や、[r]
-なにかをしている物音は聞こえなかった。[pcms]
+Even when I listen closely, I can't hear any sounds of breathing or[r]
+movement from someone sleeping.[pcms]
 *9316|
 [fc]
-出しっぱなしのクーラーボックスを見ると、[r]
-ロックが外れたままになっている。[pcms]
+Looking at the cooler box that's been left out, the lock is undone.[pcms]
 *9317|
 [fc]
-そっと、中身をのぞいてみると、氷が全部溶けていて、[r]
-ビールの缶やペットボトルが水に浸かっていた。[pcms]
+Gently peeking inside, the ice has all melted and cans of beer and[r]
+plastic bottles are submerged in water.[pcms]
 *9318|
 [fc]
-やっぱり、このクーラーボックスは、[r]
-あたしが昨日見たときから、そのままなんだ……。[pcms]
+As I thought, this cooler box has been left untouched since I saw it[r]
+yesterday...[pcms]
 *9319|
 [fc]
-テントの入り口の、ジッパーが開いている。[pcms]
+The zipper of the tent entrance is open.[pcms]
 *9320|
 [fc]
-警察に連絡するような案件なのかどうか、[r]
-それだけでも確認した方がいいんだろうか……。[pcms]
+I wonder if this is something to report to the police, or if it's[r]
+worth checking just that...[pcms]
 *9321|
 [fc]
-入り口の布をめくれば、中は簡単に覗けるはずだ。[pcms]
+If I lift the fabric at the entrance, I should be able to peek inside[r]
+easily.[pcms]
 *9322|
 [fc]
 [vo_ju s="jun0082"]
@@ -112,10 +107,10 @@
 「…………」[pcms][endhact]
 *9323|
 [fc]
-あたしは、慎重に、ゆっくりと手を伸ばしていく。[pcms]
+I reach out slowly and carefully.[pcms]
 *9324|
 [fc]
-そして……。[pcms]
+And then...[pcms]
 *9325|
 [fc]
 [ns【]男性キャンパー[】nse]
@@ -127,19 +122,18 @@
 「……っ！」[pcms][endhact]
 *9327|
 [fc]
-布に手がかかると同時に、テントの中から、[r]
-男の人の咳が聞こえた。[pcms]
+As my hand touches the fabric, a man's cough can be heard from inside[r]
+the tent.[pcms]
 *9328|
 [fc]
-いる、誰か居る……。[pcms]
+There's someone there...[pcms]
 *9329|
 [fc]
-あたしは、こんなにテントに近寄ってしまったことを後悔しながら、[r]
-足音を殺して、その場を立ち去ろうとした。[pcms]
+Regretting how close I've gotten to the tent, I try to leave quietly[r]
+without making a sound.[pcms]
 *9330|
 [fc]
-でも、そのあたしの前に誰かが立ちふさがり、[r]
-思わずぶつかってしまう。[pcms]
+But then someone stands in my way and I bump into them unexpectedly.[pcms]
 *9331|
 [fc]
 [vo_ju s="jun0084"]
@@ -152,7 +146,7 @@
 「うわぁっ、な、なんだよ、脅かすなよ」[pcms][endhact]
 *9333|
 [fc]
-そこにいたのは……あたしの彼氏の勇二だった。[pcms]
+It was... Yuuji, my boyfriend.[pcms]
 *9334|
 [fc]
 [vo_ju s="jun0085"]
@@ -165,19 +159,18 @@
 「なに怒ってるんだよ……」[pcms][endhact]
 *9336|
 [fc]
-大声を上げてしまって不安になったあたしは、[r]
-ちらっと、テントの方を振り返る。[pcms]
+Raising my voice in surprise and feeling anxious, I glance back at the[r]
+tent.[pcms]
 *9337|
 [fc]
-すると、赤いテントの布がめくれて、[r]
-中から腕だけが伸びていた。[pcms]
+Then, the fabric of the red tent is lifted, and only an arm is[r]
+stretched out from inside.[pcms]
 *9338|
 [fc]
-クーラーボックスを探しているのか、[r]
-地面をまさぐっている。[pcms]
+Searching for the cooler box or groping around on the ground.[pcms]
 *9339|
 [fc]
-なんだか……気味が悪い。[pcms]
+It's kind of... creepy.[pcms]
 *9340|
 [fc]
 [vo_ju s="jun0086"]
@@ -190,10 +183,10 @@
 「あ、ああ……」[pcms][endhact]
 *9342|
 [fc]
-あたしは、勇二と一緒にランニングを再開した。[pcms]
+I resumed running with Yuuji.[pcms]
 *9343|
 [fc]
-ちょっと、大きめに深呼吸をして心を落ち着ける。[pcms]
+I take a slightly deep breath to calm my heart.[pcms]
 [backlay][yuj_lo_04_f07 layer=3 x="&sf.yu_lo_x[3]" y="&sf.yu_lo_y[0]"][trans time=150 method=crossfade][wt]
 *9344|
 [fc]
@@ -216,14 +209,14 @@
 「抜けるって……どこ……」[pcms][endhact]
 *9348|
 [fc]
-あたしが言い切る前に、勇二がニヤっと笑った。[pcms]
+Before I could finish speaking, Yuuji grinned with a smirk.[pcms]
 *9349|
 [fc]
-そういえば、隠れてエッチをする場所が、[r]
-いくつかあるという話を思い出す。[pcms]
+That reminds me, I recall hearing about several spots around here that[r]
+are used for secret trysts.[pcms]
 *9350|
 [fc]
-でも、まさか、本当にするつもりなの……？[pcms]
+But, could it really be that they intend to do it...?[pcms]
 *9351|
 [fc]
 [vo_ju s="jun0089"]
@@ -250,11 +243,11 @@
 「そりゃ、まぁ……でも……」[pcms][endhact]
 *9356|
 [fc]
-あたしは、ちょっと面食らうが、[r]
-勇二の股間を見てみると、軽く勃起していることに気がついた。[pcms]
+I was a bit taken aback, but when I glanced at Yuuji's groin, I[r]
+noticed he was slightly erect.[pcms]
 *9357|
 [fc]
-放っておくと、なにするかわからないしなぁ……。[pcms]
+If I leave him be, who knows what he might do...[pcms]
 *9358|
 [fc]
 [vo_ju s="jun0092"]
@@ -272,20 +265,19 @@
 「お風呂に入った後だよね、多分自由になるのは……」[pcms][endhact]
 *9361|
 [fc]
-勇二と今夜の相談をしながら、[r]
-少しだけ、胸をなで下ろしていた。[pcms]
+While discussing tonight's plans with Yuuji, I felt a little relieved.[pcms]
 *9362|
 [fc]
-赤いテントの二人は無事で、なにも異常はない。[pcms]
+The two in the red tent are safe, and nothing is amiss.[pcms]
 *9363|
 [fc]
-死んでるかも知れないなんて……ちょっと、馬鹿みたいだった。[pcms]
+Thinking they might be dead... that was a bit foolish of me.[pcms]
 *9364|
 [fc]
-今は、そんなことじゃなくて自分が楽しめることを、[r]
-精一杯考えよう。[pcms]
+Now is not the time for such thoughts; I should focus on enjoying[r]
+myself to the fullest.[pcms]
 *9365|
 [fc]
-軽く走りながら、あたしは勇二と秘密の相談をつづけていった。[pcms]
+While jogging lightly, I continued my secret conversation with Yuuji.[pcms]
 [zapend_random]
 [jump storage="0195.ks"]

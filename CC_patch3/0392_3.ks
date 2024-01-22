@@ -19,14 +19,14 @@
 *4535|
 [fc]
 [ns【]大久保[】nse]
-「うんうん、そうなるね。私が君に、死んじゃう死んじゃうと言わせて[r]
-　何度も絶頂させてあげよう♪」[pcms][endhact]
+"Mhm, that's right. I'll make you say 'I'm dying, I'm dying' and bring[r]
+you to climax over and over again♪"[pcms]
 [se buf=0 storage="se_sex01"]
 [evcg白フラ storage="EV16_02" layer=0 page=back visible=true left=0 top=0]
 *4536|
 [fc]
-大久保コーチは、ぐったりとして抵抗できない梨里を背後から抱え上げると[r]
-深々と挿入した。[pcms]
+Coach Okubo, lifting the limp and unresisting Riri from behind,[r]
+penetrated her deeply.[pcms]
 *4537|
 [fc]
 [vo_ri s="riri0217"]
@@ -36,21 +36,23 @@
 *4538|
 [fc]
 [ns【]大久保[】nse]
-「こうして持ち上げると加重がかかって深いところまで刺さるのさ。清原君[r]
-　もこの方が感じてしまうだろう？」[pcms][endhact]
+"When I lift you up like this, the weight drives me deeper inside. You[r]
+must feel it too, right, Kiyohara-kun?"[pcms]
 *4539|
 [fc]
-だが梨里はどうやらまるで性的な反応を示してはいない。夕べの処女喪失と[r]
-その前後からすると極端に希薄だった。[pcms]
+However, Riri seemed to show no sexual response at all. Considering[r]
+her virginity loss last night and the events before and after, her[r]
+reaction was extremely faint.[pcms]
 *4540|
 [fc]
-大久保コーチはもそれに気付いたようだったが、梨里を大きく動かして、[r]
-ペニスに刺激を与え付けている。[pcms]
+Coach Okubo seemed to notice this as well, but he kept moving Riri[r]
+vigorously, stimulating his penis.[pcms]
 *4541|
 [fc]
 [ns【]大久保[】nse]
-「当初の期待とは違うけど……清原君が肉奴隷オナホール……肉オナホと[r]
-　して楽しませてくれるから気持ちいいよ。毎日毎晩使いたいね」[pcms][endhact]
+"It's different from what I initially expected... but it feels good[r]
+because Kiyohara-kun is serving as a meat slave onahole... a flesh[r]
+onahole. I want to use it every day and night."[pcms]
 [backlay][evcg storage="EV16_03" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4542|
 [fc]
@@ -60,8 +62,9 @@
 *4543|
 [fc]
 [ns【]大久保[】nse]
-「それは無理さ。高橋先生の成熟した身体とは別物だ……この瑞々しくて[r]
-　張りのある肌……肉の感触……特に膣内の締め付けがいいッ！」[pcms][endhact]
+"That's impossible. It's different from the mature body of Takahashi-[r]
+sensei... This fresh, firm skin... the feel of the flesh... especially[r]
+the tightness inside the vagina is great!"[pcms]
 [backlay][evcg storage="EV16_02" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4544|
 [fc]
@@ -71,8 +74,9 @@
 *4545|
 [fc]
 [ns【]大久保[】nse]
-「さっきまであれだけの巨根をくわえこんでいたのに、よくもまあ、こう[r]
-　ギチギチに締め上げるもんだ……素晴らしいよッ！　さあ射精するよッ！」[pcms][endhact]
+"Even after taking in such a huge cock earlier, it's amazing how you[r]
+can still tighten up so much... Wonderful! I'm going to ejaculate[r]
+now!"[pcms]
 *4546|
 [fc]
 [vo_ri s="riri0220"]
@@ -81,12 +85,12 @@
 *4547|
 [fc]
 [ns【]大久保[】nse]
-「おや、この感触は子宮が降りてきていて、その入口にぼくのモノが、[r]
-　激突している、そんなところか。これはますます素晴らしいッ！」[pcms][endhact]
+"Oh, this sensation... the womb has descended, and my thing is[r]
+violently colliding with its entrance. This is even more splendid!"[pcms]
 *4548|
 [fc]
-大久保コーチの動きと、それに翻弄される梨里の動きが急加速する。[r]
-射精が近いのは明白だった。[pcms]
+The movements of Coach Okubo and the flustered Riri rapidly[r]
+accelerated. It was clear that ejaculation was imminent.[pcms]
 [backlay][evcg storage="EV16_04" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4549|
 [fc]
@@ -102,8 +106,8 @@
 [fc]
 [vo_ri s="riri0222"]
 [【梨里】]
-「ひぎいいいいいッ？　おちんちんの先っぽ、先っぽで、あたしのそこ、[r]
-　突き上げられてるううう？」[pcms][endhact]
+"Higyiii?! The tip of your penis, just the tip is thrusting into that[r]
+spot of mine, pushing it upppp?"[pcms]
 *4552|
 [fc]
 [ns【]大久保[】nse]
@@ -120,8 +124,8 @@
 [射精フラB]
 *4554|
 [fc]
-梨里は拒絶の言葉で反抗したが、それは無意味で、大久保コーチは[r]
-何度も腰を震わせて膣内射精していた。[pcms]
+Riri resisted with words of rejection, but it was futile, and Coach[r]
+Okubo was shaking his hips repeatedly, ejaculating inside her.[pcms]
 *4555|
 [fc]
 [ns【]大久保[】nse]
@@ -130,7 +134,7 @@
 [backlay][evcg storage="EV16_06" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4556|
 [fc]
-大久保コーチは梨里をそう評してペニスを引き抜いた。[pcms]
+Coach Okubo described Riri in such terms as he pulled out his penis.[pcms]
 [backlay][evcg storage="EV16_07" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4557|
 [fc]
@@ -138,8 +142,8 @@
 「次は……誰が清原君と遊ぶのかな？」[pcms][endhact]
 *4558|
 [fc]
-すると、自発的に前に進み出て交代を促す男がいた。[r]
-いつの間にか合流していた西野だった。[pcms]
+Then, a man who had joined them without notice stepped forward[r]
+voluntarily to take his turn. It was Nishino.[pcms]
 *4559|
 [fc]
 [ns【]西野[】nse]
@@ -152,7 +156,7 @@
 [evcg白フラ storage="EV16_08" layer=0 page=back visible=true left=0 top=0]
 *4561|
 [fc]
-こうして、大久保コーチに代わって西野が梨里の膣内を貫く。[pcms]
+Thus, Nishino took Coach Okubo's place and penetrated Riri's vagina.[pcms]
 [se buf=1 storage="se_sex02" loop=true]
 *4562|
 [fc]
@@ -161,14 +165,14 @@
 「うあ……あう……う……」[pcms][endhact]
 *4563|
 [fc]
-だがその時点でさえも梨里の反応は希薄なものだった。[pcms]
+But even at that moment, Riri's response remained faint.[pcms]
 *4564|
 [fc]
 [ns【]西野[】nse]
 「なんだか清原先輩の反応が控えめで残念です。気持ちいいけど」[pcms][endhact]
 *4565|
 [fc]
-さんざん、あれこれ試しても変化が無く、西野は愚痴っぽくそう言う。[pcms]
+After trying various things to no avail, Nishino grumbled such words.[pcms]
 *4566|
 [fc]
 [ns【]大久保[】nse]
@@ -177,8 +181,8 @@
 [evcg白フラ storage="EV16_09" layer=0 page=back visible=true left=0 top=0]
 *4567|
 [fc]
-大久保コーチはそう言うと、さっき俺がそうしたように、自分のペニスを[r]
-梨里の尻穴に密着させ、不意打ちのように尻穴挿入を成功させていた。[pcms]
+As Coach Okubo said that, he pressed his penis against Riri's anus[r]
+just like I did earlier and successfully penetrated her unexpectedly.[pcms]
 [backlay][evcg storage="EV16_10" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4568|
 [fc]
@@ -187,23 +191,25 @@
 「ぎひああああッ？　あぎああああああッ！」[pcms][endhact]
 *4569|
 [fc]
-苦悶してもがく梨里だったが、西野そして大久保コーチの力に逆らうだけの[r]
-余力はもう無くなっている。[pcms]
+Riri writhed in agony, but she no longer had the strength to resist[r]
+the power of Nishino and Coach Okubo.[pcms]
 *4570|
 [fc]
 [ns【]西野[】nse]
-「さすが大久保コーチ！　清原先輩のマンコの反応、まるで別物ですッ！[r]
-　これじゃもう……すぐに射精しそうだッ！」[pcms][endhact]
+"As expected of Coach Okubo! The reaction of Kiyohara-senpai's pussy[r]
+is completely different! With this... I feel like I'm going to[r]
+ejaculate soon!"[pcms]
 [se buf=1 storage="se_sex03" loop=true]
 [backlay][evcg storage="EV16_11" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4571|
 [fc]
-西野の動作が加速していく。[pcms]
+Nishino's movements sped up.[pcms]
 *4572|
 [fc]
 [ns【]大久保[】nse]
-「実は……私はこれが初めてのアナルセックスになるんだが……この根本が[r]
-　ぎゅうっと締め上げられる感覚ッ……たまらないよ……私も出すッ！」[pcms][endhact]
+"Actually... this is my first time having anal sex... but this[r]
+sensation of being tightly squeezed at the base... it's[r]
+irresistible... I'm going to cum too!"[pcms]
 [backlay][evcg storage="EV16_10" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4573|
 [fc]
@@ -221,27 +227,28 @@
 [射精フラB]
 *4574|
 [fc]
-しかしそんな願いも空しく、梨里は膣内と尻穴の内部で射精されてしまう。[r]
-快楽と無縁の苦悶と嘆きが顔の表情に出たが、俺にはそれが美しく見えた。[pcms]
+But such wishes were in vain, as Riri ended up being ejaculated inside[r]
+both her vagina and anus. Her face showed agony and lamentation[r]
+unrelated to pleasure, but to me, it looked beautiful.[pcms]
 [backlay][evcg storage="EV16_14" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4575|
 [fc]
 [ns【]西野[】nse]
-「最後の最後になってからは子野日さん以上でしたよ清原先輩。やっぱり、[r]
-　身体を鍛えていると、マンコの締め具合はいいんですね」[pcms][endhact]
+"In the end, you were better than Konohi-san, Kiyohara-senpai. After[r]
+all, when you train your body, the tightness of the pussy is good."[pcms]
 *4576|
 [fc]
-西野と大久保コーチは梨里の身体からペニスを引き抜いて少し離れる。[r]
-両穴から精液がこぼれていく。[pcms]
+Nishino and Coach Okubo pulled their penises out of Riri's body and[r]
+stepped back a little. Semen spilled out from both holes.[pcms]
 *4577|
 [fc]
 [ns【]大久保[】nse]
-「私に感謝するんだね西野君。あの反応はアナルセックスをしたからこそ[r]
-　発生したのだから」[pcms][endhact]
+"You should be thankful to me, Nishino-kun. That reaction occurred[r]
+because of the anal sex."[pcms]
 *4578|
 [fc]
-梨里の秘裂からゼリーみたいにドロドロな西野の精液が垂れて伝う。[r]
-俺はそれを目にして新たな欲望が股間を満たすのを実感していた。[pcms]
+Jelly-like, gooey semen from Nishino dripped down from Riri's secret[r]
+slit. I felt a new desire filling my groin as I watched it.[pcms]
 *4579|
 [fc]
 [ns【]西野[】nse]
@@ -252,16 +259,16 @@
 「私も感謝するよ。ありがとう清原君。素晴らしいアナルセックスだった」[pcms][endhact]
 *4581|
 [fc]
-西野と大久保コーチは空手や柔道の選手がそうするみたいに、梨里に対して[r]
-礼をしていた。[pcms]
+Nishino and Coach Okubo bowed to Riri as if they were karate or judo[r]
+athletes showing respect.[pcms]
 *4582|
 [fc]
 [【央】]
 「さて、それじゃ俺もまた梨里マンコで気持ち良くなるか」[pcms][endhact]
 *4583|
 [fc]
-そう言って近付くと、誰かの肩が俺の肩にぶつかった。[r]
-いったい誰だ？[pcms]
+As I approached saying that, someone's shoulder bumped into mine. Who[r]
+could it be?[pcms]
 *4584|
 [fc]
 [【須田】]
@@ -269,8 +276,8 @@
 *4585|
 [fc]
 [【央】]
-「ったく……このエロエロ大魔神め。おまえじゃなかったら、ぶっ殺して[r]
-　るとこだったよ。別にいいよ。梨里マンコで楽しもう」[pcms][endhact]
+"Geez... you damn erotic demon. If it weren't for you, I would have[r]
+killed you. It doesn't matter. Let's enjoy Riri's pussy."[pcms]
 *4586|
 [fc]
 [ns【]大久保[】nse]
@@ -278,8 +285,8 @@
 *4587|
 [fc]
 [【央】]
-「さすがにそれは無理じゃないですか。だってコーチがアナルセックスして[r]
-　たら、俺と須田はマンコにまとめ突っ込むわけにはいかないし？」[pcms][endhact]
+"That's surely impossible, isn't it? Because if Coach had anal sex,[r]
+Suda and I can't just plunge into the pussy together, right?"[pcms]
 *4588|
 [fc]
 [【須田】]
@@ -287,8 +294,8 @@
 *4589|
 [fc]
 [ns【]大久保[】nse]
-「問題ない。女性器は拡張性が高い。赤ん坊を産み落とすことを考えれば[r]
-　君たちにも理解できるはずだ」[pcms][endhact]
+"No problem. The female genitalia are highly expandable. Considering[r]
+they can give birth to a baby, you should be able to understand."[pcms]
 *4590|
 [fc]
 [【央】]
@@ -305,13 +312,14 @@
 *4593|
 [fc]
 [ns【]大久保[】nse]
-「渋江君はさっき理解したはずだ。アナルセックスで膣内がどんな風に[r]
-　収縮して男性器に極上の快感を提供してくれるかを」[pcms][endhact]
+"Shibue-kun should have understood earlier. How the vagina contracts[r]
+during anal sex and provides the male organ with supreme pleasure."[pcms]
 *4594|
 [fc]
 [ns【]渋江[】nse]
-「しかも今回は俺と須田のダブルチンポがマンコを同時に……きっと、[r]
-　ものすごい気持ちよさになるはず……か。やるぞ須田ッ！」[pcms][endhact]
+"Moreover, this time Suda and my double cocks will penetrate the pussy[r]
+simultaneously... surely it will feel incredibly good... right? Let's[r]
+do this Suda!"[pcms]
 *4595|
 [fc]
 [【須田】]
@@ -346,8 +354,9 @@
 「うおおおッ？」[pcms][endhact]
 *4602|
 [fc]
-さんざんペニスを受け入れてきて、弛緩していたからなのか大久保[r]
-コーチの発言の通り、俺と須田は同時挿入に成功していた。[pcms]
+Having accepted numerous penises and become slackened as a result,[r]
+just as Coach Okubo said, Suda and I were successful in simultaneous[r]
+insertion.[pcms]
 [backlay][evcg storage="EV16_17" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4603|
 [fc]
@@ -374,12 +383,12 @@
 「ぎゃあああああああぁ！　ぐひああああぁっ！」[pcms][endhact]
 *4608|
 [fc]
-梨里は白目を剥いて気絶していた。[r]
-それと同時に観客となっていた男たちもたまらず射精していた。[pcms]
+Riri rolled her eyes back and fainted. At the same time, the men who[r]
+had become spectators couldn't help but ejaculate as well.[pcms]
 *4609|
 [fc]
-梨里は気絶してしまったが、男たちの無限大の欲望を象徴するかのような[r]
-圧倒的な分量の白濁が浴びせられていた。[pcms]
+Riri had fainted, but she was showered with an overwhelming amount of[r]
+white turbidity that symbolized the men's boundless desires.[pcms]
 *4610|
 [fc]
 [ns【]大久保[】nse]
@@ -403,7 +412,7 @@
 [射精フラB]
 *4613|
 [fc]
-俺たちはそのまま気絶した梨里を犯し続けて、そして射精していた。[pcms]
+We continued to violate the unconscious Riri and ejaculated.[pcms]
 *4614|
 [fc]
 [ns【]大久保[】nse]
@@ -425,8 +434,8 @@
 [backlay][evcg storage="EV16_22" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4618|
 [fc]
-ペニスを引き抜いて大笑いしていると気絶した梨里が目を覚ました。[r]
-朦朧とした焦点が定まっていない瞳だった。[pcms]
+As we pulled out our penises laughing loudly, the fainted Riri woke[r]
+up. Her eyes were hazy and unfocused.[pcms]
 *4619|
 [fc]
 [vo_ri s="riri0233"]
@@ -438,8 +447,8 @@
 「おい梨里どうした？」[pcms][endhact]
 *4621|
 [fc]
-俺の腕に抱き留められた梨里は全身をひどく痙攣させている。[r]
-それどころか、口から泡吹いている始末だ。[pcms]
+Held in my arms, Riri convulsed terribly all over her body. Moreover,[r]
+she was foaming at the mouth.[pcms]
 [se buf=0 storage="seD002"]
 [backlay][evcg storage="EV16_21" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4622|
@@ -450,20 +459,20 @@
 *4623|
 [fc]
 [【央】]
-「やるじゃないか梨里。こんなサプライズで彼氏を楽しませて[r]
-　くれるなんて。見直したよ。これでお仕置きは終わりだ」[pcms][endhact]
+"Not bad, Riri. To entertain your boyfriend with such a surprise. I've[r]
+gained a new respect for you. With this, your punishment is over."[pcms]
 [stopse buf=0]
 [backlay][evcg storage="EV16_22" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4624|
 [fc]
 [vo_ri s="riri0235"]
 [【梨里】]
-「あはは♪　おはははは♪　そうだよね？　あたし央のこと好きだった[r]
-　もん……顕悟が彼氏だったなんて……夢か何かだあ……あははは♪」[pcms][endhact]
+"Ahaha♪ Ohahaha♪ Right? I loved you, Akira... To think that Kenki was[r]
+my boyfriend... it must be a dream... Ahahaha♪"[pcms]
 *4625|
 [fc]
-梨里の目も赤くなっていたことに、その時、俺は気付いた。[r]
-けど、そんなのはもうどうでも良かった。[pcms]
+It was then that I noticed Riri's eyes were also red. But by that[r]
+point, I didn't care anymore.[pcms]
 *4626|
 [fc]
 [【央】]
@@ -472,18 +481,20 @@
 [fc]
 [vo_ri s="riri0236"]
 [【梨里】]
-「だよね～！　あはっ……あははっ！！」[pcms][endhact]
+「だよね！　あはっ……あははっ！！」[pcms][endhact]
 *4628|
 [fc]
-弱々しくも、楽しそうに笑う梨里の目に、[r]
-ほんのりと赤みが差していく。[pcms]
+Even though she was weak, Riri's eyes were laughing joyfully, tinged[r]
+with a faint redness.[pcms]
 *4629|
 [fc]
-俺の目も赤いと言っていたけど、好き合う同士似て来るのかな。[pcms]
+"You said my eyes are red too, but maybe people in love start to[r]
+resemble each other."[pcms]
 *4630|
 [fc]
-これからは学園、いや県全域、いやいや東北イチのラブラブで仲良しな[r]
-バカップルになって幸せになるんだと決意して俺は梨里にキスしてやった。[pcms]
+"From now on, we'll be the most lovey-dovey, best buddies couple in[r]
+the school, no, in the whole prefecture, no, no, the best in all of[r]
+Tohoku. Resolved to be happy, I kissed Riri."[pcms]
 [if exp="tf.scene_mode == 1 && tf.all_play == 0"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]

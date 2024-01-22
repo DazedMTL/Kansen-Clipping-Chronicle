@@ -5,38 +5,42 @@
 *01|
 [fc]
 [【央】]
-「はぁ、はぁ、はぁ」[pcms]
+"Haa, haa, haa"[pcms]
 *02|
 [fc]
-梨里と逃げ込んだ森の中は、人の気配もなくひとまず安全そうだ。[pcms]
+The forest where I escaped with Nashi seems to be safe for now, with[r]
+no sign of other people.[pcms]
 *03|
 [fc]
-梨里を落ち着かせるために座らせて、辺りを見回すと、[r]
-木々の先に不釣り合いな派手な原色の模様が見え隠れしていた。[pcms]
+To calm Nashi down, I had her sit and as I looked around, I could see[r]
+gaudy primary colors peeking through the trees, clashing with the[r]
+surroundings.[pcms]
 *04|
 [fc]
-あれは、キャンプ場のテントか……。[pcms]
+Is that... a tent from a campsite?[pcms]
 *05|
 [fc]
-向こうはどうなってるだろう？[r]
-梨里と一緒に行く前に、ちょっと偵察してくるか。[pcms]
+I wonder what's happening over there? Before going with Nashi, maybe I[r]
+should scout the area a bit.[pcms]
 *05a
 [fc]
-さっきみたいなおかしな人たちで一杯だったら、[r]
-また別の逃げ道を探さないといけないし……。[pcms]
+If it's full of those weird people like before, we'll have to find[r]
+another escape route...[pcms]
 *06|
 [fc]
 [【央】]
-「キャンプ場の様子を見てくるから、梨里はここで待ってくれ」[pcms]
+"I'm going to check out the campsite, so Nashi, please wait here for[r]
+me."[pcms]
 [backlay][rir_up_03_f10 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *07|
 [fc]
 [【梨里】]
-「…………」[pcms]
+"..."[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *08|
 [fc]
-不安そうな表情を見せる梨里を置いて木々の間を縫ってキャンプ場へ向かった。[pcms]
+Leaving a worried-looking Nashi behind, I threaded through the trees[r]
+towards the campsite.[pcms]
 [sysbt_meswin clear]
 [backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]
 [wait2 time=500]
@@ -49,83 +53,83 @@
 「なんだよ、これ……」[pcms][endhact]
 *7533|
 [fc]
-声にならないうめきを上げる俺の目の前には、[r]
-惨劇が広がっていた。[pcms]
+In front of me, as I let out a voiceless groan, a tragedy was[r]
+unfolding.[pcms]
 *7534|
 [fc]
-木陰から覗き見るセンター併設のキャンプ場に、[r]
-さっきの連中と同じ異常なヤツらが暴れ回り、混乱の坩堝になっていた。[pcms]
+Peering from the shadows at the campsite attached to the center, the[r]
+same abnormal people from before were rampaging, turning it into a[r]
+cauldron of chaos.[pcms]
 *7535|
 [fc]
-悲鳴と怒号、うめき声と恐慌が夜空へと向かって響いている。[pcms]
+Screams and shouts, groans and panic were echoing up into the night[r]
+sky.[pcms]
 *7536|
 [fc]
-服を剥ぎ取られ、その場で犯されてしまっている女性。[r]
-そして男性。[pcms]
+Women and men being stripped of their clothes and violated on the[r]
+spot.[pcms]
 *7537|
 [fc]
-体を引き千切られ絶叫している人。[pcms]
+People being torn apart and screaming in agony.[pcms]
 *7538|
 [fc]
-お互いに殴り合い、体がボロボロになっているっている人たち。[pcms]
+Others beating each other up, their bodies battered and torn.[pcms]
 *7539|
 [fc]
-略奪され、破壊されるテント。[pcms]
+Tents being looted and destroyed.[pcms]
 *7540|
 [fc]
-生肉や生魚をそのままむさぼり、[r]
-浴びるようにして酒を飲んでいる男。[pcms]
+A man greedily devouring raw meat and fish, guzzling down alcohol as[r]
+if bathing in it.[pcms]
 *7541|
 [fc]
-そして、生きたままの人間に群がり、[r]
-絶叫と断末魔を上げているその人をむさぼり食っている一群。[pcms]
+And a group feasting on a still-living human being, who was screaming[r]
+in agony and death throes.[pcms]
 *7542|
 [fc]
-この世のものとは思えない――[pcms]
+This scene was beyond this world--[pcms]
 *7543|
 [fc]
-地獄だってもう少し穏やかでスマートだろうと思ってしまうような光景が[r]
-繰り広げられている。[pcms]
+It was a sight that made me think even hell would be a bit more[r]
+peaceful and sophisticated.[pcms]
 *7544|
 [fc]
-よろけた拍子に、何かにつまずいた。[pcms]
+I stumbled as I staggered forward, tripping over something.[pcms]
 *7545|
 [fc]
-足を踏ん張り耐えたけれど、力を入れたせいでか胃の底から熱いものが[r]
-込み上げてきて、その場でぶちまけてしまった。[pcms]
+I braced my foot and endured it, but the effort caused something hot[r]
+to rise from the pit of my stomach, and I vomited right there.[pcms]
 *7546|
 [fc]
-喉を焼き、口の中に酸っぱい胃液と、[r]
-おかわりまでしたカレーが下草の上に撒き散らされる。[pcms]
+The acid from my stomach burned my throat, and the curry I had seconds[r]
+of was scattered over the underbrush.[pcms]
 *7547|
 [fc]
-早く、早くここを離れなくちゃ……！[pcms]
+I must leave this place quickly...![pcms]
 *7548|
 [fc]
-ゲロを吐きながら、よろける足取りで森の中へと戻って行く。[pcms]
+Vomiting as I went, I staggered back into the forest.[pcms]
 *7549|
 [fc]
-そんな俺の背中に、センターの方から聞こえてきた悲鳴がぶつかってきた。[pcms]
+The screams from the center hit my back as I left.[pcms]
 *7550|
 [fc]
-キャンプ場だけじゃなく、[r]
-センターの中も同じようになってしまっているんだろう。[pcms]
+It wasn't just the campsite; the center must be in the same state.[pcms]
 [se buf=0 storage="seB051"]
 *7551|
 [fc]
 [quakesp time=500 laynum=0 hmax=10 vmax=10]
-さらに爆発音も。[pcms]
+There were explosions too.[pcms]
 *7552|
 [fc]
-肩越しに振り返ると、センター正面玄関の前あたりで[r]
-火柱が立っているのが見えた。[pcms]
+Glancing over my shoulder, I could see a pillar of fire near the main[r]
+entrance of the center.[pcms]
 *7553|
 [fc]
-停められていた自動車が爆発したんだろう。[pcms]
+A parked car must have exploded.[pcms]
 *7554|
 [fc]
-……早く戻ろう。[r]
-ここにいるのはもうイヤだ。[pcms]
+...I need to get back quickly. I don't want to stay here any longer.[pcms]
 [stopse_all]
 [sysbt_meswin clear]
 [backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]
@@ -146,16 +150,15 @@
 「央……よかった、無事で……」[pcms][endhact]
 *7557|
 [fc]
-梨里が顔いっぱいに安堵を浮かべて、[r]
-俺を迎えてくれた。[pcms]
+Nashi greeted me with a face full of relief.[pcms]
 *7558|
 [fc]
-下草の上に座り込んだままだけど、[r]
-どうやら落ち着きを取り戻してくれたみたいだ。[pcms]
+She was still sitting on the underbrush, but it seemed she had[r]
+regained her composure.[pcms]
 *7559|
 [fc]
-俺が様子を見てくるって離れた時は、[r]
-ずっと手を放してくれなかったもんな。[pcms]
+When I left to check things out, she wouldn't let go of my hand at[r]
+all.[pcms]
 [backlay][rir_up_03_f10 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *7560|
 [fc]
@@ -164,23 +167,24 @@
 「それで……どうだった？」[pcms][endhact]
 *7561|
 [fc]
-聞きたいのと聞きたくないのが入り混じった表情で、[r]
-俺の顔を見上げてくる梨里。[pcms]
+Nashi looked up at me with a mix of expressions, both wanting to hear[r]
+and not wanting to know.[pcms]
 *7562|
 [fc]
-そんな梨里の前に座り、どう言うべきか少しだけ迷った後……。[pcms]
+Sitting in front of such Nashi, I hesitated for a moment on what to[r]
+say...[pcms]
 *7563|
 [fc]
 [【央】]
-「……アレがなんなのかはさっぱりわからないけど、[r]
-　ずっと続いてる事件の犯人なのは間違いないと思う」[pcms][endhact]
+"...I have no idea what that was all about, but I'm pretty sure[r]
+they're the culprits behind the ongoing incidents."[pcms]
 *7564|
 [fc]
-当たり障りのないところだけを伝えることにした。[pcms]
+I decided to only convey what was necessary without any harm.[pcms]
 *7565|
 [fc]
-あんな惨状を逐一報告することなんてする意味がないし、[r]
-したくもない。[pcms]
+There's no point in reporting every detail of such a horrific scene,[r]
+nor do I want to.[pcms]
 [backlay][rir_up_03_f13 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *7566|
 [fc]
@@ -189,41 +193,44 @@
 「一体、なんであんなことに……あんなふうになっちゃうなんて……」[pcms][endhact]
 *7567|
 [fc]
-自分の体を抱きかかえ、小刻みに震えてしまう梨里。[r]
-落ち着いたっていっても、怖くなくなったわけじゃないからな……。[pcms]
+Nashi hugged herself and trembled slightly. Even though she's calmed[r]
+down, it doesn't mean she's not scared anymore...[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *7568|
 [fc]
-キャンプ場での惨劇、そして周回道路でのことを思い出す。[pcms]
+I recall the tragedy at the campsite and what happened on the loop[r]
+road.[pcms]
 *7569|
 [fc]
-それだけで頭の芯が痺れそうなくらい恐ろしい出来事だったけど、[r]
-冷静に思い出すと細かな疑問点が次々と湧き上がってくる。[pcms]
+Just thinking about it is enough to make my head go numb with terror,[r]
+but when I calmly recall it, a number of detailed questions arise one[r]
+after another.[pcms]
 *7570|
 [fc]
-周回道路で見た三人……炎に巻かれていた一人は論外として、[r]
-他の二人も今にも死んでしまっていてもおかしくなかった。[pcms]
+The three people I saw on the loop road... one of them was out of the[r]
+question, engulfed in flames, but the other two could have been dead[r]
+at any moment as well.[pcms]
 *7571|
 [fc]
-いきなり襲いかかってきたから驚いて判断できなかったけど、[r]
-かなりの大怪我をしていたし、本当だったら動くことなんか到底できないはずだ。[pcms]
+I was so surprised when they suddenly attacked that I couldn't judge[r]
+properly, but they were seriously injured, and under normal[r]
+circumstances, they shouldn't have been able to move at all.[pcms]
 *7572|
 [fc]
-なのに、アイツらは平然と動き、笑いながら俺を――[r]
-梨里へと襲い掛かってきた。[pcms]
+Yet, they moved with ease and attacked meand Nashiwhile laughing.[pcms]
 *7573|
 [fc]
-合宿初日、忽然と姿を消して今朝になって姿を現した、[r]
-行方不明になっていた事故車のドライバー。[pcms]
+The driver of the missing car that vanished on the first day of the[r]
+training camp and appeared this morning.[pcms]
 *7574|
 [fc]
-それに、他の行方不明者たち。[pcms]
+And the other missing persons.[pcms]
 *7575|
 [fc]
-その全員が、あんなふうになってしまっているんだろうか。[pcms]
+I wonder if all of them have ended up like that.[pcms]
 *7576|
 [fc]
-どのみち、尋常なヤツらじゃない。[pcms]
+In any case, they're not ordinary people.[pcms]
 [backlay][rir_up_03_f10 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *7577|
 [fc]
@@ -232,86 +239,88 @@
 「……純、大丈夫かな……」[pcms][endhact]
 *7578|
 [fc]
-弱々しく震える声で、ぽつりと漏らす梨里。[pcms]
+Nashi lets out a faint voice, trembling weakly.[pcms]
 *7579|
 [fc]
 [vo_ri s="riri0431"]
 [【梨里】]
-「純も、蘆名先輩も……みんな、大丈夫なの……？[r]
-　センターの方にもいっぱいいたんでしょ、アイツら……」[pcms][endhact]
+"Is everyone okay...? Jun, Ashina-senpai... there were a lot of them[r]
+at the center, right?"[pcms]
 *7580|
 [fc]
 [【央】]
 「そう……だな……」[pcms][endhact]
 *7581|
 [fc]
-このまま森の中に身を隠していれば、[r]
-あの連中をやり過ごして襲われないように出来るかもしれない。[pcms]
+If we stay hidden in the forest, we might be able to avoid those guys[r]
+and not get attacked.[pcms]
 *7582|
 [fc]
-けど、センターにいる先輩たちは、[r]
-今まさにヤツらに襲われているかもしれないんだ。[pcms]
+But the seniors at the center might be getting attacked by them right[r]
+now.[pcms]
 [backlay][rir_lo_03_f05 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7583|
 [fc]
 [vo_ri s="riri0432"]
 [【梨里】]
-「行こう、央……！　みんなを助けないと！[r]
-　あんな連中に襲われてるんだとしたら、あたしたちが助けに行かないと！」[pcms][endhact]
+"Let's go, Nashi...! We have to save everyone! If they're being[r]
+attacked by those people, we have to go help!"[pcms]
 *7583a|
 [fc]
 [【央】]
 「梨里……」[pcms][endhact]
 *7584|
 [fc]
-さっきまで悲鳴を上げて怯え、泣きそうになりながら震えていた子とは[r]
-思えない決断が、梨里の口から上がった。[pcms]
+The decision that came from Nashi's mouth was unthinkable from the[r]
+girl who had just been screaming in fear and trembling as if she was[r]
+about to cry.[pcms]
 *7585|
 [fc]
-元々の梨里はそんな子だ。[r]
-正義感が強く、誰かを守るためには躊躇がない。[pcms]
+That's the Nashi I know. She has a strong sense of justice and doesn't[r]
+hesitate to protect someone.[pcms]
 *7586|
 [fc]
-怖がりな面と、正義感の強い面、どちらも梨里を表す大切な面だ。[r]
-それは梨里のらしさであり、そんな梨里を好ましく思っている。[pcms]
+Both her fearful side and her strong sense of justice are important[r]
+aspects that represent Nashi. That's what makes her Nashi, and I find[r]
+that endearing.[pcms]
 *7587|
 [fc]
-でも……。[pcms]
+But...[pcms]
 *7588|
 [fc]
-すぐには返事が出来なかった。[pcms]
+I couldn't reply immediately.[pcms]
 *7589|
 [fc]
-怖い。[r]
-恐い。[pcms]
+I'm scared. Terrified.[pcms]
 *7590|
 [fc]
-コワイ。[pcms]
+Frightened.[pcms]
 *7591|
 [fc]
-あのキャンプ場の惨状を見てしまったら、[r]
-あの中に飛び込んでいくなんて考えられない。[pcms]
+If I saw the carnage at that campsite, I can't imagine jumping into[r]
+the middle of it.[pcms]
 *7592|
 [fc]
-あんなヤツらに対抗して、戦えってことなのか！？[r]
-無理だ！　そんなの絶対に無理に決まってる！[pcms]
+Are you saying we have to fight against those guys!? Impossible![r]
+That's absolutely impossible![pcms]
 *7593|
 [fc]
-心の底から冷たい感覚が湧き上がり、一瞬で全身を凍り付かせた。[pcms]
+A cold sensation wells up from the bottom of my heart, freezing my[r]
+entire body in an instant.[pcms]
 *7594|
 [fc]
-正直言って、このまま隠れて助けがくるのを待っていたい。[pcms]
+Honestly, I want to hide and wait for help to come.[pcms]
 *7595|
 [fc]
-さっきのヘリ。[r]
-あれは間違いなく軍用のヘリだ。[pcms]
+That helicopter from earlier. It was definitely a military helicopter.[pcms]
 *7596|
 [fc]
-あんなのが飛んでたってことは、いずれ自衛軍が助けに来てくれるに違いない。[r]
-警察ならもっと早いだろう。[pcms]
+If something like that is flying around, then surely the Self-Defense[r]
+Forces will come to rescue us eventually. The police would be even[r]
+quicker.[pcms]
 *7597|
 [fc]
-だったら、それまで安全な場所に隠れているのが正解じゃないか……。[pcms]
+Then isn't it correct to hide in a safe place until then...?[pcms]
 [backlay][rir_lo_03_f04 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7598|
 [fc]
@@ -321,37 +330,37 @@
 [backlay][rir_lo_03_f05 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7599|
 [fc]
-梨里の声に、凍り付いた全身がビクリと震えた。[pcms]
+Nashi's voice made my frozen body shiver with a start.[pcms]
 *7600|
 [fc]
-その、勇気と信念のこもった声は、[r]
-一瞬で脳裏にいろんな顔を思い浮かばせた。[pcms]
+That voice, filled with courage and conviction, brought various faces[r]
+to my mind in an instant.[pcms]
 *7601|
 [fc]
-ここにいるのが累先輩だったら……こんなグズグズしているだろうか。[pcms]
+If it were Rui-senpai here... would she be dawdling like this?[pcms]
 *7602|
 [fc]
-いや、そんなはずはない。[r]
-すぐにでもみんなを助けにセンターへと向かって走り出すはずだ。[pcms]
+No, that can't be. She would immediately run towards the center to[r]
+save everyone.[pcms]
 *7603|
 [fc]
-それに、顕悟……あいつだって、絶対に友達を見捨てるようなことはしない。[pcms]
+And Kenki... he definitely wouldn't abandon his friends either.[pcms]
 *7603a|
 [fc]
-あの地獄の中に取り残されているのが梨里だろうと俺だろうと、[r]
-あいつは躊躇いも無しに必ず助けに行くだろう。[pcms]
+No matter if it's Nashi or me left behind in that hell, he would rush[r]
+to save us without hesitation.[pcms]
 *7604|
 [fc]
-俺だって……俺だって、そうなりたい……！[r]
-いつまでも守られてばっかりなんて、そんなのはイヤだ！[pcms]
+I want to be like that too...! I don't want to be protected forever; I[r]
+hate that![pcms]
 *7605|
 [fc]
-だから俺は、累先輩のそばにいたいって思った……梨里の、[r]
-顕悟の友達であり続けたいって思ったんだ！[pcms]
+That's why I wanted to stay by Rui-senpai's side... why I wanted to[r]
+continue being friends with Nashi and Kenki![pcms]
 *7606|
 [fc]
-今、ここで逃げ出したら……そんな資格は一生無くなる。[r]
-今、ここが、俺にとって……！[pcms]
+If I run away now... I'll never deserve that chance again. Right here,[r]
+right now is critical for me...![pcms]
 *7607|
 [fc]
 [【央】]
@@ -364,8 +373,8 @@
 「うんっ……！　行こう、央！」[pcms][endhact]
 *7609|
 [fc]
-梨里の笑顔に、恐怖が溢れ出す心の奥底に栓が詰められた。[r]
-勇気を分けてもらったような、そんな気がした。[pcms]
+Nashi's smile plugged up the depths of my heart that were overflowing[r]
+with fear. It felt as if she had shared her courage with me.[pcms]
 [stopse_all]
 [sysbt_meswin clear]
 [backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]
@@ -385,26 +394,26 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *7612|
 [fc]
-足音と声を忍ばせ、センターへと向かう俺と梨里。[pcms]
+Nashi and I head towards the center with muffled footsteps and voices.[pcms]
 *7613|
 [fc]
-単純な距離なら、キャンプ場を突っ切った方が早いんだけど、[r]
-流石にあの狂乱の中に突っ込んでいく気にはなれない。[pcms]
+Although cutting straight through the campsite would be faster in[r]
+terms of distance, I can't bring myself to plunge into that frenzy.[pcms]
 *7614|
 [fc]
-それは勇気じゃなくて無謀だ。[pcms]
+That's not courage, it's recklessness.[pcms]
 *7615|
 [fc]
-なので、キャンプ場の外縁を回り込むようにしてセンターへと[r]
-向かうルートを取ることにした。[pcms]
+So, I decided to take a route that skirts around the edge of the[r]
+campsite towards the center.[pcms]
 *7616|
 [fc]
-……そうすれば、梨里にあんな光景をあんまり見せなくて[r]
-済むかもしれないしな。[pcms]
+...That way, maybe I won't have to expose Nashi to such a horrific[r]
+scene too much.[pcms]
 *7617|
 [fc]
-そんなことを考えていたからか、[r]
-それともキャンプ場を抜けることにのみ気を取られていたからか――[pcms]
+Perhaps it was because I was thinking about that, or maybe because I[r]
+was only focused on getting through the campsite--[pcms]
 *7618|
 [fc]
 [【央】]
@@ -412,8 +421,8 @@
 [fadeoutbgm time=500]
 *7619|
 [fc]
-キャンプ場の外れだっていうのに、テントが一張りあった。[r]
-そして、その中からは……。[pcms]
+Even though it was on the outskirts of the campsite, there was a tent.[r]
+And from inside that tent...[pcms]
 [bgm storage="bgm13" time=100]
 [backlay][kan_ma layer=3 x="&sf.ma_lo_x[3]" y="&sf.ma_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7620|
@@ -429,33 +438,33 @@
 [backlay][kan_ma layer=3 x="&sf.ma_lo_x[3]" y="&sf.ma_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7622|
 [fc]
-テントの中から現れた男は、俺なんか目に入っていないって感じで[r]
-梨里に向かって一直線に走ってきた。[pcms]
+The man who emerged from the tent seemed not to notice me at all and[r]
+ran straight towards Nashi.[pcms]
 *7623|
 [fc]
-事故現場で会ったヤツと違って怪我をしていないからか、[r]
-やたらと動きが早い。[pcms]
+Unlike the guy we met at the accident site, he wasn't injured, so he[r]
+moved unusually fast.[pcms]
 *7624|
 [fc]
-普通の人間と同じくらいだ。[pcms]
+About as fast as a normal human.[pcms]
 *7625|
 [fc]
 [【央】]
 「梨里！」[pcms][endhact]
 *7626|
 [fc]
-なんとかしないと……って、俺、素手じゃないか！[pcms]
+I have to do something... but I'm unarmed![pcms]
 *7627|
 [fc]
-なんで武器とか用意して来なかったんだよ！[r]
-木の棒とかでも良かったのに！[pcms]
+Why didn't I bring any weapons? Even a wooden stick would have been[r]
+better![pcms]
 *7628|
 [fc]
-抜かりだらけの自分自身に狼狽し、[r]
-どうしていいのかわからず動きが止まってしまう。[pcms]
+I panic at my own unpreparedness, not knowing what to do, and find[r]
+myself unable to move.[pcms]
 *7629|
 [fc]
-そんな間にも、男は梨里に向かって突進していき――[pcms]
+In that moment, the man continued his charge towards Nashi--[pcms]
 *7630|
 [fc]
 [ns【]男[】nse]
@@ -464,12 +473,13 @@
 [se buf=0 storage="seB012"]
 *7631|
 [fc]
-男に組み付かれる寸前に、梨里が身を翻してそれを躱した。[r]
-と、同時に足を差し出し、勢いを利用した足払いを仕掛けた。[pcms]
+Just before the man could grab her, Nashi flipped her body around to[r]
+dodge and at the same time extended her leg, tripping him using his[r]
+own momentum.[pcms]
 *7632|
 [fc]
-猛進してきた男はあっさりと転び、顔面から地面に突っ込んでいった。[r]
-そんな男の脇に立った梨里の体が軽く飛び上がり――[pcms]
+The charging man easily fell over, plunging face-first into the[r]
+ground. Standing beside him, Nashi's body lightly jumped up--[pcms]
 [eval exp="sf.EV41_04 = 1"][backlay][image storage="EV41_04" layer=1 page=back visible=true left=0 top=0][trans time=200 method=crossfade][wt2]
 [se buf=0 storage="seB008"]
 [白フラ]
@@ -482,21 +492,23 @@
 [backlay][chara_int1][trans time=150 method=crossfade][wt]
 *7634|
 [fc]
-気合いとともに、かかとが男の胴体にめり込んだ。[pcms]
+With a shout, her heel drove deep into the man's torso.[pcms]
 *7635|
 [fc]
-エゲツないケンカ空手が炸裂し、多分、[r]
-男の肋骨が何本か折られたことだろう。[pcms]
+A brutal display of fighting karate exploded, and probably a few of[r]
+the man's ribs were broken.[pcms]
 [backlay][kan_ma layer=3 x="&sf.ma_lo_x[3]" y="&sf.ma_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7636|
 [fc]
-けれど、男は何もなかったかのように手をついて立ち上がろうとしてきた。[pcms]
+But the man tried to stand up as if nothing had happened, supporting[r]
+himself with his hands.[pcms]
 *7637|
 [fc]
-そんな男に対して、梨里は構え直すとグッと腰を落とした。[pcms]
+Facing such a man, Nashi readied herself again and dropped her hips[r]
+low.[pcms]
 *7638|
 [fc]
-そして足が一閃。[pcms]
+Then her leg flashed.[pcms]
 [eval exp="sf.EV41_04 = 1"][backlay][image storage="EV41_04" layer=3 page=back visible=true left=0 top=0][trans time=200 method=crossfade][wt2]
 [se buf=0 storage="seB008"]
 [白フラ]
@@ -507,22 +519,22 @@
 「はっ！！」[pcms][endhact]
 *7640|
 [fc]
-ローキックが放たれ、それは男の地面についた腕を直撃した。[pcms]
+A low kick was unleashed, striking directly at the man's arm that was[r]
+on the ground.[pcms]
 [eval exp="f.mskon = 0"]
 [backlay][chara_int3][chara_int4][rir_lo_03_f05 layer=4 x="&sf.ri_lo_x[4]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7641|
 [fc]
-肘部分を外側から蹴り飛ばされ、[r]
-関節を砕かれ再び顔面から地面に倒れ込んだ。[pcms]
+His elbow was kicked from the outside, shattering the joint and[r]
+causing him to fall face-first into the ground again.[pcms]
 *7642|
 [fc]
-しかし――[pcms]
+However--[pcms]
 [backlay][kan_ma layer=5 x="&sf.ma_lo_x[5]" y="&sf.ma_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7643|
 [fc]
 [ns【]男[】nse]
-「ひひ……ぅひひひひひひぃぃぃぃぃぃっ！！！[r]
-　おんなぁぁぁぁぁぁっっ！！！」[pcms][endhact]
+"Hehe...uheheheheheheheheh!!! Woman!!!!"[pcms]
 [backlay][rir_lo_03_f16 layer=4 x="&sf.ri_lo_x[4]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7644|
 [fc]
@@ -532,12 +544,13 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *7645|
 [fc]
-腕を蹴り砕かれたにもかかわらず、飛ぶようにして跳ね起きた男が、[r]
-無理な動きで足首を折りながらも体ごと梨里に覆い被さった。[pcms]
+Despite having his arm kicked apart, the man sprang up and threw[r]
+himself onto Nashi, breaking his ankle in an unnatural movement but[r]
+still covering her with his body.[pcms]
 *7646|
 [fc]
-体格差もあり、あっさりと組み敷かれてしまった梨里。[r]
-ヤバイ！　ヤバイヤバイヤバイ！！　なんとかしないと……！[pcms]
+Due to the difference in physique, Nashi was easily pinned down. This[r]
+is bad! Really bad!! I have to do something...![pcms]
 [backlay][kan_ma layer=3 x="&sf.ma_lo_x[3]" y="&sf.ma_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7647|
 [fc]
@@ -551,30 +564,29 @@
 「んひっ、やめっ、やめろぉっ！　気持ち悪いいっ！！」[pcms][endhact]
 *7649|
 [fc]
-梨里に覆い被さった男が、唾液まみれの舌を大きく突き出し、[r]
-小麦色の首筋へと這わせている。[pcms]
+The man covering Nashi stuck out his saliva-drenched tongue and began[r]
+to slither it down her wheat-colored neck.[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *7650|
 [fc]
-何か、何か武器っ……あった！！[pcms]
+I need something, some kind of weapon... There it is!![pcms]
 *7651|
 [fc]
-転がっていた大きな石を見つけ、持ち上げる。[r]
-ズッシリと重いそれは、十分に武器になるはずだ。[pcms]
+I found a large stone lying around and picked it up. It felt heavy[r]
+enough to be a sufficient weapon.[pcms]
 *7652|
 [fc]
-これで、あのがら空きになってる後頭部を殴れば、[r]
-確実にっ……確実、に……！？[pcms]
+With this, if I hit that wide-open back of his head, it will surely...[r]
+definitely...!?[pcms]
 *7653|
 [fc]
-人間の頭に、こんなものを……！？[pcms]
+To hit a human head with something like this...!?[pcms]
 *7654|
 [fc]
-意思を持ち上げたまま、動きが止まってしまった。[pcms]
+My hand hesitated, still holding the stone aloft.[pcms]
 *7655|
 [fc]
-殺すのか？　殺してしまうのか……？[r]
-でも、そうしないと……！[pcms]
+To kill or not? If I don't do it... But I have to...![pcms]
 [backlay][rir_up_03_f17 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *7656|
 [fc]
@@ -587,16 +599,16 @@
 「梨里っ！」[pcms][endhact]
 *7658|
 [fc]
-男の下から聞こえてきた悲鳴に、振り被った手をもう一度大きく上げる――[pcms]
+The scream from beneath the man made me raise my hand high again--[pcms]
 *7659|
 [fc]
-が、どうしても手が下りてくれない。[pcms]
+But no matter what, I just couldn't bring it down.[pcms]
 *7660|
 [fc]
-なんでっ……なんでだよ！[pcms]
+Why... Why can't I do it![pcms]
 *7661|
 [fc]
-喉の奥から叫びが込み上げてきた、その瞬間――[pcms]
+The moment a cry welled up from the depths of my throat--[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 [se buf=0 storage="seA048"]
 [backlay][black_toplayer][trans method=universal rule="RtoL" vague=100 time=200][wt2]
@@ -614,8 +626,8 @@
 [白フラ]
 *7664|
 [fc]
-突然、横合いから飛び出してきた人影が、[r]
-梨里に圧し掛かった男へと組み付いた。[pcms]
+Suddenly, a figure burst from the side and tackled the man pressing[r]
+down on Nashi.[pcms]
 *7665|
 [fc]
 見間違えようもないその姿は、須田だ。[pcms][stopmove]
@@ -633,12 +645,13 @@
 [白フラ]
 *7667|
 [fc]
-叫びとともに、須田の手が男の頭に叩きつけられた。[pcms]
+With a scream, Suda's hand struck down on the man's head.[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *7668|
 [fc]
-握られていた物が男の頭に突き刺さり、その途端、[r]
-梨里に圧し掛かった体が大きく痙攣し、動かなくなった。[pcms]
+The object in his grip pierced into the man's head, and at that[r]
+moment, the body pressing down on Nashi convulsed violently and then[r]
+stopped moving.[pcms]
 *7669|
 [fc]
 [【央】]
@@ -650,11 +663,11 @@
 「おう……大丈夫か？」[pcms][endhact]
 *7671|
 [fc]
-男の頭に突き刺さっているのは、[r]
-テントのロープを地面に固定するためのペグだ。[pcms]
+The object embedded in the man's head was a peg used to secure tent[r]
+ropes to the ground.[pcms]
 *7672|
 [fc]
-こんなものを突き刺されたら、当然……。[pcms]
+If you're stabbed with something like this, naturally...[pcms]
 [backlay][chara_int][rir_up_03_f17 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *7673|
 [fc]
@@ -668,8 +681,8 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *7675|
 [fc]
-石を下ろし、男の大きな体を梨里の上からどかそうとする。[r]
-と、触れた瞬間、男の体が強く脈打った。[pcms]
+I lower the stone and try to move the man's large body off of Nashi.[r]
+The moment I touch him, the man's body pulses strongly.[pcms]
 *7676|
 [fc]
 [ns【]男[】nse]
@@ -698,7 +711,8 @@
 [sud_lo_03_f04c layer=5 x="&sf.su_lo_x[5]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7680|
 [fc]
-須田が俺の落とした石を掴み上げ、勢いよくペグに石を叩きつける。[pcms]
+Suda grabs the stone I dropped and forcefully strikes it against the[r]
+peg.[pcms]
 [se buf=0 storage="seB007"]
 [白フラ]
 [backlay][chara_int]
@@ -711,8 +725,9 @@
 [sud_lo_03_f04c layer=5 x="&sf.su_lo_x[5]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7681|
 [fc]
-二度、三度と繰り返し石を叩きつけると、男は徐々に動かなくなり、[r]
-ペグが根元まで突き刺さった頃には、完全に動かなくなっていた。[pcms]
+After repeatedly striking the stone two, three times, the man[r]
+gradually stops moving, and by the time the peg is fully driven in, he[r]
+is completely motionless.[pcms]
 [fadeoutbgm time=500]
 [backlay][chara_int4][sud_lo_03_f10c layer=5 x="&sf.su_lo_x[5]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7682|
@@ -721,11 +736,11 @@
 「はぁっ、はぁっ、はぁっ……こ、コイツら、しぶてぇんだよ……」[pcms][endhact]
 *7683|
 [fc]
-石を手放し、男から離れる須田。[pcms]
+Suda lets go of the stone and steps away from the man.[pcms]
 *7684|
 [fc]
-入れ替わるように駆け寄ると、完全に脱力しきって重い男の体を[r]
-転がすようにして、梨里の上から押し退けた。[pcms]
+As if taking his place, I rush over and push the heavy, completely[r]
+limp body of the man off of Nashi as if rolling it away.[pcms]
 *7685|
 [fc]
 [【央】]
@@ -735,12 +750,12 @@
 [fc]
 [vo_ri s="riri0444"]
 [【梨里】]
-「ううん、気にしないでよ、そんなこと……央がいてくれるってだけで、[r]
-　すごく心強いんだから」[pcms][endhact]
+"No, don't worry about it... Just having you here with me makes me[r]
+feel so much stronger."[pcms]
 *7687|
 [fc]
-梨里の優しい言葉が突き刺さる……強くなるって誓ったのに、[r]
-なかなか上手くいかないな。[pcms]
+Nashi's kind words pierce through me... I swore to become stronger,[r]
+but it's not going so well.[pcms]
 *7688|
 [fc]
 [【央】]
@@ -753,8 +768,8 @@
 「ありがとう、須田っち。ホント、ナイスタイミング！」[pcms][endhact]
 *7690|
 [fc]
-須田に礼を言う俺と梨里だったが、男をジッと見つめたまま、[r]
-当の本人はまるでは反応しない。[pcms]
+While Nashi and I thank Suda, he just stares at the man without any[r]
+reaction.[pcms]
 [backlay][sud_lo_03_f05c layer=5 x="&sf.su_lo_x[5]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7691|
 [fc]
@@ -766,15 +781,15 @@
 [se buf=0 storage="seB018"]
 *7692|
 [fc]
-そんなことを呟くと、腰でも抜けたかのように、[r]
-須田が膝から崩れ落ちてしまった。[pcms]
+Muttering such things, Suda collapses to his knees as if his back gave[r]
+out.[pcms]
 *7693|
 [fc]
 [【央】]
 「お、おい、須田っ！」[pcms][endhact]
 *7694|
 [fc]
-慌てて駆け寄った俺の目に、須田は――[pcms]
+In my haste to approach him, I see Suda--[pcms]
 *7695|
 [fc]
 [【央】]

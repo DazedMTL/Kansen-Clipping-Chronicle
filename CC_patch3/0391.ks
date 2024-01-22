@@ -4,39 +4,38 @@
 [sysbt_meswin]
 *3835|
 [fc]
-ここにもいない……か。[r]
-梨里のやつ、どこにいるんだ？[pcms]
+She's not here either... Where could Riri be hiding?[pcms]
 *3836|
 [fc]
-累先輩、子野日さんと立て続けにセックスしたけど、[r]
-なんかこう、しっくり来ない。[pcms]
+Senpai, even though I had sex with Konohi-san one after another, it[r]
+just doesn't feel right somehow.[pcms]
 *3837|
 [fc]
-きっと、一番相性がいいのは梨里だから、って事なんだろうな。[pcms]
+It must be because Riri is the one I'm most compatible with.[pcms]
 *3838|
 [fc]
-セックスしたい！[r]
-もともと梨里は俺の初恋の相手なんだ、セックスして何が悪い！[pcms]
+I want to have sex! Riri was my first love, what's wrong with wanting[r]
+to sleep with her![pcms]
 *3839|
 [fc]
-顕悟に譲ったのが間違ってた！[r]
-だいたい、あいつの処女は俺がもらったし童貞も捧げた！[pcms]
+I should have never given her up to Ken'go! After all, I was the one[r]
+who took her virginity and gave her my own![pcms]
 *3840|
 [fc]
-俺たちこそが理想的な幼なじみカップルとして世間的にも、[r]
-俺たち的にも唯一無二で正統派でクラシックな男と女なんだ！[pcms]
+We are the ideal childhood friend couple in the eyes of society and[r]
+ourselves, a classic and legitimate pairing of a man and a woman![pcms]
 *3841|
 [fc]
 [【央】]
-「お～い梨里ィ～？　俺だよ、俺、俺～！」[pcms][endhact]
+「おい梨里ィ？　俺だよ、俺、俺！」[pcms][endhact]
 *3842|
 [fc]
-まずい。これじゃオレオレ詐欺みたいじゃないか。[r]
-梨里からツッコミが入っちゃう。[pcms]
+This is bad. It's like I'm scamming myself. Riri would definitely have[r]
+a retort for this.[pcms]
 *3843|
 [fc]
-いやいや、そういう俺たちだからこそ、顕悟には不可能なレベルでの[r]
-理想的な恋人関係ってのをアピールできるのかもしれないな。[pcms]
+No, no, maybe it's precisely because we're like this that we can show[r]
+Ken'go an ideal romantic relationship that's impossible for him.[pcms]
 *3844|
 [fc]
 [【央】]
@@ -46,15 +45,16 @@
 [se buf=0 storage="seB091"]
 *3845|
 [fc]
-見慣れない男が二人、ドアをがしがし叩いていた。[r]
-どうやらそこは宿泊してる誰かの部屋らしかった。[pcms]
+Two unfamiliar men were banging on the door. It seemed to be someone's[r]
+room where they were staying.[pcms]
 *3846|
 [fc]
 [【央】]
 「あんたら何やってんだ？」[pcms][endhact]
 *3847|
 [fc]
-近付いてからそう呼びかけると、そいつらがこちらを振り返った。[pcms]
+As I approached and called out to them, they turned around to look at[r]
+me.[pcms]
 [backlay]
 [kan_su layer=4 x="&sf.su_lo_x[4]" y="&sf.su_lo_y[0]"]
 [kan_ru layer=5 x="&sf.ra_lo_x[5]" y="&sf.ra_lo_y[0]"]
@@ -65,23 +65,25 @@
 「ここに隠れてるんだ」[pcms][endhact]
 *3849|
 [fc]
-最初に答えたのは他校の教師か引率する父兄らしい若い男だった。[pcms]
+The first to respond was a young man who seemed to be a teacher from[r]
+another school or a chaperoning parent.[pcms]
 *3850|
 [fc]
 [ns【]感染者２[】nse]
 「もう逃げらんないよ。遊ぼうぜ？」[pcms][endhact]
 *3851|
 [fc]
-もうひとりは俺にではなく、ドアの向こうにいる誰かに向けてそう言う。[r]
-こちらも他校の、俺と同年代の男子生徒だ。[pcms]
+The other was not talking to me but to someone on the other side of[r]
+the door. He also appeared to be a male student around my age from[r]
+another school.[pcms]
 *3852|
 [fc]
 [【央】]
 「女……か？」[pcms][endhact]
 *3853|
 [fc]
-よく見知った人間――女の匂いがする。[r]
-どういうわけが嗅覚が鋭敏になっているようで、そう感じる俺だった。[pcms]
+I could smell a familiar person--a woman. For some reason, my sense of[r]
+smell was sharp, and I felt that way.[pcms]
 *3854|
 [fc]
 [ns【]感染者２[】nse]
@@ -89,12 +91,12 @@
 *3855|
 [fc]
 [ns【]感染者１[】nse]
-「中には三人いるんだ。最初に誰を犯るか、[r]
-　君に好きなのを選ばせてやってもいい。手伝ってくれたまえ」[pcms][endhact]
+"There are three inside. I'll let you choose who you want to rape[r]
+first. Help me out."[pcms]
 *3856|
 [fc]
-最悪、梨里を確保するために一戦交える必要もあるかと覚悟していたが、[r]
-この二人はなかなか話せるじゃないか。梨里が俺のものなら手伝おう。[pcms]
+I was prepared to fight if necessary to secure Riri, but these two[r]
+seem quite reasonable. If Riri is mine, I'll help them out.[pcms]
 *3857|
 [fc]
 [【央】]
@@ -102,25 +104,25 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *3858|
 [fc]
-仲間に加わると意志表明したその直後、俺はドア近くの廊下に転がっている[r]
-陸上部女子の死体に気付いた。[pcms]
+Right after I declared my intention to join them, I noticed the body[r]
+of a female track team member lying in the corridor near the door.[pcms]
 *3859|
 [fc]
-他校のじゃなくて、うちの学園の体操着……を着た死体の残骸だった。[r]
-どうやら犯した後に、がっついて喰いまくった後らしい。[pcms]
+It wasn't from another school but from our academy, wearing our gym[r]
+clothes... It seemed like someone had ravaged her after raping her.[pcms]
 *3860|
 [fc]
-この二人の知り合いらしい男子生徒たちが未練たらたらで、[r]
-ゴミ箱を漁る野良犬みたいにかじったり舐めたりしている。[pcms]
+Male students who seemed to know these two were lingering regretfully,[r]
+gnawing and licking like stray dogs rummaging through trash cans.[pcms]
 *3861|
 [fc]
-面識のない女子の匂いがする死体だから梨里ではない。[r]
-良かった、良かった。[pcms]
+Since the body smelled of an unfamiliar girl and not Riri, I was[r]
+relieved. Good, good.[pcms]
 *3862|
 [fc]
 [【央】]
-「それとあと、お楽しみの最中は、直接、犯ってるやつ以外は手出し厳禁、[r]
-　順番が回るまで、大人しく裏方に回っててもらう、それでいいな？」[pcms][endhact]
+"Also, during the fun, no touching except for the one who's doing the[r]
+deed. Wait your turn quietly behind the scenes, is that clear?"[pcms]
 [backlay]
 [kan_su layer=4 x="&sf.su_lo_x[4]" y="&sf.su_lo_y[0]"]
 [kan_ru layer=5 x="&sf.ra_lo_x[5]" y="&sf.ra_lo_y[0]"]
@@ -136,8 +138,8 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *3865|
 [fc]
-いい気分になって握手でもしたい感じだ。[r]
-俺はふざけてドアを軽くノックしてそれの代わりにした。[pcms]
+I felt so good I wanted to shake hands. Instead, I jokingly knocked on[r]
+the door as a substitute gesture.[pcms]
 [se buf=0 storage="seA035"]
 [wait2 time=250]
 *3866|
@@ -147,7 +149,7 @@
 「だ、誰？　普通にノックするなんて……まともな人……なの？」[pcms][endhact]
 *3867|
 [fc]
-この声は……最上さんじゃないか？[pcms]
+This voice... isn't it Mogami-san?[pcms]
 *3868|
 [fc]
 [vo_mo s="kurosawa0005"]
@@ -155,7 +157,7 @@
 「警察か消防の人？　助けに来てくれたの？　遅かったわよ！　遅すぎ！」[pcms][endhact]
 *3869|
 [fc]
-この強気な感じの声は黒沢さんだ。[pcms]
+This confident-sounding voice is Kurosawa-san.[pcms]
 *3870|
 [fc]
 [vo_mo s="iwase0002"]
@@ -164,25 +166,25 @@
 *3871|
 [fc]
 [【央】]
-「俺だよ、渋江央だよ最上さん、黒沢さん、岩瀬さん。安心してくれ。[r]
-　助けに来たんだ。俺はまともだよ」[pcms][endhact]
+"It's me, Shibuie Ou. Don't worry Mogami-san, Kurosawa-san, Iwase-san.[r]
+I've come to help. I'm sane."[pcms]
 [se buf=0 storage="seA033"]
 *3872|
 [fc]
-そう答えると施錠を解く音が聞こえた。[r]
-バリケードらしき何かを動かす音も続いて聞こえた。[pcms]
+As I responded, I heard the sound of unlocking and then the sound of[r]
+something like a barricade being moved.[pcms]
 *3873|
 [fc]
-これで、ドアをぶっ壊して侵入するのも楽になるはずだ。[r]
-最上さんたちは顔見知りである俺の言葉を信じてくれたらしい。[pcms]
+This should make it easier to break down the door and enter. It seems[r]
+Mogami-san and the others trusted my words since they know me.[pcms]
 *3874|
 [fc]
-梨里がいないのは残念だけど、あの三人を相手にセックスというのも、[r]
-悪くはない。[pcms]
+It's a shame Riri isn't here, but having sex with those three isn't[r]
+bad either.[pcms]
 *3875|
 [fc]
-どうせ後で梨里とセックスするんだから、梨里の陸上部の仲間たちとも[r]
-親交を結んでおくのがマナーってものだろう。[pcms]
+After all, since I'll have sex with Riri later, it's only proper[r]
+manners to get acquainted with her track team friends too.[pcms]
 [backlay]
 [kan_su layer=4 x="&sf.su_lo_x[4]" y="&sf.su_lo_y[0]"]
 [kan_ru layer=5 x="&sf.ra_lo_x[5]" y="&sf.ra_lo_y[0]"]
@@ -190,25 +192,30 @@
 *3876|
 [fc]
 [【央】]
-「あんたらにも教えといてやるよ。巨乳の子が最上さん、お尻と太ももが[r]
-　むちむちな子が黒沢さん、そして圧倒的ぺたんこ貧乳の子が岩瀬さんだ」[pcms][endhact]
+"I'll let you guys in on it too. The busty one is Mogami-san, the one[r]
+with the plump butt and thighs is Kurosawa-san, and the overwhelmingly[r]
+flat-chested one is Iwase-san."[pcms]
 *3877|
 [fc]
-自分の持っているオモチャを公園の砂場で自慢するようなそんな高揚感に[r]
-駆られて、俺は手を組んだ二人に見知った三人の女子の特徴を教えていた。[pcms]
+Driven by an exhilaration like showing off my toys in a sandbox at the[r]
+park, I quietly informed the two men about the characteristics of the[r]
+three familiar girls.[pcms]
 *3878|
 [fc]
-もちろん、ドアの向こうの三人には聞こえないように小声でだ。[r]
-後はもう部屋の中に突入して愉しむだけか。[pcms]
+Of course, I spoke in a whisper so that the three behind the door[r]
+couldn't hear. Now all that's left is to burst into the room and enjoy[r]
+ourselves.[pcms]
 *3879|
 [fc]
 [【央】]
-「俺が声をかけてやったから鍵を開けてくれたんだ。その分も込みで、[r]
-　犯ってる間は俺が仕切る。それでいいよな？」[pcms][endhact]
+"I'm the one who called out and got them to open the door. Including[r]
+that favor, I'll be in charge while we're raping. That's fine with you[r]
+guys, right?"[pcms]
 *3880|
 [fc]
-他校の教師らしい男は、苦々しげな表情を浮かべたものの、それに同意して[r]
-首を縦に振った。これでもう何も心配することはない。[pcms]
+The man who seemed to be a teacher from another school made a bitter[r]
+face but agreed and nodded his head. Now there's nothing more to worry[r]
+about.[pcms]
 *3881|
 [fc]
 [【央】]
@@ -216,12 +223,13 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *3882|
 [fc]
-他校の男性教師と男子生徒にそう促して、俺も動く。[pcms]
+I urged the male teacher and student from another school to move, and[r]
+I followed suit.[pcms]
 [se buf=0 storage="seB082"]
 *3883|
 [fc]
 [quakesp time=10000 laynum=0 hmax=10 vmax=10]
-三人でドアに派手な蹴りをぶちかまして、そして俺は――[pcms]
+The three of us kicked down the door with a loud bang, and then I--[pcms]
 [if exp="sf.add_scene02 == 1"]
 	
 	[stopse_all]
@@ -240,8 +248,8 @@
 「あはははっ、開けてくれてありがとう！　それじゃお邪魔するよ！」[pcms][endhact]
 *3883b|
 [fc]
-なんだかショックを受けたような顏をする最上さんたちの中に、[r]
-俺達は歓喜の声を上げながら飛び込んでいた。[pcms]
+Mogami-san and the others looked shocked as we burst in with cries of[r]
+joy.[pcms]
 [sysbt_meswin clear]
 [stopse_all]
 [fadeoutbgm time=500]

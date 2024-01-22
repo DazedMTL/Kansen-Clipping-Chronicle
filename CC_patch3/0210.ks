@@ -9,41 +9,43 @@
 「ん……ん？」[pcms][endhact]
 *1866|
 [fc]
-……ヤバイ、やっちまった。[pcms]
+...Crap, I've done it now.[pcms]
 *1867|
 [fc]
-こんな時間に目が覚めてしまった。[pcms]
+I woke up at such an odd hour.[pcms]
 *1868|
 [fc]
-初日もだったけど、その前日に顕悟とほぼ徹夜で話をしていたせいで、[r]
-変な時間に目が覚める癖がついちゃったかもしれない。[pcms]
+It was the same on the first day, but maybe I've developed a habit of[r]
+waking up at strange times because I stayed up almost all night[r]
+talking with Kenkou the day before.[pcms]
 *1869|
 [fc]
-今日は午後練習のプールでピッチを上げ過ぎたから、[r]
-夜練習は体育館でのランニングにして、軽く汗を流す程度で切り上げた。[pcms]
+Today, I overdid it in the pool during afternoon practice, so for the[r]
+evening practice, I decided to just run in the gym and work up a light[r]
+sweat before calling it quits.[pcms]
 *1870|
 [fc]
-だからかな。[r]
-疲労困憊の二日目みたいに朝までグッスリとはいかなかったのは。[pcms]
+Maybe that's why. Unlike the second day when I was completely[r]
+exhausted, I couldn't sleep soundly until morning.[pcms]
 *1871|
 [fc]
 [【須田】]
 「ゴホッゴホッ……んんっ、んふぅ……」[pcms][endhact]
 *1872|
 [fc]
-暗闇の中から、須田の咳が聞こえてくる。[r]
-薬と一緒にマスクももらってきてたけど、寝ている間は外しているみたいだ。[pcms]
+From the darkness, I can hear Suda's coughing. He had gotten medicine[r]
+and a mask, but it seems he takes it off while sleeping.[pcms]
 *1872a|
 [fc]
-寝ている間にうつされたらヤダな……。[pcms]
+I really don't want to catch it from him while sleeping...[pcms]
 *1873|
 [fc]
-いや、俺は須田と違ってアレじゃないから、耐性はバッチリなはずだ！[r]
-恐れることなど何もない！[pcms]
+No, unlike Suda, I'm not like that, so my resistance should be[r]
+perfect! There's nothing to fear![pcms]
 *1874|
 [fc]
-とりあえずもう一度寝よう。[r]
-このまま起きてたら、寝不足で練習に身が入らなくなってしまう。[pcms]
+I should try to sleep again. If I stay up like this, I'll be too[r]
+sleep-deprived to focus on practice.[pcms]
 *1875|
 [fc]
 [【央】]
@@ -58,18 +60,18 @@
 「…………蒸し暑っ」[pcms][endhact]
 *1878|
 [fc]
-ヤバイな。[pcms]
+Not good.[pcms]
 *1879|
 [fc]
-網戸とカーテン越しに風が入ってきているとはいえ、[r]
-思ったより蒸し暑い。[pcms]
+Even though the wind is coming in through the screen door and[r]
+curtains, it's more humid than I thought.[pcms]
 *sel|寝る／真夜中のお散歩へ
 [fc]
 これじゃ、寝られるかどうか……。[pcms_sel]
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	
-	[hisout txt="選択肢“寝る”"][r]
-	[hisout txt="選択肢“真夜中のお散歩へ”"][r]
+(hisout txt="Choice “Sleep”")   (hisout txt="Choice “Midnight[r]
+stroll”")[pcms]
 [endif]
 [hr]
 [履歴出力復帰]
@@ -81,8 +83,8 @@
 *寝る
 *1881|寝る
 [fc]
-でも、変にうろついてまた袋女に出くわすのも面倒だしな。[r]
-頑張って寝ることにしよう。[pcms]
+But wandering around aimlessly and running into that bag lady again[r]
+would be a hassle. I'll try my best to sleep.[pcms]
 *1882|
 [fc]
 [【央】]
@@ -100,15 +102,14 @@
 「……ダメだ、寝られん」[pcms][endhact]
 *1885|
 [fc]
-仕方がない。[r]
-ここは涼むついでに散歩でもしてみるか。[pcms]
+No helping it. Maybe I'll take a walk to cool off.[pcms]
 *1886|
 [fc]
-一応、自販機コーナーに行くっていう名目にして、[r]
-少しうろついてみよう。[pcms]
+I'll use the excuse of going to the vending machine corner and wander[r]
+around a bit.[pcms]
 *1887|
 [fc]
-みんなを起こさないように、カードキーを持って……。[pcms]
+Being careful not to wake everyone up, I'll take my card key...[pcms]
 [stopse_all]
 [sysbt_meswin clear]
 [backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]

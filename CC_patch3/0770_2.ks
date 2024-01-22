@@ -8,7 +8,7 @@
 [backlay][bg storage="BG04c"][trans time=500 method=crossfade][wt2]
 *10856|
 [fc]
-また……人が殺された……。[pcms]
+Again... someone has been killed...[pcms]
 *10857|
 [fc]
 [vo_ju s="jun0163"]
@@ -25,11 +25,10 @@
 「きゃあぁぁぁぁっ！　引っ張らないでぇぇっ！」[pcms][endhact]
 *10860|
 [fc]
-わたしは、壁際まで連れて行かれると、そこに立たされる。[pcms]
+I am taken to the wall and made to stand there.[pcms]
 *10861|
 [fc]
-あちこち痛めている今の身体だと、[r]
-そうしているだけでも辛い。[pcms]
+With my body aching all over, just standing like this is tough.[pcms]
 *10862|
 [fc]
 [ns【]サッカー部員Ａ[】nse]
@@ -48,12 +47,12 @@
 [backlay][evcg storage="EV32_02" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10864|
 [fc]
-サッカー部員らしいその男は、わたしの足を肩に担ぐようにして、[r]
-高く上げさせる。[pcms]
+The man, who seems to be a soccer club member, lifts my legs onto his[r]
+shoulders, raising them high.[pcms]
 *10865|
 [fc]
-股関節が外れそうなくらい痛いが、[r]
-悲鳴を上げても暴れても、男は容赦なんてしない。[pcms]
+It hurts as if my hip joints are going to dislocate, but no matter how[r]
+much I scream or struggle, the man shows no mercy.[pcms]
 *10866|
 [fc]
 [ns【]サッカー部員Ａ[】nse]
@@ -67,11 +66,12 @@
 「あぎいぃぃぃぃぃぃっ！　ぎぃぃぃいぃっっ！」[pcms][endhact]
 *10868|
 [fc]
-わたしを壁際に立たせたまま、[r]
-サッカー部の男が、いきり立った物を挿入してくる。[pcms]
+While I'm standing against the wall, the soccer club guy inserts his[r]
+erect member into me.[pcms]
 *10869|
 [fc]
-今までと角度が違うためか、より一層の痛みがあった。[pcms]
+Perhaps because of the different angle, the pain was even more[r]
+intense.[pcms]
 *10870|
 [fc]
 [ns【]サッカー部員Ａ[】nse]
@@ -89,14 +89,14 @@
 「おらっ！　ドリブルだドリブルうぅっ！」[pcms][endhact]
 *10873|
 [fc]
-そう言いながら、激しく腰を打ち付けてくる。[pcms]
+As he says that, he thrusts his hips violently.[pcms]
 *10874|
 [fc]
-唇から泡を吹きながら、もう人間の表情をしていない。[pcms]
+Foaming at the mouth, he no longer has the expression of a human[r]
+being.[pcms]
 *10875|
 [fc]
-わたしの身体を掻き毟るような、[r]
-ただ勢いと痛みだけのセックスだ。[pcms]
+It's sex that tears at my body, driven only by momentum and pain.[pcms]
 *10876|
 [fc]
 [ns【]サッカー部員Ａ[】nse]
@@ -109,12 +109,12 @@
 「ぎゃぁぁぁぁっ！　やめてぇぇぇぇぇぇっ！」[pcms][endhact]
 *10878|
 [fc]
-腰をぐるぐると回しながら、[r]
-膣壁を太い物で擦り上げてくる。[pcms]
+While rotating his hips in circles, he rubs up against my vaginal[r]
+walls with his thick member.[pcms]
 *10879|
 [fc]
-既に、真っ赤に腫れているわたしのそこが、[r]
-擦り切れそうになっていた。[pcms]
+My place, already swollen red, felt like it was going to be rubbed[r]
+raw.[pcms]
 *10880|
 [fc]
 [ns【]サッカー部員Ａ[】nse]
@@ -140,12 +140,12 @@
 「くうっ、ううっっ、ああぁぁぁぁ……」[pcms][endhact]
 *10884|
 [fc]
-男は、ピンと背筋を反らしながら、[r]
-わたしの中に大量の射精をしている。[pcms]
+The man arches his back tautly as he ejaculates a large amount inside[r]
+me.[pcms]
 *10885|
 [fc]
-痛い……今まで麻痺していたあそこが、[r]
-悲鳴を上げるように、鋭い感覚を伝えてきた。[pcms]
+It hurts... The place that had been numb until now conveys a sharp[r]
+sensation as if screaming.[pcms]
 [backlay][evcg storage="EV32_07" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10886|
 [fc]
@@ -154,13 +154,13 @@
 [se buf=0 storage="seD017"]
 *10887|
 [fc]
-男がそれを抜くと、床にボタボタと精液が垂れていく。[pcms]
+When the man pulls out, semen drips onto the floor.[pcms]
 *10888|
 [fc]
-どの男も、勇二とは比べものにならない量と濃さだ。[pcms]
+No man compares to Yuuji in terms of the amount and thickness.[pcms]
 *10889|
 [fc]
-これで……妊娠しないはずがない……。[pcms]
+There's no way I won't get pregnant from this...[pcms]
 *10890|
 [fc]
 [ns【]サッカー部員Ａ[】nse]
@@ -172,8 +172,8 @@
 「え……な、なにをするの……？　もう、こんなのイヤ……」[pcms][endhact]
 *10892|
 [fc]
-男は、わたしのお尻に手をかけると、[r]
-そこをグイッと開いていく。[pcms]
+The man places his hands on my buttocks and starts to spread them[r]
+apart forcefully.[pcms]
 *10893|
 [fc]
 [ns【]サッカー部員Ａ[】nse]
@@ -185,11 +185,10 @@
 「そ、そんなのやめてぇぇぇぇぇぇっ！」[pcms][endhact]
 *10895|
 [fc]
-お尻の穴を犯されるなんて、[r]
-そんなおぞましいことには耐えられない。[pcms]
+Being violated in my anal opening is such a vile act, I can't bear it.[pcms]
 *10896|
 [fc]
-きっと……狂ってしまう。[pcms]
+I'm sure... I'll go mad.[pcms]
 [se buf=0 storage="seA049"]
 *10897|
 [fc]
@@ -199,20 +198,18 @@
 *10898|
 [fc]
 [quakesp time=500 laynum=0 hmax=20 vmax=20]
-そこに、突然走ってきた男が、[r]
-目の前の男にスライディングをする。[pcms]
+Suddenly, a man running towards us slides into the man in front of me.[pcms]
 [se buf=0 storage="seB025"]
 [赤フラ]
 [backlay][evcg storage="EV32_08" layer=0 page=back visible=true left=0 top=0][trans time=100 method=crossfade][wt2]
 *10899|
 [fc]
-男は、体重をかけている軸足をスライディングされ、[r]
-嫌な音と共に、間接をあり得ない方向に曲げて倒れた。[pcms]
+The man's supporting leg is taken out by the slide tackle, and with a[r]
+nasty sound, his joint bends in an impossible direction as he falls.[pcms]
 *10900|
 [fc]
 [ns【]サッカー部員Ｂ[】nse]
-「お前はボールロストが多いっ！[r]
-　ライバルとして、手本を見せてやるっ！」[pcms][endhact]
+"You lose the ball too much! As a rival, I'll show you how it's done!"[pcms]
 *10901|
 [fc]
 [vo_ju s="jun0173"]
@@ -220,7 +217,7 @@
 「ううっ……くうっ……」[pcms][endhact]
 *10902|
 [fc]
-終わらない……この悪夢が終わることはない……。[pcms]
+The nightmare never ends... it will never end...[pcms]
 [backlay][evcg storage="EV32_09" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10903|
 [fc]
@@ -236,20 +233,20 @@
 [se buf=1 storage="se_sex03" loop=true]
 *10905|
 [fc]
-さっきの男と同じような格好をすると、[r]
-そのまま、固くしているものをわたしに挿入してくる。[pcms]
+Assuming the same position as the previous man, he inserts his[r]
+hardened member into me.[pcms]
 *10906|
 [fc]
 [ns【]サッカー部員Ｂ[】nse]
 「んのおおぉぉぉっっ！　最高だぁぁぁぁっ！」[pcms][endhact]
 *10907|
 [fc]
-言葉とは裏腹に、さっきの男よりも乱暴で、[r]
-自分勝手に身体を打ち付けてくる。[pcms]
+Contrary to his words, he is more violent than the last man, selfishly[r]
+slamming his body into mine.[pcms]
 *10908|
 [fc]
-腰だけを密着させてくるのではなく、[r]
-鍛えられた身体ごと、ぶつかってくるセックスだった。[pcms]
+It's not just his hips that are pressed against me; it's sex where his[r]
+trained body also collides with mine.[pcms]
 [backlay][evcg storage="EV32_11" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10909|
 [fc]
@@ -258,17 +255,16 @@
 「あううっ！　あいいいっ！　痛いっ！　ぎいいいいぃぃぃっ！」[pcms][endhact]
 *10910|
 [fc]
-ずっと下半身を苦しめるセックスだったのに、[r]
-今は、上半身まで痛めつけられている。[pcms]
+It used to be sex that tormented my lower half, but now my upper body[r]
+is also being hurt.[pcms]
 *10911|
 [fc]
 [ns【]サッカー部員Ｂ[】nse]
-「おふうぅぅぅっ！　フィジカルだよっ！[r]
-　君にはフィジカルが足りないんだっ！」[pcms][endhact]
+"Ohh! It's about physical strength! You lack physical strength!"[pcms]
 *10912|
 [fc]
-スライディングで倒された男は、[r]
-そんな声も聞こえないように、自分の血で滑る床で蠢いていた。[pcms]
+The man taken down by the slide tackle writhes on the blood-slick[r]
+floor as if he can't hear such voices.[pcms]
 [backlay][evcg storage="EV32_12" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10913|
 [fc]
@@ -281,11 +277,11 @@
 「全身で相手にぶつかっていくっ！　全身でぇぇぇぇぇっ！」[pcms][endhact]
 *10915|
 [fc]
-壁と、鍛えられた胸板に挟まれて、[r]
-わたしは呼吸も満足にさせてもらえなかった。[pcms]
+Sandwiched between the wall and his trained chest, I can hardly[r]
+breathe.[pcms]
 *10916|
 [fc]
-ぶつかっては離れていく時に、なんとか息を継いでいく。[pcms]
+I catch my breath only when he pulls away after each collision.[pcms]
 *10917|
 [fc]
 [ns【]サッカー部員Ｂ[】nse]
@@ -311,12 +307,11 @@
 [射精フラB]
 *10921|
 [fc]
-男は、急に大きな物を引き抜くと、[r]
-スパッツのお尻部分に精液をかけていく。[pcms]
+The man suddenly pulls out his large member and starts to ejaculate[r]
+onto the back of my spats.[pcms]
 *10922|
 [fc]
-ぬるっとした、気味の悪い温かさが、[r]
-お尻にじわっと広がっていった。[pcms]
+A slimy and eerily warm sensation spreads over my buttocks.[pcms]
 [backlay][evcg storage="EV32_14" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10923|
 [fc]
@@ -325,8 +320,8 @@
 「ううっ……あううっ……」[pcms][endhact]
 *10924|
 [fc]
-立たされたままのお尻から、[r]
-湯気の出そうなほど温まっている精液が、垂れていく。[pcms]
+From my buttocks, still standing, semen hot enough to steam drips[r]
+down.[pcms]
 *10925|
 [fc]
 [ns【]サッカー部員Ｂ[】nse]
@@ -350,12 +345,11 @@
 「ひぃぃぃぃぃぃっ！」[pcms][endhact]
 *10927|
 [fc]
-意気揚々としていたサッカー部員の目が、[r]
-飛び出そうな程に顔がゆがんで、鼻や耳から血が噴き出す。[pcms]
+The triumphant soccer club member's eyes bulge and his face contorts[r]
+as blood spurts from his nose and ears.[pcms]
 *10928|
 [fc]
-そのこめかみには、野球で使う硬球がめり込んでいて、[r]
-明らかな致命傷に見えた。[pcms]
+In his temple, a hard baseball is embedded, clearly a fatal wound.[pcms]
 [backlay][chara_int_top][evcg storage="EV32_15" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10929|
 [fc]
@@ -363,15 +357,15 @@
 「アウトじゃァ！　すっこんどれっ！」[pcms][endhact]
 *10930|
 [fc]
-足にレガースを付けた、縦横に大きく、[r]
-いかにも力が強そうな野球部員が現れた。[pcms]
+A baseball club member appears, wearing leg guards and looking strong[r]
+both vertically and horizontally.[pcms]
 *10931|
 [fc]
-今の硬球は……この男が投げたのか……。[pcms]
+That hardball... was it thrown by this man...?[pcms]
 *10932|
 [fc]
-この、キャッチャーのような男は、[r]
-わたしのことをジロリとみると、身体を軽々と持ち上げた。[pcms]
+This man, who looks like a catcher, glares at me sharply before[r]
+effortlessly lifting my body.[pcms]
 [sysbt_meswin clear]
 [backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]
 [backlay][evcg storage="EV31_11" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
@@ -393,12 +387,12 @@
 「ひいぃぃぃぃぃぃぃぃっ！」[pcms][endhact]
 *10936|
 [fc]
-キャッチャーの男が取り出したのは、[r]
-今までで、もっとも醜悪で太い、悪夢のような棒だ。[pcms]
+The catcher's man produced the most grotesque and thick, nightmarish[r]
+rod I've ever seen.[pcms]
 *10937|
 [fc]
-これを入れられたらと思うだけで、[r]
-股間から痛みが伝わってくる。[pcms]
+Just thinking about it being inserted makes pain shoot through my[r]
+groin.[pcms]
 *10938|
 [fc]
 [ns【]野球部員Ｃ[】nse]
@@ -413,16 +407,16 @@
 [se buf=1 storage="se_sex02" loop=true]
 *10940|
 [fc]
-口から、内蔵が出てくるかと思う程、[r]
-圧迫感のある挿入だった。[pcms]
+The insertion was so oppressive, I thought my insides might come out[r]
+of my mouth.[pcms]
 *10941|
 [fc]
-わたしに使うには、あまりにも太すぎる。[pcms]
+It's far too thick to use on me.[pcms]
 *10942|
 [fc]
 [ns【]野球部員Ｃ[】nse]
-「これがッ！　４番の実力ッ！　目ん玉かっぴらいて、[r]
-　ようみぃやぁぁッ！」[pcms][endhact]
+"This is the power of the cleanup hitter! Open your eyes wide and look[r]
+well!"[pcms]
 *10943|
 [fc]
 [vo_ju s="jun0184"]
@@ -430,12 +424,12 @@
 「あぎゃぁぁぁぁぁっ！　んぎひいいいぃぃぃぃっ！」[pcms][endhact]
 *10944|
 [fc]
-限界まで広げられていた膣内が、[r]
-それを超えて広げられていく。[pcms]
+The inside of my vagina, already stretched to its limit, is being[r]
+stretched even further.[pcms]
 *10945|
 [fc]
-まるで、ペットボトルでも入れられているような、[r]
-酷い感覚だった。[pcms]
+It felt as terrible as if a plastic bottle was being inserted, such a[r]
+cruel sensation.[pcms]
 [backlay][evcg storage="EV31_13" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10946|
 [fc]
@@ -444,16 +438,16 @@
 「ううっ、ぐううっ、ああぁぁぁああぁぁぁ……」[pcms][endhact]
 *10947|
 [fc]
-意識が遠のいていく、気絶したら……、[r]
-殺されてしまうかも知れないのに……。[pcms]
+My consciousness is fading, and even though I might be killed if I[r]
+pass out...[pcms]
 *10948|
 [fc]
 [ns【]野球部員Ｄ[】nse]
-「おーい、俺の玉を受けるのがお前の仕事だろう？[r]
-　一人でやってないで、俺も混ぜろよ」[pcms][endhact]
+"Hey, isn't it your job to catch my balls? Don't do it alone, let me[r]
+join in."[pcms]
 *10949|
 [fc]
-そこに、もう一人の野球部員が現れた。[pcms]
+Then, another baseball club member appeared.[pcms]
 *10950|
 [fc]
 [ns【]野球部員Ｃ[】nse]
@@ -464,15 +458,14 @@
 「よしっ、こっちはまかせとけ」[pcms][endhact]
 *10952|
 [fc]
-け、ケツ穴って……！[r]
-こんな太いのなんて、入れたら壊されちゃうっ！[pcms]
+My anus...! Such a thick one will break me![pcms]
 [backlay][evcg storage="EV31_14" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10953|
 [fc]
 [vo_ju s="jun0186"]
 [【純】]
-「ちょ、ちょっと、まって、入らない、[r]
-　絶対に入らないからぁぁぁっ！　無理！　無理無理！！」[pcms][endhact]
+"Wait, wait a minute, it won't go in, it absolutely won't go inno[r]
+way! Impossible, impossible!!"[pcms]
 *10954|
 [fc]
 [ns【]野球部員Ｄ[】nse]
@@ -481,19 +474,18 @@
 [fc]
 [vo_ju s="jun0187"]
 [【純】]
-「そっ、そこは……そこは違う……ひうっ！？[r]
-　ぎっ……ぎゃああぁぁぁぁぁっ！」[pcms][endhact]
+"That place... that's not right... hiuuh!? Gah...gyaaaahhhhh!"[pcms]
 [se buf=0 storage="se_sex01"]
 [evcg白フラ storage="EV31_15" layer=0 page=back visible=true left=0 top=0]
 [se buf=1 storage="se_sex02" loop=true]
 *10956|
 [fc]
-太さと共に、長さも備えた凶悪な棒が、[r]
-お尻の穴を掻き分けるように入ってくる。[pcms]
+A vicious rod, both thick and long, enters as if gouging through my[r]
+back hole.[pcms]
 *10957|
 [fc]
-厚みのある筋肉の鎧を身につけた男二人に、[r]
-サンドイッチされたわたしは、逃げ場もなく犯されていた。[pcms]
+Trapped between two men clad in thick muscle armor, I was violated[r]
+with no escape.[pcms]
 *10958|
 [fc]
 [vo_ju s="jun0188"]
@@ -501,12 +493,12 @@
 「ひぎっ！　んぎいいっ！　無理ッ！　あがっ……あ、ぎぃいっ！」[pcms][endhact]
 *10959|
 [fc]
-後ろの穴にめり込んだ先端部分が、[r]
-やはり無理だったのか、一度動きを止める。[pcms]
+The tip that had sunk into the back hole stopped moving, perhaps[r]
+because it was indeed too much.[pcms]
 *10960|
 [fc]
-でも……その、一度めり込んだところから、[r]
-しつこいくらいに腰をもぞもぞと動かして、入り込んできた。[pcms]
+But... from that point where it had sunk in once, he persistently[r]
+wiggled his hips and forced his way in.[pcms]
 *10961|
 [fc]
 [ns【]野球部員Ｃ[】nse]
@@ -529,11 +521,12 @@
 [赤フラ]
 *10965|
 [fc]
-後から来た、ピッチャーらしき男の長い棒が、[r]
-わたしのお尻の穴の、奥の奥にまで貫通していた。[pcms]
+The long rod of the man who seemed to be a pitcher penetrated deep[r]
+into the back hole, all the way to the innermost depths.[pcms]
 *10966|
 [fc]
-そのすさまじい激痛に、気絶することすら許されない。[pcms]
+The tremendous pain was so intense that even passing out was not an[r]
+option.[pcms]
 *10967|
 [fc]
 [ns【]野球部員Ｃ[】nse]
@@ -547,16 +540,15 @@
 [fc]
 [vo_ju s="jun0190"]
 [【純】]
-「ひっ……ひぐぅああぁっ！　あッ……ぐぅぅぅぅぅぅっ！[r]
-　ああぁぁああっ！！」[pcms][endhact]
+"Hic...higuuuaaah! Ahh...guuuuuuu! Aaaaahhhhh!!"[pcms]
 *10970|
 [fc]
-前後の穴が擦られる痛みは、[r]
-今までの感覚とは種類の違う、壮絶な痛みだった。[pcms]
+The pain of having both holes rubbed was a different kind of[r]
+excruciating pain than anything I've felt before.[pcms]
 *10971|
 [fc]
-前の穴は精液で滑っているが、[r]
-腸内をそのまま擦られる痛みが、まるで拷問だ。[pcms]
+The front hole is slippery with semen, but the pain of having my[r]
+intestines rubbed raw is like torture.[pcms]
 *10972|
 [fc]
 [ns【]野球部員Ｃ[】nse]
@@ -573,12 +565,11 @@
 「ぎゃっ、あっ！　ぐえっ！　うぎゃあっ！」[pcms][endhact]
 *10975|
 [fc]
-呼吸を合わせて前後から擦られると、[r]
-わたしに休まる暇はなかった。[pcms]
+Being rubbed from front and back in sync, I had no chance to rest.[pcms]
 *10976|
 [fc]
-間断なく下半身を痛めつけられて、[r]
-太い棒が狭い穴を無理矢理に蹂躙していく。[pcms]
+My lower half was relentlessly tormented as thick rods brutally[r]
+ravaged the narrow holes.[pcms]
 *10977|
 [fc]
 [ns【]野球部員Ｃ[】nse]
@@ -594,12 +585,12 @@
 「あぐううぅぅっ！　し、死んじゃうううぅぅぅぅっ！」[pcms][endhact]
 *10980|
 [fc]
-薄い壁越しに、男たちの物が二本、[r]
-交互に行き来している。[pcms]
+Through the thin wall, two rods from the men went back and forth[r]
+alternately.[pcms]
 *10981|
 [fc]
-その壁を壊そうとするような、[r]
-摩擦で削り取りそうなほど、勢い良く腰を打ち付けてきていた。[pcms]
+They thrust their hips with such force that it seemed as if they were[r]
+trying to break down that wall with friction.[pcms]
 *10982|
 [fc]
 [ns【]野球部員Ｃ[】nse]
@@ -615,8 +606,8 @@
 「ぐッ……あ、あがっ……うぇぇぇぇぇぇぇっ！」[pcms][endhact]
 *10985|
 [fc]
-ビクビクと震えていた二人の中の物が、[r]
-同時に二本、奥の奥まで突き込まれる。[pcms]
+The two quivering rods inside me thrust deep into the very depths[r]
+simultaneously.[pcms]
 [stopse buf=1]
 [se buf=0 storage="se_sex01"]
 [射精フラA]
@@ -624,12 +615,11 @@
 [射精フラB]
 *10986|
 [fc]
-そして、そのまま大きく脈打ちながら、[r]
-じわっとした熱いものを注ぎ込んできた。[pcms]
+And then, while pulsating greatly, they poured a warm substance inside[r]
+me.[pcms]
 *10987|
 [fc]
-初めての、腸内射精に、[r]
-わたしの嫌悪感は限界を振り切ってしまう。[pcms]
+With my first intestinal ejaculation, my disgust surpasses its limits.[pcms]
 *10988|
 [fc]
 [vo_ju s="jun0194"]
@@ -645,11 +635,11 @@
 「ダブルヘッダーくらい、へでもないぜっ！」[pcms][endhact]
 *10991|
 [fc]
-大きく身体をよじり暴れるが、屈強な男二人に挟まれて、[r]
-挿入されている状態では、まったく抵抗できなかった。[pcms]
+I twist and struggle violently, but sandwiched between two strong men[r]
+and being penetrated, I couldn't resist at all.[pcms]
 *10992|
 [fc]
-むしろ……二人の欲情を誘っただけになってしまう。[pcms]
+Rather... it only seemed to provoke the men's lust even more.[pcms]
 *10993|
 [fc]
 [ns【]野球部員Ｃ[】nse]
@@ -662,12 +652,12 @@
 [se buf=0 storage="seD017"]
 *10995|
 [fc]
-男二人が、その棒を引き抜くと、[r]
-前後からねっとりとした液体が垂れてきた。[pcms]
+When the two men pulled out their rods, a sticky liquid dripped down[r]
+from both front and back.[pcms]
 *10996|
 [fc]
-濃縮された濁液で、白いというよりは、[r]
-薄桃色の筋も混ざっている。[pcms]
+The concentrated turbid fluid was not so much white as it was streaked[r]
+with pale pink.[pcms]
 *10997|
 [fc]
 [ns【]野球部員Ｃ[】nse]
@@ -680,12 +670,13 @@
 [backlay][black_toplayer][trans method=universal rule="RtoL" vague=100 time=200][wt2][trans time=501 method=crossfade][wt2][hide_chara_int]
 *10999|
 [fc]
-その二人が、横合いから猛烈なタックルを受けて床に倒される。[pcms]
+The two were then tackled fiercely from the side and fell to the[r]
+floor.[pcms]
 [se buf=0 storage="seB025"]
 *11000|
 [fc]
-骨が砕けるような、気味の悪い音に、[r]
-わたしは、そちらに視線を向けられない。[pcms]
+The sound of bones shattering was so eerie that I couldn't bring[r]
+myself to look that way.[pcms]
 [backlay][bg storage="BG04c"]
 [kan_ru layer=3 x="&sf.ra_lo_x[3]" y="&sf.ra_lo_y[0]"]
 [trans time=500 method=crossfade][wt2]
@@ -696,14 +687,14 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *11002|
 [fc]
-そこに、また……ラガーシャツを着た一団が現れた。[pcms]
+And then... a group wearing rugby shirts appeared.[pcms]
 *11003|
 [fc]
-一人や二人ではない……チームを作れるほどの、[r]
-大人数に、わたしは背筋が震えてしまう。[pcms]
+Not just one or two... A large number of them enough to form a team[r]
+made my spine shiver.[pcms]
 *11004|
 [fc]
-こんな大勢に[ruby text="まわ"][ch text="輪姦"]されたら……もう、ダメかも知れない……。[pcms]
+If I'm gangbanged by so many... I might be done for...[pcms]
 [if exp="tf.scene_mode == 1 && tf.all_play == 0"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]

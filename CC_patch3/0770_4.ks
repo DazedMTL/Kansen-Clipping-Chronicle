@@ -18,12 +18,12 @@
 「さあああ、そろそろ、出番かなぁぁ……」[pcms][endhact]
 *11171|
 [fc]
-上半身が異様に発達した男が、[r]
-わたしを掴み上げると、壁に叩き付けていく。[pcms]
+A man with an unusually developed upper body grabs me, lifts me up,[r]
+and slams me against the wall.[pcms]
 *11172|
 [fc]
-そのショックで気道が開いたのか、[r]
-堰を切るように、肺に空気が滑り込んでいった。[pcms]
+Perhaps the shock opened my airway, as air rushed into my lungs like a[r]
+dam breaking.[pcms]
 *11173|
 [fc]
 [vo_ju s="jun0226"]
@@ -31,31 +31,30 @@
 「んひゅうっ、ひゅううっ、ふゅううぅぅ……」[pcms][endhact]
 *11174|
 [fc]
-意識を失う寸前で、わたしはなんとか命をものにする。[pcms]
+Just before losing consciousness, I somehow cling to life.[pcms]
 *11175|
 [fc]
-殺される寸前で……自分を守ることが出来た。[r]
-でも……まだ、この私刑は終わっていない。[pcms]
+On the brink of being killed... I was able to protect myself. But...[r]
+the lynching isn't over yet.[pcms]
 *11176|
 [fc]
 [ns【]ラグビー部員Ｍ[】nse]
 「なんだぁぁぁ？　オマンコドロドロじゃねぇぇかぁぁぁ？」[pcms][endhact]
 *11177|
 [fc]
-なんど穢されたのかわからない身体は、[r]
-もう無事なところなんて、ひとつもない。[pcms]
+My body, defiled countless times, doesn't have a single spot left[r]
+untouched.[pcms]
 *11178|
 [fc]
-その中でも、下腹部は……もっとも穢された部分だろう。[pcms]
+Among those, my lower abdomen... must be the most defiled part.[pcms]
 *11179|
 [fc]
 [ns【]ラグビー部員Ｌ[】nse]
-「こらぁぁぁぁぁっ！　道具は大切に、[r]
-　ちゃんときれいにしろぉぉぉぉぉっ！」[pcms][endhact]
+"Heyyyy! Take care of the tools, clean them up properlyyyyy!"[pcms]
 *11180|
 [fc]
-男の一人が、妙に怒っている。[r]
-道具というのは……まさか……。[pcms]
+One of the men is oddly angry. The "tools" he's referring to... could[r]
+it be...?[pcms]
 *11181|
 [fc]
 [ns【]ラグビー部員Ｍ[】nse]
@@ -69,8 +68,8 @@
 [evcg赤フラ storage="EV32_17" layer=0 page=back visible=true left=0 top=0]
 *11183|
 [fc]
-怒られた男が、わたしの割れ目に、[r]
-芋虫のような太い指を四本もねじ込んでいく。[pcms]
+The scolded man twists his thick, caterpillar-like fingers, four of[r]
+them, into my slit.[pcms]
 *11184|
 [fc]
 [vo_ju s="jun0228"]
@@ -78,11 +77,12 @@
 「や、やめて、そんなの……はいらな……ぎゃぁぁぁぁぁっ！」[pcms][endhact]
 *11185|
 [fc]
-きっと、今までの陵辱で痛んでいたそこに、[r]
-四本もの指が入り込んでいた。[pcms]
+Surely, those four fingers were penetrating a spot that had already[r]
+been sore from previous violations.[pcms]
 *11186|
 [fc]
-皮膚の伸縮の限界を超えて、あり得ないほどに穴が開いている。[pcms]
+The skin is stretched beyond its limits, and the hole is impossibly[r]
+wide open.[pcms]
 [backlay][evcg storage="EV32_18" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11187|
 [fc]
@@ -91,8 +91,8 @@
 「ぎぃやぁぁぁぁぁっ！　ぎゃぁぁぁぁぁぁあっ！」[pcms][endhact]
 *11188|
 [fc]
-でも、男は本当に道具をきれいにするような仕草で、[r]
-拳ごと膣の奥まで入れていく。[pcms]
+But the man, as if truly cleaning a tool, thrusts his fist deep into[r]
+my vagina.[pcms]
 *11189|
 [fc]
 [ns【]ラグビー部員Ｍ[】nse]
@@ -105,8 +105,8 @@
 「あぎいいあぁぁあぁぁぁっ！　はぎいいいぃぃぃぃぃっ！」[pcms][endhact]
 *11191|
 [fc]
-拳どころか、大柄のラグビー部員が、[r]
-腕まで押し込むように前後に動かしていく。[pcms]
+It's not just a fist; a large rugby player is moving his arm back and[r]
+forth as if pushing it in.[pcms]
 [backlay][evcg storage="EV32_21" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11192|
 [fc]
@@ -114,8 +114,8 @@
 「中の汚れを、全部掻き出しますっ！」[pcms][endhact]
 *11193|
 [fc]
-そう言うと……膣の中で力任せに指を伸ばし……、[r]
-子宮の中まで、拳をねじ込んできた。[pcms]
+As he says this... he forcefully stretches his fingers inside me...[r]
+and twists his fist into my womb.[pcms]
 [se buf=0 storage="seD017"]
 [backlay][evcg storage="EV32_22" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11194|
@@ -125,17 +125,18 @@
 「ぶじゅゆううっ……」[pcms][endhact]
 *11195|
 [fc]
-わたしは、自分の身体が起こすショック反応を、[r]
-コントロールすることが出来なかった。[pcms]
+I couldn't control the shock response my body was producing.[pcms]
 *11196|
 [fc]
-男の行動に、思わず胃の中の物を吐き出してしまう。[pcms]
+Involuntarily, I vomit the contents of my stomach due to the man's[r]
+actions.[pcms]
 *11197|
 [fc]
-吐き出すと言っても、口からだけではない。[pcms]
+And when I say vomit, it's not just from my mouth.[pcms]
 *11198|
 [fc]
-鼻からも、耳からも……目からは、涙が止まることはなかった。[pcms]
+From my nose, from my ears... and from my eyes, tears never stopped[r]
+flowing.[pcms]
 *11199|
 [fc]
 [ns【]ラグビー部員Ｍ[】nse]
@@ -143,11 +144,11 @@
 [backlay][evcg storage="EV32_23" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11200|
 [fc]
-男が、突っ込んでいた腕を引き抜いていく。[pcms]
+The man pulls out the arm he had thrust in.[pcms]
 [se buf=0 storage="seD002"]
 *11201|
 [fc]
-わたしは……口から泡を吹きながら……失禁していた。[pcms]
+I am... foaming at the mouth... and wetting myself.[pcms]
 *11202|
 [fc]
 [ns【]ラグビー部員Ｌ[】nse]
@@ -160,10 +161,10 @@
 [backlay][evcg storage="EV32_24" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11204|
 [fc]
-も、もう一度……もう一度……。[pcms]
+Once more... once again...[pcms]
 *11205|
 [fc]
-それは……死刑宣告に等しい言葉だった。[pcms]
+Those words... were tantamount to a death sentence.[pcms]
 *11206|
 [fc]
 [ns【]ラグビー部員Ｎ[】nse]
@@ -179,14 +180,13 @@
 [sysbt_meswin]
 *11208|
 [fc]
-思い切り後ろからタックルを受けた男が、[r]
-壁に激突して水っぽい音を奏でる。[pcms]
+A man tackled hard from behind crashes into the wall with a wet sound.[pcms]
 *11209|
 [fc]
-顔面を壁に叩き付けられて、ずるずるとずり落ちていた。[pcms]
+His face smashed against the wall, he slides down slowly.[pcms]
 *11210|
 [fc]
-真っ赤になった壁には、肉と脳漿が飛び散っている。[pcms]
+The wall, now stained red, is splattered with flesh and brain matter.[pcms]
 *11211|
 [fc]
 [ns【]ラグビー部員Ｎ[】nse]
@@ -198,19 +198,18 @@
 [sysbt_meswin]
 *11212|
 [fc]
-今まで休んでいたラガーシャツの男たちが、[r]
-わたしを後ろから抱え上げた。[pcms]
+The men in rugby shirts who had been resting now lift me up from[r]
+behind.[pcms]
 *11213|
 [fc]
-道具のわたしを……また、掃除するの……。[pcms]
+To clean their "tool" me... again...[pcms]
 *11214|
 [fc]
 [ns【]ラグビー部員Ｎ[】nse]
 「道具は、優しく大切に使うんだぞ！　わかったかお前たち！」[pcms][endhact]
 *11215|
 [fc]
-男はそう言うと、ひとりでうんうんと頷きながら……、[r]
-わたしに挿入してきた。[pcms]
+The man nods to himself as he says this... and penetrates me.[pcms]
 [se buf=0 storage="se_sex01"]
 [evcg白フラ storage="EV30_20" layer=0 page=back visible=true left=0 top=0]
 *11216|
@@ -224,18 +223,18 @@
 「…………」[pcms][endhact]
 *11218|
 [fc]
-わたしは……もう、なにも考えられなくなっていた。[pcms]
+I was... no longer able to think about anything.[pcms]
 *11219|
 [fc]
-心の防御反応なのか、意識が混濁してくる。[pcms]
+Perhaps as a mental defense mechanism, my consciousness becomes[r]
+muddled.[pcms]
 *11220|
 [fc]
-伝わってくるのは、こめかみを流れる血の音と、[r]
-前後に挟まれている男たちの体温だけ……。[pcms]
+All I can sense is the sound of blood flowing through my temples and[r]
+the body heat of the men sandwiching me from front and back...[pcms]
 *11221|
 [fc]
-その男たちがなにをしているのかなんて……、[r]
-良くわからなくなっていた。[pcms]
+What those men were doing... I couldn't understand anymore.[pcms]
 *11222|
 [fc]
 [ns【]ラグビー部員Ｎ[】nse]
@@ -247,19 +246,18 @@
 [射精フラB]
 *11223|
 [fc]
-また……男が、わたしの身体でイッたみたいだった。[pcms]
+Again... it seemed like the man had climaxed using my body.[pcms]
 [backlay][evcg storage="EV30_22" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11224|
 [fc]
-せっかくきれいにしたおまんこから、[r]
-精液がドロドロと流れ落ちてくる。[pcms]
+The semen flows thickly out of my freshly cleaned vagina.[pcms]
 *11225|
 [fc]
 [ns【]ラグビー部員Ｎ[】nse]
 「２発目のトライ行くぞぉぉぉぉぉっ！」[pcms][endhact]
 *11226|
 [fc]
-ああぁ……また……。[pcms]
+Ahhh... again...[pcms]
 *11227|
 [fc]
 [ns【]ラグビー部員Ｎ[】nse]
@@ -267,8 +265,8 @@
 [backlay][evcg storage="EV30_23" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11228|
 [fc]
-今度は、横合いからタックルされた男が、[r]
-吹っ飛ばされて、視界から消えていった。[pcms]
+This time, a man tackled from the side is blown away and disappears[r]
+from my field of vision.[pcms]
 *11229|
 [fc]
 [ns【]ラグビー部員Ｏ[】nse]
@@ -277,8 +275,7 @@
 [evcg白フラ storage="EV30_19" layer=0 page=back visible=true left=0 top=0]
 *11230|
 [fc]
-そして、男はガチガチに勃起しているちんぽを、[r]
-わたしに挿入してくる。[pcms]
+And then, the man inserts his rock-hard penis into me.[pcms]
 *11231|
 [fc]
 [vo_ju s="jun0233"]
@@ -286,26 +283,27 @@
 「ああぁ……」[pcms][endhact]
 *11232|
 [fc]
-でも、部屋の中の男たちは、明らかに少なくなっていた。[pcms]
+But the number of men in the room had clearly decreased.[pcms]
 *11233|
 [fc]
-あんなに……いっぱいいた男たちが……。[pcms]
+All those men... there were so many...[pcms]
 *11234|
 [fc]
 [ns【]柔道部員Ｂ[】nse]
-「こうらぁぁぁぁぁっ！[r]
-　三流競技どもが独り占めなんて十年早いわぁぁっ！」[pcms][endhact]
+"You third-rate athletes! It's ten years too early for you to hog her[r]
+all to yourselves!"[pcms]
 *11235|
 [fc]
-壊された部屋の中に、柔道着を着た男たちが大勢入ってくる。[pcms]
+Men in judo uniforms enter the destroyed room in droves.[pcms]
 *11236|
 [fc]
 [ns【]野球部員Ｅ[】nse]
-「筋肉デブ共おぉぉぉぉぉぉっ！[r]
-　モテ無い部のヤツらはさっさとどかんかいぃぃぃっ！」[pcms][endhact]
+"You muscle-bound fatties! The losers from the unpopular clubs better[r]
+clear out!"[pcms]
 *11237|
 [fc]
-そして、その後から、一チーム以上の野球部員が姿を現した。[pcms]
+And then, following them, members of the baseball team, enough to make[r]
+up more than one team, appeared.[pcms]
 *11238|
 [fc]
 [ns【]サッカー部員Ｃ[】nse]
@@ -318,14 +316,14 @@
 「…………」[pcms][endhact]
 *11240|
 [fc]
-増えていく……男たちが……。[pcms]
+The number of men... keeps increasing...[pcms]
 *11241|
 [fc]
-この陵辱は……終わることがない……。[pcms]
+This humiliation... it never ends...[pcms]
 *11242|
 [fc]
-わたしは……サッカー部員が十名ほど部屋に入ってきた記憶を最後に……、[r]
-意識を切り離した。[pcms]
+I... remember about ten soccer club members entering the room before[r]
+my consciousness... drifted away.[pcms]
 [if exp="tf.scene_mode == 1 && tf.all_play == 0"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [elsif exp="tf.scene_mode == 1 && tf.all_play == 1"]

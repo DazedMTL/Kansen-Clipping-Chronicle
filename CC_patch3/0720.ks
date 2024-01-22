@@ -16,8 +16,8 @@
 [fc]
 [vo_ri s="riri0459"]
 [【梨里】]
-「お昼はセンターが作ってくれたんだよね。なんかお母さん以外が[r]
-　作ってくれたものが出てくるのって、凄く不思議な気持ち」[pcms][endhact]
+"Lunch was made by the center, right? It feels so strange to have[r]
+someone other than mom cook for us."[pcms]
 *9255|
 [fc]
 [vo_mo s="kurosawa0043"]
@@ -27,27 +27,28 @@
 [fc]
 [vo_mo s="iwase0032"]
 [ns【]岩瀬[】nse]
-「夜は夜で、皆が作ってくれるのもいいよね。[r]
-　今日は三年の人が作るんでしょ？　最上先輩？」[pcms][endhact]
+"And at night, it's nice that everyone cooks together. Tonight it's[r]
+the third-years' turn, right? Senpai Moe?"[pcms]
 *9257|
 [fc]
 [vo_ri s="riri0460"]
 [【梨里】]
-「そうなんだ！　最上先輩って料理得意なんでしょ？[r]
-　楽しみだなー」[pcms][endhact]
+"That's right! Senpai Moe is good at cooking, isn't she? I'm looking[r]
+forward to it."[pcms]
 *9258|
 [fc]
-と言ったあとに気がついた。[r]
-お昼食べながら晩ご飯を気にするとか、どうなの？[pcms]
+After saying that, I realized. Is it weird to be thinking about dinner[r]
+while eating lunch?[pcms]
 *9259|
 [fc]
-食いしん坊の自分を戒めようと、頭をぶんと振る。[pcms]
+I shook my head vigorously, as if to scold myself for being such a[r]
+glutton.[pcms]
 *9260|
 [fc]
-自然と部屋の中を見渡す形になる。[pcms]
+As a result, I naturally looked around the room.[pcms]
 *9261|
 [fc]
-そこには、いるはずの央や、累先輩の姿は無かった。[pcms]
+There was no sign of Oo, who should have been there, or Senpai Rui.[pcms]
 *9262|
 [fc]
 [vo_ri s="riri0461"]
@@ -55,8 +56,8 @@
 「あー……水泳部はまだ練習中かな」[pcms][endhact]
 *9263|
 [fc]
-ってか、なんであたし央の事考えてるんだろ。[r]
-これが原因で、けんかしちゃったってのに……。[pcms]
+Why am I even thinking about Oo? Even though we just had a fight[r]
+because of this...[pcms]
 *9264|
 [fc]
 [vo_ri s="riri0462"]
@@ -64,7 +65,8 @@
 「うーん……もう着いた頃、かな？」[pcms][endhact]
 *9265|
 [fc]
-ふと、けんか相手――顕悟の事が気になって、思わず時計に目を向ける。[pcms]
+Suddenly, I became concerned about Kenkou, the person I fought with,[r]
+and involuntarily glanced at the clock.[pcms]
 *9266|
 [fc]
 [vo_ri s="riri0463"]
@@ -72,12 +74,11 @@
 「鎌倉の親戚の所に行くんだよね。もう着いたのかな？」[pcms][endhact]
 *9267|
 [fc]
-それとも、まだ東京あたり？[r]
-あれ？　東京から鎌倉って、どのくらい離れてるんだろ。[pcms]
+Or maybe he's still around Tokyo? Huh? How far is Kamakura from Tokyo?[pcms]
 *9268|
 [fc]
-連絡、してみようかな……。[r]
-って、ケータイは預けちゃったから、持ってる訳ないや。[pcms]
+I wonder if I should contact him... But I left my cell phone behind,[r]
+so I don't have it with me.[pcms]
 *9269|
 [fc]
 [vo_mo s="kurosawa0044"]
@@ -85,15 +86,14 @@
 「何アレ、パトカー？　ねえねえ、パトカー来てるよ、ほら」[pcms][endhact]
 *9270|
 [fc]
-突然立ち上がった黒沢さんが、窓の外を指さした。[pcms]
+Suddenly, Kurosawa-san stood up and pointed outside the window.[pcms]
 *9271|
 [fc]
-すっと伸びた指先に目を向けると、お昼だというのに眩しく光る、[r]
-パトカーの赤色灯の光が目に刺さる。[pcms]
+Following the direction of her outstretched finger, the red lights of[r]
+a patrol car shone glaringly bright, even though it was midday.[pcms]
 *9272|
 [fc]
-特にサイレンは鳴らしていなかったから、[r]
-あたしは気がつかなかったんだろう。[pcms]
+Since there was no siren sounding, I probably hadn't noticed it.[pcms]
 *9273|
 [fc]
 [vo_mo s="kurosawa0045"]
@@ -103,26 +103,27 @@
 [fc]
 [vo_mo s="iwase0033"]
 [ns【]岩瀬[】nse]
-「いや、たぶん違うと思うよ。[r]
-　何でも他の学園の生徒が言ってたらしいんだけど……」[pcms][endhact]
+"No, I think it's probably something else. Apparently, students from[r]
+another school were talking about it..."[pcms]
 *9275|
 [fc]
-岩瀬さんは話を続ける。[pcms]
+Iwase-san continued the story.[pcms]
 *9276|
 [fc]
-何でも、田澤湖の周回道路に、車が放置されてあったのを見たらしく、[r]
-ドアも開き、キーも差しっぱなし、だったそうだ。[pcms]
+Apparently, a car was found abandoned on the loop road around Tazawa[r]
+Lake. The doors were open, and the keys were still in the ignition.[pcms]
 *9277|
 [fc]
-不自然なのはそれだけじゃない。[pcms]
+But that wasn't the only unnatural thing.[pcms]
 *9278|
 [fc]
-路肩に停めてあった、と言うより、道に斜めに停めていたそう。[r]
-しかもフロントはへこんでいて何かを[ruby text="は"]撥ねた跡、と言った様子だった。[pcms]
+It was parked on the shoulder of the road, or rather, diagonally[r]
+across the road. Moreover, the front was dented as if it had hit(ruby[r]
+text="something").[pcms]
 *9279|
 [fc]
-だけど――[r]
-車の運転手も、[ruby text="は"]撥ねられたであろう相手も、どちらも姿は無かったそうだ。[pcms]
+Howeverneither the driver of the car nor the person who might have[r]
+been hit(ruby text="by it") were anywhere to be seen.[pcms]
 *9280|
 [fc]
 [vo_mo s="kurosawa0046"]
@@ -155,12 +156,12 @@
 「最近増えてるって言うからね……」[pcms][endhact]
 *9286|
 [fc]
-とはいえ、似すぎている気がしなくもない。[r]
-それに、こんな身近でこう立て続けに起こるものなのかな。[pcms]
+Still, I can't shake the feeling that it's too similar. And to think[r]
+that such incidents could happen one after another so close by...[pcms]
 *9287|
 [fc]
-ふっと、背中を冷たい手でなぞられた様な感覚が走る。[r]
-なんだか、嫌な予感がする。[pcms]
+Suddenly, I felt as if a cold hand had traced down my back. I have a[r]
+bad feeling about this.[pcms]
 *9288|
 [fc]
 [vo_ri s="riri0466"]
@@ -168,12 +169,13 @@
 「あーあ……こんな時に……」[pcms][endhact]
 *9289|
 [fc]
-顕悟がそばに居てくれたらな。怖いのも、忘れられそうなのに。[pcms]
+If Kenkou were here with me. I might be able to forget even my fear.[pcms]
 *9290|
 [fc]
-留守電いれといたけど、聞いてくれたかな……。[pcms]
+I left a message on his answering machine, but I wonder if he listened[r]
+to it...[pcms]
 *9291|
 [fc]
-会いたいよ、顕悟……。[pcms]
+I miss you, Kenkou...[pcms]
 [zapend_random]
 [jump storage="0150.ks"]

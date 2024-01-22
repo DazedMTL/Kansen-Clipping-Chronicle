@@ -4,31 +4,31 @@
 [sysbt_meswin]
 *2874|
 [fc]
-あれからまた暫く走り続け、気が付けばセンターの丁度正面側から、[r]
-湖までたどり着いた。[pcms]
+After running for a while since then, I realized we had arrived at the[r]
+lake, right in front of the center.[pcms]
 *2875|
 [fc]
-センターの前は、どこかから逃げてきたのだろうバスが横転し、[r]
-入り口を塞いでいた。[pcms]
+In front of the center, a bus that seemed to have escaped from[r]
+somewhere had overturned, blocking the entrance.[pcms]
 *2876|
 [fc]
-しかもその向こうからは火の手が上がり、真っ黒な煙が立ちこめ、[r]
-とても近寄れる状態じゃなかった。[pcms]
+Moreover, beyond that, flames were rising, and thick black smoke was[r]
+billowing, making it impossible to approach.[pcms]
 *2877|
 [fc]
-きっと、横転したバスが燃えていたんだ。[r]
-そうでなくても、他の車が燃えていたんだろう。[pcms]
+Undoubtedly, the overturned bus was burning. If not that, then some[r]
+other vehicle must have been on fire.[pcms]
 *2878|
 [fc]
-金属があぶられ、塗装や、樹脂、それに革、ガソリン。[pcms]
+Metal was being scorched, along with paint, resin, leather, gasoline.[pcms]
 *2879|
 [fc]
-他にも――きっと、人間の髪の毛や皮が――様々なものが燃えて、[r]
-顔を歪めてしまうほど、イヤな臭いが辺りに広がっていた。[pcms]
+And other things too--surely human hair and skin--various things were[r]
+burning, spreading a foul smell that was enough to distort one's face.[pcms]
 *2880|
 [fc]
-その煙や、襲いかかる『異常な奴ら』の間をすり抜け、[r]
-ようやくここまでたどり着いた。[pcms]
+We finally made it here, slipping through the smoke and the "abnormal[r]
+ones" attacking us.[pcms]
 [backlay][bg storage="BG01b"][trans time=500 method=crossfade][wt2]
 *2881|
 [fc]
@@ -42,21 +42,22 @@
 「はあっ……はっ、はっ……う、うん……」[pcms][endhact]
 *2883|
 [fc]
-もうすぐ、もうすぐ、安全と思われる所までいける。[r]
-安心するのも、一休みするのもその後だ。[pcms]
+Soon, very soon, we'll reach a place that seems safe. We can relax and[r]
+take a break after that.[pcms]
 *2884|
 [fc]
-今ここで立ち止まっていては――[pcms]
+If we stop here now--[pcms]
 *2885|
 [fc]
 [vo_ru s="rui0645"]
 [【累】]
-「はっはァ～！　れんしゅうぶそくかぁ～！　しぶえェ～！！[r]
-　なぜ！　そんなに！　バテているのかァッ！」[pcms][endhact]
+"Hahhaa~! Is this a lack of practice~? Shizuka~!! Why! Are you! So[r]
+exhausted!?"[pcms]
 *2886|
 [fc]
-執拗に追いかけてくる累先輩や、その後ろを付いてくるヤツらに捕まり、[r]
-何をされるか……それこそ殺されてしまいかねない。[pcms]
+Being persistently chased by Senior Rui and the others following him,[r]
+getting caught would mean... who knows what they'd do... they might[r]
+even kill us.[pcms]
 *2887|
 [fc]
 [【央】]
@@ -69,52 +70,52 @@
 「う、うん……」[pcms][endhact]
 *2889|
 [fc]
-ようやくたどり着いた湖岸に、慎重に足を下ろす。[pcms]
+I carefully set foot on the lakeshore we finally reached.[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *2890|
 [fc]
-梨里のいう貸しボートはすぐに見つけられ、[r]
-それも、都合の良いことに、一艘残っていた。[pcms]
+The rental boat that Nashi mentioned was found quickly, and[r]
+conveniently, there was one left.[pcms]
 *2891|
 [fc]
-とはいえ、ボートは湖に浮かべられてはおらず、[r]
-小屋の壁に立てかけられていた。[pcms]
+However, the boat wasn't floating on the lake but was propped up[r]
+against the wall of a cabin.[pcms]
 *2892|
 [fc]
 [【央】]
 「あれを持ち上げて、湖に浮かべろってか……」[pcms][endhact]
 *2893|
 [fc]
-少し落胆しながら近づいてみると、ボートにはＦＲＰ製と書かれている。[r]
-確かコレは、凄く軽いやつだ。持ち上げられなくもない……か？[pcms]
+As I approached with a bit of disappointment, I saw "FRP" written on[r]
+the boat. If I remember correctly, this one is really light. Maybe I[r]
+can lift it...?[pcms]
 *2894|
 [fc]
 [【央】]
 「くっ……うううぅっ！　おらっ！！」[pcms][endhact]
 *2895|
 [fc]
-思った通りだ。[r]
-俺一人だとさすがに厳しいが、梨里に手伝って貰えばなんとかなりそうだ。[pcms]
+Just as I thought. It's definitely tough for me alone, but with[r]
+Nashi's help, we might manage somehow.[pcms]
 *2896|
 [fc]
-ボートはここにある一艘だけ。[pcms]
+There's only one boat here.[pcms]
 *2897|
 [fc]
-最悪、何艘もひっくり返さないとならないかと思っていただけど、[r]
-その必要は無さそうだ。[pcms]
+I thought we might have to turn over several boats at worst, but it[r]
+seems that won't be necessary.[pcms]
 *2898|
 [fc]
 [【央】]
 「やっと、これで逃げられる……」[pcms][endhact]
 *2899|
 [fc]
-っと、ここでボヤボヤしているワケにはいかない。[r]
-すぐにでも、ボートでここからおさらばだ！[pcms]
+But I can't dawdle here. We need to say goodbye to this place with the[r]
+boat right away![pcms]
 [se buf=0 storage="seD003"]
 *2900|
 [fc]
-俺は、ボートをゆっくり引き倒すと、湖に足を入れ、[r]
-引っ張ろうとした――[pcms]
+I slowly tipped over the boat and stepped into the lake to pull it--[pcms]
 [赤フラ]
 *2901|
 [fc]
@@ -133,19 +134,19 @@
 [backlay][rir_up_01_f10 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2904|
 [fc]
-そこら中にいろんなものが突き刺さっているんだろう。[r]
-靴を履いていなかった足が、猛烈に痛む。[pcms]
+There must be all sorts of things sticking out everywhere. My feet,[r]
+which were not wearing shoes, hurt terribly.[pcms]
 *2905|
 [fc]
-いくら『軽い』とはいえ、それなりの重量があるボートを支えて、[r]
-傷口がさらに開いてしまったんだ。[pcms]
+No matter how "light" it is, the boat has a certain weight, and[r]
+supporting it has caused the wounds to open up even more.[pcms]
 *2906|
 [fc]
-だけど、それが何だ！？[pcms]
+But so what!?[pcms]
 *2907|
 [fc]
-累先輩達に捕まったら、こんなのじゃ済まないだろう。[r]
-だったら、今ちょっと痛いくらい我慢だっ！　あと一踏ん張り！！[pcms]
+If we get caught by Senior Rui and the others, this pain will be[r]
+nothing. So endure it for now! Just one more push!![pcms]
 *2908|
 [fc]
 [【央】]
@@ -159,7 +160,8 @@
 [se buf=0 storage="seD020"]
 *2910|
 [fc]
-二人の力が合わさり、ボートはゆっくりと湖の上に滑り落ちた。[pcms]
+With our combined strength, the boat slowly slid onto the surface of[r]
+the lake.[pcms]
 *2911|
 [fc]
 [【央】]
@@ -169,21 +171,21 @@
 [fc]
 [vo_ri s="riri0733"]
 [【梨里】]
-「うん……あ、あれ！？　でも……これ以上進まないよ！[r]
-　どうなって……って、ロープがッ！」[pcms][endhact]
+"Yeah... oh, what!? But... it won't go any further! What's going on...[r]
+the rope is!"[pcms]
 [stopbgm]
 [bgm storage="bgm05" time=100]
 *2913|
 [fc]
-梨里が叫んだように、ボートから伸びたロープが、[r]
-湖岸の杭に絡みついていた。[pcms]
+Just as Nashi screamed, the rope extending from the boat was tangled[r]
+around a stake on the lakeshore.[pcms]
 [backlay][rir_up_01_f15 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2914|
 [fc]
 [vo_ri s="riri0734"]
 [【梨里】]
-「なんでこう、土壇場で邪魔が入るの……！[r]
-　ご丁寧にロープなんて、誰もこんなの盗まないって……」[pcms][endhact]
+"Why does something always get in the way at the last minute...! As if[r]
+anyone would steal it with a rope so courteously tied..."[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 [backlay][rui_up_05_k01 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *2915|
@@ -198,8 +200,8 @@
 「え、え……きゃぁああああああぁあああぁっ！！」[pcms][endhact]
 *2917|
 [fc]
-ついに、累先輩に追いつかれてしまった。[r]
-しかも悪いことに、梨里のすぐ目の前に現れた。[pcms]
+We were finally caught up by Senior Rui. And to make matters worse, he[r]
+appeared right in front of Nashi's eyes.[pcms]
 [backlay][rui_up_05_k02 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *2918|
 [fc]
@@ -209,20 +211,19 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *2919|
 [fc]
-累先輩は、いつものようなしなやかな動きではなく、[r]
-まるで獰猛な獣のように、荒々しく梨里に飛びかかっていく。[pcms]
+Senior Rui didn't move with his usual grace but leaped at Nashi like a[r]
+ferocious beast.[pcms]
 [backlay][rir_up_01_f04 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2920|
 [fc]
 [vo_ri s="riri0736"]
 [【梨里】]
-「くぅうぅッ……ご、ごめんなさい、先輩！！[r]
-　はあぁああぁあっ！！」[pcms][endhact]
+"Guhh... I'm sorry, senior!! Haaaahhhhh!!"[pcms]
 [eval exp="sf.EV41_03 = 1"][backlay][image storage="EV41_03" layer=3 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *2921|
 [fc]
-豹のように身体を丸めて飛びかかる累先輩に対し、[r]
-梨里は整った動きで構え、応じる。[pcms]
+Nashi faced Senior Rui who pounced like a leopard with well-[r]
+coordinated movements.[pcms]
 [backlay][chara_int1][rui_up_05_k01 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *2922|
 [fc]
@@ -237,8 +238,8 @@
 「あぁぁああぁぁっ！！　はあっ！！」[pcms][endhact]
 *2924|
 [fc]
-先輩が伸ばした手を、梨里は廻し受けで弾き、[r]
-隙を突いて、中段突きを打ち込む。[pcms]
+Nashi deflected Senior Rui's outstretched hand with a circular[r]
+reception and struck with a middle-level thrust at an opening.[pcms]
 [se buf=0 storage="seB011"]
 [白フラ]
 [eval exp="f.mskon = 0"]
@@ -249,14 +250,16 @@
 *2925|
 [fc]
 [quakesp time=500 laynum=5 hmax=20 vmax=20]
-まっすぐに伸びた拳が、累先輩の鳩尾に吸い込まれていく。[pcms]
+The fist that shot straight out was absorbed into Senior Rui's solar[r]
+plexus.[pcms]
 *2926|
 [fc]
-これが試合なら――実戦だとしても、あれを受けた相手は、[r]
-まともに動く事なんか出来なくなるだろう。[pcms]
+If this were a match--even in actual combat, anyone who took that hit[r]
+wouldn't be able to move properly anymore.[pcms]
 *2927|
 [fc]
-だが累先輩は、少しよろけただけで、もう一度梨里に飛びかかろうとする。[pcms]
+But Senior Rui only staggered slightly and attempted to leap at Nashi[r]
+again.[pcms]
 [backlay][rui_lo_05_k02 layer=5 x="&sf.ru_lo_x[5]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *2928|
 [fc]
@@ -266,11 +269,12 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *2929|
 [fc]
-累先輩は腹をさすると、口を大きく開き、梨里へと飛んだ。[pcms]
+Senior Rui rubbed his stomach and then opened his mouth wide to leap[r]
+at Nashi.[pcms]
 [backlay][rir_up_01_f05 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2930|
 [fc]
-梨里はそれにたじろぐ事なく、再び身構える。[pcms]
+Nashi didn't flinch and readied herself again.[pcms]
 *2931|
 [fc]
 [【央】]
@@ -278,7 +282,8 @@
 [eval exp="sf.EV41_03 = 1"][backlay][image storage="EV41_03" layer=3 page=back visible=true left=0 top=0][trans time=200 method=crossfade][wt2]
 *2932|
 [fc]
-梨里はそれに答える事なく、射貫くような目を累先輩に向けて腕を引き――[pcms]
+Nashi didn't respond but glared at Senior Rui with piercing eyes and[r]
+pulled back her arm--[pcms]
 [backlay][chara_int1][rui_up_05_k01 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *2933|
 [fc]
@@ -288,7 +293,7 @@
 [eval exp="sf.EV41_03 = 1"][backlay][image storage="EV41_03" layer=3 page=back visible=true left=0 top=0][trans time=200 method=crossfade][wt2]
 *2934|
 [fc]
-飛びかかってきた先輩を、すんでの所でかわし身体を低く落とした。[pcms]
+Nashi narrowly dodged the leaping senior and dropped her body low.[pcms]
 *2935|
 [fc]
 [vo_ri s="riri0738"]
@@ -296,8 +301,9 @@
 「はっ！」[pcms][endhact]
 *2936|
 [fc]
-そのまま、綺麗な円を描き、[r]
-梨里の足が地面を刈って――着地した累先輩の足を薙ぎ払う。[pcms]
+Continuing in that fashion, drawing a beautiful circle, Nashi's feet[r]
+swept the ground--and she swept away the feet of Senior Rui as he[r]
+landed.[pcms]
 [se buf=0 storage="seB011"]
 [白フラ]
 [backlay][chara_int][rui_up_05_k02 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
@@ -310,8 +316,8 @@
 [se buf=0 storage="seB013"]
 *2938|
 [fc]
-さすがの先輩も、無防備な所に強烈な刈り蹴りを受け、[r]
-そのまま前のめりに倒れ込んだ。[pcms]
+Even the formidable senior, receiving a powerful sweeping kick to an[r]
+unprotected spot, fell forward.[pcms]
 [backlay][rir_lo_01_f04 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *2939|
 [fc]
@@ -322,8 +328,8 @@
 [backlay][evcg storage="EV60_梨里エンド" layer=0 page=back visible=true left=0 top=0][trans time=500 method=crossfade][wt2]
 *2940|
 [fc]
-梨里はそのままボートのお尻を、湖に向けて蹴りながら飛び乗り、[r]
-累先輩の方を睨み続けていた。[pcms]
+Nashi immediately jumped onto the boat, kicking it towards the lake[r]
+while continuing to glare at Senior Rui.[pcms]
 *2941|
 [fc]
 [【央】]
@@ -331,19 +337,18 @@
 [se buf=1 storage="boat" loop=true]
 *2942|
 [fc]
-勢いよくオールを動かし、沖へと漕ぎ出す。[r]
-だが、なかなか前に進まない。[pcms]
+She rowed vigorously, heading off shore. But the boat hardly moved[r]
+forward.[pcms]
 *2943|
 [fc]
-考えてみれば、ボートなんか今日、生まれて初めて乗る。[r]
-こんなことなら、一度でも乗っておくべきだった。[pcms]
+Thinking about it, this was her first time ever on a boat. She should[r]
+have tried it at least once before.[pcms]
 [backlay][rir_up_01_f15 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2944|
 [fc]
 [vo_ri s="riri0740"]
 [【梨里】]
-「ちょっと、何してるの！　早くしてっ！！[r]
-　追いつかれちゃう！」[pcms][endhact]
+"Hey, what are you doing! Hurry up!! We're going to be caught!"[pcms]
 *2945|
 [fc]
 [vo_ru s="rui0652"]
@@ -356,18 +361,18 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *2947|
 [fc]
-こんな不様な漕ぎ方じゃ、水泳の達人である先輩には、[r]
-簡単に追いつかれてしまうだろう。[pcms]
+With such an ungraceful rowing style, the senior, who is a master[r]
+swimmer, would easily catch up.[pcms]
 *2948|
 [fc]
-だが、ボートと先輩の距離は、全くといって良いほど変わらない。[pcms]
+However, the distance between the boat and the senior hardly changed[r]
+at all.[pcms]
 *2949|
 [fc]
-俺が早いんじゃ無い。先輩が遅すぎるんだ。[pcms]
+It's not that I'm fast. It's that the senior is too slow.[pcms]
 *2950|
 [fc]
-それでも、いずれは追いつかれてしまう。[r]
-休んでるワケにはいかない。[pcms]
+Still, eventually he would catch up. I can't afford to rest.[pcms]
 [backlay][rir_up_01_f25 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2951|
 [fc]
@@ -383,8 +388,7 @@
 [fc]
 [vo_ru s="rui0653"]
 [【累】]
-「あ、あ……ま、まって……がふっ……ごぼっ！！　ぐばっ！！[r]
-　あ……あブッううっ……」[pcms][endhact]
+"Ah, ah...wait...gahh...gobuh!! Gbahh!! Ah...ah buhhhh..."[pcms]
 [fadeoutbgm time=500]
 *2954|
 [fc]
@@ -396,23 +400,23 @@
 [fc]
 [vo_ri s="riri0742"]
 [【梨里】]
-「田澤湖って急に深くなるから危ないって言われてたよね……。[r]
-　ほら、ボートの下、真っ黒……」[pcms][endhact]
+"They say Lake Tazawa suddenly gets deep and it's dangerous... Look,[r]
+under the boat, it's pitch black..."[pcms]
 *2956|
 [fc]
-確かにそうだ。[r]
-小さい頃親から聞いたり、先生が得意げに言っていたのを思い出す。[pcms]
+That's certainly true. I remember hearing it from my parents when I[r]
+was little, and teachers proudly talking about it.[pcms]
 *2957|
 [fc]
-それにしても、あの累先輩が溺れるなんて。[r]
-全く想像も付かなかったけど……あんな風に変になると、泳げなくなるのか？[pcms]
+But to think that Senior Rui would drown. I never imagined it... Does[r]
+becoming strange like that make you unable to swim?[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *2957a|
 [fc]
 [vo_ru s="rui0654"]
 [【累】]
-「しっ……しぶえ……くんっ！　たすけて……あしが、おもうように、[r]
-　うっ、うごかな……がふっ……」[pcms][endhact]
+"Shi...Shizuka...kun! Help me...my legs, they won't move as I want[r]
+them to, ugh, they won't move...gahh..."[pcms]
 *2958|
 [fc]
 [【央】]
@@ -420,12 +424,13 @@
 [stopse buf=1]
 *2959|
 [fc]
-それまでの狂気が、一気に抜けたような先輩の声に、[r]
-俺は思わずオールを漕ぐ手を止めた。[pcms]
+The madness that had been there until now seemed to drain away with[r]
+Senior Rui's voice, and I involuntarily stopped rowing.[pcms]
 *2960|
 [fc]
-だけど、先輩の声はそれきり聞こえなくなって、[r]
-それまで波立っていた水面は、夕日を反射して真っ赤な鏡の様になっていた。[pcms]
+But after that, I couldn't hear Senior Rui's voice anymore, and the[r]
+water surface that had been rippling turned into a mirror reflecting[r]
+the setting sun.[pcms]
 *2960a|
 [fc]
 [【央】]
@@ -442,67 +447,68 @@
 「梨里、どうした……？　あっ！！　おい、腹、どうしたんだよ！？」[pcms][endhact]
 *2963|
 [fc]
-突然呻きだした梨里は、息も荒く腹を押さえ、[r]
-ボートの縁に身体を預けた。[pcms]
+Suddenly groaning, Nashi breathes heavily and clutches her stomach,[r]
+leaning her body over the edge of the boat.[pcms]
 [backlay][rir_up_01_f25 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2964|
 [fc]
 [vo_ri s="riri0744"]
 [【梨里】]
-「さっき……森の中でコケちゃったでしょ……。[r]
-　あの時何かが刺さって……お腹に……ぐっ……うううっ！」[pcms][endhact]
+"Earlier...you fell in the forest, right? Something got stuck in you[r]
+at that time...in your stomach...ugh...uuuuh!"[pcms]
 *2965|
 [fc]
-梨里のジャージは、手で押さえたあたりを中心に、[r]
-真っ黒なシミが広がっていく。[pcms]
+The area around where Nashi pressed her hand on her jersey began to[r]
+spread into a pitch-black stain.[pcms]
 *2966|
 [fc]
 [【央】]
 「梨里！　これ使ってくれ！！」[pcms][endhact]
 *2967|
 [fc]
-俺は咄嗟に、着ていたジャージを脱ぎ、[r]
-梨里の胴体に巻き付け、縛る。[pcms]
+In a split second, I took off my jersey and wrapped it around Nashi's[r]
+torso, tying it tight.[pcms]
 *2968|
 [fc]
 [【央】]
-「今はこんな事しか出来ないけど……ここから出られたら、[r]
-　すぐに病院に連れて行くから、な！？」[pcms][endhact]
+"This is all I can do for now...but once we get out of here, I'll take[r]
+you to the hospital right away, okay!?"[pcms]
 [backlay][rir_up_01_f01 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2969|
 [fc]
 [vo_ri s="riri0745"]
 [【梨里】]
-「あ、り、がと……ねぇ、央……。あのさ……もし、帰れたら、ね？[r]
-　あたし、顕悟とエッチする……そのあと、央もまぜて……あげよっか……」[pcms][endhact]
+"Th-thank you...hey, Nao...if we can get back, okay? I'll have sex[r]
+with Kenji...and then, maybe I'll let you join in..."[pcms]
 *2969a|
 [fc]
 [【央】]
-「は？　何言い出すんだよ、お前！　バカじゃねえか！？[r]
-　今そんな事言ってる場合じゃ無いだろ！　それに――」[pcms][endhact]
+"Huh? What are you saying now, you idiot!? Isn't this not the time for[r]
+that kind of talk!? Besides--"[pcms]
 *2970|
 [fc]
-冗談なのか、本気なのか、全く分からない。[pcms]
+I can't tell if she's joking or serious.[pcms]
 *2971|
 [fc]
-もしかしたら痛さで幻覚でも見ているのか。それとも――[r]
-さっきの先輩との格闘で、キズでも付いて、梨里まで変になった……？[pcms]
+Maybe she's seeing hallucinations from the pain. Or maybe--after the[r]
+fight with Senior Rui earlier, she got hurt and Nashi became strange[r]
+too...?[pcms]
 *2972|
 [fc]
-そんな事はない。[r]
-梨里は、痛みで気が動転してるだけだ。落ち着かせなきゃ……。[pcms]
+That's not it. Nashi is just disoriented from the pain. I need to calm[r]
+her down...[pcms]
 *2973|
 [fc]
 [【央】]
-「いや、そんな事出来るわけないだろ。[r]
-　顕悟に殴られちまうよ。だから、ダメだ、お前ら二人でしてろ」[pcms][endhact]
+"No way that could happen. Kenji would punch me out. So no, you two go[r]
+ahead without me."[pcms]
 [backlay][rir_up_01_f02 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2974|
 [fc]
 [vo_ri s="riri0746"]
 [【梨里】]
-「そう、だよね……あはっ、おこられ……ちゃうね。[r]
-　あいつ、案外……スネるから……」[pcms][endhact]
+"Yeah, you're right...ahaha, he'd get mad...wouldn't he. He's[r]
+surprisingly...sulky..."[pcms]
 *2975|
 [fc]
 [【央】]
@@ -517,12 +523,11 @@
 [bgm storage="bgm13" time=100]
 [vo_ru s="rui0655"]
 [【累】]
-「しぶえ……くん……げほっ……がはっ！[r]
-　た、たすけてくれ……げほっ……げほっ！！」[pcms][endhact]
+"Shizuka...kun...gehohh...gahah! Help me...gehohh...gehohh!!"[pcms]
 *2977|
 [fc]
-突然ボートの下から真っ白な手が伸び、[r]
-梨里の腕を鷲づかみにした。[pcms]
+Suddenly a pale white hand reached out from under the boat and grabbed[r]
+Nashi's arm firmly.[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *2978|
 [fc]
@@ -536,12 +541,12 @@
 [backlay][rui_up_05_k03 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *2980|
 [fc]
-溺れてしまったと思っていた先輩が、ボートの縁に手をかけ、[r]
-こちらに登ってこようとしていた。[pcms]
+I thought Senior Rui had drowned, but there he was holding onto the[r]
+edge of the boat, trying to climb aboard.[pcms]
 *2981|
 [fc]
-俺は、咄嗟にオールを振り上げ、[r]
-先輩の脳天めがけ勢いよく振り下ろした。[pcms]
+In a split second, I raised my oar and swung it down hard towards[r]
+Senior Rui's head.[pcms]
 [stopbgm]
 [se buf=0 storage="seB008"]
 [赤フラ]
@@ -558,31 +563,32 @@
 「……？」[pcms][endhact]
 *2984|
 [fc]
-先輩は、突然優しい声に変わり、梨里とボートを掴んでいた手を、[r]
-すっと離す。[pcms]
+Suddenly changing to a gentle voice, Senior Rui let go of Nashi and[r]
+the boat with his hand.[pcms]
 *2985|
 [fc]
 [【央】]
 「先輩……？」[pcms][endhact]
 *2986|
 [fc]
-先輩の頭をぶん殴った事で、頭から一気に血が引いた俺は、[r]
-そのままふと、水面に浮かぶ整った顔に目を向けた。[pcms]
+After hitting Senior Rui on the head, blood drained from my head and I[r]
+found myself staring at his well-ordered face floating on the water[r]
+surface.[pcms]
 [backlay][rui_up_00_f24 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *2987|
 [fc]
-累先輩の顔は、いつもと同じで、綺麗だ。[pcms]
+Senior Rui's face was as beautiful as ever.[pcms]
 *2988|
 [fc]
-――唯一、いつもと違うのは目の色だ。[pcms]
+--The only thing different was the color of his eyes.[pcms]
 *2989|
 [fc]
-それは、殴られたせいか、それとも別の理由か。[r]
-あふれ出す鮮血のように、透き通るような赤だった。[pcms]
+Whether it was because he was hit or for some other reason, they were[r]
+a transparent red like spilling blood.[pcms]
 *2990|
 [fc]
-凜々しく、真顔で俺を見つめる、真っ赤な先輩の瞳を、[r]
-俺は吸い込まれるように見つめていた。[pcms]
+I stared as if being sucked into those red eyes of Senior Rui who was[r]
+gazing at me with a stern expression.[pcms]
 [backlay][rui_up_00_f26 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *2991|
 [fc]
@@ -591,52 +597,52 @@
 「ありがとう。しぶえくん。きみのおかげで、すくわれた」[pcms][endhact]
 *2992|
 [fc]
-赤い瞳のまま、いつもの微笑みを浮かべた累先輩は、[r]
-そのまま、真っ直ぐに湖の中へと沈んでいく。[pcms]
+With those red eyes still on him, Senior Rui smiled his usual smile[r]
+and then sank straight down into the lake.[pcms]
 [se buf=0 storage="seD003"]
 [backlay][chara_int][trans method=universal rule="TtoD" vague=300 time=500][wt2]
 *2993|
 [fc]
 [【央】]
-「救われた……？　累先輩！？　何言ってんです？[r]
-　先輩！　先輩ぃいいいぃいっ！！」[pcms][endhact]
+"I've been saved...? Senior Rui!? What are you talking about? Senior![r]
+Senioooor!!"[pcms]
 *2994|
 [fc]
-キツく結ばれた、いつものシニヨンがほどけ、[r]
-真っ赤な鮮血と共に田澤湖の水の中に広がっていく。[pcms]
+The tightly bound usual chignon came undone, spreading through the[r]
+waters of Lake Tazawa along with bright red blood.[pcms]
 *2995|
 [fc]
-酷く透き通った水の中を、先輩の身体が沈んでいく。[pcms]
+Senior's body sank through the terribly clear water.[pcms]
 *2996|
 [fc]
-俺は、深淵に沈む先輩の姿を、指先一つ動かす事なく見つめていた。[pcms]
+I watched Senior sink into the abyss without moving a finger.[pcms]
 *2997|
 [fc]
-１センチ、１０センチ。[pcms]
+One centimeter, ten centimeters.[pcms]
 *2998|
 [fc]
-酷く、酷く深い水のなか。[r]
-先輩の白く透き通った身体と、黒い髪と赤い血が落ちていく。[pcms]
+In the terribly, terribly deep water, Senior's pale, translucent body,[r]
+black hair, and red blood fell.[pcms]
 *2999|
 [fc]
-どんどん離れていくけど、何時までも見える亡骸を、[r]
-俺は目で追いかける。[pcms]
+They kept drifting away, but I could see the corpse forever and[r]
+followed it with my eyes.[pcms]
 *3000|
 [fc]
-すると――先輩との想い出が頭の中に一気に広がっていく。[pcms]
+Then--memories with Senior spread rapidly through my mind.[pcms]
 *3001|
 [fc]
 [【央】]
-「せん、ぱい……くっ、あ、ああぁあっ！！　累先輩っ！！[r]
-　どうして、どうしてだよっ！　なんでこんな事になってんだよ！」[pcms][endhact]
+"Senpai...ugh, ah, ahhhh! Senior Rui!! Why, why is this happening! Why[r]
+did it turn out like this!"[pcms]
 *3002|
 [fc]
-俺はボートの上にへたり込み、隣に梨里がいるのも気にせず、[r]
-大きな声で嗚咽した。[pcms]
+I collapsed on the boat, not caring that Nashi was next to me, and[r]
+sobbed loudly.[pcms]
 *3003|
 [fc]
-目の奥が熱く、喉が痛い。[r]
-それでもなお、涙は止まらず、こみ上げる嗚咽も抑えることが出来ない。[pcms]
+My eyes burned, my throat hurt. Yet still, the tears wouldn't stop,[r]
+and I couldn't suppress the rising sobs.[pcms]
 [backlay][rir_up_01_f13 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *3004|
 [fc]
@@ -646,21 +652,21 @@
 *3005|
 [fc]
 [【央】]
-「うううっ……うわあぁあっ……ああぁ……梨里……。[r]
-　ごめんな、俺……俺えぇっ！！」[pcms][endhact]
+"Uuuu...uwaaaah...ahhh...Nashi... I'm sorry, I...I can't!!"[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *3006|
 [fc]
-梨里に抱きしめられ、母親にあやされる子供の様になった俺は、[r]
-なんだか気恥ずかしくて、思わず目線を反らす。[pcms]
+Held by Nashi, I felt like a child being comforted by their mother,[r]
+and it was somewhat embarrassing, so I inadvertently looked away.[pcms]
 *3007|
 [fc]
-梨里の肩越しに見える遠くの山。[r]
-さらにその奥――あれは、画館のほうか、明田のほうか。[pcms]
+Over Nashi's shoulder, I could see the distant mountains. And beyond[r]
+that--is that the direction of the art gallery or Akita?[pcms]
 *3008|
 [fc]
-完全に日が暮れる寸前の、濃い赤色の雲を引き裂き、火柱が空へと伸びる。[r]
-そして、直後……真っ白な閃光が広がった。[pcms]
+Just before the day completely ended, a thick red cloud was torn apart[r]
+by a pillar of fire stretching into the sky. And then, immediately[r]
+after...a pure white flash spread out.[pcms]
 [stopbgm]
 [stopse_all]
 [backlay][black_toplayer][trans method=universal rule="wipe" vague=300 time=150][wt2]
@@ -671,81 +677,80 @@
 *3009|
 [fc]
 [quakesp time=10000 laynum=0 hmax=10 vmax=10]
-それから少し遅れて、雷鳴のような強烈な爆音が鳴り響いた。[pcms]
+A little later, a thunderous boom like thunder resounded.[pcms]
 [bgm storage="bgm15" time=2000]
 *3010|
 [fc]
-それは、たったの一度だけだった。[pcms]
+It happened only once.[pcms]
 *3011|
 [fc]
-だけど、この世の終わりを感じさせる光と音が、[r]
-俺の心を貫き、穴だらけにして行く。[pcms]
+But that light and sound, which seemed to signal the end of the world,[r]
+pierced my heart and left it riddled with holes.[pcms]
 *3012|
 [fc]
-その開いた穴に、一気に流れ込む残酷な記憶。[pcms]
+Into those opened holes flowed a cruel memory all at once.[pcms]
 *3013|
 [fc]
-今日一日で、沢山の友達を失ったこと。[pcms]
+The fact that I lost many friends today.[pcms]
 *3014|
 [fc]
-親友を、この手で殺めてしまったこと。[r]
-憧れの人を、この手で葬ってしまったこと。[pcms]
+I killed my best friend with these hands. I buried the person I[r]
+admired with these hands.[pcms]
 *3015|
 [fc]
-これからの事。[pcms]
+What will happen from now on.[pcms]
 *3016|
 [fc]
-それらが穴という穴に入り込み、塞いだ頃。[pcms]
+As those things filled every hole and sealed them,[pcms]
 *3017|
 [fc]
-俺はまた、目に涙が溢れるのを感じながら、[r]
-それでも、この先の事を考えていた。[pcms]
+I felt tears overflowing from my eyes again, yet still, I thought[r]
+about what lies ahead.[pcms]
 *3018|
 [fc]
-これから、どうなるんだろう。全く予想も出来ない。[r]
-だけど、きっと生きて帰るんだ。[pcms]
+"What will happen now? I have no idea at all. But surely, I'll make it[r]
+back alive."[pcms]
 *3019|
 [fc]
-家族に、そして、顕悟に。[r]
-また、皆と会えば――[pcms]
+To my family, and then to Ken'go. And if I meet everyone again--[pcms]
 *3020|
 [fc]
-それに、梨里もいるんだ。[r]
-だから、きっとなんとかなる。[pcms]
+And Nashi is here too. So surely, everything will work out.[pcms]
 *3021|
 [fc]
-そう呟きながら、梨里の身体に腕を回し、優しく抱きしめた。[pcms]
+Muttering so, I wrapped my arms around Nashi's body and hugged her[r]
+gently.[pcms]
 *3022|
 [fc]
-梨里が側にいてくれれば、どうにでもなる気がする。[r]
-それだけで、今はいい――[pcms]
+If Nashi is by my side, I feel like anything is possible. Just that is[r]
+enough for now--[pcms]
 *3023|
 [fc]
 [【央】]
 「ありがとう、梨里」[pcms][endhact]
 *3024|
 [fc]
-思わず溢れる、感謝の言葉。[pcms]
+The words of gratitude overflowed without thinking.[pcms]
 *3025|
 [fc]
-だけどそれには、返事は無かった。[pcms]
+But there was no reply to them.[pcms]
 *3026|
 [fc]
-痛みのせいか。それとも疲れ果てたのか。[r]
-眠ってしまったらしい。[pcms]
+Maybe it was because of the pain. Or maybe she was just exhausted. She[r]
+seemed to have fallen asleep.[pcms]
 *3027|
 [fc]
-きっと、そうだ。[pcms]
+Surely, that's it.[pcms]
 *3028|
 [fc]
-俺は、梨里の身体を抱きしめたまま、[r]
-黒く染まりだした茜色の湖面の上を、緩やかに漂い続けた。[pcms]
+I continued to drift gently over the darkening madder-red surface of[r]
+the lake while holding Nashi in my arms.[pcms]
 *3029|
 [fc]
-静かに、静かに。[pcms]
+Quietly, quietly.[pcms]
 *3030|
 [fc]
-俺の脈動と、呼吸の音だけを聞きながら。[pcms]
+Listening only to my heartbeat and the sound of my breathing.[pcms]
 [sysbt_meswin clear]
 [backlay][black_toplayer][trans time=2000 method=crossfade][wt2][hide_chara_int]
 [fadeoutbgm time=2000]

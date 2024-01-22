@@ -6,170 +6,157 @@
 [sysbt_meswin]
 *1|
 [fc]
-目を開くと、俺は暗闇の中でうずくまっていた。[pcms]
+When I opened my eyes, I found myself crouching in the darkness.[pcms]
 *2|
 [fc]
-ここはどこなんだろう？[pcms]
+Where am I?[pcms]
 *3|
 [fc]
-体を包み込む僅かな冷気を感じ、軽く身震いした。[pcms]
+I felt a slight chill enveloping my body and shivered lightly.[pcms]
 *4|
 [fc]
-俺は顔をあげ、周囲を見渡す。[pcms]
+I lifted my face and looked around.[pcms]
 *5|
 [fc]
-辺りは闇が深くて、[r]
-視線が全て飲み込まれてしまったように感じてしまう。[pcms]
+The darkness was so deep that it seemed to swallow my gaze entirely.[pcms]
 *6|
 [fc]
-それでも目を凝らすと、闇の向こう側に、[r]
-ぼうっと何かが見えてきた。[pcms]
+Yet, as I strained my eyes, something faintly became visible beyond[r]
+the darkness.[pcms]
 *7|
 [fc]
-木だ。[pcms]
+It's a tree.[pcms]
 *8|
 [fc]
-遠くに大きな木の影が見える。[r]
-１本、２本……。[pcms]
+In the distance, I could see the silhouette of a large tree. One,[r]
+two...[pcms]
 *9|
 [fc]
-気がつくと、鬱蒼とした巨木の黒い森が、姿を現した。[pcms]
+Before I knew it, a dark forest of towering trees had revealed itself.[pcms]
 *10|
 [fc]
-染みるような静寂の中、[r]
-俺はゆっくりと周囲を見渡す。[pcms]
+In the penetrating silence, I slowly surveyed my surroundings.[pcms]
 *11|
 [fc]
-闇の中から姿を見せた巨大な森の影が、[r]
-途切れること無く連なり、遠くから俺を取り囲んでいる。[pcms]
+The shadows of the vast forest that had emerged from the darkness[r]
+stretched unbroken, encircling me from afar.[pcms]
 *12|
 [fc]
-その物言わぬ威圧感に、先ほどとは別の種類の寒気に[r]
-再び身体を震わせた。[pcms]
+Feeling a different kind of chill from the silent intimidation, I[r]
+shivered again.[pcms]
 *13|
 [fc]
-その時、小さな水音が、[r]
-凍り付いた静けさの奥からか弱くか細く聞こえてきた。[pcms]
+Then, a faint sound of water reached my ears from the depths of the[r]
+frozen silence.[pcms]
 *14|
 [fc]
-その音は、足元からか。[pcms]
+Is the sound coming from below my feet?[pcms]
 *15|
 [fc]
-いや、足元ではない。[r]
-体の下からだ。[pcms]
+No, not from below my feet. It's coming from underneath me.[pcms]
 *16|
 [fc]
-視線を下に向けると、[r]
-そこには静かな星空が広がっていた。[pcms]
+When I looked down, a quiet starry sky spread out before me.[pcms]
 *17|
 [fc]
-払暁を間近に控えた空に輝く、無数の星々。[pcms]
+The countless stars shining in the sky, dawn just around the corner.[pcms]
 *18|
 [fc]
-俺は、眼下に広がる静謐な瞬きを、[r]
-不思議な気持ちでのぞき込む。[pcms]
+I gazed down at the tranquil twinkling with a sense of wonder.[pcms]
 *19|
 [fc]
-すると、それを背にしてこちらを見る自身の顔と、[r]
-俺を乗せた白いボートの姿が見えた。[pcms]
+Then, against that backdrop, I saw my own face looking back at me and[r]
+the white boat that carried me.[pcms]
 *20|
 [fc]
-そう、それは星空ではなく、水面だった。[pcms]
+Yes, it wasn't a starry sky but a water surface.[pcms]
 *21|
 [fc]
-見渡す限りの水の上に、俺はただ一人、[r]
-ボートに乗って浮かんでいたのだ。[pcms]
+As far as I could see, I was alone on the water, floating in a boat.[pcms]
 *22|
 [fc]
-俺が僅かに身動ぎするたびに、[r]
-ボートから広がる波紋が鏡のような水面を伝っていく。[pcms]
+Every slight movement I made caused ripples to spread across the[r]
+mirror-like surface of the water from the boat.[pcms]
 *23|
 [fc]
-連続した滑らかな波の輪が、[r]
-どこまでも、どこまでも広がっていく。[pcms]
+The continuous smooth rings of waves expanded ever outward, endlessly.[pcms]
 *24|
 [fc]
-ここは湖だ。[pcms]
+This is a lake.[pcms]
 *25|
 [fc]
-周囲を森に囲まれた、闇深い広大な湖。[pcms]
+A vast, dark lake surrounded by forest.[pcms]
 *26|
 [fc]
-俺は今、その水面を一人、[r]
-ボートに乗って漂っているんだ。[pcms]
+I am now drifting alone on its surface in a boat.[pcms]
 *27|
 [fc]
-手を伸ばし、湖面に触れる。[pcms]
+I reached out and touched the surface of the lake.[pcms]
 *28|
 [fc]
-指先に濡れた感覚が伝わり、[r]
-穏やかな冷たさが昇ってくる。[pcms]
+The sensation of wetness transmitted to my fingertips, and a gentle[r]
+coldness rose up.[pcms]
 *29|
 [fc]
-指先を動かすと、生み出された波紋が鏡のような湖面を[r]
-乱し、映り込んだ星々が優しく揺らめく。[pcms]
+As I moved my fingertips, the ripples I created disturbed the mirror-[r]
+like lake surface, and the reflected stars gently swayed.[pcms]
 *30|
 [fc]
-俺は、そのひとつ――[pcms]
+I looked at one of them--[pcms]
 *31|
 [fc]
-たゆたう星空の中、[r]
-ひときわ明るく輝く青白い星に目をやった。[pcms]
+In the midst of the drifting starry sky, I turned my eyes to a[r]
+particularly bright pale blue star.[pcms]
 *32|
 [fc]
-それは見たことがある美しい星だった。[pcms]
+It was a beautiful star that I had seen before.[pcms]
 *33|
 [fc]
-名前は何と言っただろう？[r]
-……思い出せない。[pcms]
+What was its name? ...I can't remember.[pcms]
 *34|
 [fc]
-ただ俺は、いつもその星の優しい輝きを、[r]
-目にしていたことだけは覚えている。[pcms]
+But I do remember always seeing the gentle glow of that star.[pcms]
 *35|
 [fc]
-…………。[pcms]
+...[pcms]
 *36|
 [fc]
-俺は暫く、ぼんやりと水の上の大きな星を眺めると、[r]
-ふと、その星を揺れる水面から掬い上げようと思った。[pcms]
+After a while gazing at the large star on the water's surface, I[r]
+suddenly felt like scooping it up from the rippling reflection.[pcms]
 *37|
 [fc]
-ボートから、幾億もの輝きが広がる湖の上に[r]
-身を乗り出し、目指す星にそっと手を伸ばす。[pcms]
+Leaning out from the boat over the lake filled with billions of[r]
+sparkles, I gently reached for the star I aimed for.[pcms]
 *38|
 [fc]
-そのとき、俺は視線を感じ、[r]
-伸ばした手を止める。[pcms]
+At that moment, I felt a gaze and stopped my outstretched hand.[pcms]
 *39|
 [fc]
-指先でゆらめく青白い星の光。[pcms]
+The pale blue light of the star flickered at my fingertips.[pcms]
 *40|
 [fc]
-視線は、その光から伸びているように思えた。[pcms]
+The gaze seemed to extend from that light.[pcms]
 *41|
 [fc]
-……いや、違う。[r]
-……その奥だ。[pcms]
+...No, that's not it. ...It's deeper inside.[pcms]
 *42|
 [fc]
-湖面で輝く星々の向こう。[pcms]
+Beyond the stars shining on the lake's surface.[pcms]
 *43|
 [fc]
-深く深く、どこまでも沈んでいく水の底から、[r]
-その視線は感じられた。[pcms]
+From the depths of the water, sinking deeper and deeper, I could feel[r]
+that gaze.[pcms]
 *44|
 [fc]
-誰だ？[r]
-そんな暗い淵の奥から、俺を見ているのは？[pcms]
+Who is it? Who is watching me from such a dark abyss?[pcms]
 *45|
 [fc]
-視線を追って、俺はボートから、[r]
-さらに湖面へと体を乗り出した。[pcms]
+Following the gaze, I leaned further out from the boat, over the[r]
+lake's surface.[pcms]
 *46|
 [fc]
-目の前で誘うように、名前を忘れた星の輝きが踊り、[r]
-俺の顔を照らした。[pcms]
+In front of me, as if beckoning, the forgotten star's light danced and[r]
+illuminated my face.[pcms]
 [stopbgm]
 [sysbt_meswin clear]
 [se buf=0 storage="seD020"]
@@ -180,36 +167,35 @@
 [bgm storage="bgm13" time=100]
 *47|
 [fc]
-大きく波を立てて、[r]
-『それ』は水の中から俺に飛び掛かってきた。[pcms]
+With a great splash, "it" leaped out of the water at me.[pcms]
 *48|
 [fc]
-『それ』は恐ろしく、美しく、狂気に満ちていた。[pcms]
+"It" was terrifying, beautiful, and filled with madness.[pcms]
 *49|
 [fc]
-深淵の闇から、星の水面を砕いて現れた『それ』に[r]
-抱きつかれ、俺は悲鳴を上げた。[pcms]
+Embraced by "it" that emerged from the abyss's darkness, shattering[r]
+the starry water surface, I screamed.[pcms]
 *50|
 [fc]
-体の奥底から放たれた、甲高くひきつり、[r]
-恐怖に濁りきった絶叫。[pcms]
+A high-pitched, strained scream, released from the depths of my body,[r]
+muddied with terror.[pcms]
 *51|
 [fc]
-静寂を破り、空気を激しくわななかせて、[r]
-どこまでも響く、俺自身の絶叫。[pcms]
+Breaking the silence, violently shaking the air, my own scream echoed[r]
+endlessly.[pcms]
 *52|
 [fc]
-その叫びは――[pcms]
+That scream--[pcms]
 *53|
 [fc]
-大きく乱れ、光を反射させる湖の水と、[r]
-沈黙のまま湖を取り囲む黒い森。[pcms]
+The disturbed waters of the lake reflecting light, and the silent,[r]
+black forest surrounding the lake.[pcms]
 *54|
 [fc]
-そして、明け方前の一番深い闇に吸い込まれてゆく。[pcms]
+And then, it was absorbed into the deepest darkness before dawn.[pcms]
 *55|
 [fc]
-それでもなお、俺の悲鳴は続き――[pcms]
+Yet still, my scream continued--[pcms]
 [sysbt_meswin clear]
 [backlay][red_toplayer][trans method=universal rule="blood1" vague=50 time=1500][wt2][hide_chara_int]
 [fadeoutbgm time=1000]

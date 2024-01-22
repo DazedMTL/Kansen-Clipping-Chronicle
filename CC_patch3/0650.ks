@@ -13,11 +13,13 @@
 「大丈夫。全部入れたから。蘆名先輩の方も詰め終ったよ」[pcms][endhact]
 *8369|
 [fc]
-防寒や日よけの対策に、部屋の毛布やカーテンも持って行くことにして、[r]
-食料や飲み物と一緒にみっつのバッグに分けて詰めた。[pcms]
+To prepare for the cold and sun protection, I decided to bring the[r]
+room's blankets and curtains, and packed them into three bags along[r]
+with the food and drinks.[pcms]
 *8370|
 [fc]
-これでどれかひとつを無くしたとしても、何とかなるはずだ。[pcms]
+This way, even if we lose one of them, we should be able to manage[r]
+somehow.[pcms]
 *8371|
 [fc]
 [【央】]
@@ -25,11 +27,12 @@
 [backlay][evcg storage="EV35_02" layer=0 page=back visible=true left=0 top=0][trans time=500 method=crossfade][wt2]
 *8372|
 [fc]
-置いて行かれることを怖がり、必死にしがみついている子野日さんを[r]
-抱き締め、宥めている累先輩。[pcms]
+Senpai Rui, who is afraid of being left behind, clings desperately and[r]
+is being hugged and comforted by him.[pcms]
 *8373|
 [fc]
-大好きな累先輩に抱き締められながらも、子野日さんの表情は悲しげで――[pcms]
+Even while being embraced by her beloved Senpai Rui, Konohi-san's[r]
+expression is sorrowful--[pcms]
 *8373a|
 [fc]
 [vo_ru s="rui0744"]
@@ -37,11 +40,11 @@
 「……すまないけれど、少し先に行っててくれないか」[pcms][endhact]
 *8374|
 [fc]
-穏やかな口調でそう頼んでくる累先輩の表情には、[r]
-覚悟の色が浮かんでいた。[pcms]
+Senpai Rui asks with a calm tone, his expression carrying a sense of[r]
+resolve.[pcms]
 *8375|
 [fc]
-それは、きっと――[pcms]
+It must be, surely--[pcms]
 [backlay][bg storage="BG08c"]
 [rir_lo_03_f10 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"]
 [trans time=500 method=crossfade][wt2]
@@ -51,33 +54,33 @@
 「わかりました……梨里、行こう」[pcms][endhact]
 *8377|
 [fc]
-梨里を促し、部屋の外に出ようとしたその時、[r]
-子野日さんが縋り付くような声を上げた。[pcms]
+Just as I urged Nashi to leave the room, Konohi-san raised her voice[r]
+as if clinging to us.[pcms]
 [backlay][mis_up_03_f28 layer=3 x="&sf.mi_up_x[3]" y="&sf.mi_up_y[0]"][trans time=150 method=crossfade][wt]
 *8378|
 [fc]
 [vo_mo s="misuzu0218"]
 [【子野日】]
-「あ、央先輩っ……！　わたしも、すぐに行きますからっ……！[r]
-　だからっ、だからっ……待ってて、下さいっ……お願いですからっ……！」[pcms][endhact]
+"Ah, Senpai Ou...! I'll be right there too...! So, please... wait for[r]
+me... please...!"[pcms]
 *8378a|
 [fc]
-しゃくりあげながら、懇願するように頼んでくる子野日さん。[r]
-累先輩の覚悟を、抱かれているだけに肌で感じ取ってしまったんだろうか。[pcms]
+Konohi-san begs while sobbing, perhaps feeling the resolve of Senpai[r]
+Rui just by being held in his arms.[pcms]
 *8379|
 [fc]
 [【央】]
 「……置いて行かないよ。ちゃんと待ってるから、先輩と一緒に来てね」[pcms][endhact]
 *8380|
 [fc]
-俺は、不自然にならない笑顔を浮かべることが出来ただろうか。[pcms]
+I wonder if I was able to muster a natural-looking smile.[pcms]
 [backlay][chara_int]
 [mis_lo_03_f28 layer=4 x="&sf.mi_lo_x[4]+100" y="&sf.mi_lo_y[0]"]
 [rui_lo_02_f01 layer=5 x="&sf.ru_lo_x[5]-100" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8381|
 [fc]
-累先輩に抱かれ、頭を撫でられている子野日さんに背を向け、[r]
-部屋の外に出た。[pcms]
+Turning my back on Konohi-san, who is being hugged and stroked on the[r]
+head by Senpai Rui, I stepped outside the room.[pcms]
 [sysbt_meswin clear]
 [se buf=0 storage="seA013"]
 [backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]
@@ -87,8 +90,7 @@
 [sysbt_meswin]
 *8382|
 [fc]
-ちゃんと待ってる、か……。[r]
-結局、俺は……。[pcms]
+Will I really wait, huh... In the end, I...[pcms]
 [bgm storage="bgm05" time=100]
 [backlay][rir_lo_03_f06 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8383|
@@ -98,29 +100,32 @@
 「央、気をつけて！　あっちに……！」[pcms][endhact]
 *8384|
 [fc]
-奥歯を噛み締め、辛さを堪える俺に、[r]
-梨里から鋭い警戒の声が飛んできた。[pcms]
+Clenching my back teeth and enduring the pain, a sharp warning voice[r]
+came from Nashi.[pcms]
 [backlay][kan_de layer=3 x="&sf.de_lo_x[3]" y="&sf.de_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8385|
 [fc]
-言われた方向に目を向けると、そこには男が立っていた。[pcms]
+When I looked in the direction she indicated, there was a man standing[r]
+there.[pcms]
 *8386|
 [fc]
-廊下の向こう、ぎくしゃくとした動きは、明らかに感染者だ。[pcms]
+Down the corridor, his jerky movements were clearly those of an[r]
+infected person.[pcms]
 *8387|
 [fc]
-向こうも気付いたようで、体ごとこっちに向き直って歩き出した。[pcms]
+It seems he noticed us too, as he turned his body towards us and[r]
+started walking.[pcms]
 *8388|
 [fc]
 [ns【]男[】nse]
-「きっ、きひっ……！　きひぁぁあああああぁぁぁぁっっ！！[r]
-　おんなぁぁぁぁっ！！！」[pcms][endhact]
+"Gahh, gihh...! Gihhaaaaaaaaahhh!! Womannnnnn!!"[pcms]
 *8389|
 [fc]
-梨里の姿を確認したらしく、小走りで梨里目がけて突進してきた。[pcms]
+He seemed to have spotted Nashi and started rushing towards her at a[r]
+trot.[pcms]
 *8390|
 [fc]
-単純な一直線の動きに、俺はバットを構えると――[pcms]
+I readied my bat for his simple straight-line approach--[pcms]
 *8391|
 [fc]
 [ns【]男[】nse]
@@ -128,74 +133,76 @@
 [se buf=0 storage="seB040"]
 *8392|
 [fc]
-脇をすり抜けて梨里に襲い掛かろうとする感染者の、[r]
-顔面に狙いを定めてバットをフルスイング。[pcms]
+As the infected tried to slip past me and pounce on Nashi, I aimed for[r]
+his face and swung the bat with full force.[pcms]
 [se buf=0 storage="seB008"]
 [赤フラ]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8393|
 [fc]
-狙いを外さず、バットは感染者の顔面を潰し、[r]
-もんどりうって倒れた拍子に後頭部を床に強く打ちつけた。[pcms]
+Without missing, the bat crushed the infected's face, and as he fell[r]
+writhing, he struck the back of his head hard on the floor.[pcms]
 *8394|
 [fc]
-そのせいで顔面と後頭部から血を流して、感染者は動かなくなった。[pcms]
+Because of that, blood flowed from his face and the back of his head,[r]
+and the infected stopped moving.[pcms]
 *8395|
 [fc]
-完全に絶命したみたいだな……また、俺は人を殺したんだ。[pcms]
+Looks like he's completely dead... I've killed another person.[pcms]
 [fadeoutbgm time=1000]
 *8396|
 [fc]
-でも、今度はそれほど重苦しくない。[r]
-友達じゃないからなのか、それとも心が麻痺してきているからなのか……。[pcms]
+But this time it doesn't feel as heavy. Maybe because he wasn't a[r]
+friend, or maybe my heart is becoming numb...[pcms]
 [se buf=0 storage="seA012"]
 *8397|
 [fc]
-死んだ感染者を見下ろしていると、背後でドアが開いた。[pcms]
+As I looked down at the dead infected, a door opened behind me.[pcms]
 [backlay][rui_lo_03_f12 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8398|
 [fc]
-出てきたのは、バッグを肩にかけた累先輩。[pcms]
+Out came Senpai Rui with a bag slung over her shoulder.[pcms]
 [bgm storage="bgm10" time=500]
 *8399|
 [fc]
-その手には――子野日さんのメガネがあった。[pcms]
+In her hand was--Konohi-san's glasses.[pcms]
 [backlay][rui_lo_03_f14 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8400|
 [fc]
-無言のまま、累先輩に視線を向ける。[pcms]
+I look at Senpai Rui in silence.[pcms]
 *8401|
 [fc]
-先輩は、泣いていた。[pcms]
+Senpai was crying.[pcms]
 *8402|
 [fc]
-累先輩が泣いているところには何度か出くわしたことがある。[r]
-そのほとんどが、ムキになって激昂して悔し涙、というものだった。[pcms]
+I've seen Senpai Rui cry several times before. Most of those times[r]
+were tears of frustration from getting worked up and angry.[pcms]
 *8403|
 [fc]
-だから、こんなにも哀しそうに、そして怒って泣いている姿は始めてた。[pcms]
+So this was the first time I saw her crying so sadly and angrily.[pcms]
 *8404|
 [fc]
-累先輩の泣き顔の向こう、部屋の中では、子野日さんが横たえられていた。[r]
-顔にはタオルがかけられていて、両手が胸の上で組まれている。[pcms]
+Beyond Senpai Rui's tearful face, inside the room, Konohi-san was laid[r]
+out. A towel was placed over her face, and her hands were folded on[r]
+her chest.[pcms]
 *8405|
 [fc]
-物音はなかった。[r]
-悲鳴もない。[pcms]
+There was no sound. No screams either.[pcms]
 *8406|
 [fc]
-静かな死。[pcms]
+A quiet death.[pcms]
 *8407|
 [fc]
-以前、俺に対してほんの少しだけ見せた古武術の技なのだろうか。[pcms]
+I wonder if it was a technique of ancient martial arts that she had[r]
+shown me just a little before.[pcms]
 *8408|
 [fc]
-大好きな先輩の腕の中で、痛みもなく、バケモノになってしまう前に、[r]
-マネージャー……子野日さんは安らかに逝けたんだろうか。[pcms]
+In the arms of her beloved senpai, without pain, before turning into a[r]
+monster, Manager... Konohi-san must have passed away peacefully.[pcms]
 *8409|
 [fc]
-腹黒かったり、部員たちのために子野日さん業務を、[r]
-しっかりとやっていたり……思い出が一瞬で頭の中を駆け巡る。[pcms]
+Whether she was sly or diligently carried out Konohi-san's duties for[r]
+the team members... memories flash through my mind in an instant.[pcms]
 *8410|
 [fc]
 [【央】]
@@ -208,41 +215,41 @@
 「……ゴメンね、連れて行ってあげられなくて……」[pcms][endhact]
 *8412|
 [fc]
-累先輩の脇を抜け、ドアに手を伸ばす。[pcms]
+I pass by Senpai Rui's side and reach for the door.[pcms]
 *8413|
 [fc]
-さようなら。[pcms]
+Goodbye.[pcms]
 [se buf=0 storage="seA013"]
 *8414|
 [fc]
-心の中で呟き、ドアを閉めた。[pcms]
+I mutter in my heart and close the door.[pcms]
 *8415|
 [fc]
-そのまま無言で歩き出すと、累先輩と梨里もついてきてくれた。[pcms]
+Without a word, I started walking, and Senpai Rui and Riri followed[r]
+me.[pcms]
 *8416|
 [fc]
-向かったのは、入ってきた時に割った窓。[r]
-ここからもう一度外に出て、渡り廊下の屋根に出るんだ。[pcms]
+We headed for the window I had broken when we entered. From here,[r]
+we'll go outside again and onto the roof of the corridor.[pcms]
 *8417|
 [fc]
-薄暗い廊下を、俺たちは無言で歩いている。[pcms]
+We walk down the dimly lit corridor in silence.[pcms]
 *8418|
 [fc]
-なんで……なんでこんなことになったんだ。[pcms]
+Why... Why did it have to come to this?[pcms]
 *8419|
 [fc]
-胸に渦巻いていた悲しみは、[r]
-熱を帯びていつの間にか怒りに変わっていた。[pcms]
+The sadness swirling in my chest had heated up and before I knew it,[r]
+turned into anger.[pcms]
 *8420|
 [fc]
-誰が、何の為に、こんなことを……！[pcms]
+Who did this, and for what purpose...![pcms]
 *8421|
 [fc]
-誰だかはわからない。[r]
-けれど、絶対に……償わせてやる！[pcms]
+I don't know who it is. But I will definitely... make them pay![pcms]
 *8422|
 [fc]
-報いを受けさせてやる……！！[pcms]
+I'll make them receive their retribution...!![pcms]
 [stopse_all]
 [sysbt_meswin clear]
 [backlay][black_toplayer][trans time=500 method=crossfade][wt2][hide_chara_int]

@@ -4,45 +4,49 @@
 [sysbt_meswin]
 *2310|
 [fc]
-自主参加とはいえ、もう朝練が終わってしまう時間。[pcms]
+Even though it's voluntary, it's already time for morning practice to[r]
+end.[pcms]
 *2311|
 [fc]
-思いっきり寝坊してすっぽかしてしまった！[pcms]
+I completely overslept and missed it![pcms]
 *2312|
 [fc]
 [【央】]
 「どいつもこいつも薄情者ばっかりだ！　チクショウめ！！」[pcms][endhact]
 *2313|
 [fc]
-須田を含めた同室の連中は、寝てる俺を放置したまま朝練に行きやがった。[r]
-せめて起こしてくれたってバチは当たらないだろうに。[pcms]
+The guys in my room, including Suda, left me sleeping and went to[r]
+morning practice. They could have at least tried to wake me up; it[r]
+wouldn't have hurt them.[pcms]
 *2314|
 [fc]
 [【央】]
-「ああ、もうっ……何が桃源郷だ、コノヤロウっ！[r]
-　つか……まあ、確かにそうだったけどさ……！」[pcms][endhact]
+"Ahh, damn it... What kind of paradise is this, you bastard! ...Well,[r]
+I mean, it certainly was that, but...!"[pcms]
 *2314a|
 [fc]
-梨里のオナニーから始まって、五十嵐さんたちのセックス、そして……。[pcms]
+It started with Riri's masturbation, then Igarashi-san's sex, and[r]
+then...[pcms]
 *2315|
 [fc]
 [【央】]
-「俺、梨里とセックスしちゃったんだよな……。[r]
-　それも一回どころか、あれやこれや何回も……さ」[pcms][endhact]
+"I... I actually had sex with Riri, didn't I? Not just once, but over[r]
+and over again... yeah."[pcms]
 *2316|
 [fc]
-今思いだしても、恐ろしく現実離れした出来事だった。[r]
-もしかしたら、本当に夢だったのかもしれないってぐらいだ。[pcms]
+Even now when I think about it, it feels like an incredibly surreal[r]
+event. It's almost as if it could have been a dream.[pcms]
 *2317|
 [fc]
-でも夢じゃないんだよな。つうか、あれが夢のはずねーだろ。[r]
-俺は梨里と本当にセックスしたんだ……。[pcms]
+But it wasn't a dream. No way that could have been a dream. I really[r]
+did have sex with Riri...[pcms]
 *2318|
 [fc]
-……なんてこと、今さらのように噛み締めていた時だった。[pcms]
+...That's what I was reflecting on, as if realizing it for the first[r]
+time.[pcms]
 *2318|
 [fc]
-身の丈に合った幸せ――睡眠――を目指しておけば……。[pcms]
+If only I had aimed for a happiness that suited mesleepthat is...[pcms]
 [stopbgm]
 [backlay][sud_lo_03_f04 layer=3 x="&sf.su_lo_x[3]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
 *2319|
@@ -55,8 +59,8 @@
 「ぁんだよこの野郎！！」[pcms][endhact]
 *2321|
 [fc]
-俺の幸せを粉々に砕いた張本人――八つ当たりなのはわかってるけど――[r]
-が飛び込んできたのを怒号で迎え撃ち……。[pcms]
+I was greeted with a shout from the very person who shattered my[r]
+happiness to piecesI know I'm just lashing out...[pcms]
 [bgm storage="bgm13" time=100]
 [backlay][sud_up_03_f04c layer=3 x="&sf.su_up_x[3]" y="&sf.su_up_y[0]"][trans time=150 method=crossfade][wt]
 *2322|
@@ -69,7 +73,8 @@
 「……どうしたんだ、須田。何かあったのか……？」[pcms][endhact]
 *2324|
 [fc]
-常にない須田の真剣な表情に、背筋に虫が這うような悪寒が走った。[pcms]
+The sight of Suda's unusually serious expression sent a chill down my[r]
+spine as if bugs were crawling on it.[pcms]
 *2325|
 [fc]
 [【須田】]

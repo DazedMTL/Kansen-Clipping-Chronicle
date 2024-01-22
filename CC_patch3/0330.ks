@@ -9,28 +9,29 @@
 「ふう……」[pcms][endhact]
 *2498|
 [fc]
-スピードは追求せず、フォームを意識して練習した……していたつもり。[r]
-だけど結局、集中できない現状に気が付いてしまった。[pcms]
+I didn't focus on speed, but on form during practice... or at least,[r]
+that was the plan. But ultimately, I realized I couldn't concentrate[r]
+due to my current state of mind.[pcms]
 *2499|
 [fc]
-本当なら、理想としているフォームを追求するための練習なのに雑念だけで[r]
-頭の中身がいっぱいになって上手くいかない。[pcms]
+It was supposed to be a practice session to perfect the ideal form,[r]
+but my head was filled with distractions, and nothing was going right.[pcms]
 *2500|
 [fc]
-雑念の正体は……いらだち、そして漠然とした不安だった。[r]
-そして、それを今すぐ解消することはできない。[pcms]
+The true nature of those distractions was... frustration, and a vague[r]
+sense of anxiety. And I couldn't dispel them right away.[pcms]
 *2501|
 [fc]
-だからこそ、何をやっても集中できなくなっている。[r]
-どうしようもないことに、それを解消する手段も皆無だった。[pcms]
+That's why I couldn't concentrate on anything I did. There was no way[r]
+to alleviate it, and I had no means to do so.[pcms]
 *2502|
 [fc]
-少なくとも、ここで俺が何を考えて何をしようとも無意味だ。[r]
-心の中で暴れ回る不安の原因に対して、出来ることはない。[pcms]
+At least, whatever I think or do here is meaningless. There's nothing[r]
+I can do about the cause of the anxiety rampaging inside me.[pcms]
 *2503|
 [fc]
-気が付くと身体は勝手に泳ぐのをやめていた。[r]
-仕方なくそれでプールから上がった。[pcms]
+Before I knew it, my body had stopped swimming on its own.[r]
+Reluctantly, I got out of the pool.[pcms]
 [se buf=0 storage="seD008"]
 *2504|
 [fc]
@@ -38,83 +39,87 @@
 「……どうかしてたんだ。夕べは」[pcms][endhact]
 *2505|
 [fc]
-不安は二つある。[r]
-ひとつは自分がやってしまったことについて。[pcms]
+There are two things causing me anxiety. One is about what I've done.[pcms]
 *2506|
 [fc]
 [【央】]
 「俺も……梨里も……何かおかしくなってた」[pcms][endhact]
 *2507|
 [fc]
-少しでも不安を打ち消したくてたまらない。[pcms]
+I desperately want to dispel even a bit of this anxiety.[pcms]
 *2508|
 [fc]
-そのはずなのに一度でも[r]
-口にしてしまったら最後、俺はあの時の記憶から逃げられなくなった。[pcms]
+Even though that's the case, once I speak of it, it's over; I can't[r]
+escape the memory of that time.[pcms]
 *2509|
 [fc]
 [【央】]
 「……あんな事になるなんて……思ってもなかったもんな」[pcms][endhact]
 *2510|
 [fc]
-幼なじみの女の子と身体を重ねて、その処女を奪った。[r]
-獣じみたセックスの快楽に打ち震えて、二人でそれに酔い痴れた。[pcms]
+I made love to a childhood friend girl and took her virginity. We both[r]
+trembled with the pleasure of beast-like sex and were intoxicated by[r]
+it.[pcms]
 *2511|
 [fc]
-それだけならいい。[r]
-梨里は俺の初恋の相手だし、ある意味で理想的な展開でもある。[pcms]
+If that were all, it would be fine. Riri is my first love, and in a[r]
+way, it's an ideal development.[pcms]
 *2512|
 [fc]
 [【央】]
 「なんて言えばいいんだよ……顕悟に」[pcms][endhact]
 *2513|
 [fc]
-これまで、さんざん二人の仲を取り持ったり応援してきた俺が……[r]
-友達の彼女を……彼氏である顕悟に先んじて抱いたなんて。[pcms]
+All this time, I've been meddling and supporting their relationship...[r]
+To think that I slept with my friend's girlfriend... before her[r]
+boyfriend Ken'go could.[pcms]
 *2514|
 [fc]
-言えるはずがない。[r]
-どのツラ下げて、おまえの彼女は頂いた、なんて言える？[pcms]
+There's no way I can say it. How can I face him and say, 'I took your[r]
+girlfriend'?[pcms]
 *2515|
 [fc]
-それはたぶん、梨里の方だって同じはずだ。[r]
-お互い、死ぬまで顕悟には隠し通すしかない。[pcms]
+Probably, Riri feels the same way. We both have no choice but to keep[r]
+this secret from Ken'go until we die.[pcms]
 *2516|
 [fc]
-梨里との間に、この秘密を守り通そうと、はっきりと確認を取る。[r]
-間に合わせの安心を買うにはそれしか無さそうだ。[pcms]
+I made sure to confirm with Riri that we would keep this secret[r]
+between us. It seemed like the only way to buy some makeshift peace of[r]
+mind.[pcms]
 *2517|
 [fc]
-だけど……忘れられそうにない。[r]
-初めての経験だったこともあるけど、女の身体を抱く快感は強烈だった。[pcms]
+But... I can't seem to forget it. Not only was it my first experience,[r]
+but the pleasure of holding a woman's body was intense.[pcms]
 *2518|
 [fc]
 [【央】]
 「ヤバイよなぁ……」[pcms][endhact]
 *2519|
 [fc]
-梨里の身体の感触もエロい声も脳味噌に焼き付いている。[r]
-思い出してるだけで股間に血が集まって興奮してると自覚できた。[pcms]
+The feel of Riri's body and her erotic voice are seared into my brain.[r]
+Just remembering it makes blood rush to my groin and I realize I'm[r]
+excited.[pcms]
 *2520|
 [fc]
-よみがえったなまなましい快感の記憶は即物的な興奮を呼んだ。[r]
-もう一度抱きたい、セックスしたい、というのが本音でもあった。[pcms]
+The vivid memory of that pleasure brings an immediate excitement. The[r]
+truth is, I want to hold her again, to have sex again.[pcms]
 *2521|
 [fc]
 [【央】]
 「累先輩の熱……下がってるといいけど」[pcms][endhact]
 *2522|
 [fc]
-だからこそ俺は、あえて、もうひとつの不安を口に出した。[r]
-情けない現実逃避だったが、それも心配事なのは本当だ。[pcms]
+That's why I deliberately spoke of the other source of anxiety. It was[r]
+a pathetic escape from reality, but it was indeed something to worry[r]
+about.[pcms]
 *2523|
 [fc]
 [【央】]
 「いったいあいつら、何だったんだ？」[pcms][endhact]
 *2524|
 [fc]
-あの朝の暴漢どもは、いったいなんだったんだ？[r]
-いきなり暴れて……そして勝手に死んでしまった。[pcms]
+Who were those thugs that morning? They suddenly went wild... and then[r]
+died on their own.[pcms]
 [backlay][mis_lo_01b_f02 layer=3 x="&sf.mi_lo_x[3]" y="&sf.mi_lo_y[0]"][trans time=150 method=crossfade][wt]
 *2525|
 [fc]
@@ -123,12 +128,13 @@
 「央先輩、タオルどうぞ」[pcms][endhact]
 *2526|
 [fc]
-タオルを持ってきてくれたのはマネージャーの子野日さんだった。[r]
-股間を気にしたが彼女の視線はそこに向いていない。[pcms]
+The one who brought me a towel was Manager Konohi-san. I was conscious[r]
+of my groin area but her gaze wasn't directed there.[pcms]
 *2527|
 [fc]
-どうやら俺が露骨にエロい気分になっていたとは気付かれていない。[r]
-後輩相手に醜態をさらさずに済んで、ほっとした。[pcms]
+It seems she didn't notice that I was blatantly in an erotic mood.[r]
+Relieved that I didn't embarrass myself in front of my junior, I let[r]
+out a sigh.[pcms]
 *2528|
 [fc]
 [【央】]
@@ -136,13 +142,13 @@
 [backlay][mis_lo_01a_f01 layer=3 x="&sf.mi_lo_x[3]" y="&sf.mi_lo_y[0]"][trans time=150 method=crossfade][wt]
 *2529|
 [fc]
-彼女には悪いが、もう泳ぐ気分じゃない。[r]
-今夜の練習はここまでだ。[pcms]
+I feel bad for her, but I'm not in the mood to swim anymore. Practice[r]
+ends here for tonight.[pcms]
 *2530|
 [fc]
 [【央】]
-「始めたばっかりで悪いんだけどさ、もう今夜はやめておくよ。[r]
-　どうも気分が乗らなくてさ」[pcms][endhact]
+"I just started and feel bad about it, but I'm going to stop for[r]
+tonight. Just can't seem to get into the right mood."[pcms]
 [backlay][mis_lo_01a_f11 layer=3 x="&sf.mi_lo_x[3]" y="&sf.mi_lo_y[0]"][trans time=150 method=crossfade][wt]
 *2531|
 [fc]
@@ -151,13 +157,13 @@
 「……そうですよね。今日はあんな騒ぎがありましたし……」[pcms][endhact]
 *2532|
 [fc]
-子野日さんも、あっさりと俺の言い訳を認めてくれた。[r]
-さすがに目の前で人が死んだ当日なのだからそれも当然か。[pcms]
+Konohi-san readily accepted my excuse. It's only natural since someone[r]
+died right in front of us today.[pcms]
 *2533|
 [fc]
 [【央】]
-「付き合わせちゃって悪かったね。片付け、俺がやっとくから、[r]
-　子野日さんはもう上がっていいよ」[pcms][endhact]
+"Sorry for dragging you into this. I'll take care of the cleanup, so[r]
+Konohi-san can go ahead and leave."[pcms]
 [backlay][mis_lo_01a_f07 layer=3 x="&sf.mi_lo_x[3]" y="&sf.mi_lo_y[0]"][trans time=150 method=crossfade][wt]
 *2534|
 [fc]
@@ -167,8 +173,8 @@
 *2535|
 [fc]
 [【央】]
-「その分、また明日からがんばってもらうよ。[r]
-　今夜はのんびり休んで」[pcms][endhact]
+"In return, you'll have to work hard from tomorrow on. Take it easy[r]
+tonight."[pcms]
 [backlay][mis_lo_01a_f02 layer=3 x="&sf.mi_lo_x[3]" y="&sf.mi_lo_y[0]"][trans time=150 method=crossfade][wt]
 *2536|
 [fc]
@@ -178,20 +184,19 @@
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *2537|
 [fc]
-ぺこり、と一礼すると子野日さんはこちらに背を向けて歩き去っていく。[r]
-プールサイドに残った俺は手早く後片付けを済ませた。[pcms]
+With a bow, Konohi-san turned her back and walked away. Left by the[r]
+poolside, I quickly finished cleaning up.[pcms]
 *2538|
 [fc]
 [【央】]
 「……さて、どうするかな」[pcms][endhact]
 *sel|梨里に会いに行く／今夜は、やめておく
 [fc]
-とりあえず今、できることだけでもやっておこう。[r]
+For now, I'll just do what I can.[pcms]
 選択肢は二つある。[pcms_sel]
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	
-	[hisout txt="選択肢“梨里に会いに行く”"][r]
-	[hisout txt="選択肢“今夜は、やめておく”"][r]
+Go see Riri")   (hisout txt="Choice: Stop for tonight")[pcms]
 [endif]
 [hr]
 [履歴出力復帰]
@@ -210,12 +215,14 @@
 「会いに行くか……話……ちゃんとしておかないとな」[pcms][endhact]
 *2541|
 [fc]
-言い訳でしかないが、顕悟のためにも俺たちは沈黙するしかない。[r]
-そうしないと俺たちの関係は決定的に破綻する。[pcms]
+It's just an excuse, but for Ken'go's sake as well, we have no choice[r]
+but to remain silent. Otherwise, our relationship will be irreparably[r]
+damaged.[pcms]
 *2542|
 [fc]
-少なくとも俺は……女の子である梨里には失礼だろうけど、[r]
-たった一度の間違いで二人との友情を失いたくなかった。[pcms]
+At least for me... It might be disrespectful to Riri as a girl, but I[r]
+didn't want to lose my friendship with both of them over a single[r]
+mistake.[pcms]
 [backlay][bg storage="BG02b"][trans time=500 method=crossfade][wt2]
 *2543|
 [fc]
@@ -227,8 +234,8 @@
 「とりあえずは体育館の方でも探してみるか」[pcms][endhact]
 *2546|
 [fc]
-誰もいない廊下を歩きながら俺は、わざとらしくそう言って、[r]
-自分に割り当てられた部屋に逃げ込みたい気持ちを抑えつけた。[pcms]
+Walking down the empty hallway, I exaggeratedly said that to myself,[r]
+suppressing the urge to flee into my assigned room.[pcms]
 [fadeoutbgm time=500]
 [stopse_all]
 [sysbt_meswin clear]
@@ -241,40 +248,40 @@
 *2547|今夜は、やめておく
 [fc]
 [【央】]
-「落ち着け……朝、あんな騒ぎがあったのにそんな話したって[r]
-　冷静に話し合えるわけないだろ？」[pcms][endhact]
+"Calm down... After such a commotion this morning, there's no way we[r]
+could have a calm discussion about it, right?"[pcms]
 *2548|
 [fc]
-よくよく考えてみればそれもそうだった。[r]
-目の前で人が死ぬのを見ているんだ。[pcms]
+When I think about it more carefully, that's true. We've seen someone[r]
+die right before our eyes.[pcms]
 *2549|
 [fc]
-俺がそうであるように、顕悟を裏切ったことを考えると梨里も、[r]
-まともな精神状態でいられるとは思えない。[pcms]
+Just like me, considering the betrayal of Ken'go, Riri probably isn't[r]
+in a proper mental state either.[pcms]
 *2550|
 [fc]
 [【央】]
 「もう少しだけ冷静になる時間が必要だな」[pcms][endhact]
 *2551|
 [fc]
-自分にそう言い聞かせなければならないのには理由があった。[r]
-もしも二人きりになってしまえば、どうなるのか怖かった。[pcms]
+I had to remind myself of that reason because I was afraid of what[r]
+might happen if we were left alone together.[pcms]
 *2552|
 [fc]
 [【央】]
 「俺は……俺……」[pcms][endhact]
 *2553|
 [fc]
-仮に梨里が拒んだとしても、なんだかんだと理由を持ち出して、[r]
-もう一度セックスしようと目論んでしまいそうな自分が怖い。[pcms]
+Even if Riri rejected me, I feared that somehow I would come up with[r]
+reasons to have sex again.[pcms]
 *2554|
 [fc]
 [【央】]
 「頭を冷やせよ……落ち着いて冷静になるんだ」[pcms][endhact]
 *2555|
 [fc]
-まとわりついてくるあの甘美な時間の記憶を必死に振り払いながら、[r]
-俺は自分に割り当てられた部屋に戻っていった。[pcms]
+Shaking off the memories of those sweet times clinging to me, I headed[r]
+back to my assigned room.[pcms]
 [stopse_all]
 [sysbt_meswin clear]
 [backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]

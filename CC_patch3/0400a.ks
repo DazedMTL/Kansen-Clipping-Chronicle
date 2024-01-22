@@ -2,37 +2,41 @@
 *見てはいけないものを見た
 *4660|
 [fc]
-自主参加とはいえ、もう朝練が終わってしまう時間。[pcms]
+Even though it's voluntary, it's already time for morning practice to[r]
+end.[pcms]
 *4661|
 [fc]
-思いっきり寝坊してすっぽかしてしまった！[pcms]
+I completely overslept and missed it![pcms]
 *4662|
 [fc]
 [【央】]
 「どいつもこいつも薄情者ばっかりだ！　チクショウめ！！」[pcms][endhact]
 *4663|
 [fc]
-須田を含めた同室の連中は、寝てる俺を放置したまま朝練に行きやがった。[r]
-せめて起こしてくれたってバチは当たらないだろうに。[pcms]
+The guys in my room, including Suda, left me sleeping and went to[r]
+morning practice. They could have at least tried to wake me up; it[r]
+wouldn't have hurt them.[pcms]
 *4664|
 [fc]
 [【央】]
-「ああ、もうっ……何が桃源郷だ、コノヤロウっ！[r]
-　あんなもん見たせいでっ……！」[pcms][endhact]
+"Ahh, damn it... What kind of paradise is this, you bastard! Because[r]
+of that damn thing I saw...!"[pcms]
 *4665|
 [fc]
-結局、あの後トイレで三発抜いて、[r]
-ようやく収まったんだけど……その挙句が御覧の有様だよ！[pcms]
+In the end, I had to jerk off three times in the bathroom before I[r]
+finally calmed down... and this is the result![pcms]
 *4666|
 [fc]
-大体、あんなもんを見ちゃってどんな顔して梨里に会えっていうんだよ。[pcms]
+After seeing that, how am I supposed to face Riri with a straight[r]
+face?[pcms]
 *4667|
 [fc]
-こんなに苦しむのなら……桃源郷なんか目指さなきゃよかった……。[pcms]
+If I knew I'd suffer this much... I should never have sought out that[r]
+paradise...[pcms]
 *4668|
 [fc]
-身の丈に合った場所――布団の中――で、[r]
-身の丈に合った幸せ――睡眠――を目指しておけば……。[pcms]
+I should have aimed for happiness within my reach--in bed--seeking the[r]
+happiness that suits me--sleep...[pcms]
 [backlay][sud_lo_03_f07 layer=3 x="&sf.su_lo_x[3]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
 *4669|
 [fc]
@@ -44,8 +48,8 @@
 「ぁんだよこの野郎！！」[pcms][endhact]
 *4671|
 [fc]
-俺の幸せを粉々に砕いた張本人――八つ当たりなのはわかってるけど――[r]
-が飛び込んできたのを怒号で迎え撃ち……。[pcms]
+I was greeted with a shout by the very person who shattered my[r]
+happiness--I know I'm just lashing out--who barged in...[pcms]
 [backlay][sud_lo_03_f10 layer=3 x="&sf.su_lo_x[3]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
 *4672|
 [fc]
@@ -57,7 +61,8 @@
 「……どうしたんだ、須田。何かあったのか……？」[pcms][endhact]
 *4674|
 [fc]
-常にない須田の真剣な表情に、背筋に虫が這うような悪寒が走った。[pcms]
+The serious expression that's always absent on Suda's face sent a[r]
+chill down my spine like bugs crawling over it.[pcms]
 [backlay][sud_lo_03_f05 layer=3 x="&sf.su_lo_x[3]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
 *4675|
 [fc]

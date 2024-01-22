@@ -14,52 +14,57 @@
 *4421|
 [fc]
 [ns【]佐竹[】nse]
-「清原っ……栄えある我が校の女子がッ！　他校の男子のチンポを[r]
-　膣内に受け入れるとはどういうことだァ？」[pcms][endhact]
+"Kiyohara... What does it mean for a distinguished female student of[r]
+our school to accept another school's male's penis inside her vagina?"[pcms]
 *4422|
 [fc]
-佐竹先輩は自分があおむけになって寝そべり、騎乗位の体勢で梨里を[r]
-自分の上にまたがらせていた。[pcms]
+Satake-senpai lay on his back and had Riri straddle him in a cowgirl[r]
+position.[pcms]
 *4423|
 [fc]
-さんざん犯されて、ぐったりとしていた梨里はもう抵抗できず、逃げ出す[r]
-こともできず、唯々諾々と従うしかなかった。[pcms]
+Having been thoroughly violated, Riri was too exhausted to resist or[r]
+escape, and could only passively comply.[pcms]
 *4424|
 [fc]
 [vo_ri s="riri0190"]
 [【梨里】]
-「無理やりですッ！　あたし嫌だったし逃げようと思ったけど、大勢の人が[r]
-　相手で……どうしようもなかったですッ！」[pcms][endhact]
+"It was against my will! I didn't want it and tried to escape, but[r]
+there were too many people... I couldn't do anything!"[pcms]
 *4425|
 [fc]
 [ns【]佐竹[】nse]
-「へたくそな言い訳だな清原！　俺は見ていた……その勇二とかいう他校の[r]
-　男子とセックスする直前からずっと見ていたんだ！」[pcms][endhact]
+"What a pathetic excuse, Kiyohara! I saw it... I've been watching[r]
+since just before you had sex with that guy Yuuji from another[r]
+school!"[pcms]
 *4426|
 [fc]
-叫びながら佐竹先輩はその巨大なペニス――巨根を梨里のお尻の谷間から[r]
-秘所にかけて、こすつけていく。[pcms]
+While shouting, Satake-senpai rubbed his huge penis--his massive[r]
+member--from the valley of Riri's buttocks to her secret place.[pcms]
 [se buf=1 storage="se_sex02" loop=true]
 [backlay][evcg storage="EV15_02" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4427|
 [fc]
 [vo_ri s="riri0191"]
 [【梨里】]
-「ふひゃわあっ？　な、なにこのおっきいの？　おちんちんって、こんなに[r]
-　おっきくなっちゃうの？」[pcms][endhact]
+"Fufyaaah? What, what is this big thing? Can a penis really get this[r]
+big?"[pcms]
 *4428|
 [fc]
-こすりつけられたその感触に梨里が驚き、思わずそう声に出してしまう。[r]
-その驚きは観客となった俺や須田、勇二も同じように共有できた。[pcms]
+Riri exclaimed in surprise at the sensation of it being rubbed against[r]
+her, a surprise that I, Suda, and Yuuji, who had become spectators,[r]
+could all share.[pcms]
 *4429|
 [fc]
 [ns【]佐竹[】nse]
-「三年として……女子生徒である清原の風紀と倫理の乱れは看過できん！[r]
-　よって俺が生徒指導の先生方に成り代わって懲罰を与えてやる！」[pcms][endhact]
+"As a third-year... I cannot overlook the moral and ethical disorder[r]
+of a female student like Kiyohara! Therefore, I will take the place of[r]
+the teachers in charge of student discipline and administer[r]
+punishment!"[pcms]
 *4430|
 [fc]
-すでに俺は似たような言い回しを副部長の加藤先輩から聞いている。[r]
-今にして思えば加藤先輩は佐竹先輩の口調を真似ている気もした。[pcms]
+I had already heard similar rhetoric from the vice-captain, Katou-[r]
+senpai. In hindsight, it felt like Katou-senpai was imitating Satake-[r]
+senpai's manner of speaking.[pcms]
 *4431|
 [fc]
 [vo_ri s="riri0192"]
@@ -74,8 +79,9 @@
 [se buf=1 storage="se_sex02" loop=true]
 *4433|
 [fc]
-佐竹先輩は両手を伸ばして梨里の身体を軽々と持ち上げると、巧みにその[r]
-ペニスの亀頭部と秘裂とを密着させ、それから挿入を完了させた。[pcms]
+Satake-senpai effortlessly lifted Riri's body with both hands,[r]
+skillfully aligned his penis's glans with her slit, and then completed[r]
+the insertion.[pcms]
 *4434|
 [fc]
 [vo_ri s="riri0193"]
@@ -83,13 +89,15 @@
 「ひぐふッ……うぐああッ……お、大きすぎるッ……こんな入るわけ……」[pcms][endhact]
 *4435|
 [fc]
-だが、梨里の女としての機能はその言葉を裏切り、時間をかけてこそいたが[r]
-着実に佐竹先輩の巨根を膣内に納めていた。[pcms]
+However, Riri's function as a woman betrayed her words, and over time[r]
+she steadily accommodated Satake-senpai's massive member inside her[r]
+vagina.[pcms]
 *4436|
 [fc]
 [ns【]佐竹[】nse]
-「おおおッ？　これが女のマンコの中かッ……清原ッ……感謝するぞ！　[r]
-　これで俺も童貞卒業ッ！　後輩たちに恥じぬ立派な上級生になった！」[pcms][endhact]
+"Oooh? So this is the inside of a woman's pussy... Kiyohara... I'm[r]
+grateful! Now I've graduated from being a virgin! I've become a[r]
+splendid upperclassman who won't shame my juniors!"[pcms]
 [backlay][evcg storage="EV15_04" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4437|
 [fc]
@@ -98,13 +106,13 @@
 「ふはーっ！　きひいいっ！　うああああっ！」[pcms][endhact]
 *4438|
 [fc]
-だが息を荒げて苦しんでいる梨里には返事をしたり嫌味をぶつけるような[r]
-余裕が皆無だった。[pcms]
+But Riri, gasping for breath and in pain, had no room to reply or[r]
+throw back any sarcasm.[pcms]
 *4439|
 [fc]
 [ns【]佐竹[】nse]
-「うおおおッ？　なんだッ？　このイソギンチャクに突っ込んだ指を[r]
-　喰われるみたいなのはッ……くはああッ！　射精するしかないッ！」[pcms][endhact]
+"Uooooh? What's this? It feels like my fingers are being swallowed by[r]
+an anemone... Kuhahaa! There's nothing to do but ejaculate!"[pcms]
 [backlay][evcg storage="EV15_05" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4440|
 [fc]
@@ -118,28 +126,31 @@
 [射精フラB]
 *4441|
 [fc]
-結局、佐竹先輩は巨大ペニスを挿入したままで梨里に膣内射精していた。[r]
-下着の隙間から挿入されていたそれが引き抜かれると精液が滝のように溢れた。[pcms]
+In the end, Satake-senpai ejaculated inside Riri while his huge penis[r]
+was still inserted. When it was pulled out from the gap in her[r]
+underwear, semen overflowed like a waterfall.[pcms]
 [backlay][evcg storage="EV15_07" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4442|
 [fc]
 [ns【]佐竹[】nse]
-「ふうう……これが女か……禁欲を誓って文武に励んできた俺だったが、[r]
-　どうやらそんなものは毒に薬にもならぬ駄菓子同然の代物だったか」[pcms][endhact]
+"Phew... So this is a woman... I've devoted myself to abstinence and[r]
+diligence in both literary and martial arts, but it seems that was[r]
+nothing more than a trifle as insignificant as cheap candy."[pcms]
 *4443|
 [fc]
-佐竹先輩は感慨深げに述懐するを聞きながら、[r]
-俺はもう、当初から従った連中に指示するのも忘れて傍観に徹していた。[pcms]
+While listening to Satake-senpai's deep reflections, I had completely[r]
+forgotten to give instructions to the guys who had followed me from[r]
+the start and was fully engrossed as a bystander.[pcms]
 *4444|
 [fc]
 [ns【]小野寺[】nse]
-「佐竹～！　生徒の分際で教師の俺を差し置いて清原に膣内射精するとは[r]
-　言語道断ッ！　俺に代われ！」[pcms][endhact]
+"Satake! How dare you, a mere student, ejaculate inside Kiyohara[r]
+without my permission as a teacher! Take my place!"[pcms]
 [backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]
 *4445|
 [fc]
-これまでどこに隠れていたのか、陸上部顧問でもある教師・小野寺先生が[r]
-梨里に襲いかかった。[pcms]
+Out of nowhere, Teacher Onodera, who also advises the track team,[r]
+attacked Riri.[pcms]
 [backlay][evcg storage="EV15a_08" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4446|
 [fc]
@@ -148,17 +159,17 @@
 「お、小野寺……せんせえ……もうやめてえ……たすけて……」[pcms][endhact]
 *4447|
 [fc]
-梨里はもう、いちいち相手の目が赤いとかなんとか言わなくなっていた。[r]
-弱々しく救いを求めるだけだった。[pcms]
+Riri no longer bothered to mention trivial things like her opponent's[r]
+eyes being red. She just weakly sought salvation.[pcms]
 *4448|
 [fc]
-だが小野寺先生は容赦なく梨里が着ていた陸上ウェアをはぎ取っていく。[r]
-どう考えてもこの人は俺たちの同類だった。目も赤いしそうに違いない。[pcms]
+But Teacher Onodera mercilessly tore off the track wear Riri was[r]
+wearing. It was clear that he was one of us; his eyes were red too.[pcms]
 *4449|
 [fc]
 [ns【]小野寺[】nse]
-「なんだこのＴバックは？　前々から注意しようと思っていたんだ！[r]
-　どうしてこんなもので下着のラインが浮き出て見えるのを隠す？」[pcms][endhact]
+"What's with this T-back? I've been meaning to warn you about this![r]
+Why hide it when the underwear line shows through like this?"[pcms]
 *4450|
 [fc]
 [vo_ri s="riri0197"]
@@ -166,17 +177,18 @@
 「そんなの見えたら……恥ずかしいからに……決まって……ます……」[pcms][endhact]
 *4451|
 [fc]
-小野寺先生は自分でその質問の答えを、質問の中で言及していた。[r]
-明らかに、俺たちと同じで何かが欠けて調子がずれている言動だった。[pcms]
+Teacher Onodera himself mentioned the answer to his question within[r]
+the question. Clearly, his behavior was off-kilter just like ours.[pcms]
 *4452|
 [fc]
 [ns【]小野寺[】nse]
-「けしからんぞ清原！　女子の美を男の目から遠ざけて隠す！　そんな[r]
-　勝手な道理は認めん！　罰として制裁だ！」[pcms][endhact]
+"This is unacceptable, Kiyohara! To hide the beauty of a woman from[r]
+the eyes of men! I won't acknowledge such selfish reasoning! As[r]
+punishment, you will be disciplined!"[pcms]
 *4453|
 [fc]
-小野寺先生はさんざん精液まみれのＴバックの位置をずらして、それから[r]
-思いっきり、いきなり――[pcms]
+Teacher Onodera shifted the semen-covered T-back aside and then[r]
+suddenly[pcms]
 [se buf=0 storage="se_sex01"]
 [evcg白フラ storage="EV15a_09" layer=0 page=back visible=true left=0 top=0]
 *4454|
@@ -187,12 +199,13 @@
 [se buf=1 storage="se_sex02" loop=true]
 *4455|
 [fc]
-直前の佐竹先輩の大量射精でぬかるんでいるとはいえ事前の準備抜きで、[r]
-いきなりそのペニスを梨里の膣内深くに挿入していた。[pcms]
+Despite the slickness from Satake-senpai's recent copious ejaculation,[r]
+Teacher Onodera inserted his penis deep into Riri's vagina without any[r]
+preparation.[pcms]
 *4456|
 [fc]
-よくよく見ればそれは佐竹先輩のペニスに負けず劣らずの巨根だった。[r]
-男としては少しあこがれるというか、うらやましいサイズだった。[pcms]
+Upon closer inspection, it was as massive as Satake-senpai's member.[r]
+As a man, it was a size that inspired a bit of envy or admiration.[pcms]
 [backlay][evcg storage="EV15a_09" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4457|
 [fc]
@@ -202,39 +215,43 @@
 *4458|
 [fc]
 [ns【]小野寺[】nse]
-「そんな勝手は認めん！　自己主張の前に義務を果たせッ！　集団の[r]
-　秩序を乱すような非行は一切認めん！　連帯責任で女子全員を犯す！」[pcms][endhact]
+"I won't allow such selfishness! Fulfill your duties before asserting[r]
+yourself! Any misconduct that disrupts the order of the group will not[r]
+be tolerated! As collective responsibility, all female students will[r]
+be violated!"[pcms]
 *4459|
 [fc]
 [vo_ri s="riri0200"]
 [【梨里】]
-「や、やめてえ！　あたしのせいで女子みんながそんな目に遭うなんて[r]
-　いやあああッ！」[pcms][endhact]
+"No, stop it! It's not fair for all the girls to suffer because of[r]
+me... Noooo!"[pcms]
 *4460|
 [fc]
 [ns【]佐竹[】nse]
-「おい清原ッ！　どうせなら……俺のチンポをしゃぶれよ！　口は空いてる[r]
-　んだし……お掃除フェラってやつ、してくれよ！」[pcms][endhact]
+"Hey Kiyohara! Since we're at it... suck my dick! Your mouth is[r]
+free... give me that 'cleanup fellatio' thing!"[pcms]
 *4461|
 [fc]
-動揺する梨里の口に、復活した佐竹先輩があの巨根を突き付けていた。[r]
-梨里は拒絶して顔を背けようとするが、小野寺先生がそれを許さない。[pcms]
+Riri tried to turn her face away in rejection as Satake-senpai thrust[r]
+his revived member towards her mouth. However, Teacher Onodera did not[r]
+allow her to refuse.[pcms]
 *4462|
 [fc]
 [ns【]小野寺[】nse]
-「清原、部の顧問としての教育的指導だッ！　佐竹にお掃除フェラしろ！　[r]
-　これは正式なものだ。逆らえば女子部員全員に膣内射精するッ！」[pcms][endhact]
+"Kiyohara, as an advisor to the club, this is educational guidance![r]
+Give Satake a cleanup fellatio! This is official. If you resist, all[r]
+female club members will receive vaginal ejaculations!"[pcms]
 [backlay][evcg storage="EV15a_10" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4463|
 [fc]
 [vo_ri s="riri0201"]
 [【梨里】]
-「わかったから……お掃除フェラしてあげるから……そういうのはやめて[r]
-　ください……ううっ……顕悟……あたし……こんなのほんとは……」[pcms][endhact]
+"I understand... I'll give you a cleanup fellatio... so please stop[r]
+that... ugh... Kengi... I really don't want this..."[pcms]
 *4464|
 [fc]
-顕悟に対しての言い訳をしてから梨里は、佐竹先輩のペニスに顔を近付け、[r]
-ぎこちなく舌先をペニス表面に這わせていく。[pcms]
+After making excuses to Kengi, Riri brought her face close to Satake-[r]
+senpai's penis and awkwardly ran her tongue over its surface.[pcms]
 [backlay][evcg storage="EV15a_11" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4465|
 [fc]
@@ -243,16 +260,17 @@
 「はぷ……ふ……ん……う……く、くさいよ……おちんちん……」[pcms][endhact]
 *4466|
 [fc]
-膣内を小野寺先生の巨根で突き上げられる感覚に苦しみながら、梨里は[r]
-必死に佐竹先輩が突き出したペニスを舐め取っていた。[pcms]
+While suffering from the sensation of being thrust into by Teacher[r]
+Onodera's massive member, Riri desperately licked Satake-senpai's[r]
+protruding penis clean.[pcms]
 *4467|
 [fc]
 [ns【]佐竹[】nse]
 「失礼だぞ清原！　これは青春の汗が宿したかぐわしい芳香だッ！」[pcms][endhact]
 *4468|
 [fc]
-激怒した佐竹先輩は梨里の口どころかその喉の奥までペニスを突っ込んで[r]
-しまう。[pcms]
+Satake-senpai furiously thrust his penis not just into Riri's mouth[r]
+but deep into her throat.[pcms]
 [backlay][evcg storage="EV15a_12" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4469|
 [fc]
@@ -261,16 +279,19 @@
 「むがもぎんぐひんんんんんッ？」[pcms][endhact]
 *4470|
 [fc]
-呼吸さえ不自由になって悶絶しそうになる梨里。[pcms]
+Riri struggled as if she were going to convulse from the inability to[r]
+breathe properly.[pcms]
 *4471|
 [fc]
 [ns【]小野寺[】nse]
-「がはははは！　締まりが良くなったぞ清原？　佐竹にお掃除フェラして[r]
-　やって、奉仕の精神と女の喜びに目覚めたのか？」[pcms][endhact]
+"Gahaha! Has it gotten tighter, Kiyohara? By giving Satake a cleanup[r]
+fellatio have you awakened to the spirit of service and the joy of[r]
+being a woman?"[pcms]
 *4472|
 [fc]
-上機嫌の小野寺先生は腰を突き上げる動きを急加速させる。もはやお掃除[r]
-フェラではなく、イラマチオと化した佐竹先輩も同様だった。[pcms]
+Teacher Onodera, in high spirits, rapidly accelerated his thrusting[r]
+movements. It was no longer just cleanup fellatio; Satake-senpai's[r]
+actions had turned into irrumatio as well.[pcms]
 *4473|
 [fc]
 [ns【]小野寺[】nse]
@@ -291,8 +312,9 @@
 「んがんっぐひっ……むぐはああああああッ！」[pcms][endhact]
 *4476|
 [fc]
-膣内射精され、そして口内射精された梨里だったが、その不快感と嫌悪の[r]
-頂点に達したらしく、夕食の残骸らしきゲロを吐いて苦悶し続ける。[pcms]
+Riri, having been ejaculated inside and then in her mouth, seemed to[r]
+have reached the peak of her discomfort and disgust, vomiting what[r]
+looked like remnants of her dinner and continuing to writhe in agony.[pcms]
 [backlay][evcg storage="EV15a_14" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4477|
 [fc]
@@ -306,8 +328,8 @@
 *4479|
 [fc]
 [ns【]佐竹[】nse]
-「我慢ならん！　せっかくこの俺が美容と健康のためにタンパク質を譲って[r]
-　やったというのに……それを吐き出すとは……許し難いッ！」[pcms][endhact]
+"I can't stand it! After I generously gave you protein for beauty and[r]
+health... and you vomit it out... unforgivable!"[pcms]
 [backlay][evcg storage="EV15a_15" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4480|
 [fc]
@@ -320,8 +342,8 @@
 「根性を注入してやるッ！　今一度、この俺のビッグマグナムでな！」[pcms][endhact]
 *4482|
 [fc]
-さっきの膣内射精、そして直前の口内射精を経ているのに佐竹先輩のそれは[r]
-隆々と勃起していた。[pcms]
+Despite the recent vaginal ejaculation and the one before that in her[r]
+mouth, Satake-senpai's member was still proudly erect.[pcms]
 *4483|
 [fc]
 [ns【]佐竹[】nse]
@@ -333,8 +355,9 @@
 [backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]
 *4485|
 [fc]
-膣内射精したことで満足したのか小野寺先生は梨里の身体から遠ざかり、[r]
-須田、そして勇二に続いて俺の近くに来て観客となった。[pcms]
+Having satisfied himself with the vaginal ejaculation, Teacher Onodera[r]
+moved away from Riri's body, joining Suda and Yuuji as a spectator[r]
+near me.[pcms]
 *4486|
 [fc]
 [ns【]佐竹[】nse]
@@ -349,12 +372,12 @@
 [se buf=1 storage="se_sex02" loop=true]
 *4488|
 [fc]
-また佐竹先輩があおむけになって、騎乗位の形で梨里を自分にまたがらせ、[r]
-その巨根を膣内に挿入している。[pcms]
+Once again, Satake-senpai lay on his back and had Riri straddle him in[r]
+a cowgirl position, inserting his huge cock into her vagina.[pcms]
 *4489|
 [fc]
-今度はさっきの挿入よりも激しく荒々しい動作だった。[r]
-テレビで見た虎や熊の交尾を連想させる。[pcms]
+This time, the insertion was even more violent and wild than before.[r]
+It reminded me of the mating of tigers or bears I had seen on TV.[pcms]
 [backlay][evcg storage="EV15_18" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4490|
 [fc]
@@ -363,8 +386,8 @@
 「ひぐはあああッ！　顕悟！　たすけてえ！　央っ！」[pcms][endhact]
 *4491|
 [fc]
-梨里が俺の名を呼んでいる。[r]
-そして挑発している。お尻をあんなに揺らすのは誘っているに違いない。[pcms]
+Riri is calling my name. And she's provoking me. Shaking her ass like[r]
+that must be an invitation.[pcms]
 [backlay][evcg storage="EV15_19" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4492|
 [fc]
@@ -372,7 +395,8 @@
 「今、助けるぞ梨里ッ！」[pcms][endhact]
 *4493|
 [fc]
-俺は欲情に沸騰した頭と股間を意識しながら駆け寄っていく。[pcms]
+I rushed over, conscious of my head boiling with lust and my groin[r]
+swelling with desire.[pcms]
 *4494|
 [fc]
 [vo_ri s="riri0209"]
@@ -385,28 +409,29 @@
 *4496|
 [fc]
 [【央】]
-「俺は梨里に呼ばれたから、そのリクエスト通りにアナルセックスして[r]
-　やるだけです。梨里、お尻の処女も彼氏の俺がもらってやるからな？」[pcms][endhact]
+"I'm just responding to Riri's call, giving her anal sex as requested.[r]
+Riri, I'll take your anal virginity as your boyfriend, okay?"[pcms]
 *4497|
 [fc]
-そう言ってから俺は佐竹先輩の反対側に位置を変えて、お尻の穴にペニス[r]
-亀頭部を密着させた。[pcms]
+After saying that, I moved to the opposite side of Satake-senpai and[r]
+pressed the tip of my penis against her anal opening.[pcms]
 *4498|
 [fc]
 [vo_ri s="riri0210"]
 [【梨里】]
-「央……お願い……もうやめて……好き……だった……のに……顕悟が[r]
-　告白してからも……ずっと迷ってた……のに……」[pcms][endhact]
+"Kengi... please... stop... I used to love you... even after you[r]
+confessed... I was still unsure..."[pcms]
 *4499|
 [fc]
 [【央】]
-「変な冗談言うなよ梨里。俺はずっとおまえと両思いで彼氏と彼女っていう[r]
-　関係じゃないか。そうですよね佐竹先輩？」[pcms][endhact]
+"Don't joke around, Riri. We've always been in love, boyfriend and[r]
+girlfriend, right? Isn't that right, Satake-senpai?"[pcms]
 *4500|
 [fc]
 [ns【]佐竹[】nse]
-「うむ。俺は先輩として、渋江が清原にお仕置きするのを手伝っている。[r]
-　これは後輩の健やかな成長を願う心からの友情の表れだッ！」[pcms][endhact]
+"Hmm. As a senior, I'm just helping Shibu-e give Kiyohara some[r]
+discipline. This is a manifestation of friendship wishing for the[r]
+healthy growth of a junior!"[pcms]
 *4501|
 [fc]
 [【央】]
@@ -421,8 +446,8 @@
 「はいッ！　いくぞ梨里ッ！　俺たちのアナルセックスへの旅立ちだッ！」[pcms][endhact]
 *4504|
 [fc]
-幸い、さんざんみんなが出しまくった精液のぬめりがあったから、それを[r]
-助けにして力任せに、強引にお尻の穴に亀頭部分を押し込んでいった。[pcms]
+Luckily, the slickness from everyone's semen helped as I forcefully[r]
+and aggressively pushed the head of my penis into her anal opening.[pcms]
 [se buf=0 storage="se_sex01"]
 [evcg白フラ storage="EV15_20" layer=0 page=back visible=true left=0 top=0]
 *4505|
@@ -432,25 +457,26 @@
 「んぐあああっ……お尻っ……お尻に、また央のおちんちんがあッ！」[pcms][endhact]
 *4506|
 [fc]
-俺のペニスが完全に入り込むと、入り口を裂いてしまったようで処女を[r]
-奪った時のように梨里の太ももを鮮血が伝っていった。[pcms]
+As my penis fully entered, it seemed to tear at the entrance like when[r]
+taking a virginity, and fresh blood ran down Riri's thighs.[pcms]
 *4507|
 [fc]
 [【央】]
 「やったぞ梨里！　俺のが梨里のお尻の穴の中に入ったぞッ？」[pcms][endhact]
 *4508|
 [fc]
-そこは、侵入したペニスの根本部分を半端無い勢いで締め付けると同時に[r]
-その奥深いところではやわらかく包むような温かさで快感を伝えてくる。[pcms]
+The place where my penis invaded clenched around its base with[r]
+incredible force while deeper inside it enveloped me with a soft[r]
+warmth that transmitted pleasure.[pcms]
 *4509|
 [fc]
-だけど、その直後に俺は、夕べの処女喪失に続いて、お尻の処女をとっくに[r]
-もらっていたことを思い出してしまった。[pcms]
+But immediately after, I remembered that I had already taken her anal[r]
+virginity the night before.[pcms]
 *4510|
 [fc]
 [【央】]
-「ごめんな梨里。そういや夕べの時点でもう、お尻の処女も、もらってた。[r]
-　なんか興奮してド忘れしてたよ」[pcms][endhact]
+"Sorry, Riri. I just remembered that I already took your anal[r]
+virginity last night. Got so excited I completely forgot."[pcms]
 *4511|
 [fc]
 [ns【]佐竹[】nse]
@@ -472,17 +498,18 @@
 「きひっ……んくあああっ……痛いっ……お尻裂けちゃうようッ！」[pcms][endhact]
 *4515|
 [fc]
-俺はこんなに気持ちいいのに梨里は大泣きしていた。[r]
-けど、これもお仕置きの一環だから仕方ないな。[pcms]
+I felt so good yet Riri was crying her eyes out. But this was also[r]
+part of her punishment, so it couldn't be helped.[pcms]
 *4516|
 [fc]
 [ns【]小野寺[】nse]
-「清原っ……その若さで二穴責めとは、ませた女だ？　しかし、どうせ[r]
-　なら俺のもお掃除フェラして三穴責めデビューと行こう♪」[pcms][endhact]
+"Kiyohara... at your young age, a double penetration? What a[r]
+precocious girl. But since we're at it, why not give me a cleanup[r]
+fellatio and make it a triple penetration debut♪"[pcms]
 *4517|
 [fc]
-小野寺先生はもう、女子部員の全員を犯す、膣内射精する、という脅迫を[r]
-省略して梨里を従わせることが可能になっていた。[pcms]
+Teacher Onodera no longer needed to threaten to rape all the female[r]
+club members or ejaculate inside them to make Riri obey.[pcms]
 [backlay][evcg storage="EV15_22" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4518|
 [fc]
@@ -491,8 +518,9 @@
 「んぐ……むひゅあ……んぐあ……おぐふっ……ん！」[pcms][endhact]
 *4519|
 [fc]
-小野寺先生にお掃除フェラしながら佐竹先輩の巨根に膣内をかき混ぜられ、[r]
-そして俺のペニスに直腸内を荒らされるという三重の責めが続いた。[pcms]
+While giving Teacher Onodera a cleanup fellatio and having Satake-[r]
+senpai stir inside her vagina with his huge cock, I ravaged her rectum[r]
+with my penis in a triple assault.[pcms]
 [backlay][evcg storage="EV15_23" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4520|
 [fc]
@@ -513,12 +541,12 @@
 [射精フラB]
 *4523|
 [fc]
-俺のその言葉を合図に小野寺先生も佐竹先輩も興奮と欲情の限界に達して、[r]
-そのまま射精していた。[pcms]
+At my words, both Teacher Onodera and Satake-senpai reached the limits[r]
+of their excitement and lust, ejaculating then and there.[pcms]
 *4524|
 [fc]
-直腸内で俺が、佐竹先輩が膣内で、小野寺先生は口の中で射精していた。[r]
-梨里はそのすべてを受け止めてくれた。[pcms]
+I ejaculated inside her rectum, Satake-senpai in her vagina, and[r]
+Teacher Onodera in her mouth. Riri accepted it all.[pcms]
 [backlay][evcg storage="EV15_25" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *4525|
 [fc]
@@ -527,30 +555,30 @@
 「むぐあぐふぎひっ……んむぎぐがあああああッ！」[pcms][endhact]
 *4526|
 [fc]
-だが、俺たちがそれぞれのペニスを梨里の身体から引き抜いて離すと、[r]
-梨里はその三つの穴から精液を吐き出し、そしてまたゲロを吐いてしまう。[pcms]
+But when we each pulled our penises out of Riri's body, she expelled[r]
+semen from all three holes and then vomited again.[pcms]
 [backlay][evcg storage="EV15_26" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 [se buf=0 storage="seD017"]
 *4527|
 [fc]
-えづいて苦しむたびに、その秘裂と尻穴からは射精された精液が垂れてきて[r]
-淫らだった。[pcms]
+Each time she retched in agony, semen dripped from her secret slit and[r]
+anus, which was indecent.[pcms]
 *4528|
 [fc]
 [【央】]
 「しんどそうだな梨里？　けど、まだお仕置きは終わってないからな」[pcms][endhact]
 *4529|
 [fc]
-俺が念押しするようにそう告げると、またしても新たな参加者が名乗り[r]
-出てきた。[pcms]
+As I emphasized my point, another new participant stepped forward to[r]
+join.[pcms]
 *4530|
 [fc]
 [ns【]大久保[】nse]
 「清原君のフィジカルとメンタルのケア、私に任せてくれないか？」[pcms][endhact]
 *4531|
 [fc]
-我が水泳部が誇るイケメンの大久保コーチだった。[r]
-やはりこの人も目が赤くなっている。[pcms]
+It was Coach Okubo from our swimming club, also known for his good[r]
+looks. His eyes were red too.[pcms]
 *4532|
 [fc]
 [vo_ri s="riri0215"]
@@ -558,8 +586,8 @@
 「大久保コーチまで……おかしく……なって……るの？」[pcms][endhact]
 *4533|
 [fc]
-俺は特に返事をしなかったが、大久保コーチはそれを同意だと解釈して、[r]
-梨里に近付いていった。[pcms]
+I didn't respond specifically, but Coach Okubo took that as consent[r]
+and approached Riri.[pcms]
 [if exp="tf.scene_mode == 1 && tf.all_play == 0"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]

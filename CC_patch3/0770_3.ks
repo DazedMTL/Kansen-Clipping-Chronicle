@@ -22,7 +22,7 @@
 「やだ、もう……こんなのやだ……いや――――ッ！！」[pcms][endhact]
 *11007|
 [fc]
-大柄の男たちが、わたしの身体を掴むと軽く放り投げる。[pcms]
+Large men grab my body and toss me lightly.[pcms]
 *11008|
 [fc]
 [vo_ju s="jun0196"]
@@ -34,8 +34,8 @@
 「キャッチィィィィィィィッ！」[pcms][endhact]
 *11010|
 [fc]
-床に仰向けで寝そべっていた男の上にパスされたわたしは、[r]
-いかつい腕と胸で受け止められる。[pcms]
+I'm passed onto a man lying on his back on the floor, and I'm caught[r]
+by his burly arms and chest.[pcms]
 *11011|
 [fc]
 [ns【]ラグビー部員Ｄ[】nse]
@@ -46,17 +46,18 @@
 「がぎゅうっ！」[pcms][endhact]
 *11013|
 [fc]
-さっきまで、わたしを犯していた野球部員たちが、[r]
-大勢のラグビー部員に踏みしだかれ、頭や手足が変な方向にな曲がっていた。[pcms]
+The baseball team members who were violating me until just now are[r]
+trampled by a crowd of rugby players, their heads and limbs twisted in[r]
+odd directions.[pcms]
 *11013a|
 [fc]
-そして、ラグビー部員の人だかりの中に消えて、[r]
-見えなくなってしまう。[pcms]
+And then, I disappear into the midst of the rugby players, becoming[r]
+invisible.[pcms]
 *11014|
 [fc]
 [ns【]ラグビー部員Ｅ[】nse]
-「ぐ、グラウンドで練習してるときから、[r]
-　純ちゃんのことは、ラグビー部で注目してたんだよぉぉっ！」[pcms][endhact]
+"Guh, ever since we were practicing on the field, the rugby team has[r]
+been eyeing you, Jun-chan!"[pcms]
 *11015|
 [fc]
 [vo_ju s="jun0197"]
@@ -64,11 +65,11 @@
 「い、いやぁぁぁぁ……怖いことはしないでぇぇぇっ……」[pcms][endhact]
 *11016|
 [fc]
-一人に受け止められながら、[r]
-もう二人がわたしににじり寄ってくる。[pcms]
+While one catches me, two more creep closer to me.[pcms]
 *11017|
 [fc]
-そして……三人が、わたしの身体を、ゴツゴツした手でまさぐってきた。[pcms]
+And then... the three of them start groping my body with their rough[r]
+hands.[pcms]
 *11018|
 [fc]
 [ns【]ラグビー部員Ｅ[】nse]
@@ -88,11 +89,11 @@
 「あうううっ！　くううっ！　怖い……怖いよ……」[pcms][endhact]
 *11022|
 [fc]
-男たちの手が、身体中の色々なところに這わされる。[pcms]
+The men's hands crawl all over various parts of my body.[pcms]
 *11023|
 [fc]
-もちろん、愛撫なんていう手つきではなく、[r]
-自分が触りたいだけの、力に任せた暴力だ。[pcms]
+Of course, it's not a caress but rather a violent force, simply[r]
+touching wherever they want.[pcms]
 *11024|
 [fc]
 [ns【]ラグビー部員Ｃ[】nse]
@@ -116,14 +117,14 @@
 [evcg白フラ storage="EV33_03" layer=0 page=back visible=true left=0 top=0]
 *11028|
 [fc]
-わたしの下になっていた男が前に挿入し、[r]
-おでこを弄っていた男が口に、もう一人が後ろに挿入してくる。[pcms]
+The man beneath me inserts himself in front, the one who was playing[r]
+with my forehead takes my mouth, and another enters from behind.[pcms]
 [backlay][evcg storage="EV33_04" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 [se buf=1 storage="se_sex03" loop=true]
 *11029|
 [fc]
-ほぼ同時に、訓練された動きで一斉に飛びかかった男達によって、[r]
-わたしの身体は犯されていく。[pcms]
+Almost simultaneously, the men pounce with trained movements,[r]
+continuing to violate my body.[pcms]
 [backlay][evcg storage="EV33_05" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11030|
 [fc]
@@ -144,18 +145,18 @@
 「こっちの口も喉もぉぉっ！　貫通してますよぉぉぉぉぉっ！」[pcms][endhact]
 *11034|
 [fc]
-身体の中に、一本の杭が刺さっているようだった。[pcms]
+It felt like a stake was driven into my body.[pcms]
 *11035|
 [fc]
-あまりの苦しさに、意識が[ruby text="もうろう"][ch text="朦朧"]としてくる。[pcms]
+The pain is so intense that my consciousness starts to fade.[pcms]
 *11036|
 [fc]
-喉の奥にガッシリとした杭を打ち込まれ、[r]
-呼吸もままならない状況は、わたしに酸欠をもたらす。[pcms]
+A solid stake is driven deep into my throat, making it hard to breathe[r]
+and causing me to suffocate.[pcms]
 *11037|
 [fc]
-でも、痛んでいる割れ目と後ろの穴を強引に掘削されると、[r]
-それを上回る激痛が走り、わたしを気絶させなかった。[pcms]
+But the intense pain from being forcefully drilled into my sore slit[r]
+and back passage surpasses that, preventing me from passing out.[pcms]
 [backlay][evcg storage="EV33_06" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11038|
 [fc]
@@ -176,8 +177,8 @@
 「純ちゃんっ！　出すよぉぉぉぉぉぉぉっ！」[pcms][endhact]
 *11042|
 [fc]
-男たちが、一際強く、腰を押し出して来ると同時に、[r]
-生臭い体液が、わたしの身体に注がれていた。[pcms]
+As the men thrust their hips forcefully, a fishy body fluid is poured[r]
+into my body.[pcms]
 [stopse buf=1]
 [se buf=0 storage="se_sex01"]
 [射精フラA]
@@ -190,12 +191,12 @@
 「がぶっ！　んえげぇぇっ！　げぶっ！　んぐッ！」[pcms][endhact]
 *11044|
 [fc]
-喉の奥深く入れていた男が、射精の瞬間に勢いよく、[r]
-太い物を引き抜いていく。[pcms]
+The man deep in my throat pulls out his thick member vigorously at the[r]
+moment of ejaculation.[pcms]
 *11045|
 [fc]
-喉の粘膜ごと、無理矢理剥がされたような痛みの中、[r]
-おでこのあたりに、気持ちの悪い温かさを感じていた。[pcms]
+In the midst of pain as if my throat's mucous membrane was being[r]
+forcibly stripped away, I feel a disgusting warmth on my forehead.[pcms]
 *11046|
 [fc]
 [ns【]ラグビー部員Ｄ[】nse]
@@ -208,8 +209,8 @@
 [se buf=0 storage="seD017"]
 *11047|
 [fc]
-お尻を犯していた男も、ずるっと音を立ててそれを引き抜き、[r]
-熱い精液をスパッツに振りかけている。[pcms]
+The man violating my rear pulls out with a slurping sound and sprays[r]
+his hot semen on my spats.[pcms]
 *11048|
 [fc]
 [vo_ju s="jun0203"]
@@ -221,16 +222,16 @@
 「んーっ、よし、よしだ」[pcms][endhact]
 *11050|
 [fc]
-指揮を執っていた男は、わたしの中にたっぷりと射精をすると、[r]
-満足げにそれを引き抜き、流れ出てくる精液を確認していた。[pcms]
+The man in charge ejaculates plentifully inside me, then pulls out[r]
+contentedly and checks the flowing semen.[pcms]
 *11051|
 [fc]
-わたしの顔に、おでこから精液が流れてきて、[r]
-顎や耳の方に垂れていく。[pcms]
+Semen flows down my face from my forehead, dripping towards my chin[r]
+and ears.[pcms]
 *11052|
 [fc]
-お尻は、大量の吐液でぬるぬるになり、[r]
-下着まで精液が染みこんでいた。[pcms]
+My rear is slippery with a large amount of ejaculate, soaking even my[r]
+underwear with semen.[pcms]
 *11053|
 [fc]
 [ns【]ラグビー部員Ｃ[】nse]
@@ -238,8 +239,8 @@
 [backlay][black_toplayer][trans method=universal rule="DtoT" vague=300 time=300][wt2][hide_chara_int]
 *11054|
 [fc]
-わたしの下になっていたラグビー部員が、[r]
-身体を持ち上げて、パスするように隣に放り投げる。[pcms]
+The rugby player beneath me lifts my body and tosses me to the side as[r]
+if passing me on.[pcms]
 [backlay][evcg storage="EV33a_09" layer=0 page=back visible=true left=0 top=0][trans method=universal rule="DtoT" vague=300 time=300][wt2]
 *11055|
 [fc]
@@ -266,8 +267,8 @@
 [backlay][evcg storage="EV33a_12" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11059|
 [fc]
-先ほどと同じように、三人がかりで、[r]
-わたしの口と割れ目と後ろの穴に挿入してくる。[pcms]
+Just like before, three men insert themselves into my mouth, slit, and[r]
+back passage.[pcms]
 [backlay][evcg storage="EV33a_13" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11060|
 [fc]
@@ -286,19 +287,18 @@
 *11063|
 [fc]
 [ns【]ラグビー部員Ｈ[】nse]
-「シャァァァァァッ！　今ならぁぁぁっ！[r]
-　どんなタックルでもはじき飛ばしてやるぅぅぅぅっ！」[pcms][endhact]
+"Shaaa! Nowww! I can knock away any tackle!"[pcms]
 *11064|
 [fc]
-分厚い胸板の男たちが、更に力強くなっている気がした。[pcms]
+I felt the men's thick chests become even more powerful.[pcms]
 *11065|
 [fc]
-喉の奥にまで、その太い物を入れてくる男の下腹が、[r]
-あまりにも強い勢いで、わたしの歯に当たってしまう。[pcms]
+The lower abdomen of the man inserting his thick member deep into my[r]
+throat hits my teeth with such force.[pcms]
 *11066|
 [fc]
-でも、出血してるかも知れないその状況でも、[r]
-男は全く気にせずに、腰を前後に動かしていた。[pcms]
+But even if I might be bleeding, the man doesn't care at all and keeps[r]
+moving his hips back and forth.[pcms]
 [backlay][evcg storage="EV33a_14" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11067|
 [fc]
@@ -307,12 +307,12 @@
 「がふうぅっ！　ごぼぉっ！　がうぶぅっ！　ぐべぇぇぇっ！」[pcms][endhact]
 *11068|
 [fc]
-多分、セックスなんてしたことのない男たちが、[r]
-ただ思うままに腰を動かしている。[pcms]
+Probably men who have never had sex before are just moving their hips[r]
+as they please.[pcms]
 *11069|
 [fc]
-女の子を労るなんて気持ちは一切無く、[r]
-雄の本能に任せて、快楽を得ているだけだった。[pcms]
+Without any intention of cherishing the girl, they simply seek[r]
+pleasure by giving in to their male instincts.[pcms]
 *11070|
 [fc]
 [ns【]ラグビー部員Ｆ[】nse]
@@ -349,15 +349,15 @@
 [射精フラB]
 *11077|
 [fc]
-今度は、全員がわたしの中に向けて、精液を吐き出していた。[pcms]
+This time, all of them ejaculate inside me.[pcms]
 *11078|
 [fc]
-もう精液でいっぱいの下腹部に、詰め込んでくる射精。[r]
-お尻の穴の奥にまで届く、噴水のような射精。[pcms]
+Ejaculation crammed into my already full lower abdomen. A fountain-[r]
+like ejaculation reaching deep into my back passage.[pcms]
 *11079|
 [fc]
-そして、喉の奥に棒を差し込んだまま、[r]
-ホースから水を出すような射精だった。[pcms]
+And then, while keeping the rod inserted in my throat, he ejaculates[r]
+like water from a hose.[pcms]
 *11080|
 [fc]
 [vo_ju s="jun0208"]
@@ -365,12 +365,12 @@
 「ぐっ、あ、あぐうあぁああっ！　んぐうぅうっ！」[pcms][endhact]
 *11081|
 [fc]
-無理矢理に頭を振って、何とか呼吸を確保するが、[r]
-すぐに押さえつけられて、精液を飲まされる。[pcms]
+I desperately shake my head to breathe, but I'm quickly held down and[r]
+forced to swallow the semen.[pcms]
 *11082|
 [fc]
-男たちが、全てを出し終えるまで、[r]
-わたしは暴れることさえも許されなかった。[pcms]
+Until the men have finished releasing everything, I'm not even allowed[r]
+to struggle.[pcms]
 *11083|
 [fc]
 [ns【]ラグビー部員Ｆ[】nse]
@@ -387,10 +387,11 @@
 [se buf=0 storage="seD017"]
 *11086|
 [fc]
-やっと、わたしの身体の中から太い物が抜かれていく。[pcms]
+Finally, the thick things are pulled out from inside my body.[pcms]
 *11087|
 [fc]
-口の中に出されたそれは……信じられないほど、酷い味だった。[pcms]
+The thing released inside my mouth... had an unbelievably terrible[r]
+taste.[pcms]
 *11088|
 [fc]
 [vo_ju s="jun0209"]
@@ -398,10 +399,10 @@
 「ううっ……うぶうっ、うげぇぇっ、げうぼぉぉぉぉっ……」[pcms][endhact]
 *11089|
 [fc]
-お腹に溜まっている精液が、全部出てしまう。[pcms]
+The semen accumulated in my belly feels like it's all coming out.[pcms]
 *11090|
 [fc]
-なのに、吐いても吐いても、精液は無くならなかった。[pcms]
+Yet no matter how much I vomit, the semen doesn't run out.[pcms]
 *11091|
 [fc]
 [ns【]ラグビー部員Ｇ[】nse]
@@ -422,8 +423,7 @@
 [backlay][black_toplayer][trans method=universal rule="DtoT" vague=300 time=300][wt2][hide_chara_int]
 *11095|
 [fc]
-わたしは、また軽々と担がれると、[r]
-違う男たちのところにパスされてしまう。[pcms]
+I'm easily lifted again and passed to a different group of men.[pcms]
 [backlay][evcg storage="EV33a_17" layer=0 page=back visible=true left=0 top=0][trans method=universal rule="DtoT" vague=300 time=300][wt2]
 [se buf=0 storage="se_sex01"]
 [evcg白フラ storage="EV33_18" layer=0 page=back visible=true left=0 top=0]
@@ -445,11 +445,12 @@
 [se buf=1 storage="se_sex02" loop=true]
 *11099|
 [fc]
-下から割れ目を貫かれ、後ろからお尻の穴を犯される。[pcms]
+Pierced from below, my slit is penetrated, and from behind, my ass is[r]
+violated.[pcms]
 *11100|
 [fc]
-今度は、三人ではなく二人がかりだけれども、[r]
-頭がハッキリしている分、下半身の痛みが鋭く伝わってきた。[pcms]
+This time, it's only two men instead of three, but with my head clear,[r]
+the pain in my lower half is sharply conveyed.[pcms]
 [backlay][evcg storage="EV33_20" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11101|
 [fc]
@@ -480,8 +481,8 @@
 「や、やめてっ！　ああぁぁぁぁっ！」[pcms][endhact]
 *11107|
 [fc]
-途中から割り込んできた男は、周りの制止も聞かずに、[r]
-既に一本入っている割れ目に、自分の棒を押しつけてきた。[pcms]
+The man who cuts in midway doesn't listen to the others trying to stop[r]
+him and presses his rod against my already occupied slit.[pcms]
 *11108|
 [fc]
 [ns【]ラグビー部員Ｉ[】nse]
@@ -501,12 +502,12 @@
 「う、嘘、二人分なんて、絶対に無理……無理よぉぉぉぉっ！」[pcms][endhact]
 *11112|
 [fc]
-でも、割り込んできた男は、巨大な物を無理矢理に、[r]
-わたしにねじ込もうとする。[pcms]
+But the man who cuts in tries to force his massive thing into me,[r]
+against all odds.[pcms]
 *11113|
 [fc]
-他の男の精液で、ぬるぬるになっているそこに、[r]
-強引な突き込みをしてきた。[pcms]
+He thrusts aggressively into the spot that's slippery with other men's[r]
+semen.[pcms]
 [backlay][evcg storage="EV33_20" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11114|
 [fc]
@@ -525,8 +526,8 @@
 「ぎゃあぁぁぁぁぁあぁっっ！　んぎいぃぃぃぃっ！」[pcms][endhact]
 *11117|
 [fc]
-歯を食いしばって、抵抗していたわたしを嘲笑うように、[r]
-二本の物が中に入ってくる。[pcms]
+As I clench my teeth and resist, two rods enter me as if to mock my[r]
+efforts.[pcms]
 *11118|
 [fc]
 [ns【]ラグビー部員Ｉ[】nse]
@@ -543,12 +544,11 @@
 「うげぇぇぇぇっ、げぼうぁぁぁぁっ……」[pcms][endhact]
 *11121|
 [fc]
-あまりのショックと嘔吐感で、[r]
-わたしは更に、胃の中の物を吐き出していた。[pcms]
+The shock and nausea are so great that I continue to vomit up the[r]
+contents of my stomach.[pcms]
 *11122|
 [fc]
-出てくるものは、精液しかないが、[r]
-それでも嘔吐は止まらない。[pcms]
+What comes out is only semen, but still, the vomiting doesn't stop.[pcms]
 [backlay][evcg storage="EV33_23" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11123|
 [fc]
@@ -576,22 +576,22 @@
 [se buf=1 storage="se_sex03" loop=true]
 *11128|
 [fc]
-わたしは、そのまま三本の巨大な物に、[r]
-お腹をかき回されつづけた。[pcms]
+I am continuously stirred up inside by three massive things as they[r]
+remain inside me.[pcms]
 *11129|
 [fc]
-三本を足せば、腰回りの半分はありそうなものに、[r]
-内側を掘り返されている。[pcms]
+Together, the three of them seem to make up half my waist[r]
+circumference as they dig inside me.[pcms]
 *11130|
 [fc]
 [ns【]ラグビー部員Ｌ[】nse]
 「なんだぁ、一箇所余ってるじゃねぇかぁ……」[pcms][endhact]
 *11131|
 [fc]
-わたしの顔の前に、大根のような肉の棒が突きつけられた。[pcms]
+A rod of flesh as thick as a radish is thrust before my face.[pcms]
 *11132|
 [fc]
-まさか……これ……。[pcms]
+No way... this...[pcms]
 *11133|
 [fc]
 [vo_ju s="jun0220"]
@@ -609,12 +609,11 @@
 「ぐうぶうっ！」[pcms][endhact]
 *11136|
 [fc]
-男は、わたしの口をこじ開けると、[r]
-そこに巨大な物を突き込んできた。[pcms]
+The man pries open my mouth and thrusts his massive thing inside.[pcms]
 *11137|
 [fc]
-その異臭のする巨大な棒は、食道まで届くほどに深くめり込み、[r]
-内部を破壊するように前後に動いていく。[pcms]
+The foul-smelling massive rod penetrates so deep it reaches my[r]
+esophagus, moving back and forth as if to destroy my insides.[pcms]
 *11138|
 [fc]
 [ns【]ラグビー部員Ｌ[】nse]
@@ -626,8 +625,8 @@
 「んごっ、んぐうっ、んぐうっ、んぐっっぉぉぉっ！」[pcms][endhact]
 *11140|
 [fc]
-息が出来ない。[r]
-あまりにも巨大で、喉が圧迫されて鼻から息をすることも出来ない。[pcms]
+I can't breathe. It's so massive that my throat is compressed, and I[r]
+can't even breathe through my nose.[pcms]
 *11141|
 [fc]
 [ns【]ラグビー部員Ｉ[】nse]
@@ -664,10 +663,11 @@
 「んほおっ、んふううっ、喉きんもちええええっ！」[pcms][endhact]
 *11149|
 [fc]
-意識が遠のいていく。[pcms]
+My consciousness is fading away.[pcms]
 *11150|
 [fc]
-早く、精液を出してくれることを、わたしは心の底から……望んでいた。[pcms]
+I desperately wish from the bottom of my heart for him to release his[r]
+semen quickly.[pcms]
 *11151|
 [fc]
 [ns【]ラグビー部員Ｉ[】nse]
@@ -687,11 +687,11 @@
 [射精フラB]
 *11154|
 [fc]
-わたしの身体の中に、大量の液体が注がれている。[pcms]
+A large amount of liquid is being poured into my body.[pcms]
 *11155|
 [fc]
-そして……喉を犯している男も、[r]
-異常なほどに膨れあがったそれを、ビクビクと震わせていた。[pcms]
+And... the man violating my throat is also twitching violently with[r]
+his abnormally swollen thing.[pcms]
 *11156|
 [fc]
 [ns【]ラグビー部員Ｌ[】nse]
@@ -703,7 +703,7 @@
 [射精フラB]
 *11157|
 [fc]
-周りから少し遅れて、目の前の男も絶頂する。[pcms]
+A little later than the others, the man before me also reaches climax.[pcms]
 *11158|
 [fc]
 [vo_ju s="jun0224"]
@@ -711,14 +711,14 @@
 「ぐびっ、びびっ、びううっ、んぶういいっ、ぶびいいっ！」[pcms][endhact]
 *11159|
 [fc]
-もう、身体中の感覚が無くなっていくそこに、[r]
-精液を飲まされていることだけを、理解していた。[pcms]
+As I lose all sensation in my body, I'm only aware that I'm being made[r]
+to swallow semen.[pcms]
 *11160|
 [fc]
-どれほど、射精が続いていたのかわからない。[pcms]
+I have no idea how long the ejaculation lasted.[pcms]
 *11161|
 [fc]
-でも、それが突然引き抜かれる。[pcms]
+But then, it's suddenly pulled out.[pcms]
 *11162|
 [fc]
 [ns【]ラグビー部員Ｌ[】nse]
@@ -731,27 +731,28 @@
 「んげぼうおうおあぁぁぁぁっ！　んぐえぇぇぇっ！　がぶうぅぅぅっ！」[pcms][endhact]
 *11164|
 [fc]
-息をつくと同時に、胃の中身と精液を盛大に吐瀉した。[pcms]
+As I take a breath, I vomit out the contents of my stomach along with[r]
+the semen grandly.[pcms]
 *11165|
 [fc]
-酸素の足りない身体が、反射的に空気を取り込もうと、[r]
-肺を膨らませていく。[pcms]
+My body, lacking oxygen, reflexively tries to take in air, inflating[r]
+my lungs.[pcms]
 [backlay][evcg storage="EV33_29" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11166|
 [fc]
-しかし、胃は異物を吐き出すために、[r]
-必死になって戻そうとしていた。[pcms]
+However, my stomach is desperately trying to expel the foreign[r]
+substance.[pcms]
 *11167|
 [fc]
-その結果……わたしの身体と意識に、[r]
-深刻なまでのけいれんと、多幸感をもたらす。[pcms]
+As a result... my body and consciousness are brought to serious[r]
+convulsions and a profound sense of euphoria.[pcms]
 *11168|
 [fc]
-息が出来ないのに……苦しくない。[pcms]
+I can't breathe... but it's not painful.[pcms]
 *11169|
 [fc]
-そのことが、わたしを恐怖させるが、[r]
-吸うことと吐き出すことの狭間で、身体が完全に麻痺していた。[pcms]
+That fact terrifies me, but between inhaling and vomiting, my body is[r]
+completely paralyzed.[pcms]
 [if exp="tf.scene_mode == 1 && tf.all_play == 0"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]

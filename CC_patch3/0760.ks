@@ -16,20 +16,20 @@
 「……？」[pcms][endhact]
 *10470|
 [fc]
-温かい布団の中で、わたしは目を覚ました。[pcms]
+In the warmth of my futon, I woke up.[pcms]
 *10471|
 [fc]
-部屋の中は暗く、他に人のいる気配はしない。[pcms]
+The room is dark, and there's no sign of anyone else around.[pcms]
 *10472|
 [fc]
-でも……なんだか、誰かに呼ばれたような気がする。[pcms]
+But... I feel like someone called out to me.[pcms]
 *10473|
 [fc]
-目が覚めたのは、明らかにそれが原因なんだけれども……、[r]
-夢だったのかも知れない。[pcms]
+I definitely woke up because of that, but it might have been a[r]
+dream...[pcms]
 *10474|
 [fc]
-ちょっと、損をした気分だ。[pcms]
+I feel a bit cheated.[pcms]
 *10475|
 [fc]
 [vo_ju s="jun0095"]
@@ -37,34 +37,33 @@
 「もう……今、何時なの？」[pcms][endhact]
 *10476|
 [fc]
-ケータイで時間を確認すると、部屋に戻って休んでから、[r]
-それほど時間は経っていなかった。[pcms]
+When I check the time on my cellphone, not much time has passed since[r]
+I came back to my room to rest.[pcms]
 *10477|
 [fc]
-同じ部屋のみんながここにいないということは、[r]
-夜の練習に出たということだろう。[pcms]
+The fact that everyone from the same room isn't here means they[r]
+probably went out for night practice.[pcms]
 *10478|
 [fc]
-余計な心配をかけてしまったみたいで、[r]
-心苦しかったんだけれども、安心した。[pcms]
+I felt guilty for making them worry unnecessarily, but I was relieved.[pcms]
 *10479|
 [fc]
-今朝のことは、色々な人に迷惑をかけただろうから……。[pcms]
+Considering what happened this morning, I must have caused trouble for[r]
+various people...[pcms]
 *10480|
 [fc]
-ふと、ケータイにメールの着信があることに気が付いた。[pcms]
+Suddenly, I notice that there's a mail notification on my cellphone.[pcms]
 *10481|
 [fc]
-開いてみると、一件や二件ではなく、[r]
-たくさんのメールが一度に届いている。[pcms]
+When I open it, there's not just one or two messages, but a whole[r]
+bunch of mails that have arrived at once.[pcms]
 *10482|
 [fc]
-送ってきたのはクラスの友達からみたいだけど……、[r]
-どうしたんだろうか？[pcms]
+It seems they're from friends in my class... but what's going on?[pcms]
 *10483|
 [fc]
-メールを読んでみると、わたしの身体を心配している内容で、[r]
-連絡が欲しいということが書いてあった。[pcms]
+Reading the mails, they're concerned about my health and want me to[r]
+get in touch.[pcms]
 *10484|
 [fc]
 [vo_ju s="jun0096"]
@@ -72,19 +71,18 @@
 「ううん……もう……！」[pcms][endhact]
 *10485|
 [fc]
-きっと、先生か両親か誰かが、友達の親にでも話をして、[r]
-そこから話が広まったんだろう。[pcms]
+Probably a teacher or my parents or someone must have talked to my[r]
+friends' parents, and from there the story spread.[pcms]
 *10486|
 [fc]
-嬉しいけど、参ったなぁ……。[pcms]
+I'm happy, but it's a bit overwhelming...[pcms]
 *10487|
 [fc]
-心配をしてもらえるのは、少し嬉しいけれど、[r]
-どうしても引け目を感じてしまう。[pcms]
+It's a little nice to have people worry about me, but I can't help[r]
+feeling inferior.[pcms]
 *10488|
 [fc]
-こういうところは、どちらかというと、[r]
-勇二の方がサバサバしているところはあった。[pcms]
+In this regard, Yuuji was always more straightforward than me.[pcms]
 [fadeoutbgm time=500]
 *10489|
 [fc]
@@ -94,48 +92,48 @@
 [bgm storage="bgm11" time=1000]
 *10490|
 [fc]
-順番に、メールを見ていくうちに、[r]
-その内容が不穏なものに変わっていく。[pcms]
+As I go through the mails one by one, their content starts to take on[r]
+an ominous tone.[pcms]
 *10491|
 [fc]
-なにがあったのか……家から避難をするという、[r]
-災害でもあったかのような内容になっていた。[pcms]
+What happened... The messages are talking about evacuating from home,[r]
+as if there was some kind of disaster.[pcms]
 *10492|
 [fc]
-みんな、怖いとか、どうなるんだろうとか、不安を綴っている。[pcms]
+Everyone is writing about being scared, wondering what's going to[r]
+happen.[pcms]
 *10493|
 [fc]
-さっきの、わたしへの心配は、[r]
-今朝のことが原因じゃない……？[pcms]
+The concern for me just now wasn't because of this morning's[r]
+incident...?[pcms]
 *10494|
 [fc]
-わたし個人のことを心配しているというよりも、[r]
-みんな大丈夫なのかと、広く話をしていることに気が付いた。[pcms]
+Rather than worrying about me personally, I realize they're broadly[r]
+discussing if everyone is okay.[pcms]
 *10495|
 [fc]
-みんなに……街に、何かあったんだ。[pcms]
+Something happened... to everyone... to the town.[pcms]
 *10496|
 [fc]
-避難するようなことって……地震や台風は考えられない。[pcms]
+To evacuate like this... it can't be an earthquake or typhoon.[pcms]
 *10497|
 [fc]
-じゃあ、なんなのか。[pcms]
+Then what is it?[pcms]
 *10498|
 [fc]
-他に考えられることは、なにがあるのか……。[pcms]
+What else could it be...?[pcms]
 *10499|
 [fc]
-一人、二人の話じゃない。[pcms]
+It's not just one or two people talking.[pcms]
 *10500|
 [fc]
-こんなに、たくさんのメールが来るほど、[r]
-避難するエリアが広いということだ。[pcms]
+So many mails have come that it must be a wide area that's evacuating.[pcms]
 *10501|
 [fc]
-わからないという、不安が募っていく。[pcms]
+The uncertainty grows into anxiety.[pcms]
 *10502|
 [fc]
-わたしの知らないうちに、なにが起きているんだろう。[pcms]
+What's happening without me knowing?[pcms]
 *10503|
 [fc]
 [vo_ju s="jun0098"]
@@ -143,10 +141,11 @@
 「……そうね……」[pcms][endhact]
 *10504|
 [fc]
-わからないなら、聞けばいい。[pcms]
+If I don't know, I should just ask.[pcms]
 *10505|
 [fc]
-ケータイで両親のアドレスを探して、すぐに電話をかける。[pcms]
+I search for my parents' address on my cellphone and immediately make[r]
+a call.[pcms]
 *10506|
 [fc]
 [vo_ju s="jun0099"]
@@ -154,23 +153,22 @@
 「あれ……？」[pcms][endhact]
 *10507|
 [fc]
-ケータイは、確かに親にかかっているはずなのに、[r]
-ウンともスンとも言わなかった。[pcms]
+The call should be going through to my parents, but there's no[r]
+response at all.[pcms]
 *10508|
 [fc]
-壊れた？　いや、そんな馬鹿なことあるはずない。[pcms]
+Is it broken? No, that can't be right.[pcms]
 *10509|
 [fc]
-でも、家電にかけても友達にかけても同じ状況で、[r]
-ケータイが不通になっていた。[pcms]
+But the same thing happens when I call the home phone or my friends;[r]
+the cellphone is out of service.[pcms]
 *10510|
 [fc]
-聞いたことがある……なにか、大きな災害があると、[r]
-電話が通じなくなるって……。[pcms]
+I've heard about it... when there's a big disaster, phones stop[r]
+working...[pcms]
 *10511|
 [fc]
-試しに、ネットにも接続してみるが、[r]
-なかなかアクセスできなかった。[pcms]
+I try connecting to the internet as well, but it's hard to get access.[pcms]
 *10512|
 [fc]
 [vo_ju s="jun0100"]
@@ -178,13 +176,13 @@
 「おかしい……こんなの、おかしいよ……」[pcms][endhact]
 *10513|
 [fc]
-言いしれぬ不安と恐怖が、わたしの身体にのしかかってくる。[pcms]
+An indescribable anxiety and fear weigh down on me.[pcms]
 *10514|
 [fc]
-まさか……今朝の事件の続きなんだろうか？[pcms]
+Could it be... a continuation of this morning's incident?[pcms]
 *10515|
 [fc]
-あれが、両親や友達の身にも起きているとか……？[pcms]
+Is what happened to me happening to my parents and friends too...?[pcms]
 [se buf=0 storage="oso0001"]
 *10517|
 [fc]
@@ -193,27 +191,26 @@
 「……っ！」[pcms][endhact]
 *10518|
 [fc]
-その時、遠くから女性の悲鳴が聞こえてきた。[pcms]
+At that moment, I heard a woman's scream from afar.[pcms]
 *10519|
 [fc]
-わたしは、思わず身をすくませてしまう。[pcms]
+I instinctively shrank back in fear.[pcms]
 *10520|
 [fc]
-誰もいない部屋の中で一人きり、[r]
-しかもなにが起こっているのかわからない。[pcms]
+Alone in an empty room, and not understanding what was happening.[pcms]
 *10521|
 [fc]
-あわしは、耳からの情報を頼りにするようにして、[r]
-身体を小さくしていたけど……。[pcms]
+I tried to rely on the information coming from my ears, curling up[r]
+small...[pcms]
 *10522|
 [fc]
-同時に、緊張が解けていくのも感じていた。[pcms]
+But at the same time, I could feel the tension easing.[pcms]
 *10523|
 [fc]
-怖がっている場合じゃない、何かが起きているんだ。[pcms]
+This is no time to be scared, something is happening.[pcms]
 *10524|
 [fc]
-逃げた方がいいのか、立て籠もった方がいいのか……。[pcms]
+Should I run away, or should I barricade myself in...?[pcms]
 [se buf=0 storage="oso0001"]
 *10526|
 [fc]
@@ -222,22 +219,22 @@
 「……っ！」[pcms][endhact]
 *10527|
 [fc]
-再び、女性の悲鳴が聞こえてきた。[pcms]
+Once again, I heard a woman's scream.[pcms]
 *10528|
 [fc]
-今度は、近い。[pcms]
+This time, it was closer.[pcms]
 *10529|
 [fc]
-逃げよう、この近くで何かが起こっている。[pcms]
+Let's get out of here, something is happening nearby.[pcms]
 *10530|
 [fc]
-一人じゃなくて、誰かと合流した方がいい。[pcms]
+It's better to meet up with someone than to be alone.[pcms]
 *10531|
 [fc]
-わたしは、急いで立ち上がると、ドアへ向かっていく。[pcms]
+I quickly stood up and headed towards the door.[pcms]
 *10532|
 [fc]
-そして……。[pcms]
+And then...[pcms]
 [se buf=0 storage="seA039"]
 *10533|
 [fc]
@@ -246,44 +243,44 @@
 「……ひっ！」[pcms][endhact]
 *10534|
 [fc]
-ドアのノブを掴むと同時に、誰かが向こう側から、[r]
-強く扉板を叩いてきた。[pcms]
+As I grabbed the doorknob, someone on the other side started banging[r]
+on the door panel forcefully.[pcms]
 *10535|
 [fc]
-わたしは、また身体を震わせて、動きを止めてしまう。[pcms]
+I trembled again and stopped in my tracks.[pcms]
 *10536|
 [fc]
-なにも考えられない、どうすればいいのかわからない。[pcms]
+I can't think of anything, I don't know what to do.[pcms]
 [se buf=0 storage="seA039"]
 *10537|
 [fc]
-扉の向こうの相手は、焦れているように、[r]
-激しくドアを連打してきた。[pcms]
+The person on the other side of the door seemed impatient, pounding on[r]
+the door violently.[pcms]
 *10538|
 [fc]
-心臓が搾られるような恐怖に、思わず後ずさる。[pcms]
+I stepped back involuntarily, gripped by a fear that seemed to squeeze[r]
+my heart.[pcms]
 [se buf=0 storage="seA032"]
 *10539|
 [fc]
-オートロックの頑丈そうなドアだから、[r]
-破られることはないかも知れないけれど……。[pcms]
+The auto-lock door seemed sturdy, it might not be broken through...[pcms]
 *10540|
 [fc]
-ドアノブをガチャガチャと揺らして、[r]
-扉板そのものを破壊するように、揺らしている。[pcms]
+They were shaking the doorknob and the door panel itself as if trying[r]
+to destroy it.[pcms]
 *10541|
 [fc]
-タックルでもしているのか、ドアの震動は、[r]
-どんどん大きくなってきていた。[pcms]
+It felt like they were tackling it; the shaking of the door was[r]
+getting more intense.[pcms]
 *10542|
 [fc]
-わたしは、恐怖しながら、ただそれを見ていることしかできない。[pcms]
+I could only watch in terror, unable to do anything else.[pcms]
 *10543|
 [fc]
-[ruby text="ちょうつがい"][ch text="蝶番"]が、悲鳴を上げている。[pcms]
+The hinges were screaming.[pcms]
 *10544|
 [fc]
-扉が大きく揺れる度に、その形が歪んできているのが見えた。[pcms]
+With every violent shake, I could see the door's shape distorting.[pcms]
 *10545|
 [fc]
 [vo_ju s="jun0104"]
@@ -292,8 +289,8 @@
 [se buf=0 storage="seB008"]
 *10546|
 [fc]
-わたしが、救いの言葉を口にする前に扉は決壊し、[r]
-大勢の男たちが部屋に雪崩れ込んでくる。[pcms]
+Before I could utter a word of salvation, the door burst open, and a[r]
+crowd of men flooded into the room.[pcms]
 [sysbt_meswin clear]
 [fadeoutbgm time=500]
 [backlay][black_toplayer][trans time=500 method=crossfade][wt2][hide_chara_int]
@@ -314,12 +311,12 @@
 「うぅおぉぉぉぉっ！　俺のだぁあぁぁっ！」[pcms][endhact]
 *10549|
 [fc]
-身体の大きさで言えば、わたしの倍はありそうな、[r]
-十人以上の屈強な男たちが、掴みかかってきた。[pcms]
+They were at least twice my size, more than ten burly men were coming[r]
+at me.[pcms]
 *10550|
 [fc]
-よくわからないが、前にメアドを聞いてきた、[r]
-ラグビー部の男子たちがたくさんいるような気がする。[pcms]
+I'm not sure why, but it feels like there are a lot of guys from the[r]
+rugby team who asked for my email before.[pcms]
 *10551|
 [fc]
 [vo_ju s="jun0106"]
@@ -327,20 +324,19 @@
 「やめてっ！　なにっ！？　何するのっ！！」[pcms][endhact]
 *10552|
 [fc]
-ラグビー部だけじゃない、レスリング部や柔道部、[r]
-身体の大きな男たちが集まっていた。[pcms]
+It wasn't just the rugby team; there were members from the wrestling[r]
+and judo clubs, all large-bodied men gathered together.[pcms]
 *10553|
 [fc]
 [ns【]レスリング部員Ａ[】nse]
 「純さんを、捕まえたぞぉぉぉぉっ！」[pcms][endhact]
 *10554|
 [fc]
-前後左右に散らばった男たちが、[r]
-協力してわたしの身体を楽々持ち上げていく。[pcms]
+The men scattered around me cooperated to effortlessly lift my body[r]
+up.[pcms]
 *10555|
 [fc]
-両脇に感じる手の平の感触が、[r]
-尋常ではないほど大きく感じた。[pcms]
+The sensation of palms on my sides felt abnormally large.[pcms]
 *10556|
 [fc]
 [vo_ju s="jun0107"]
@@ -348,11 +344,11 @@
 「下ろしてぇぇっ！　はなしてッ！」[pcms][endhact]
 *10557|
 [fc]
-空中で暴れるわたしの足を、男たちが苦もなく開かせていく。[pcms]
+The men easily spread my legs flailing in the air.[pcms]
 *10558|
 [fc]
-これまで一生懸命に鍛えてきた自分の体力を嘲笑うくらいの、[r]
-圧倒的なバイタリティーだった。[pcms]
+Their vitality was overwhelming, mocking the strength I had worked so[r]
+hard to build up all my life.[pcms]
 *10559|
 [fc]
 [ns【]ラグビー部員Ａ[】nse]
@@ -367,12 +363,12 @@
 「いい匂いっ！　女の子の甘い匂いが、た、たまらんよぉぉぉっ！」[pcms][endhact]
 *10562|
 [fc]
-身体中に、手と指と、なんだかわからない、[r]
-ゴツゴツしたものがまとわりついてくる。[pcms]
+All over my body were hands and fingers and something rough and hard[r]
+clinging to me.[pcms]
 *10563|
 [fc]
-そして、わたしの全身を壊すような力強さで、[r]
-掴み、押しつけ、まさぐりつづけていた。[pcms]
+And with a force that seemed to break my entire body, they grabbed,[r]
+pressed, and continued to grope me.[pcms]
 *10564|
 [fc]
 [vo_ju s="jun0108"]
@@ -380,16 +376,16 @@
 「痛いっ！　いやぁっ！　触らないでっ！　誰かっ！　助けてぇぇっ！」[pcms][endhact]
 *10565|
 [fc]
-レイプされる……その恐怖が、全身を包み込み、[r]
-全ての感覚に拒絶反応を示してしまう。[pcms]
+The fear of being raped enveloped my whole body, causing every sense[r]
+to react with rejection.[pcms]
 *10566|
 [fc]
-こんな身体の大きな人たちに好きにされたら……、[r]
-殺されてしまうかもしれない。[pcms]
+If these large-bodied people do as they please with me... I might be[r]
+killed.[pcms]
 *10567|
 [fc]
-勇二としているような、いつものエッチとは、[r]
-全然違うものだということは、間違いがなかった。[pcms]
+It was nothing like the usual intimate moments with Yuuji; there was[r]
+no doubt it was completely different.[pcms]
 *10568|
 [fc]
 [ns【]柔道部員Ａ[】nse]
@@ -409,28 +405,28 @@
 「純ちゃんっ！　じゅんちゃんのいい匂いぃぃぃぃっ！」[pcms][endhact]
 *10572|
 [fc]
-お尻に、顔をグリグリと押しつけている男が、[r]
-もの凄い勢いで息を吸っている。[pcms]
+A man pressing his face against my buttocks was breathing heavily with[r]
+tremendous force.[pcms]
 *10573|
 [fc]
-お尻の匂いを嗅いでいるんだと思うと、[r]
-猛烈な恥ずかしさを覚えるけれど……。[pcms]
+The thought that he was sniffing the smell of my butt made me feel[r]
+intensely embarrassed...[pcms]
 *10574|
 [fc]
-もう、それどころではないほど、[r]
-わたしの身体は蹂躙されていた。[pcms]
+But my body was being violated so much that embarrassment was the[r]
+least of my concerns.[pcms]
 *10575|
 [fc]
-おでこに取り付いている男が、[r]
-ぬるっとした舌で唾液をなすりつけてくる。[pcms]
+The man attached to my forehead is rubbing his slimy tongue against[r]
+it, smearing saliva.[pcms]
 *10576|
 [fc]
-火が点きそうな程、太ももをさすっている男が、[r]
-頬ずりをしているのが気持ち悪い。[pcms]
+The man caressing my thighs as if they might catch fire is rubbing his[r]
+cheek against them, and it feels disgusting.[pcms]
 *10577|
 [fc]
-おっぱいは、もう、何人の手が伸びているのかわからないほど、[r]
-滅茶苦茶に握られていた。[pcms]
+My breasts are being groped so chaotically that I can't even tell how[r]
+many hands are reaching for them.[pcms]
 *10578|
 [fc]
 [vo_ju s="jun0110"]
@@ -443,57 +439,53 @@
 [backlay][evcg storage="EV30_02" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10580|
 [fc]
-ラガーシャツを着た、胸板の分厚い男が、[r]
-スパッツの上から顔面を押し当ててくる。[pcms]
+A man in a rugby shirt with a thick chest is pressing his face against[r]
+my spats from above.[pcms]
 *10581|
 [fc]
-そして、股間に標準を合わせるように、[r]
-唇を開いてむしゃぶりついてきた。[pcms]
+And then, as if aiming at my crotch, he opens his lips and starts to[r]
+devour it.[pcms]
 *10582|
 [fc]
 [vo_ju s="jun0111"]
 [【純】]
-「ひぃぃぃぃっ！　そこはやめてぇぇっ！[r]
-　わたしから離れてよぉぉぉっ！」[pcms][endhact]
+"Hiiii! Stop it, that place! Get away from meeee!"[pcms]
 *10583|
 [fc]
 [ns【]ラグビー部員Ａ[】nse]
-「お、おまんこっ！　やわらかおまんこぉぉっ！[r]
-　全部、全部俺のもんだぁぁっ！」[pcms][endhact]
+"Oh, your pussy! Such a soft pussy! It's all, all mine!"[pcms]
 *10584|
 [fc]
 [ns【]レスリング部員Ａ[】nse]
-「お尻の割れ目がきもちいぃぃっ！[r]
-　おならしてっ、匂い嗅ぎたいよぉぉぉっ！」[pcms][endhact]
+"The crack of your ass feels so goooood! Fart, I want to smell it!"[pcms]
 *10585|
 [fc]
 [vo_ju s="jun0112"]
 [【純】]
-「変態ッっ！！　こんなのもういやぁぁぁぁっ！[r]
-　やめてよぉぉぉぉぉっ！」[pcms][endhact]
+"Pervert! I can't take this anymore! Stop it, please!"[pcms]
 *10586|
 [fc]
-わたしは、頭を振りながら涙を流していた。[pcms]
+I was shaking my head and crying.[pcms]
 *10587|
 [fc]
-こんな無理矢理……しかも、ゴリラみたいな男たちが、[r]
-大勢でレイプしてくるなんて。[pcms]
+Such forcefulness... and to be raped by a group of men who are like[r]
+gorillas.[pcms]
 *10588|
 [fc]
-まだ、処女を失ったばかりなのに、こんな男たちに、[r]
-身体を好きにされるのは、悔しくて悲しくて、涙が溢れていく。[pcms]
+I had only just lost my virginity, and now to have my body used by[r]
+these men is so frustrating and sad that tears keep flowing.[pcms]
 *10589|
 [fc]
 [ns【]ラグビー部員Ａ[】nse]
 「んじゅずぅぅぅぅっ！　お、おまんこ、おいしぃぃぃっ！」[pcms][endhact]
 *10590|
 [fc]
-スパッツの上から、股間を吸い上げている男の目が、[r]
-もう、おかしなくらいに釣り上がっていた。[pcms]
+The eyes of the man sucking on my crotch through the spats were[r]
+already crazily rolling back.[pcms]
 *10591|
 [fc]
-あやしい薬で、限界以上に興奮しているような、[r]
-もう、人間とは思えない目だ。[pcms]
+His eyes looked inhuman, as if he was overly excited by some strange[r]
+drug beyond his limits.[pcms]
 *10592|
 [fc]
 [vo_ju s="jun0113"]
@@ -501,15 +493,17 @@
 「いやぁぁぁ……誰か、誰か助けてぇ……」[pcms][endhact]
 *10593|
 [fc]
-圧倒的な力で身体を押さえつけられ、[r]
-地面に足もつかないような状況で、股間をまさぐられている。[pcms]
+My body is being held down with overwhelming force, and I'm being[r]
+groped in a situation where I can't even touch the ground with my[r]
+feet.[pcms]
 *10594|
 [fc]
-お尻には鼻を押しつけられて匂いを嗅がれ、[r]
-顔中を汚い舌で舐め回され、胸も足も何処も、なにもかも……。[pcms]
+My ass is being sniffed with a nose pressed against it, my face is[r]
+being licked all over with a dirty tongue, and my chest, legs,[r]
+everything... is being violated.[pcms]
 *10595|
 [fc]
-わたしは、陵辱されていた。[pcms]
+I was being humiliated.[pcms]
 *10596|
 [fc]
 [ns【]ラグビー部員Ａ[】nse]
@@ -522,26 +516,26 @@
 「んっ、ひぃぃっ！　いやぁぁぁっ！　来ないでぇぇぇっ！」[pcms][endhact]
 *10598|
 [fc]
-わたしの股間に吸い付いていたラガーシャツの男が、[r]
-下半身を裸にして、そそり立つおちんちんを見せつけてくる。[pcms]
+The man in the rugby shirt who was clinging to my crotch has stripped[r]
+his lower half naked and is flaunting his erect penis at me.[pcms]
 *10599|
 [fc]
-それは、勇二のものとは規格が違うくらいに醜悪で、[r]
-ゴツゴツした気味の悪い形をしていた。[pcms]
+It was grotesque and ruggedly shaped, so different from Yuuji's that[r]
+it was almost incomparable.[pcms]
 *10600|
 [fc]
-大きさだけで言っても、勇二の倍くらいはある。[pcms]
+In terms of size alone, it was about twice that of Yuuji's.[pcms]
 *10601|
 [fc]
-こんなもの……入るわけがない！[pcms]
+Such a thing... there's no way it could fit![pcms]
 *10602|
 [fc]
 [ns【]ラグビー部員Ａ[】nse]
 「い、いっぱい、いっぱい出してあげるからぁぁっ！」[pcms][endhact]
 *10603|
 [fc]
-その、不気味に膨らんだ股間のおちんちんを、[r]
-スパッツの上から股間に押しつけてきた。[pcms]
+That creepily swollen penis from his crotch was pressed against mine[r]
+over the spats.[pcms]
 *10604|
 [fc]
 [vo_ju s="jun0115"]
@@ -553,19 +547,18 @@
 「ふひぃぃっ！　チンポがやわらかいのに包まれるぅぅっ！」[pcms][endhact]
 *10606|
 [fc]
-おでこをベロベロと舐められ、身体中をまさぐられながらも、[r]
-ラガーシャツの男の行動に、わたしは恐怖していた。[pcms]
+While being licked on the forehead and groped all over my body, I was[r]
+terrified by the actions of the man in the rugby shirt.[pcms]
 *10607|
 [fc]
-レイプされる、もうすぐ、もう、数秒後に……。[pcms]
+I'm about to be raped, any second now...[pcms]
 *10608|
 [fc]
-でも、男は興奮し過ぎているのか、[r]
-スパッツを脱がさずに、汚い棒を股間に押しつけてくるだけだった。[pcms]
+But perhaps too excited, the man just kept pressing his dirty rod[r]
+against my crotch without taking off the spats.[pcms]
 *10609|
 [fc]
-興奮しすぎているせいか、[r]
-ただ、それを繰り返すだけ。[pcms]
+Maybe because he was too excited, he just kept repeating that action.[pcms]
 *10610|
 [fc]
 [ns【]ラグビー部員Ａ[】nse]
@@ -577,12 +570,11 @@
 「えっ！　う、嘘っ、嘘でしょ、やめてっ、そんなっ！」[pcms][endhact]
 *10612|
 [fc]
-男は、スパッツの上から、[r]
-わたしの割れ目におちんちんを突き立ててくる。[pcms]
+The man was thrusting his penis against my slit over the spats.[pcms]
 *10613|
 [fc]
-もちろん、入るはずがないのに、力任せに、[r]
-その巨大なものを、スパッツごとねじ込もうとしていた。[pcms]
+Of course, there's no way it could enter, but he forcefully tried to[r]
+twist that huge thing in along with the spats.[pcms]
 *10614|
 [fc]
 [vo_ju s="jun0117"]
@@ -594,11 +586,12 @@
 「お、おまんこぉぉぉぉっ、はじめての、おまんこぉぉぉぉっ！」[pcms][endhact]
 *10616|
 [fc]
-ずりっと、下着が肉にめり込む感覚が伝わってくる。[pcms]
+I could feel the sensation of the underwear being buried into the[r]
+flesh.[pcms]
 *10617|
 [fc]
-普通に入れることさえできない、その巨大なものが、[r]
-スパッツと下着ごと、割って入ろうとしていた。[pcms]
+That huge thing that couldn't normally enter was trying to split[r]
+through along with the spats and underwear.[pcms]
 *10618|
 [fc]
 [vo_ju s="jun0118"]
@@ -606,18 +599,19 @@
 「ぎいいぃぃぃっ！　壊れちゃうぅぅぅぅっ！　ぐいぃぃぃぃぃっ！」[pcms][endhact]
 *10619|
 [fc]
-今までの気味の悪さや、乱暴な手つきとは、[r]
-次元の異なる痛みに、わたしは全力以上の力で抵抗していく。[pcms]
+The pain was on a different level from the previous creepiness and[r]
+rough handling, and I resisted with all my might and more.[pcms]
 *10620|
 [fc]
-手足を使って、ラガーシャツの男を遠ざけたい。[pcms]
+I wanted to use my hands and feet to push away the man in the rugby[r]
+shirt.[pcms]
 *10621|
 [fc]
-この、引きつるような痛みから逃げ出したい。[pcms]
+I wanted to escape from this wrenching pain.[pcms]
 *10622|
 [fc]
-でも……わたしの全力なんて、この十人以上の男たちには……、[r]
-風が吹く程度にも、通用していなかった。[pcms]
+But... my full strength was nothing to these more than ten men; it[r]
+didn't even register as a breeze blowing by.[pcms]
 *10623|
 [fc]
 [vo_ju s="jun0119"]
@@ -625,11 +619,11 @@
 「い、痛いのぉぉっ！　お願い……やめてぇぇぇぇっ！」[pcms][endhact]
 *10624|
 [fc]
-哀しみと絶望で、気が遠くなりそうになる。[pcms]
+I felt like I was going to faint from sadness and despair.[pcms]
 *10625|
 [fc]
-このままいっそ、気絶してしまえれば……そう思う心すら、[r]
-どこかから沸き上がってきていた。[pcms]
+If only I could pass out right now... even that thought was bubbling[r]
+up from somewhere within me.[pcms]
 [evcg赤フラ storage="EV30_04" layer=0 page=back visible=true left=0 top=0]
 *10626|
 [fc]
@@ -638,11 +632,11 @@
 「あっ！　あああぁぁっ！　痛いいぃぃぃぃっ！　いたぁぁぁぁぁっ！」[pcms][endhact]
 *10627|
 [fc]
-ズッ、という重い音が、頭蓋骨の裏側に反射するように聞こえてくる。[pcms]
+A heavy 'thud' sound seemed to echo on the inside of my skull.[pcms]
 *10628|
 [fc]
-そして……それを追いかけるように、[r]
-今まで経験したことがないほどの痛みが、全身に走った。[pcms]
+And then... following that sound, a pain like nothing I had ever[r]
+experienced before shot through my entire body.[pcms]
 *10629|
 [fc]
 [ns【]ラグビー部員Ａ[】nse]
@@ -652,26 +646,26 @@
 [fc]
 [vo_ju s="jun0121"]
 [【純】]
-「いやぁぁぁぁぁぁぁっ！　んぎゃぁぁぁぁぁぁぁぁっ！[r]
-　ぐっ……ぎぁあぁああぁあっ！！」[pcms][endhact]
+"No, no, noooooo! Ngyaaaaaaa! Guh...gyaaaaaaaah!!"[pcms]
 *10631|
 [fc]
-押し出されない、ところてんのようだった。[pcms]
+It was like tokoroten that couldn't be pushed out.[pcms]
 *10632|
 [fc]
-絶対に入らない穴に、無理矢理、[r]
-巨大なものがねじ込まれている。[pcms]
+A hole that should never be entered is being forcibly twisted open by[r]
+something gigantic.[pcms]
 *10633|
 [fc]
 [ns【]ラグビー部員Ａ[】nse]
 「んほっ、んほほおうっ！　おまんこ、きんもちいいいっ！」[pcms][endhact]
 *10634|
 [fc]
-伸びきっている布地が、身体の中と擦れて悲鳴を上げていた。[pcms]
+The stretched fabric is screaming as it rubs against the inside of my[r]
+body.[pcms]
 *10635|
 [fc]
-でも、一度決壊してしまったほころびは、もはや抵抗すら出来ず、[r]
-無残に蹂躙されるだけだ。[pcms]
+But once the breach has been made, there's no resistance left, and[r]
+it's mercilessly ravaged.[pcms]
 [backlay][evcg storage="EV30_04" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10636|
 [fc]
@@ -680,12 +674,12 @@
 「いぎっ！　あぎういいいっ！　んぎあぁぁぁぁぁっっ！」[pcms][endhact]
 *10637|
 [fc]
-身体中、あらん限りの力を振り絞るが、[r]
-男たちの力には、まるでかなわない。[pcms]
+I muster all the strength in my body, but it's no match for the[r]
+strength of the men.[pcms]
 *10638|
 [fc]
-ピクリとも動かせない、自由にならない手足を震わせながら、[r]
-わたしを壊そうとしているようなセックスに、耐えなければいけなかった。[pcms]
+Unable to move a muscle, my hands and feet tremble as I endure sex[r]
+that feels like it's trying to break me.[pcms]
 [se buf=1 storage="se_sex03" loop=true]
 *10639|
 [fc]
@@ -695,37 +689,37 @@
 [fc]
 [vo_ju s="jun0123"]
 [【純】]
-「う、動かないでぇぇぇっ！　んぎゃぁぁぁっ！[r]
-　死んじゃうううぅぅっ！」[pcms][endhact]
+"Don't, don't move! Ngyaaaaaaa! I'm going to dieeeee!"[pcms]
 *10641|
 [fc]
-凶暴で、破壊的な野獣のセックス。[pcms]
+It's a violent, destructive sex of a wild beast.[pcms]
 *10642|
 [fc]
-一方的に、肉体の快楽を得るだけ、[r]
-愛や美学などなにもない、ただまぐわうだけの交尾だ。[pcms]
+It's a one-sided mating that seeks only physical pleasure, devoid of[r]
+love or aesthetics.[pcms]
 *10643|
 [fc]
-痛み以外の感覚は、もう、残されていなかった。[pcms]
+No sensation other than pain was left in me.[pcms]
 *10644|
 [fc]
-今も、わたしの顔を舐め回している男はいるし、[r]
-全身を揉みくちゃに掴まれている。[pcms]
+Even now, there's a man licking my face and my whole body is being[r]
+roughly groped.[pcms]
 *10645|
 [fc]
-キモチが悪い。だけどそんな事を言っている余裕なんてない。[pcms]
+It feels disgusting. But I don't have the luxury to complain about[r]
+that.[pcms]
 *10646|
 [fc]
 [ns【]ラグビー部員Ａ[】nse]
 「う゛ぉぉぉぉぉぉっ！　中出しっ！　初めての中出しぃぃっ！」[pcms][endhact]
 *10647|
 [fc]
-ラガーシャツの男が、更に奇妙な声を上げて、[r]
-絶頂の合図をしていた。[pcms]
+The man in the rugby shirt lets out an even stranger cry, signaling[r]
+his climax.[pcms]
 *10648|
 [fc]
-なのに、中に出されてしまう恐怖は、[r]
-痛みと苦しみのなかにかき消されて、何処かへ行ってしまう。[pcms]
+Yet the fear of being filled inside is drowned out by the pain and[r]
+suffering, disappearing somewhere.[pcms]
 [backlay][evcg storage="EV30_05" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10649|
 [fc]
@@ -735,11 +729,11 @@
 *10650|
 [fc]
 [ns【]ラグビー部員Ａ[】nse]
-「いい声だぁぁっ！　たまんねぜぇぇっ！？[r]
-　はひぃぃぃっ！　んぐおぉぉぉぉぉぉっ！」[pcms][endhact]
+"What a nice voice! I can't get enough of it!? Hahiiiiii![r]
+Nguoooooooh!"[pcms]
 *10651|
 [fc]
-ドクッと、震動が伝わってきた。[pcms]
+A 'thud' vibration is transmitted to me.[pcms]
 *10652|
 [fc]
 [vo_ju s="jun0125"]
@@ -747,17 +741,16 @@
 「ひっ……あ、ああぁあぁ――――――――ッ！」[pcms][endhact]
 *10653|
 [fc]
-ただでさえ巨大な棒が、更に大きく膨らんだ気がする。[pcms]
+The already huge rod seems to swell even larger.[pcms]
 *10654|
 [fc]
-そして、おぞましい男の雄叫びと同時に……、[r]
-熱い感覚が、身体の中にじわっと染みこんできた。[pcms]
+And then, simultaneously with the hideous man's battle cry... a hot[r]
+sensation seeps into my body.[pcms]
 *10655|
 [fc]
 [vo_ju s="jun0126"]
 [【純】]
-「いやぁああぁぁぁぁぁっ！　中はダメッ！　ダメっ……、[r]
-　いやぁぁぁぁぁぁぁっっ！」[pcms][endhact]
+"No, noooooo! Not inside! No... nooooooooo!"[pcms]
 *10656|
 [fc]
 [ns【]ラグビー部員Ａ[】nse]
@@ -769,12 +762,12 @@
 [射精フラB]
 *10657|
 [fc]
-男は、わたしの奥に注ぎ込むように、[r]
-何度も何度も腰を打ち付け、熱い汚液を吐き出している。[pcms]
+The man keeps thrusting his hips over and over, pouring his hot filth[r]
+into me.[pcms]
 *10658|
 [fc]
-でも……その、汚い液体は、スパッツと下着に阻まれて、[r]
-どんどん、身体の外にこぼれ落ちていた。[pcms]
+But... that dirty liquid is blocked by the spats and underwear,[r]
+spilling out of my body.[pcms]
 [backlay][evcg storage="EV30_07" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10659|
 [fc]
@@ -784,19 +777,18 @@
 *10660|
 [fc]
 [ns【]ラグビー部員Ａ[】nse]
-「出したぁぁぁ……初めてのおまんこぉぉ……やったぁぁぁ……、[r]
-　孕ませてやるぞぉぉぉ……」[pcms][endhact]
+"I came... in my first pussy... did it... I'll impregnate you..."[pcms]
 *10661|
 [fc]
-こんな野獣の精液を身体に受けずに助かった。[pcms]
+I was spared from receiving the semen of such a beast inside me.[pcms]
 *10662|
 [fc]
-もう、見たく無いほどに、股間は痛んでいるだろうけれど、[r]
-妊娠の恐怖からは、逃れられるかも……。[pcms]
+My crotch is probably hurting more than I ever want to see, but maybe[r]
+I can escape the fear of pregnancy...[pcms]
 *10663|
 [fc]
-でも、わたしの、そんな甘い考えを吹き飛ばすように、[r]
-満足そうだったラガーシャツの男が、また掴みかかってくる。[pcms]
+But just as I was thinking that, the satisfied man in the rugby shirt[r]
+comes at me again, shattering my naive thoughts.[pcms]
 *10664|
 [fc]
 [vo_ju s="jun0128"]
@@ -810,19 +802,19 @@
 [backlay][black_toplayer][trans method=universal rule="LtoR" vague=100 time=200][wt2][hide_chara_int]
 *10666|
 [fc]
-そのとき、突然、横合いから別の男が飛びかかってきた。[pcms]
+Then suddenly, another man leaps in from the side.[pcms]
 [backlay][evcg storage="EV30_08" layer=0 page=back visible=true left=0 top=0][trans method=universal rule="LtoR" vague=100 time=200][wt2]
 *10667|
 [fc]
-重心を低く、突き上げるようなタックルだ。[pcms]
+He tackles with a low center of gravity, thrusting upward.[pcms]
 *10668|
 [fc]
-それは、さっきまでわたしにまとわりついていた、[r]
-レスリング姿の男だった。[pcms]
+It was the man in wrestling attire who had been clinging to me until[r]
+now.[pcms]
 *10669|
 [fc]
-タックルされたラガーシャツの男は、吹っ飛ばされて、[r]
-壁に頭を強打し、首が変な角度に折れ曲がっている。[pcms]
+The tackled rugby shirt man is blown away, hitting his head against[r]
+the wall, his neck bending at an odd angle.[pcms]
 *10670|
 [fc]
 [vo_ju s="jun0129"]
@@ -830,28 +822,26 @@
 「ひ、ひいぃぃぃっ！　ひっ……あ、あ……ああぁっ！」[pcms][endhact]
 *10671|
 [fc]
-おかしな事になった人を見て、全身から力が抜けていく。[pcms]
+Seeing what happened to him, I feel all strength leave my body.[pcms]
 *10672|
 [fc]
-目の前の異常な光景に、わたしは言葉も失ってしまった。[pcms]
+I'm at a loss for words at the abnormal scene before me.[pcms]
 *10673|
 [fc]
 [ns【]レスリング部員Ａ[】nse]
 「純さんは、俺のもんだぁぁぁぁぁっ！」[pcms][endhact]
 *10674|
 [fc]
-ラガーマンに変わって、[r]
-今度は、レスリング男がのし掛かってきた。[pcms]
+Now the wrestling man is on top of me instead of Rugby-Man.[pcms]
 *10675|
 [fc]
-たった今、人を殺したばかりなのに……、[r]
-それをなんとも思っていない様だけど……。[pcms]
+He just killed someone, but he doesn't seem to care at all...[pcms]
 *10676|
 [fc]
-……この男たちは、狂ってる。[pcms]
+...These men are insane.[pcms]
 *10677|
 [fc]
-わたしも、いつ殺されるか分かった物じゃない。[pcms]
+I could be killed at any moment too.[pcms]
 *10678|
 [fc]
 [ns【]レスリング部員Ａ[】nse]
@@ -863,14 +853,14 @@
 「な、なに……やめて、あああぁ、やめてぇぇっ！」[pcms][endhact]
 *10680|
 [fc]
-レスリング男は、すっかり伸びてしまったスパッツと下着の、[r]
-股間部分を指に摘む。[pcms]
+The wrestling man grabs the stretched spats and underwear at the[r]
+crotch with his fingers.[pcms]
 [se buf=0 storage="seB072"]
 [backlay][evcg storage="EV30_09" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10681|
 [fc]
-そして……額に血管を浮き上がらせて力を入れると、[r]
-そのまま布地を引き裂いていた。[pcms]
+And then... with veins bulging on his forehead from exertion, he tears[r]
+the fabric apart.[pcms]
 *10682|
 [fc]
 [vo_ju s="jun0131"]
@@ -878,10 +868,10 @@
 「え、ち、ちょっと……こ、こんな……嘘……なんて力……いや……」[pcms][endhact]
 *10683|
 [fc]
-人間とは思えない、見た目通り、野獣のような力の持ち主だった。[pcms]
+He truly has the strength of a wild beast, just as he looks.[pcms]
 *10684|
 [fc]
-こんな男に犯されたら……壊されてしまう。[pcms]
+If I'm raped by such a man... I'll be destroyed.[pcms]
 *10685|
 [fc]
 [ns【]レスリング部員Ａ[】nse]
@@ -893,8 +883,8 @@
 「ひいいいぃぃぃっ！　やめてぇぇぇぇっ！　見ないでぇぇぇっ！」[pcms][endhact]
 *10687|
 [fc]
-スパッツの下から見えている、オレンジの下着を横にずらすと、[r]
-日焼けしていない、わたしの股間が丸見えになっていた。[pcms]
+Pushing aside the orange underwear visible beneath the spats, my[r]
+untanned crotch is fully exposed.[pcms]
 *10688|
 [fc]
 [ns【]柔道部員Ａ[】nse]
@@ -911,24 +901,23 @@
 [fc]
 [vo_ju s="jun0133"]
 [【純】]
-「言わないでぇっ！[r]
-　馬鹿ぁぁぁっ！　もういやぁぁぁぁぁっ！」[pcms][endhact]
+"Don't say it! Idiot! I can't take it anymore!"[pcms]
 *10692|
 [fc]
-わたしの周りに集っている、十人以上の男たちが、[r]
-下着からのぞいている割れ目を凝視していた。[pcms]
+The men gathered around me, more than ten of them, were staring[r]
+intently at the slit peeking out from my underwear.[pcms]
 *10693|
 [fc]
-まだ、生えていない無毛のそこを、[r]
-奇声を上げながら、ジロジロと見つめている。[pcms]
+They were staring at my hairless area, emitting strange cries as they[r]
+gawked.[pcms]
 *10694|
 [fc]
-レイプされて、身体中、隅々まで触られたのに、[r]
-そこを見られるのは、どうしようもなく恥ずかしかった。[pcms]
+Even though I've been touched all over my body and raped, being seen[r]
+there was unbearably embarrassing.[pcms]
 *10695|
 [fc]
-しかも、幼稚なはしゃぎ声を上げながら、[r]
-男たちがこぞって喜んでいるのは、屈辱だ。[pcms]
+Moreover, it was humiliating that the men were gleefully cheering with[r]
+childish excitement.[pcms]
 [backlay][evcg storage="EV30_10" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10696|
 [fc]
@@ -941,12 +930,12 @@
 「いやぁぁぁぁぁぁぁっ！　もうやめて……いやぁあぁあっ！」[pcms][endhact]
 *10698|
 [fc]
-さっきのラガーシャツに負けないほど、[r]
-巨大で歪な形をした棒だった。[pcms]
+It was a rod as huge and misshapen as the one belonging to Rugby-[r]
+Shirt.[pcms]
 *10699|
 [fc]
-それを見せびらかすように、[r]
-レスリング男が、ズボンの下から取り出す。[pcms]
+The wrestling man flaunted it as he pulled it out from under his[r]
+trousers.[pcms]
 *10700|
 [fc]
 [ns【]レスリング部員Ａ[】nse]
@@ -958,12 +947,12 @@
 「あぎぃぃぃぃぃぃっ！　んぎいぃぃぃぃぃぃっ！」[pcms][endhact]
 *10702|
 [fc]
-割れ目に、その巨大なものを突き立てると、[r]
-わたしのすぼまりに、ねじ込もうとしてきた。[pcms]
+When he thrust that huge thing into my slit, he tried to screw it into[r]
+my tightness.[pcms]
 *10703|
 [fc]
-手足を暴れさせるが、男たちはビクともせずに、[r]
-奇妙な笑顔で押さえつけてくる。[pcms]
+I flailed my limbs, but the men didn't budge an inch, pinning me down[r]
+with strange smiles on their faces.[pcms]
 *10704|
 [fc]
 [ns【]レスリング部員Ａ[】nse]
@@ -975,11 +964,11 @@
 「ひぎぃぃぃぃぃぃぃぃっ！　んいいいいいぃぃぃぃっ！」[pcms][endhact]
 *10706|
 [fc]
-わたしは、歯を食いしばってその強引な痛みに耐えていた。[pcms]
+I clenched my teeth and endured the forceful pain.[pcms]
 *10707|
 [fc]
-なのに……勇二を受け入れたわたしの小さな穴は、[r]
-はち切れそうになるまで広がって、それを受け入れていく。[pcms]
+Yet... my small hole, which had accepted Yuuji, stretched to the brink[r]
+of tearing and began to accept it.[pcms]
 *10708|
 [fc]
 [ns【]レスリング部員Ａ[】nse]
@@ -993,30 +982,29 @@
 「んぎゃぁぁぁぁぁぁぁぁっ！」[pcms][endhact]
 *10710|
 [fc]
-レスリング男は、少し溜めを作ったあと、[r]
-渾身の力を込めて腰を打ち付けてきた。[pcms]
+After a slight pause, the wrestling man thrust his hips with all his[r]
+might.[pcms]
 *10711|
 [fc]
-入るはずのない太さのものが、無理矢理にねじ込まれ、[r]
-子宮の入り口にまで届いている。[pcms]
+An impossibly thick object was forcibly twisted inside, reaching the[r]
+entrance of my womb.[pcms]
 *10712|
 [fc]
-丸太のような感触が、身体の内側から、[r]
-わたしを圧迫していた。[pcms]
+The sensation of a log-like object was pressing from the inside of my[r]
+body.[pcms]
 *10713|
 [fc]
-吐き気を催すほどの圧迫感と、[r]
-気絶しそうなほどの激痛で、わたしはのたうち回る。[pcms]
+The overwhelming pressure and excruciating pain made me writhe as if I[r]
+were about to faint or vomit.[pcms]
 *10714|
 [fc]
-でも、それすら許されない程に拘束されている身体は、[r]
-奇妙なダンスを踊るように、けいれんしていた。[pcms]
+But even that was not allowed; my restrained body convulsed as if[r]
+dancing a strange dance.[pcms]
 [se buf=1 storage="se_sex03" loop=true]
 *10715|
 [fc]
 [ns【]レスリング部員Ａ[】nse]
-「は、入ったぞぉぉぉぉぉぉっ！[r]
-　おまんこ気持ちいいぃぃぃっ！」[pcms][endhact]
+"Ha, it's in! Your pussy feels so good!"[pcms]
 [backlay][evcg storage="EV30_13" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10716|
 [fc]
@@ -1025,20 +1013,21 @@
 「うぐっ、んぐううっ、ぐいいぃぃっ、んぎいぃぃぃぃっ！」[pcms][endhact]
 *10717|
 [fc]
-昨夜の、勇二とのセックスとはまるで違う行為だった。[r]
-嬉しくすらあった初体験の痛みなんて、もう、思い出せないほどの激痛だ。[pcms]
+Last night's sex with Yuuji was completely different. The pain of my[r]
+first experience, which was even somewhat pleasant, is now completely[r]
+overshadowed by intense pain.[pcms]
 *10718|
 [fc]
 [ns【]レスリング部員Ａ[】nse]
 「んほっ、んほっ、純さんのおまんこっ！　おっほぉぉぉぉっ！」[pcms][endhact]
 *10719|
 [fc]
-レスリング男は、一度入ったその棒を縦横無尽に動かして、[r]
-わたしを陵辱していた。[pcms]
+The wrestling man moved his rod freely in all directions once inside,[r]
+violating me.[pcms]
 *10720|
 [fc]
-よだれを振りかけ、腰だけではなく、[r]
-全身を揺り動かしながら、わたしを犯している。[pcms]
+Drooling, he didn't just move his hips but shook his whole body as he[r]
+raped me.[pcms]
 [backlay][evcg storage="EV30_12" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10721|
 [fc]
@@ -1047,23 +1036,22 @@
 「ぎゃいいぃぃ、んぐぅぅっ、あぎゃぁぁぁぁっ！」[pcms][endhact]
 *10722|
 [fc]
-これは、セックスではなく、ただの暴力だった。[pcms]
+This wasn't sex; it was just violence.[pcms]
 *10723|
 [fc]
-少なくとも、わたしにとっては、[r]
-どうしようもないほどに乱暴な、獣の行為だ。[pcms]
+At least for me, it was an unbearably rough act of a beast.[pcms]
 *10724|
 [fc]
-苦しい、痛い、辛い、逃げたい、助けて欲しい……。[pcms]
+I'm in pain, it hurts, it's tough, I want to escape, I want someone to[r]
+help...[pcms]
 *10725|
 [fc]
-でも、レスリング男は、そんなことお構いなしに、[r]
-快楽を貪り食らっている。[pcms]
+But the wrestling man didn't care about such things and indulged in[r]
+pleasure.[pcms]
 *10726|
 [fc]
 [ns【]レスリング部員Ａ[】nse]
-「おまんこ、きつぅぅぅい！　みちみちで、[r]
-　チンポ締め付けられるぅぅぅっ！」[pcms][endhact]
+"Your pussy is so tight! It's squeezing my dick!"[pcms]
 [backlay][evcg storage="EV30_13" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10727|
 [fc]
@@ -1084,11 +1072,10 @@
 「い、いいな、俺も、セックスしてぇぇぇぇっ！」[pcms][endhact]
 *10731|
 [fc]
-男たちが興奮して、力任せに胸を握り潰してくる。[pcms]
+The men were excited and began to crush my breasts with brute force.[pcms]
 *10732|
 [fc]
-でも、わたしは、ただひたすらに耐えて、[r]
-歯を食いしばることしか出来なかった。[pcms]
+But all I could do was endure and clench my teeth.[pcms]
 *10733|
 [fc]
 [ns【]レスリング部員Ａ[】nse]
@@ -1101,23 +1088,23 @@
 「な、中に！　それは、やべてぇぇぇっ！」[pcms][endhact]
 *10735|
 [fc]
-スパッツと下着の上から挿入されていたときとは、わけが違う。[pcms]
+It's different from when he inserted it over my spats and underwear.[pcms]
 *10736|
 [fc]
-今、中に出されたら……最悪のことになるかも知れない。[pcms]
+If he ejaculates inside me now... it could be the worst outcome.[pcms]
 *10737|
 [fc]
-勇二とは、生でセックスしたけれども、[r]
-全部、外に出してもらっていた。[pcms]
+I had unprotected sex with Yuuji, but he ejaculated outside every[r]
+time.[pcms]
 *10738|
 [fc]
-なのに……こんなところで、中に出されるなんてっ！[pcms]
+But now... to be ejaculated inside in a place like this![pcms]
 *10739|
 [fc]
 [vo_ju s="jun0142"]
 [【純】]
-「中だけは駄目っ、出来ちゃうっ、妊娠しちゃう！[r]
-　こんなので妊娠なんかイヤッ！」[pcms][endhact]
+"Not inside, please! I could get pregnant! I don't want to get[r]
+pregnant like this!"[pcms]
 *10740|
 [fc]
 [ns【]ラグビー部員Ｂ[】nse]
@@ -1125,22 +1112,21 @@
 *10741|
 [fc]
 [ns【]柔道部員Ａ[】nse]
-「う、産んで欲しいっ！　丈夫な赤ちゃん、[r]
-　俺の赤ちゃん産んでくれぇぇぇっ！」[pcms][endhact]
+"Ugh, I want you to bear my child! A healthy baby, bear my baby!"[pcms]
 *10742|
 [fc]
 [ns【]レスリング部員Ａ[】nse]
 「孕ますぞぉぉぉぉっ！　俺の精液で、中出し決めるぞぉぉぉぉっ！」[pcms][endhact]
 *10743|
 [fc]
-レスリング男が、スパートをかけるように、[r]
-一気に腰を動かしていく。[pcms]
+The wrestling man started moving his hips all at once as if he were[r]
+sprinting.[pcms]
 *10744|
 [fc]
 [vo_ju s="jun0143"]
 [【純】]
-「いやぁぁぁぁぁぁっ！　それは許してぇぇぇぇぇっ！[r]
-　それだけはダメ！　お願い……お願いしま……あ、ああぁあっ！」[pcms][endhact]
+"No! Please spare me that! Anything but that! Please... please... ah,[r]
+ahhh!"[pcms]
 *10745|
 [fc]
 [ns【]レスリング部員Ａ[】nse]
@@ -1157,12 +1143,12 @@
 「んぎゃぁぁぁぁあぁぁぁぁぁっ！　んぐあぁぁぁぁぁあぁっ！」[pcms][endhact]
 *10747|
 [fc]
-ゴツゴツの歪な棒が、わたしの奥深くに埋め込まれると、[r]
-ビクビク引きつり始めた。[pcms]
+The rugged and misshapen rod was buried deep inside me, causing me to[r]
+twitch violently.[pcms]
 *10748|
 [fc]
-そして、先ほどよりもハッキリと、[r]
-温かい感触が下腹に広がっていく。[pcms]
+And then, more clearly than before, a warm sensation spread through my[r]
+lower abdomen.[pcms]
 *10749|
 [fc]
 [vo_ju s="jun0145"]
@@ -1170,10 +1156,10 @@
 「出てるっ！　いやぁぁぁっ！　抜いてっ！　抜いてぇぇ……」[pcms][endhact]
 *10750|
 [fc]
-胎内に、次から次へと熱いものが飛び込んでくる。[pcms]
+One after another, hot fluids leaped into my womb.[pcms]
 *10751|
 [fc]
-その、おぞましい温かさに、わたしは涙することしかできなかった。[pcms]
+All I could do was cry at the vile warmth of it.[pcms]
 [backlay][evcg storage="EV30_15" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10752|
 [fc]
@@ -1181,18 +1167,21 @@
 「んんっ！　ぐふうっ！　うううっ！」[pcms][endhact]
 *10753|
 [fc]
-全部出し切ったのか、レスリング男が巨大なものを抜き取っていく。[pcms]
+Having released everything, the wrestling man pulled out his massive[r]
+object.[pcms]
 [se buf=0 storage="seD017"]
 *10754|
 [fc]
-受け止めきれなかった大量の汚液が、[r]
-割れ目から堰を切って逆流していた。[pcms]
+An excessive amount of filthy liquid that couldn't be contained flowed[r]
+back out from the slit like a broken dam.[pcms]
 *10755|
 [fc]
-初めての中出しが、こんなおぞましいものになるなんて……。[pcms]
+To think my first time being creampied would be with such a repulsive[r]
+thing...[pcms]
 *10756|
 [fc]
-気持ちの悪い男の赤ちゃんを身ごもるのは、絶対に嫌だった。[pcms]
+I absolutely didn't want to conceive the baby of such a disgusting[r]
+man.[pcms]
 *10757|
 [fc]
 [ns【]レスリング部員Ａ[】nse]
@@ -1204,14 +1193,15 @@
 「いやああぁぁぁぁぁぁっ！　もうやめてぇぇぇぇっ！」[pcms][endhact]
 *10759|
 [fc]
-あれほど放出したのに、レスリング男のものは、[r]
-さっきよりもグロテスクに勃起している。[pcms]
+Despite having released so much, the wrestling man's thing was even[r]
+more grotesquely erect than before.[pcms]
 *10760|
 [fc]
-でも、その男がわたしに接触する直前、ふわっと身体が浮き上がった。[pcms]
+But just before that man could touch me again, I felt my body being[r]
+lifted up lightly.[pcms]
 *10761|
 [fc]
-わたしではない、身体の大きな、レスリング男の身体がだ。[pcms]
+It wasn't me, it was the large body of the wrestling man.[pcms]
 *10762|
 [fc]
 [ns【]柔道部員Ａ[】nse]
@@ -1220,17 +1210,17 @@
 [backlay][black_toplayer][trans method=universal rule="RtoL" vague=100 time=200][wt2][hide_chara_int]
 *10763|
 [fc]
-柔道着を着た男が、レスリング男に掴みかかると、[r]
-その身体を床に叩き付けるように投げ飛ばしていく。[pcms]
+A man in a judo uniform grabbed the wrestling man and threw him to the[r]
+floor with a slam.[pcms]
 [backlay][bg storage="BG04b"][trans time=500 method=crossfade][wt2]
 *10764|
 [fc]
-その勢いは、素人目には追い切れないほどに早く、[r]
-常人離れした怪力に思えた。[pcms]
+The speed of the throw was too fast for an amateur's eyes to follow,[r]
+and it seemed like a display of superhuman strength.[pcms]
 *10765|
 [fc]
-床で伸びているレスリング男は……首から上が、[r]
-奇妙な角度に曲がっている。[pcms]
+The wrestling man lying on the floor... his neck was bent at a strange[r]
+angle from his head.[pcms]
 *10766|
 [fc]
 [vo_ju s="jun0147"]
@@ -1243,8 +1233,8 @@
 「ほふっ、今度は、俺の番だぁぁぁぁっ！」[pcms][endhact]
 *10768|
 [fc]
-すでに道着を脱ぎさった柔道男は、[r]
-むき出しの巨大なものを露出しながら近づいてきた。[pcms]
+The judo man, who had already stripped off his gi, approached with his[r]
+massive bare thing exposed.[pcms]
 [backlay][kan_ru layer=3 x="&sf.ra_lo_x[3]" y="&sf.ra_lo_y[0]"][trans time=150 method=crossfade][wt]
 *10769|
 [fc]
@@ -1252,14 +1242,14 @@
 「つ、次は俺だぞぉぉぉぉぉっ！」[pcms][endhact]
 *10770|
 [fc]
-部屋の中に集まっている、十人以上の男たちが、[r]
-[ruby text="とき"]鬨の声を上げるように、声を唱和させている。[pcms]
+More than ten men gathered in the room raised their voices in a war[r]
+cry, chanting in unison.[pcms]
 *10771|
 [fc]
-この陵辱は……ここに居る全員が満足するまでつづく……。[pcms]
+This humiliation... will continue until everyone here is satisfied...[pcms]
 *10772|
 [fc]
-わたしが、生きている限り、ずっと……。[pcms]
+As long as I am alive, forever...[pcms]
 *10773|
 [fc]
 [vo_ju s="jun0148"]
@@ -1267,7 +1257,7 @@
 「もうやめてぇぇぇぇぇぇっ！」[pcms][endhact]
 *10774|
 [fc]
-わたしの叫び声は……男たちの声に、かき消されていった。[pcms]
+My screams... were drowned out by the voices of the men.[pcms]
 [if exp="tf.scene_mode"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]

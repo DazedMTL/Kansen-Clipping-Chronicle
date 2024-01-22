@@ -14,32 +14,35 @@
 「んっ、くっ、くっ……ふぅ」[pcms][endhact]
 *1889|
 [fc]
-結構、喉乾いてたんだな。[r]
-蒸し暑かったから、意外と寝汗をかいてたのかもしれない。[pcms]
+Yeah, I was pretty thirsty. It was so muggy that I might have sweated[r]
+more than I realized in my sleep.[pcms]
 *1890|
 [fc]
-缶コーヒーをほぼ一気に飲み干し、ひと息つくと、涼しい風か吹いてきた。[pcms]
+I downed the canned coffee almost in one gulp, and as I took a[r]
+breather, a cool breeze began to blow.[pcms]
 *1891|
 [fc]
-廊下の窓が全部開け放たれているから、[r]
-部屋の中に居るよりよっぽど涼しくていい。[pcms]
+Since all the windows in the hallway are open, it's much cooler and[r]
+more pleasant here than in my room.[pcms]
 *1892|
 [fc]
-いっそ、ここで寝ちゃおうかな……。[pcms]
+Maybe I should just sleep here...[pcms]
 *1893|
 [fc]
-そんなことを考えながら、手の中で空き缶を転がし……。[pcms]
+While thinking such things, I rolled the empty can around in my[r]
+hand...[pcms]
 *1894|
 [fc]
 [【央】]
 「もうちょっと涼んでから帰ろう」[pcms][endhact]
 *1895|
 [fc]
-この涼しさに慣れてしまったら、あの蒸し暑い部屋に帰るなんて、[r]
-とてもじゃないけど無理だ。[pcms]
+If I get used to this coolness, there's no way I can go back to that[r]
+stuffy room.[pcms]
 *1896|
 [fc]
-ゴミ箱に空き缶を捨てると、特にあてもなく歩き出した。[pcms]
+After tossing the empty can into the trash, I started walking[r]
+aimlessly.[pcms]
 [sysbt_meswin clear]
 [backlay][black_toplayer]
 [trans method=universal rule="blindX" vague=50 time=1000][wt2][hide_chara_int]
@@ -48,25 +51,27 @@
 [sysbt_meswin]
 *1897|
 [fc]
-今夜は見回りの人間がいないのか、足音は俺のもの以外聞こえてこない。[pcms]
+Tonight there seems to be no one else on patrol; I can't hear any[r]
+footsteps other than my own.[pcms]
 *1898|
 [fc]
-袋女――[pcms]
+???--[pcms]
 *1899|
 [fc]
-累先輩も今日は先生代理で疲れたのか、現れる様子もないし、他の学園の[r]
-見回りも見かけないのは、ウチと同じような状況だったりするんだろうか。[pcms]
+Maybe Rui-senpai is too tired from substituting as a teacher today to[r]
+show up, and I haven't seen any patrols from other schools either.[r]
+Maybe they're in the same situation as us.[pcms]
 *1900|
 [fc]
 [【央】]
 「ははっ、この涼しさ、独り占めだな」[pcms][endhact]
 *1901|
 [fc]
-なんだかちょっと楽しくなってきたな。[pcms]
+I'm starting to have a bit of fun with this.[pcms]
 *1902|
 [fc]
-昼とは違う、施設の姿。[r]
-もう少し楽しませてもらうことにしよう。[pcms]
+The facility looks different at night than during the day. I think[r]
+I'll enjoy this a little longer.[pcms]
 [backlay][bg storage="BG07c"]
 [trans method=universal rule="blindX" vague=50 time=1000][wt2]
 *1903|
@@ -75,46 +80,46 @@
 「こっちは……確か旧館だよな」[pcms][endhact]
 *1904|
 [fc]
-今はもう使われてないって話だったけど、[r]
-繁盛期だと新館だけじゃ間に合わないから使っているみたいだ。[pcms]
+I heard it's not used anymore, but during peak times they have to use[r]
+it because the new building alone isn't enough.[pcms]
 *1905|
 [fc]
-部屋の前を通るたびに、ドアの向こうから豪快ないびきや寝苦しそうな[r]
-うめき声、そして咳なんかが聞こえてくる。[pcms]
+As I pass by each room, I can hear loud snoring, pained groans, and[r]
+coughs coming from behind the doors.[pcms]
 *1906|
 [fc]
-そのなかでも、咳が一番多いかな。[pcms]
+Out of all those sounds, coughing seems to be the most frequent.[pcms]
 *1907|
 [fc]
-本当に大流行してるんだな、夏風邪。[pcms]
+There really is an epidemic of summer colds going around.[pcms]
 *1908|
 [fc]
-ここまで流行ってると、例のサイトに書かれていた生物兵器説も[r]
-あながちただの噂ってわけじゃないような気がしてくる。[pcms]
+With it spreading this much, the bioweapon theory written on that site[r]
+doesn't seem like just a rumor anymore.[pcms]
 *1909|
 [fc]
-そんなことを考えながら歩き続けると、ついにはいびきも咳も[r]
-聞こえなくなってきた。[pcms]
+As I continued to walk with these thoughts, eventually the snoring and[r]
+coughing faded away.[pcms]
 *1910|
 [fc]
-この辺りはもう宿泊にも使われていない区画なのかな。[r]
-換気窓も全部閉められてるみたいだし、少し蒸し暑くなってきた。[pcms]
+This area might not be used for lodging anymore. The ventilation[r]
+windows are all closed too, and it's starting to feel a bit muggy.[pcms]
 *1911|
 [fc]
-引き返そうかな……いや、ここまで来たんだから、[r]
-折角だし全フロア制覇と行こうじゃないか。[pcms]
+Should I turn back... No, since I've come this far, let's go for a[r]
+complete sweep of all floors.[pcms]
 *1912|
 [fc]
-オートマッピングの空白部分は、[r]
-全部埋めないとなんだか気持ち悪いし。[pcms]
+The blank spots on the auto-mapping feel uncomfortable if they're not[r]
+filled in.[pcms]
 *1913|
 [fc]
-完全にゲーム感覚で廊下を進んでいく俺の前に見えてきたのは、[r]
-大きな引き戸だった。[pcms]
+With a game-like sense, I continued down the hallway and what appeared[r]
+before me was a large sliding door.[pcms]
 *1914|
 [fc]
-これは……旧館の体育館かな？[r]
-と、なると、施設の構造的に、ここがゴールってことになりそうだけど……。[pcms]
+This must be... the old building's gymnasium? If so, structurally[r]
+speaking, this would be the goal...[pcms]
 [stopbgm]
 *1914a|
 [fc]
@@ -122,59 +127,61 @@
 「開いてる……？」[pcms][endhact]
 *1915|
 [fc]
-俺の前に誰かが来たのか、引き戸は少しだけ開いていた。[pcms]
+The sliding door was slightly open as if someone had come before me.[pcms]
 *1916|
 [fc]
-昼間使用して、完全に閉めるのを忘れてたっていう可能性も[r]
-ないわけじゃないけど、旧館の体育館って使ってたとこあるのかな。[pcms]
+It's not impossible that they used it during the day and forgot to[r]
+close it completely, but I wonder if there's any part of the old[r]
+gymnasium that's still in use.[pcms]
 [se buf=0 storage="seA021"]
 [backlay][bg storage="BG10c"][trans time=500 method=crossfade][wt2]
 [bgm storage="bgm09" time=100]
 *1917|
 [fc]
-……ここまで来たのは、別に須田が言っていた[r]
-アホみたいなエロ話に乗せられたわけじゃない。[pcms]
+...I didn't come all this way just because I was swayed by Suda's[r]
+ridiculous erotic tales.[pcms]
 *1918|
 [fc]
-そう、そこのところは勘違いしないでほしいな！[pcms]
+Yeah, I really want that to be clear![pcms]
 *1919|
 [fc]
-少しだけ目を閉じ、闇に慣らしてから開けると、[r]
-月明かりだけでも辺りを結構見回せるようになった。[pcms]
+I closed my eyes for a moment to adjust to the darkness, and when I[r]
+opened them again, I could make out my surroundings quite well even[r]
+with just the moonlight.[pcms]
 *1920|
 [fc]
-ゆっくり、ゆっくりと、足音を殺して歩く。[pcms]
+I walked slowly and quietly, muffling my footsteps.[pcms]
 *1921|
 [fc]
-別に意味なんかないけど、そうした方がいいような気がしたのと、[r]
-その方が雰囲気に似合っているから。[pcms]
+There's no particular reason for it, but it felt right to do so, and[r]
+it matched the atmosphere better.[pcms]
 *1922|
 [fc]
-真ん中程を過ぎ、奥の方にあるはずのステージが薄ぼんやりと見えてきた頃、[r]
-風の音や梢の揺れる音とは違う、生き物の声のようなものが聞こえてきた。[pcms]
+As I passed the middle of the gym and started to see the stage at the[r]
+back faintly appear, I heard something different from the wind or[r]
+rustling treesit sounded like a living creature's voice.[pcms]
 *1923|
 [fc]
-何だろう。[r]
-動物の鳴き声……？[pcms]
+What could it be? The cry of an animal...?[pcms]
 *1924|
 [fc]
-いや、これは……人の声だ。[r]
-しかも……。[pcms]
+No, this is... a human voice. And moreover...[pcms]
 *1925|
 [fc]
-早くなる鼓動を必死で抑え、[r]
-震える脚に活を入れて忍び足をなんとか維持する。[pcms]
+I desperately tried to calm my quickening heartbeat and forced my[r]
+trembling legs to maintain my stealthy pace.[pcms]
 *1926|
 [fc]
-須田の話だと、桃源郷とかシャングリ=ラとかアルカディアとか言われてる[r]
-場所は、確か体育倉庫だったはず。[pcms]
+According to Suda's story, the place called paradise or Shangri-La or[r]
+Arcadia was supposed to be the physical education storage room.[pcms]
 *1927|
 [fc]
-体育館のステージから体育倉庫には段差が有り、その段差のため、[r]
-体育倉庫と舞台を繋ぐ換気窓は――[pcms]
+There's a step down from the gymnasium stage to the storage room, and[r]
+because of that step, the ventilation window connecting them is--[pcms]
 *1928|
 [fc]
-ステージ上から体育倉庫を覗きやすい位置と高さにある……らしい。[pcms]
+Positioned at a height and location that makes it easy to peek into[r]
+the storage room from above the stage... apparently.[pcms]
 *1929|
 [fc]
 [vo_ri s="riri0128"]
@@ -182,13 +189,15 @@
 「ん、ふっ……くぅっ、ふぅんっ……」[pcms][endhact]
 *1930|
 [fc]
-女の子の声……しかも、喘ぎ声だ……！[pcms]
+A girl's voice... and moreover, moans...![pcms]
 *1931|
 [fc]
-押し殺したような甘い声が、闇の中を漂うようにして聞こえてくる。[pcms]
+Sweet voices stifled as if floating through the darkness reached my[r]
+ears.[pcms]
 *1932|
 [fc]
-間違いない、ステージから……体育倉庫からだ。[pcms]
+No doubt about it, they're coming from... the storage room off the[r]
+stage.[pcms]
 *1933|
 [fc]
 生唾を飲み込み、より慎重に、ゆっくりと近付いていく。[pcms]
@@ -391,52 +400,57 @@
 [backlay][bg storage="BG10c"][trans method=universal rule="blindX" vague=50 time=1000][wt2]
 *1974|
 [fc]
-邪魔をしないように物音を立てず……。[pcms]
+With my footsteps still aimless...[pcms]
 [backlay][bg storage="BG07c"][trans method=universal rule="blindX" vague=50 time=1000][wt2]
 *1975|
 [fc]
-茫然としたままの足取りで……。[pcms]
+By the time I realized it, I had returned to the vending machines in[r]
+the new building.[pcms]
 [backlay][bg storage="BG03c"][trans method=universal rule="blindX" vague=50 time=1000][wt2]
 *1976|
 [fc]
-気付いた時には、新館の自販機の前まで戻ってきていた。[pcms]
+In this place where a cool breeze blows through, I sit down on a bench[r]
+with my heavy body and let out a big sigh.[pcms]
 *1977|
 [fc]
-涼しい風が吹きこんでくるこの場所で、[r]
-ベンチに重い体を下ろして、大きなため息をついた。[pcms]
+Somehow... it's a huge shock.[pcms]
 *1978|
 [fc]
-何だか……スゴくショックだ。[pcms]
+I feel as if I've been knocked down, with a lump of lead settled in[r]
+the pit of my stomach.[pcms]
 *1979|
 [fc]
-打ちのめされたような気分に、腹の底に鉛の塊が入り込んだような、[r]
-そんな感じになってしまっている。[pcms]
+But beneath that--[pcms]
 *1980|
 [fc]
-けれど、その下では――[pcms]
+Before I know it, my painfully erect penis is pushing up against my[r]
+jersey pants as if it's about to burst through.[pcms]
 *1981|
 [fc]
 [【央】]
 「心と体は別物……ってことか？」[pcms][endhact]
 *1982|
 [fc]
-気付くと、痛いほどに勃起しきったペニスが、[r]
-ジャージのズボンを突き破らんばかりに押し上げていた。[pcms]
+I can't go home like this... I guess I'll stop by the bathroom first[r]
+before heading back.[pcms]
 *1983|
 [fc]
-これじゃ、流石に帰れないな……一旦、[r]
-トイレに寄ってから帰るか。[pcms]
+The image of Jun being licked all over her buttocks and privates is[r]
+seared into my eyes, and her high-pitched moans continue to echo in my[r]
+ears.[pcms]
 *1984|
 [fc]
-目に焼きついた、お尻やアソコを舐め回される純の姿と、[r]
-耳の奥で響き続けている甲高い喘ぎ声。[pcms]
+And then there's the sight of Riri sticking out her buttocks and[r]
+playing with herself with her fingers, along with her muffled sweet[r]
+voice.[pcms]
 *1985|
 [fc]
-そして、お尻を突き出し自分の指で弄っている梨里の姿と、[r]
-押し殺した甘い声。[pcms]
+...I wonder how long I'll end up staying in the bathroom...[pcms]
 *1986|
 [fc]
-……どのくらい、トイレに篭ることになるのかな……。[pcms]
+I hold my breath, listening to the sound of my heart beating like a[r]
+rapid drum, as I hide myself as if sneaking behind a partition[r]
+curtain.[pcms]
 [stopse_all]
 [sysbt_meswin clear]
 [backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]
@@ -448,24 +462,23 @@
 [fc]
 *1987|このまま最後まで見る
 [fc]
-息を飲み、早鐘のように鼓動する心臓の音を聞きながら、[r]
-割り緞帳の中に潜り込むようにして身を隠す。[pcms]
+If I stay here, I won't be easily found by Riri or anyone who might[r]
+come from outside.[pcms]
 *1988|
 [fc]
-ここにいれば、梨里にも、外から誰か来たとしても、[r]
-そうそう見つかったりはしないだろう。[pcms]
+When I reach for my crotch, my penis throbs at the same speed as my[r]
+heart, no, even faster, painfully erect.[pcms]
 *1989|
 [fc]
-股間に手を伸ばすと、心臓と同じ早さで、[r]
-いや、それ以上の早さでペニスが脈打ち、痛いほどに勃起しきっている。[pcms]
+While gripping it tightly, I stare intently at Riri and inside the gym[r]
+storage room.[pcms]
 *1990|
 [fc]
-それを握り締めながら、梨里と体育倉庫の中を凝視する。[pcms]
+Suda...![pcms]
 *1991|
 [fc]
-須田……！[pcms]
+The Shangri-La... Arcadia... The utopia was right here...![pcms]
 *1992|
 [fc]
-桃源郷は……シャングリ=ラは……アルカディアは……！[r]
-理想郷はここにあったぞ……！[pcms]
+The Shangri-La... Arcadia... The utopia was right here...![pcms]
 [jump storage="0225.ks"]

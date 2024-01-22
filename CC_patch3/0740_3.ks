@@ -19,38 +19,40 @@
 「では……キミのを僕の中に招き入れようか」[pcms][endhact]
 *9803|
 [fc]
-青木はあおむけになて寝そべっているが、累の顔は見えていない。[r]
-いわゆる背面騎乗位の体勢で、まさにその瞬間、脱童貞を遂げつつある。[pcms]
+Aoki is lying on his back, but Rui's face is not visible. In what's[r]
+called the reverse cowgirl position, he is in the very moment of[r]
+losing his virginity.[pcms]
 *9804|
 [fc]
 [ns【]青木[】nse]
 「しかし……蘆名がここまでエロいとは思ってもみなかったよ」[pcms][endhact]
 *9805|
 [fc]
-青木から累は見えない。だが状況は理解している。[r]
-彼女はその全身を駆使して男子のペニスに奉仕すると宣言していた。[pcms]
+Aoki can't see Rui, but he understands the situation. She had declared[r]
+that she would use her entire body to serve the boy's penis.[pcms]
 *9806|
 [fc]
 [vo_ru s="rui0593"]
 [【累】]
-「んっ……たくましいね……キミのペニスも……僕のが溶かされて[r]
-　しまいそう……はあああんっ！」[pcms][endhact]
+"Mmm... so sturdy... Your penis too... It feels like it's going to[r]
+melt me away... Haaaah!"[pcms]
 *9807|
 [fc]
-ゆっくりと、だが次第に焦れたように累は腰を沈めて、青木のペニスを[r]
-完全にその膣内へと受け入れていた。[pcms]
+Slowly, but with increasing impatience, Rui lowered her hips, fully[r]
+accepting Aoki's penis inside her vagina.[pcms]
 [se buf=0 storage="se_sex01"]
 [evcg白フラ storage="EV20_02" layer=0 page=back visible=true left=0 top=0]
 *9808|
 [fc]
 [ns【]青木[】nse]
-「くッ……これが女……これが蘆名のマンコの感触……か。童貞を、[r]
-　蘆名みたいにエロい美人で捨てられて感謝するよ」[pcms][endhact]
+"Guh... this is a woman... this is the sensation of Ashina's pussy...[r]
+I'm grateful to lose my virginity to someone as erotic and beautiful[r]
+as Ashina."[pcms]
 [se buf=1 storage="se_sex03" loop=true]
 *9809|
 [fc]
-素っ気ない風に装いながらも青木は、初めて味わう快感に目がくらみそう[r]
-だった。[pcms]
+Though he tried to play it cool, Aoki was nearly blinded by the[r]
+pleasure he felt for the first time.[pcms]
 *9810|
 [fc]
 [vo_ru s="rui0594"]
@@ -58,8 +60,9 @@
 「それはどうも。僕も……ふはあ……ああっ……愉しませてもらっている」[pcms][endhact]
 *9811|
 [fc]
-累はただ単に青木と背面騎乗位で交わっているだけではなかった。[r]
-右手には台場の、左手には郷田のペニスを握って手コキもしている。[pcms]
+Rui was not just engaging in reverse cowgirl with Aoki. In her right[r]
+hand, she held Daiba's penis, and in her left, she held Gouda's,[r]
+performing handjobs.[pcms]
 *9812|
 [fc]
 [ns【]台場[】nse]
@@ -70,12 +73,12 @@
 「エロ会長っ……なんて動きだ……男の弱点を知り尽くしてやがるッ！」[pcms][endhact]
 *9814|
 [fc]
-そして、右腕のわきの下には千葉の、左腕のわきの下には藤村のペニスを、[r]
-挟んでいる。[pcms]
+And under her right armpit was Chiba's penis, and under her left[r]
+armpit was Fujimura's, sandwiched between them.[pcms]
 *9815|
 [fc]
-脇コキというマニアックな行為に応じたのはセックス全般に慣れていて、[r]
-今回、童貞ではなかったと発覚した二人だった。[pcms]
+The two who responded to the niche act of armpit jobs were experienced[r]
+in all things sex and were revealed not to be virgins this time.[pcms]
 *9816|
 [fc]
 [ns【]千葉[】nse]
@@ -86,36 +89,37 @@
 「部長……俺、感激ですよ……やってみたかったから……これ」[pcms][endhact]
 *9818|
 [fc]
-今回の脇コキは手コキと連動している。[r]
-腕の動作の派生で、おまけで快感を得られるという代物だった。[pcms]
+This time, the armpit job was coordinated with the handjob. It was a[r]
+bonus pleasure derived from the movement of the arms.[pcms]
 *9819|
 [fc]
 [ns【]鹿島[】nse]
 「先輩……俺……フェラしてもらえるなんて……うれしいっス！」[pcms][endhact]
 *9820|
 [fc]
-そして、鹿島は累の顔にペニスを突き付けていて、口と舌でフェラチオを[r]
-してもらっている。[pcms]
+And Kashima was pressing his penis against Rui's face, receiving a[r]
+blowjob with her mouth and tongue.[pcms]
 *9821|
 [fc]
-彼ら以外の男子は学年を問わず、累を中核としたこの集合体の周囲を[r]
-取り囲み、痴態を観賞してオナニーすることしかできない。[pcms]
+The other boys, regardless of grade level, could only surround this[r]
+collective centered around Rui, watching the lewd act and[r]
+masturbating.[pcms]
 *9822|
 [fc]
 [ns【]江川[】nse]
 「ちきしょう……ジャンケンにさえ勝ってれば俺だって……」[pcms][endhact]
 *9823|
 [fc]
-皮肉なことにジャンケンに敗れまくった江川は、これまでの行為でも[r]
-あぶれていたが、今回、決定的に行為に加わる機会を失っていた。[pcms]
+Ironically, Egawa, who had lost at rock-paper-scissors repeatedly, had[r]
+been left out of the activities so far and had definitively missed his[r]
+chance to join in this time.[pcms]
 *9824|
 [fc]
-他の男子は多かれ少なかれ、最低でも一回以上は累による行為で射精を[r]
-させてもらっている。[pcms]
+The other boys had all ejaculated at least once due to Rui's actions.[pcms]
 *9825|
 [fc]
-だが江川という男子だけは完璧何もしてもらっていない。[r]
-彼の欲情は燻り続けているだけだった。[pcms]
+But only Egawa had received nothing at all. His lust continued to[r]
+smolder.[pcms]
 *9826|
 [fc]
 [vo_ru s="rui0595"]
@@ -132,28 +136,30 @@
 [射精フラB]
 *9828|
 [fc]
-青木は、あっけなく累の腰振りが生んだ快感の刺激に屈服し射精していた。[r]
-初めての膣内射精は極上の快楽ではあったが、不満も多々あった。[pcms]
+Aoki ejaculated helplessly to the pleasure produced by Rui's hip[r]
+movements. His first vaginal ejaculation was indeed a supreme[r]
+pleasure, but it left him with many dissatisfactions.[pcms]
 [backlay][evcg storage="EV20_04" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *9829|
 [fc]
 [vo_ru s="rui0596"]
 [【累】]
-「すまなかったね……自分でもどうしようもなくて……腰が勝手に動いて[r]
-　しまったんだよ」[pcms][endhact]
+"I'm sorry... I couldn't help it... My hips just started moving on[r]
+their own."[pcms]
 *9830|
 [fc]
-赤裸々な告白をする累の顔は見えなかったが青木はその恥じらいに興奮して[r]
-射精直後のはずのペニスを膣内で再び熱く硬く勃起させていた。[pcms]
+Aoki couldn't see Rui's face as she made her candid confession, but he[r]
+was excited by her shyness and felt his penis harden and heat up[r]
+inside her vagina even after just ejaculating.[pcms]
 *9831|
 [fc]
 [ns【]青木[】nse]
-「まあ、こっちはサービスしてもらう側だし、ぜいたくは言わないでおく。[r]
-　それに……すぐ復活してくれたしな」[pcms][endhact]
+"Well, I'm on the receiving end of this service, so I won't complain[r]
+about luxury. Besides... you revived so quickly."[pcms]
 [se buf=1 storage="se_sex03" loop=true]
 *9832|
 [fc]
-青木は自分からペニスで累を突き上げてやった。[pcms]
+Aoki thrust into Rui with his penis from below on his own initiative.[pcms]
 *9833|
 [fc]
 [vo_ru s="rui0597"]
@@ -161,8 +167,8 @@
 「ああん♪」[pcms][endhact]
 *9834|
 [fc]
-累もその突き上げで青木の復活を知り、薄く笑う。[r]
-その口元に焦れた鹿島のペニスが突き付けられた。[pcms]
+Rui knew of Aoki's revival through that thrust and smiled thinly.[r]
+Kashima's impatient penis was pressed against her mouth.[pcms]
 *9835|
 [fc]
 [vo_ru s="rui0598"]
@@ -174,8 +180,8 @@
 「そ、それならお願いしますよ……早く……」[pcms][endhact]
 *9837|
 [fc]
-鹿島に急かされて累はそのペニスに対しての奉仕に専念する。[r]
-ヨダレを垂らして、それをペニス全体に塗りたくるようにする。[pcms]
+Urged by Kashima, Rui focused on servicing his penis. She drooled over[r]
+it, spreading saliva all over it.[pcms]
 [backlay][evcg storage="EV20_05" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *9838|
 [fc]
@@ -188,8 +194,8 @@
 「おしゃぶりしてくれてる……夢みたいだッ！」[pcms][endhact]
 *9840|
 [fc]
-鹿島は累がしてくれるフェラチオ行為に夢中だった。[r]
-初めてだからというのもあるが、その技巧は素晴らしかった。[pcms]
+Kashima was engrossed in the blowjob Rui was giving him. It was his[r]
+first time, but her technique was excellent.[pcms]
 *9841|
 [fc]
 [vo_ru s="rui0600"]
@@ -198,7 +204,7 @@
 *9842|
 [fc]
 累はそう言ったが、鹿島としても、せっかく確保したこの快楽を
-まだまだ愉しみたかった。[pcms]
+He still wanted to enjoy it more.[pcms]
 *9843|
 [fc]
 [ns【]台場[】nse]
@@ -209,19 +215,18 @@
 「こっちの手コキも忘れてもらった困る」[pcms][endhact]
 *9845|
 [fc]
-フェラチオに専念したことで、おろそかになっているぞと、[r]
-千葉と台場が累を急かす。[pcms]
+Chiba and Daiba urged Rui on, saying she was neglecting them due to[r]
+her focus on the blowjob.[pcms]
 [backlay][evcg storage="EV20_06" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *9846|
 [fc]
 [vo_ru s="rui0601"]
 [【累】]
-「あははは……悪かったね……いっそのこと、もう射精してしまいたい[r]
-　かな？」[pcms][endhact]
+"Ahahaha... sorry about that... maybe you just want to ejaculate now?"[pcms]
 *9847|
 [fc]
-その気になれば、いつでもそうできるのだと言わんばかりに累の両手の指は[r]
-ピアノの演奏でもするような滑らかさで動く。[pcms]
+As if saying she could make them ejaculate anytime they wanted, Rui's[r]
+fingers on both hands moved with the smoothness of playing a piano.[pcms]
 *9848|
 [fc]
 [ns【]台場[】nse]
@@ -232,8 +237,8 @@
 「独占したくなるな……くうッ？」[pcms][endhact]
 *9850|
 [fc]
-単調な刺激に退屈していた二人だったが、緩急織り交ぜての累の手コキには[r]
-何の不満もないようだった。[pcms]
+The two had been bored with monotonous stimulation, but they had no[r]
+complaints about Rui's handjob that mixed slow and fast movements.[pcms]
 *9851|
 [fc]
 [vo_ru s="rui0602"]
@@ -241,8 +246,8 @@
 「キミたちも退屈だったかい？」[pcms][endhact]
 *9852|
 [fc]
-累は手コキに注力すると同時に、左右の脇に挟んだペニスにも変化を付けた[r]
-刺激を与えていく。[pcms]
+As Rui focused on the handjob, she also varied the stimulation for the[r]
+penises sandwiched under her arms.[pcms]
 *9853|
 [fc]
 [ns【]千葉[】nse]
@@ -253,13 +258,14 @@
 「俺も」[pcms][endhact]
 *9855|
 [fc]
-千葉と藤村は、脇の下の微妙な変化が生む繊細な快感を愉しんでいた。[r]
-もともと不満を感じてはいないようだった。[pcms]
+Chiba and Fujimura enjoyed the delicate pleasure produced by the[r]
+subtle changes under their armpits. They seemed not to have felt any[r]
+dissatisfaction in the first place.[pcms]
 *9856|
 [fc]
 [ns【]千葉[】nse]
-「たまに蘆名のおっぱい……下乳にもこすってもらえるし、ぜいたくな[r]
-　ご奉仕で面白いよ」[pcms][endhact]
+"Sometimes Ashina rubs our penises against her underboob... It's a[r]
+luxurious service that's quite interesting."[pcms]
 *9857|
 [fc]
 [ns【]藤村[】nse]
@@ -269,16 +275,18 @@
 [fc]
 [vo_ru s="rui0603"]
 [【累】]
-「はあ……たくさんのペニスに触れられて……身体の奥でも感じて……[r]
-　ふわあああっ……あ……ゆっくり溶けていくみたいで……イキそう……だ」[pcms][endhact]
+"Ahh... being touched by so many penises... feeling it deep inside...[r]
+fuwaaaah... ah... it feels like I'm slowly melting away... I'm going[r]
+to cum..."[pcms]
 *9859|
 [fc]
-その気になれば累は、さっき青木に射精させてしまったように自分で快感を[r]
-強めて絶頂に近付くことができる。[pcms]
+If she wanted to, Rui could intensify her pleasure and approach climax[r]
+like she made Aoki ejaculate earlier.[pcms]
 *9860|
 [fc]
-だが、あえて今はそうせず絶頂へと自然に到達するように振る舞っていた。[r]
-多くのペニスに接した興奮が転化した快感は徐々に腰の動きを加速させる。[pcms]
+But she deliberately did not do so now, behaving as if naturally[r]
+reaching climax. The excitement from touching many penises transformed[r]
+into pleasure that gradually accelerated her hip movements.[pcms]
 *9861|
 [fc]
 [ns【]青木[】nse]
@@ -290,16 +298,17 @@
 「イクっ……僕もうイクっ……みんなも……みんなも出してえッ！」[pcms][endhact]
 *9863|
 [fc]
-累の切羽詰まった声音と腰の動きの加速は、集合体すべての快感を増幅[r]
-させて、射精を促す。[pcms]
+Rui's urgent voice and the acceleration of her hip movements amplified[r]
+the pleasure of the entire collective and encouraged ejaculation.[pcms]
 *9864|
 [fc]
 [ns【]青木[】nse]
 「うおおおおおおおッ！」[pcms][endhact]
 *9865|
 [fc]
-青木が吼えて、下からペニスで突き上げてくる。[r]
-累もそれに同調しながら両手、口、脇の下すべてを駆使する。[pcms]
+Aoki roared and thrust up from below with his penis. Rui also[r]
+synchronized with him while using both hands, mouth, and armpits to[r]
+their fullest.[pcms]
 *9866|
 [fc]
 [vo_ru s="rui0605"]
@@ -312,28 +321,29 @@
 [射精フラB]
 *9867|
 [fc]
-淫らなその叫びと共に青木の射精を膣内で受け累は絶頂し、[r]
-奉仕されていた男たちも射精する。[pcms]
+With that lewd cry, Aoki ejaculated inside Rui as she climaxed, and[r]
+the men being serviced also ejaculated.[pcms]
 [backlay][evcg storage="EV20_08" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *9868|
 [fc]
 [vo_ru s="rui0606"]
 [【累】]
-「ふはあ……あ……身体中……精液の匂いとべたべたで……ヌルヌルに[r]
-　なってるね……ふふ……僕にふさわしい……」[pcms][endhact]
+"Fwahh... ah... my whole body is sticky and slippery with the smell of[r]
+semen... hehe... it suits me..."[pcms]
 *9869|
 [fc]
-累自身、ここまで大人数での乱交は初めての経験だった。[pcms]
+Rui herself had never experienced such a large group orgy before.[pcms]
 *9870|
 [fc]
 [vo_ru s="rui0607"]
 [【累】]
-「ナマでペニス……臭くて熱い精液まみれで……たまらないよ……[r]
-　病みつきになったら……どうしよう……」[pcms][endhact]
+"Raw penises... covered in smelly, hot semen... it's irresistible...[r]
+what if I get addicted..."[pcms]
 [backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]
 *9871|
 [fc]
-わずかな休息と身支度を経て、累はまだ快感を求めて男子たちと交わり続ける。[pcms]
+After a brief rest and getting ready, Rui continued to engage with the[r]
+boys, still seeking pleasure.[pcms]
 [se buf=1 storage="se_sex03" loop=true]
 [backlay][evcg storage="EV20_10" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *9872|
@@ -342,8 +352,8 @@
 「ちきしょうッ！　また俺だけがッ！」[pcms][endhact]
 *9873|
 [fc]
-男子たちの配置は変更されていたが、またしても二年生の江川は見ていて[r]
-オナニーするだけとなっていた。[pcms]
+The arrangement of the boys had changed, but once again, a second-year[r]
+student named Egawa was left just watching and masturbating.[pcms]
 *9874|
 [fc]
 [vo_ru s="rui0608"]
@@ -351,12 +361,12 @@
 「ふあああっ……ペニス熱いッ！　これいいッ！」[pcms][endhact]
 *9875|
 [fc]
-背面騎乗位で累と交わっているのは台場だった。[pcms]
+The one in the reverse cowgirl position with Rui was Daiba.[pcms]
 *9876|
 [fc]
 [ns【]台場[】nse]
-「姫ッ！　姫の姫マンコ最高だッ！　射精する……俺が俺の精子で姫を[r]
-　絶対に妊娠させてやるッ！」[pcms][endhact]
+"Princess! Your princess pussy is the best! I'm going to ejaculate...[r]
+I'll definitely impregnate the princess with my sperm!"[pcms]
 *9877|
 [fc]
 [vo_ru s="rui0609"]
@@ -366,32 +376,35 @@
 [stopse buf=1]
 *9878|
 [fc]
-もう累は、自分の快感を求めることだけに夢中だった。[r]
-男子たちに奉仕こそ続けているが勝手に腰を振って絶頂してしまっていた。[pcms]
+Rui was now completely engrossed in seeking her own pleasure. Although[r]
+she continued to serve the boys, she was climaxing on her own accord[r]
+due to her hips moving freely.[pcms]
 *9879|
 [fc]
 [ns【]台場[】nse]
-「くッ……勃起してるのに、さっき射精したせいで……快感が鈍い……[r]
-　姫マンコに射精して……種付けしたかったのに」[pcms][endhact]
+"Ugh... I'm erect, but because I just ejaculated earlier... the[r]
+pleasure is dull... I wanted to ejaculate inside the princess pussy...[r]
+and impregnate her."[pcms]
 *9880|
 [fc]
-他の男たちも累ひとりだけの絶頂には、やや不満そうではあったが、[r]
-これまでさんざん歓待してくれたこともありそれを表明はしない。[pcms]
+The other boys seemed somewhat dissatisfied with Rui's solo climax,[r]
+but they did not express it, considering how much she had entertained[r]
+them so far.[pcms]
 *9881|
 [fc]
-だが、たったひとりだけ、あからさまな不満を主張する男がいた。[r]
-江川という二年生の男子だった。[pcms]
+However, there was one boy who openly expressed his dissatisfaction.[r]
+It was a second-year student named Egawa.[pcms]
 *9882|
 [fc]
 [ns【]江川[】nse]
-「もう我慢できない……俺はまだ一回もやらせてもらってないんだ……[r]
-　俺にもなんかしてくれよ！」[pcms][endhact]
+"I can't take it anymore... I haven't been allowed to do it even[r]
+once... Do something for me too!"[pcms]
 *9883|
 [fc]
 [vo_ru s="rui0610"]
 [【累】]
-「それは……かまわないけれど……少し待ってくれないか。僕の身体で[r]
-　使っていないところなんて、もう無いし」[pcms][endhact]
+"That's... fine, but... could you wait a little? There's no part of my[r]
+body left that hasn't been used."[pcms]
 *9884a|
 [fc]
 [ns【]台場[】nse]
@@ -399,7 +412,8 @@
 [backlay][evcg storage="EV20_11" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *9885a|
 [fc]
-台場は予告無く唐突にそのペニスを累の尻穴に密着させ、強引に挿入した。[pcms]
+Without warning, Daiba pressed his penis against Rui's anal opening[r]
+and forcefully penetrated her.[pcms]
 [se buf=1 storage="se_sex01"]
 [evcg白フラ storage="EV20_12" layer=0 page=back visible=true left=0 top=0]
 *9886|
@@ -410,33 +424,34 @@
 [se buf=1 storage="se_sex03" loop=true]
 *9887|
 [fc]
-苦痛に悶えながら累は自分の排泄器官が犯されているのを実感していた。[r]
-台場は精液や愛液をローション代わりにアナルセックスを成功させていた。[pcms]
+In pain, Rui was aware that her excretory organ was being violated.[r]
+Daiba had successfully performed anal sex using semen and love juices[r]
+as lubricant.[pcms]
 [backlay][evcg storage="EV20_13" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *9888|
 [fc]
 [ns【]台場[】nse]
-「す、すげえ締め付けだ？　根本のとこでチンポがちぎられそうってのは[r]
-　マジだったんだな……くうううッ！」[pcms][endhact]
+"Damn, this tightness? It's like my dick is going to be torn off at[r]
+the base... it's really true... ughhh!"[pcms]
 *9888a|
 [fc]
 [ns【]江川[】nse]
 「やった！　マンコがあいた！」[pcms][endhact]
 *9889a|
 [fc]
-江川は累に覆い被さり、おあずけを喰らい続けて固くなったペニスを[r]
-女性器に滑り込ませた。[pcms]
+Egawa covered Rui and, after being kept waiting and becoming hard, he[r]
+slid his penis into her vagina.[pcms]
 [se buf=0 storage="se_sex01"]
 [evcg白フラ storage="EV20_14" layer=0 page=back visible=true left=0 top=0]
 *9890|
 [fc]
 [ns【]江川[】nse]
-「うおおッ？　マンコすごい締め付け！　しかも薄い内壁ごしに……[r]
-　台場先輩のチンポの感触がわかる？」[pcms][endhact]
+"Whoa? This pussy's tight squeeze! Plus, through the thin inner[r]
+walls... I can feel Daiba-senpai's penis?"[pcms]
 *9891|
 [fc]
 [ns【]台場[】nse]
-「これエロマンガでやってた、二穴責めってやつだ！」[pcms]
+"This is that double penetration thing they do in erotic manga!"[pcms]
 *9892|
 [fc]
 [vo_ru s="rui0612"]
@@ -444,25 +459,26 @@
 「やってくれたな……キミが僕のお尻の処女を奪うとは予想外……だった」[pcms][endhact]
 *9893|
 [fc]
-当初の苦痛は減じているようで累のその指摘には責めたり非難するような[r]
-ニュアンスは含まれていなかった。[pcms]
+The initial pain seemed to have subsided, and there was no nuance of[r]
+blame or criticism in Rui's observation.[pcms]
 *9894|
 [fc]
 [vo_ru s="rui0613"]
 [【累】]
-「痛くて……気持ち悪い……そう思ったけど……なんだか……何か……[r]
-　すごい快感になりそうな……そんな感じもする……ふあああ！」[pcms][endhact]
+"It hurts... and feels weird... I thought so, but... somehow...[r]
+something... it seems like it's turning into an incredible pleasure...[r]
+fuahhh!"[pcms]
 [backlay][evcg storage="EV20_15" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *9895|
 [fc]
-累のその予想は的中していた。[r]
-いつしか彼女は直腸内を汚す江川のペニスからさえも快感を得ていた。[pcms]
+Rui's prediction was correct. Before long, she was even deriving[r]
+pleasure from Egawa's penis defiling her rectum.[pcms]
 *9896|
 [fc]
 [vo_ru s="rui0614"]
 [【累】]
-「ふひゃあああっ……もうダメ……すごくイクっ……僕もうイクっ……[r]
-　イクっ……イクイクイクイクイクうううううっ！」[pcms][endhact]
+"Fhyahhh... I can't anymore... it feels so good... I'm going to cum...[r]
+I'm cumming... Cumming... CumCumCumCumCummingggg!"[pcms]
 [stopse buf=1]
 [se buf=0 storage="se_sex01"]
 [射精フラA]
@@ -474,8 +490,9 @@
 [射精フラB]
 *9897|
 [fc]
-累は激しく絶頂して、彼女に接している男子たちも残らず射精する。[r]
-あぶれていた男子たちもオナニーして、その白濁を累に浴びせていた。[pcms]
+Rui climaxed intensely, and all the boys in contact with her[r]
+ejaculated without exception. The boys who were left out masturbated[r]
+and showered Rui with their milky release.[pcms]
 [backlay][evcg storage="EV20_18" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *9898|
 [fc]
@@ -494,15 +511,15 @@
 [fc]
 [vo_ru s="rui0616"]
 [【累】]
-「ふふっ……キミたちも……僕と同じで、みんなそうなのか……仕方ない。[r]
-　大いに愉しもうか♪」[pcms][endhact]
+"Hehe... You guys too... just like me, everyone's the same, huh... It[r]
+can't be helped. Let's enjoy ourselves greatly♪"[pcms]
 *9902|
 [fc]
-恍惚とした笑みを浮かべた累は、男子生徒たちの要望に応えてやろうと[r]
-決意する。[pcms]
+With an ecstatic smile on her face, Rui resolved to respond to the[r]
+desires of the male students.[pcms]
 *9903|
 [fc]
-淫らな狂宴は始まったばかりだった。[pcms]
+The lewd bacchanalia had only just begun.[pcms]
 [if exp="tf.scene_mode"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 [endif]

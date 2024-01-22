@@ -2,26 +2,29 @@
 *寝た
 *4676|
 [fc]
-自主参加とはいえ、もう朝練が終わってしまう時間。[pcms]
+Even though it's voluntary, it's already time for morning practice to[r]
+end.[pcms]
 *4677|
 [fc]
-思いっきり寝坊してすっぽかしてしまった！[pcms]
+I completely overslept and missed it![pcms]
 *4678|
 [fc]
 [【央】]
-「クソッ、クソッ、クソッ……！[r]
-　どいつもこいつも薄情者ばっかりだぁっ！！」[pcms][endhact]
+"Damn it, damn it, damn it...! Everyone's just a bunch of heartless[r]
+jerks!!"[pcms]
 *4679|
 [fc]
-須田を含めた同室の連中は、[r]
-起こしてくれもせずにさっさと朝練に行ってしまっていた。[pcms]
+My roommates, including Suda, didn't bother to wake me up and just[r]
+went off to morning practice.[pcms]
 *4680|
 [fc]
-結局、寝付けずに須田の咳や、他の連中のいびきを聞きながら、[r]
-蒸し暑い布団の中でしばらく寝返りを打ち続けて……。[pcms]
+In the end, I couldn't fall asleep and just kept tossing and turning[r]
+in the muggy futon, listening to Suda's coughing and the others'[r]
+snoring...[pcms]
 *4681|
 [fc]
-やっと眠れたと思ったら御覧の有様だよ！[pcms]
+And just when I thought I finally managed to fall asleep, look at the[r]
+state I'm in![pcms]
 [backlay][sud_lo_03_f07 layer=3 x="&sf.su_lo_x[3]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
 *4682|
 [fc]
@@ -33,11 +36,12 @@
 「あぁんっ！？　なんだってんだ薄情モンがぁっ！！」[pcms][endhact]
 *4684|
 [fc]
-逆ギレ上等で飛び込んできた薄情者を迎撃し――[r]
-足元から薄ら寒さが這い登ってくる感覚に襲われた。[pcms]
+I was ready to lash out at the heartless jerk who barged in, but then[r]
+I was overcome by a creeping chill from my feet.[pcms]
 *4685|
 [fc]
-真剣な表情の須田からは、そんな予感が伝わってきたからだ。[pcms]
+It was because I could sense such a premonition from Suda's serious[r]
+expression.[pcms]
 [backlay][sud_lo_03_f04 layer=3 x="&sf.su_lo_x[3]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
 *4686|
 [fc]
