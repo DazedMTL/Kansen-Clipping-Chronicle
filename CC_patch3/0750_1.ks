@@ -13,7 +13,7 @@
 *9905|
 [fc]
 [vo_ri s="riri0467"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ugh... Hah, hah... Nn... I'm already coming back, right...?"[pcms]
 *9906|
 [fc]
@@ -27,7 +27,7 @@ like a cloud being pushed along by the wind blowing from behind.[pcms]
 *9908|
 [fc]
 [vo_ri s="riri0468"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Hah... Nnn. Somehow, my body is getting hotter and hotter... What's[r]
 happening to me...?"[pcms]
 *9909|
@@ -54,7 +54,7 @@ However, there was one clear thought that remained. That was...[pcms]
 *9914|
 [fc]
 [vo_ri s="riri0469"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ah... this is it. Akira's room, this is it, right...? Hah... I need[r]
 to see Akira quickly..."[pcms]
 *9915|
@@ -65,7 +65,7 @@ Riri lethargically lifted her arm and banged on the door.[pcms]
 *9916|
 [fc]
 [vo_ri s="riri0470"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Akira... Hey, you're there, right? Hurry up and open the door... Hah,[r]
 hah..."[pcms]
 *9917|
@@ -76,7 +76,7 @@ panic.[pcms]
 *9918|
 [fc]
 [vo_ri s="riri0471"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Come out, Akira. I can't take it anymore... Hurry up!"[pcms]
 *9919|
 [fc]
@@ -86,7 +86,7 @@ and the voice of the childhood friend she longed for did not return.[pcms]
 *9920|
 [fc]
 [vo_ri s="riri0472"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ugh... He's not pretending to be out, is he? Hah, hah... What should[r]
 I do? I really might be done for..."[pcms]
 *9921|
@@ -102,7 +102,7 @@ around.[pcms]
 *9923|
 [fc]
 [vo_ri s="riri0473"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "I don't care who it is anymore. Because I... I can't hold back any[r]
 longer..."[pcms]
 *9924|
@@ -294,7 +294,7 @@ a determined look.[pcms]
 *9963|
 [fc]
 [vo_ri s="riri0474"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ah... you were here. Geez... why didn't you come out sooner? Making a[r]
 girl wait is just mean~"[pcms]
 *9964|
@@ -304,7 +304,7 @@ Clutching the doorknob, he stood there with his mouth agape.[pcms]
 *9965|
 [fc]
 [vo_ri s="riri0475"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Hehehe. What are you standing there gaping for? Hey, senpai. Can I[r]
 come in?"[pcms]
 *9966|
@@ -323,7 +323,7 @@ captivated by the blushing girl standing before him.[pcms]
 *9969|
 [fc]
 [vo_ri s="riri0476"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Oh, you're pretty easygoing, huh~. So, how many people are inside? Is[r]
 the vice president here too?"[pcms]
 *9970|
@@ -334,7 +334,7 @@ the vice president here too?"[pcms]
 *9971|
 [fc]
 [vo_ri s="riri0477"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Hmm, I see. Hehehe. I'll just have them come later then."[pcms]
 [backlay][rir_lo_03_f01 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *9972|
@@ -352,7 +352,7 @@ the pride of a senior.[pcms]
 *9975|
 [fc]
 [vo_ri s="riri0478"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nfufu... Nothing in particular. Anyway, I'm coming in~"[pcms]
 [se buf=0 storage="oso0001"]
 *9976|
@@ -367,7 +367,7 @@ behind.[pcms]
 *9978|
 [fc]
 [vo_ri s="riri0479"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "What's wrong, senpai?"[pcms]
 *9979|
 [fc]
@@ -397,7 +397,7 @@ sound...[pcms]
 *9984|
 [fc]
 [vo_ri s="riri0480"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nfufufu, you've already laid out the futon. Whose futon is this?"[pcms]
 *9985|
 [fc]
@@ -420,7 +420,7 @@ fixed on Riri.[pcms]
 *9989|
 [fc]
 [vo_ri s="riri0481"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Yes, actually... I've been feeling feverish since a while ago. A heat[r]
 has been rising from deep within my belly... Mmm, fuah..."[pcms]
 *9990|
@@ -448,7 +448,7 @@ legs and tight buttocks more than made up for it.[pcms]
 *9995|
 [fc]
 [vo_ri s="riri0482"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Kufufu. Then... can I sleep here? The futon is already laid out~"[pcms]
 [backlay][rir_lo_03_f01 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *9996|
@@ -468,7 +468,7 @@ fixated stares on her increasingly exposed wheat-colored skin.[pcms]
 *9999|
 [fc]
 [vo_ri s="riri0483"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nfu... Uuu. It's a bit cooler now that I've taken it off. Huh? What's[r]
 wrong, senpai?"[pcms]
 *10000|
@@ -487,7 +487,7 @@ appearance felt dreadfully lewd to them.[pcms]
 *10003|
 [fc]
 [vo_ri s="riri0484"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nfufufu... I have a favor to ask, is that okay?"[pcms]
 *10004|
 [fc]
@@ -497,7 +497,7 @@ eagerly as if enchanted by a demon.[pcms]
 *10005|
 [fc]
 [vo_ri s="riri0485"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Great. Then, could you gather the other boys for me? I have a favor[r]
 to ask them too... Nfufu."[pcms]
 *10006|
@@ -526,7 +526,7 @@ single point where all their gazes converged.[pcms]
 *10010|
 [fc]
 [vo_ri s="riri0486"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Mmm... Hauuu. Hey hey, are you all watching properly?"[pcms]
 *10011|
 [fc]
@@ -535,7 +535,7 @@ sticky sweet voice.[pcms]
 *10012|
 [fc]
 [vo_ri s="riri0487"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ehehe, I don't need to ask that, right? You can tell just by looking.[r]
 So then... Nfu, let's draw even more attention."[pcms]
 *10013|
@@ -549,7 +549,7 @@ her most intimate area.[pcms]
 *10015|
 [fc]
 [vo_ri s="riri0488"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Kuun. Ha... Fuuu, look, you like this kind of thing, right? A girl's[r]
 precious place... My pussy is going 'nyu', opening up for you."[pcms]
 *10016|
@@ -560,7 +560,7 @@ their intense gazes piercing through her.[pcms]
 *10017|
 [fc]
 [vo_ri s="riri0489"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "This here is my clitoris. Can you see how it's puffed up? And then...[r]
 Nuuu, this other hole is my pee hole."[pcms]
 [se buf=1 storage="se_sex02" loop=true]
@@ -571,7 +571,7 @@ course, their groins were rigidly swollen and twitching.[pcms]
 *10019|
 [fc]
 [vo_ri s="riri0490"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "And then... this one here... Hagu, this hole is... my pussy hole.[r]
 When a penis goes in here, it feels good; it's a naughty hole..."[pcms]
 *10020|
@@ -582,7 +582,7 @@ began to seep out.[pcms]
 *10021|
 [fc]
 [vo_ri s="riri0491"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "But you know, I'm not really a naughty girl? It's just that... Mmm,[r]
 during afternoon practice... my body started feeling hot..."[pcms]
 *10022|
@@ -593,7 +593,7 @@ the air.[pcms]
 *10023|
 [fc]
 [vo_ri s="riri0492"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "That's right. So I started masturbating like this...! In the[r]
 bathroom, playing with my pussy and clit... And in the room too,[r]
 getting all wet!"[pcms]
@@ -610,7 +610,7 @@ began to pull out their fully erect cocks.[pcms]
 *10025|
 [fc]
 [vo_ri s="riri0493"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ahhh, everyone's cocks... they're so amazing. If you show me[r]
 something like that, it makes me want to masturbate even more!!"[pcms]
 *10026|
@@ -621,7 +621,7 @@ masturbation unfolded, and their reason flew away.[pcms]
 *10027|
 [fc]
 [vo_ri s="riri0494"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "AaahnÅÙ You're jerking off your cocks! It's amazing, it's so exciting![r]
 Let's all masturbate together! Come on, let's all do it!!"[pcms]
 *10028|
@@ -632,7 +632,7 @@ dripping wet crotch.[pcms]
 *10029|
 [fc]
 [vo_ri s="riri0495"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Haa... Hauu! This is good! Being watched while masturbating, watching[r]
 others masturbate, it's so good! This is the best!!"[pcms]
 *10030|
@@ -646,7 +646,7 @@ expose her pussy to the pressing gazes and heat.[pcms]
 *10032|
 [fc]
 [vo_ri s="riri0496"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ah, ahhh! Amazing, it's so amazing!! I'm going to come! I'm coming!![r]
 Coming, I'm cominggg!!"[pcms]
 *10033|
@@ -658,7 +658,7 @@ before, Riri twisted her clit in ecstasy...[pcms]
 *10034|
 [fc]
 [vo_ri s="riri0497"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "I'm comingggggg!! Nngh, hiiiiii----!!"[pcms]
 *10035|
 [fc]
@@ -672,7 +672,7 @@ throbbing.[pcms]
 *10037|
 [fc]
 [vo_ri s="riri0498"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "After all... it's no good. No matter how many times I come, my[r]
 body... it doesn't get better. Please, will everyone help me? Jam your[r]
 cocks into my pussy...!"[pcms]
@@ -692,7 +692,7 @@ Riri felt somewhat happy at the sight.[pcms]
 *10040|
 [fc]
 [vo_ri s="riri0499"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ahaha... Everyone wants my pussy. It's okay, I'll properly do it with[r]
 all of you. Nfufu, ahahahaha!"[pcms]
 *10041|
@@ -706,7 +706,7 @@ and a boya second-year from the track teamwas chosen.[pcms]
 *10043|
 [fc]
 [vo_ri s="riri0500"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "So it's you. Someone from the same club being my first is some kind[r]
 of fate? Hey, are you a virgin?"[pcms]
 *10044|
@@ -720,7 +720,7 @@ mind now was escaping this frustration.[pcms]
 *10046|
 [fc]
 [vo_ri s="riri0501"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "No, that's not bad at all. So hurry up... put it in? Make my pussy[r]
 feel good with your cock."[pcms]
 [backlay][evcg storage="EV27_05" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
@@ -735,7 +735,7 @@ he began pressing his glans against her flesh folds.[pcms]
 *10049|
 [fc]
 [vo_ri s="riri0502"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Kuun. No, not there... Nngh, lower. Look, this hole here... Yes...[r]
 put it in there...!"[pcms]
 *10050|
@@ -756,7 +756,7 @@ folds several times.[pcms]
 *10054|
 [fc]
 [vo_ri s="riri0503"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "No way. You have to put it inside first... So go on. Just put it[r]
 in... thrust it in hard. Hurry up!"[pcms]
 *10055|
@@ -781,7 +781,7 @@ trembling cock was thrust into Riri's hole all the way to its base...[pcms]
 *10059|
 [fc]
 [vo_ri s="riri0504"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Kuuuuuuuuuuu!! It's... it's cominggggg!!!"[pcms]
 *10060|
 [fc]
@@ -799,7 +799,7 @@ his penis.[pcms]
 *10062|
 [fc]
 [vo_ri s="riri0505"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ah, kuuuun. Is it... does it feel that good inside me...?"[pcms]
 *10063|
 [fc]
@@ -809,7 +809,7 @@ ahhh! I think I'm going to cum!!"[pcms]
 *10064|
 [fc]
 [vo_ri s="riri0506"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ha, kuuuuh. No... you can't yet. Thrust into me more. Hold on longer,[r]
 for me... nnuuuh!!"[pcms]
 *10065|
@@ -824,7 +824,7 @@ this pleasure.[pcms]
 *10067|
 [fc]
 [vo_ri s="riri0507"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Is that so... nnh! Then maybe it was good that I gave my first[r]
 time... nnh, to you..."[pcms]
 *10068|
@@ -843,7 +843,7 @@ complain.[pcms]
 *10071|
 [fc]
 [vo_ri s="riri0508"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "I don't really know, but it's true it's my first time... nhihii! Yes,[r]
 right there... push your penis in more!!"[pcms]
 *10072|
@@ -872,7 +872,7 @@ that shook her whole body.[pcms]
 *10077|
 [fc]
 [vo_ri s="riri0509"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "More, do it more! Even though it's my first time, I'm feeling it with[r]
 a penis!! My pussy folds being rubbed by your cock is making me so[r]
 happy!!"[pcms]
@@ -885,7 +885,7 @@ extracting pleasure from it.[pcms]
 *10079|
 [fc]
 [vo_ri s="riri0510"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ah, aaaaah!! Hey... your penis is swelling and twitching! It's okay,[r]
 you can cum now!!"[pcms]
 *10080|
@@ -904,7 +904,7 @@ restraint.[pcms]
 *10082|
 [fc]
 [vo_ri s="riri0511"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ah, kuhiiiiiiiiii!! Semen, it's cominggg!! Nn... kuuun! I'm[r]
 cumming... I'm cumminggg!!"[pcms]
 *10083|
@@ -926,7 +926,7 @@ But eternal pleasure does not exist, and eventually it came to an end.[pcms]
 *10087|
 [fc]
 [vo_ri s="riri0512"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Haa... uuu... That felt... so good. How about you...?"[pcms]
 [backlay][evcg storage="EV27_11" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10088|
@@ -946,7 +946,7 @@ That was indeed proof that she had been a virgin.[pcms]
 *10091|
 [fc]
 [vo_ri s="riri0513"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "I told you so... But don't worry about it. Kufufu. Now, next[r]
 person... come on. Hurry up and violate my pussy?"[pcms]
 *10092|
@@ -966,7 +966,7 @@ in a senior position in the club activities for Riri.[pcms]
 *10095|
 [fc]
 [vo_ri s="riri0514"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Kuuun... It's your turn next, senpai. Are you a virgin too?"[pcms]
 *10096|
 [fc]
@@ -988,7 +988,7 @@ semen.[pcms]
 *10099|
 [fc]
 [vo_ri s="riri0515"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nkuu---ttt!! Ha, hahii, another penis is coming in. Senpaii, you can[r]
 be rougher if you want."[pcms]
 *10100|
@@ -1024,7 +1024,7 @@ felt his head go blank.[pcms]
 *10106|
 [fc]
 [vo_ri s="riri0516"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Kuhi...nn! Senpai, did you cum already? Kufu, could it be that my[r]
 pussy... felt too good?"[pcms]
 *10107|
@@ -1044,7 +1044,7 @@ stirred up the pussy.[pcms]
 *10110|
 [fc]
 [vo_ri s="riri0517"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Hiuuuu!?! Kuhiiiiinnn!!! Senpai! That's amazing, it feels so good!!!"[pcms]
 *10111|
 [fc]
@@ -1062,7 +1062,7 @@ that, is this good enough for you?!"[pcms]
 *10114|
 [fc]
 [vo_ri s="riri0518"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Kyauun! Because! My body is so hot, I can't stand it! Ahh, aahn! I'm[r]
 going to cum... I'm cumming again!!"[pcms]
 *10115|
@@ -1072,7 +1072,7 @@ it. The wave-like surge quickly filled her up.[pcms]
 *10116|
 [fc]
 [vo_ri s="riri0519"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Kyaaa!! I'm cumming, I'm cummingggg!!!"[pcms]
 *10117|
 [fc]
@@ -1093,7 +1093,7 @@ tanned canvas tightened as semen burst forth.[pcms]
 *10120|
 [fc]
 [vo_ri s="riri0520"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Fuaaa...!! It's coming out! Semen is coming out on my belly![r]
 Ejaculation is so amazing! More, let it out more!!"[pcms]
 *10121|
@@ -1108,7 +1108,7 @@ belly as if it were melting her reason away.[pcms]
 *10123|
 [fc]
 [vo_ri s="riri0521"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Amazing... Watching ejaculation makes my pussy so hot. To think I've[r]
 been done like this... Hey, keep spurting more!!"[pcms]
 *10124|
@@ -1124,7 +1124,7 @@ semen.[pcms]
 *10126|
 [fc]
 [vo_ri s="riri0522"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Eh...? Could it be that you came from masturbating? Nfufu"[pcms]
 *10126a|
 [fc]
@@ -1142,7 +1142,7 @@ this.[pcms]
 *10129|
 [fc]
 [vo_ri s="riri0523"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Of course that's fineÅÙ You're a virgin too, right? You can cum as[r]
 much as you want in big sister's pussy."[pcms]
 [backlay][evcg storage="EV27_20" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
@@ -1169,7 +1169,7 @@ cries of ecstasy while drooling.[pcms]
 *10134|
 [fc]
 [vo_ri s="riri0524"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nhihi--ttt!! Amazing... so amazing!! As expected... being done by a[r]
 virgin makes me feel it!!"[pcms]
 *10135|
@@ -1188,7 +1188,7 @@ stopped.[pcms]
 *10138|
 [fc]
 [vo_ri s="riri0525"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Kufu... nuh. That's okay then, you can go slowly. Look, keep it from[r]
 coming out... nnn, chub chub in and out?"[pcms]
 [se buf=1 storage="se_sex02" loop=true]
@@ -1207,7 +1207,7 @@ tentative. It didn't seem like it would bring much pleasure, but...[pcms]
 *10142|
 [fc]
 [vo_ri s="riri0526"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "No, that's not true at all. This kind of thing... Nfu, feels good[r]
 too. Because... Ah, the feeling of your penis, I can feel it so much."[pcms]
 *10143|
@@ -1217,7 +1217,7 @@ in response. The slower thrusts made its presence all the more felt.[pcms]
 *10144|
 [fc]
 [vo_ri s="riri0527"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "This is good... really, nnnh! It feels like I'm being penetrated by a[r]
 penis. Ah, ah, you like my pussy too, don't you?"[pcms]
 *10145|
@@ -1261,7 +1261,7 @@ feisty face with semen aaaaahhh!!"[pcms]
 *10154|
 [fc]
 [vo_ri s="riri0528"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ngh, hauuun. So, that's how it is. Go ahead, cum on me? You can cum a[r]
 lot on my face and thighs!"[pcms]
 *10155|
@@ -1276,7 +1276,7 @@ hot desire erupted from the tips of the two waiting.[pcms]
 *10156|
 [fc]
 [vo_ri s="riri0529"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nkyaaaahhh!! So much hot stuff came out!! It's hot, my face and[r]
 thighs are drenched in hot semen!!"[pcms]
 [backlay][evcg storage="EV27_23" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
@@ -1301,7 +1301,7 @@ and starting to overflow.[pcms]
 *10160|
 [fc]
 [vo_ri s="riri0530"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Hyauuu...nnn!! It's coming out here too... inside my pussy! Nnah,[r]
 nuuuu...! I'm covered in semen...!"[pcms]
 [se buf=0 storage="se_sex01"]
@@ -1313,13 +1313,13 @@ amount of semen overflowed from her gaping hole.[pcms]
 *10162|
 [fc]
 [vo_ri s="riri0531"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Fwaaa, my pussy is full of semen... I'm covered in semen. This is[r]
 good! My whole body is covered in semen... I'm so happy!"[pcms]
 *10163|
 [fc]
 [vo_ri s="riri0532"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "I'm cumming!! Being covered in semen, I'm cummingggg!!"[pcms]
 [ÉÅÉXÉtÉâ]
 *10164|
@@ -1333,7 +1333,7 @@ insane amount of joy.[pcms]
 *10166|
 [fc]
 [vo_ri s="riri0533"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Sex... I love sex! I want to have more sex! Hey, have more sex with[r]
 me! Cum on me!!"[pcms]
 *10167|
@@ -1351,7 +1351,7 @@ before Riri with his pre-cum covered penis trembling.[pcms]
 *10170|
 [fc]
 [vo_ri s="riri0534"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Se... Senpai! Hurry up, hurry and make my pussy squelch. Do whatever[r]
 you want to make me feel good!"[pcms]
 *10171|
@@ -1368,7 +1368,7 @@ then began to insert himself slowly.[pcms]
 *10173|
 [fc]
 [vo_ri s="riri0535"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Kyafuuu!! Why are you... nnnh, inserting it so slowly? I want you to[r]
 do it harder...!"[pcms]
 *10174|
@@ -1385,7 +1385,7 @@ would make a woman feel good.[pcms]
 *10176|
 [fc]
 [vo_ri s="riri0536"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ku... nnuuuuhh! That spot there, rubbing it feels good!! Senpai,[r]
 you're too good with pussies!!"[pcms]
 *10177|
@@ -1395,7 +1395,7 @@ persistent movements greatly pleased her.[pcms]
 *10178|
 [fc]
 [vo_ri s="riri0537"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Hahiinn! I might get addicted to senpai's sex! Ngh, nhihh! I'm[r]
 feeling better and better!!"[pcms]
 *10179|
@@ -1410,7 +1410,7 @@ listening. Her mind was occupied solely by pleasure.[pcms]
 *10181|
 [fc]
 [vo_ri s="riri0538"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ohh, ohhh! Kuh, kuhii, kuuuun!! Why are you... so good at sex...?"[pcms]
 *10182|
 [fc]
@@ -1431,7 +1431,7 @@ I'll fuck you whenever you want?"[pcms]
 *10185|
 [fc]
 [vo_ri s="riri0539"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Yes, that's fineÅÙ I love raw sex! So you can fuck my pussy anytime,[r]
 anywhere!!"[pcms]
 *10186|
@@ -1447,7 +1447,7 @@ shifted abruptly from leisurely to high-speed pistoning.[pcms]
 *10188|
 [fc]
 [vo_ri s="riri0540"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Kuhiiii!! I love it rough too! Do it more, more!! Make my pussy[r]
 drenched in cum!!"[pcms]
 *10189|
@@ -1457,7 +1457,7 @@ drenched in cum!!"[pcms]
 *10190|
 [fc]
 [vo_ri s="riri0541"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "It's okay!! Cum in my pussy, my womb, anywhere!! Impregnate me with[r]
 your raw cock!!"[pcms]
 *10191|
@@ -1480,7 +1480,7 @@ tightening flesh walls, semen burst forth explosively.[pcms]
 *10193|
 [fc]
 [vo_ri s="riri0542"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Noooohhh!! It's hot, so hot!! Ohh, oooohhh!! I'm cumming, I'm[r]
 cuuummmiiinggg!!"[pcms]
 *10194|
@@ -1495,7 +1495,7 @@ just her body but her mind as well.[pcms]
 *10196|
 [fc]
 [vo_ri s="riri0543"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Uhihii!! It won't stop, it just won't stop!! I can't stop cumming!!"[pcms]
 *10197|
 [fc]
@@ -1513,7 +1513,7 @@ out.[pcms]
 *10200|
 [fc]
 [vo_ri s="riri0544"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ohh... Don't pull your cock out yet..."[pcms]
 *10201|
 [fc]

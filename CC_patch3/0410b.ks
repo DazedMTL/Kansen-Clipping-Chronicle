@@ -56,13 +56,13 @@ What on earth is going to happen now...?[pcms]
 [backlay][bg storage="BG15a"][trans time=500 method=crossfade][wt2]
 *4749|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Riri!! Are you okay!?"[pcms]
 [backlay][rir_up_02a_g01 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *4750|
 [fc]
 [vo_ri s="riri0246"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Akira, be quiet in the infirmary."[pcms]
 *4751|
 [fc]
@@ -73,14 +73,14 @@ seem like a joke at all with a smile.[pcms]
 But right now, I--[pcms]
 *4753|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Idiot! Don't do something dangerous! What am I supposed to do if[r]
 something happens to you..."[pcms]
 [backlay][rir_up_02a_f13 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *4754|
 [fc]
 [vo_ri s="riri0247"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Akira... yeah, sorry. I worried you..."[pcms]
 *4755|
 [fc]
@@ -92,7 +92,7 @@ Really, please... If something happened to you, how am I supposed to[r]
 apologize to Kenkou...[pcms]
 *4757|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "So, how are your injuries?"[pcms]
 *4758|
 [fc]
@@ -102,12 +102,12 @@ injuries that bad...?[pcms]
 *4759|
 [fc]
 [vo_ri s="riri0248"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "I'm fine, it's just a small cut. It's just that there are many[r]
 places, so I got all wrapped up like this."[pcms]
 *4760|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "I see... if that's the case..."[pcms]
 *4761|
 [fc]
@@ -120,7 +120,7 @@ stubbornly confronted them...[pcms]
 *4763|
 [fc]
 [vo_ri s="riri0249"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "But... they were such an eerie opponent."[pcms]
 *4764|
 [fc]
@@ -129,13 +129,13 @@ clothes.[pcms]
 *4765|
 [fc]
 [vo_ri s="riri0250"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "No matter how much I kicked or punched, there was no response... They[r]
 were abnormally strong, but their movements were slow..."[pcms]
 *4766|
 [fc]
 [vo_ri s="riri0251"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Even when their teeth were broken and they bled, they didn't flinch[r]
 and kept coming at me..."[pcms]
 *4767|
@@ -145,7 +145,7 @@ increased.[pcms]
 *4768|
 [fc]
 [vo_ri s="riri0252"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "They didn't even try to protect themselves, just kept attacking... It[r]
 was like fighting something that wasn't human..."[pcms]
 *4769|
@@ -155,13 +155,13 @@ just enough force not to hurt. At that moment, Riri's body trembled[r]
 slightly.[pcms]
 *4770|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "...You did well. You were splendid, Riri."[pcms]
 [backlay][rir_lo_02a_f13 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *4771|
 [fc]
 [vo_ri s="riri0253"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Yeah... I did my best... But I couldn't protect Jun... I let her get[r]
 hurt..."[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
@@ -175,17 +175,17 @@ curtain once.[pcms]
 And then...[pcms]
 *4774|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Igarashi-san, are you okay?"[pcms]
 [backlay][jun_lo_04a_f01 layer=3 x="&sf.ju_lo_x[3]" y="&sf.ju_lo_y[0]"][trans time=150 method=crossfade][wt]
 *4775|
 [fc]
 [vo_ju s="jun0036"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Oh, Akira-kun, you came. I'm happy even if it's just after Riri."[pcms]
 *4776|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Ah, ahaha..."[pcms]
 *4777|
 [fc]
@@ -212,17 +212,17 @@ At the bedside, Yuuji is there, looking worriedly at her.[pcms]
 It must be frustrating for him to see her go through this...[pcms]
 *4784|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "I shouldn't stay too long, so I'll be going now"[pcms]
 [backlay][jun_lo_04a_f11 layer=3 x="&sf.ju_lo_x[3]" y="&sf.ju_lo_y[0]"][trans time=150 method=crossfade][wt]
 *4785|
 [fc]
 [vo_ju s="jun0037"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Yeah, thanks for coming to see me. And... was Riri worried?"[pcms]
 *4786|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Well... a little. Don't worry, I'll follow up with her."[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *4787|
@@ -231,7 +231,7 @@ It seems Igarashi-san was also worried about Riri. They really care[r]
 about each other, these two.[pcms]
 *4788|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Doctor, thank you for letting me visit."[pcms]
 *4789|
 [fc]
@@ -239,7 +239,7 @@ about each other, these two.[pcms]
 "Ah, next time try to come in a bit more quietly, will you?"[pcms]
 *4790|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Ugh... sorry about that..."[pcms]
 *4791|
 [fc]
@@ -256,7 +256,7 @@ break."[pcms]
 He complains in a detached tone while patting his own shoulder.[pcms]
 *4794|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "It's strange, isn't it? That summer colds are spreading this much."[pcms]
 *4795|
 [fc]
@@ -285,7 +285,7 @@ there's anything abnormal, it'll be announced right away. Here, take[r]
 this."[pcms]
 *4800|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Eh?"[pcms]
 *4801|
 [fc]
@@ -309,7 +309,7 @@ And behind me...[pcms]
 *4805|
 [fc]
 [vo_ju s="jun0038"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Mmm... Yuuji, stop... we can't do this here."[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *4806|

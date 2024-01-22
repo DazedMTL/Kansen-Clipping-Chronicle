@@ -14,7 +14,7 @@ clock... and witnessed that scene.[pcms]
 *8815|
 [fc]
 [vo_ju s="jun0045"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "..."[pcms]
 *8816|
 [fc]
@@ -79,7 +79,7 @@ Like those in ecstasy, similar to drug addicts...[pcms]
 *8833|
 [fc]
 [vo_ju s="jun0046"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ugh... it hurts... it hurts so much..."[pcms]
 *8834|
 [fc]
@@ -110,7 +110,7 @@ wheelchair awaits me.[pcms]
 *8841|
 [fc]
 [vo_ju s="jun0047"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Heh... *sob*... that's just... ridiculous..."[pcms]
 *8842|
 [fc]
@@ -136,7 +136,7 @@ reach, I moved closer to it.[pcms]
 *8848|
 [fc]
 [vo_ju s="jun0048"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Wa... water... I want to drink..."[pcms]
 *8849|
 [fc]
@@ -145,7 +145,7 @@ contain something inside.[pcms]
 *8850|
 [fc]
 [vo_ju s="jun0049"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ugh... ugh... water..."[pcms]
 *8851|
 [fc]
@@ -163,7 +163,7 @@ Because it's heavy... because there's something inside.[pcms]
 *8855|
 [fc]
 [vo_ju s="jun0050"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ugh, mmmmm..."[pcms]
 *8856|
 [fc]
@@ -183,7 +183,7 @@ and poured its contents into my mouth all at once.[pcms]
 *8860|
 [fc]
 [vo_ju s="jun0051"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ngh! Mmm, mmph, ngh, ngh..."[pcms]
 *8861|
 [fc]
@@ -199,7 +199,7 @@ was...[pcms]
 *8864|
 [fc]
 [vo_ju s="jun0052"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Nguh, gulp, gahhhhh, ngehhhh!"[pcms]
 *8865|
 [fc]
@@ -220,7 +220,7 @@ my entire body, making me vomit as if to expel all the fluids in me.[pcms]
 *8869|
 [fc]
 [vo_ju s="jun0053"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Gehhhhh, gahhhh, boughhhhh..."[pcms]
 *8870|
 [fc]
@@ -232,7 +232,7 @@ come off was emitting that distinctive odor.[pcms]
 *8872|
 [fc]
 [vo_ju s="jun0054"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Guuuh... grohhhh..."[pcms]
 *8873|
 [fc]
@@ -257,7 +257,7 @@ back.[pcms]
 *8878|
 [fc]
 [vo_ju s="jun0055"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Kuh... uuh... ahhh..."[pcms]
 *8879|
 [fc]
@@ -282,7 +282,7 @@ Even so, I started crawling on the ground again.[pcms]
 *8885|
 [fc]
 [vo_ju s="jun0056"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Aaah... haa... haa..."[pcms]
 *8886|
 [fc]
@@ -300,7 +300,7 @@ hours--[pcms]
 *8888|
 [fc]
 [vo_ju s="jun0057"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ouch..."[pcms]
 *8889|
 [fc]
@@ -354,7 +354,7 @@ But there too... inside the tent was another gruesome corpse.[pcms]
 *8903|
 [fc]
 [vo_ju s="jun0058"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ugh... uuuugh..."[pcms]
 *8904|
 [fc]
@@ -372,7 +372,7 @@ bitten by wild animals while still alive.[pcms]
 *8908|
 [fc]
 [vo_ju s="jun0059"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ah... ahh... someone..."[pcms]
 *8909|
 [fc]
@@ -389,7 +389,7 @@ I vow to myself that I will return home, and I muster up my strength.[pcms]
 *8913|
 [fc]
 [vo_ju s="jun0060"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "I have to go... everyone's... waiting..."[pcms]
 *8914|
 [fc]
@@ -430,7 +430,7 @@ of them.[pcms]
 *8924|
 [fc]
 [vo_ju s="jun0061"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Haa, haa... ahhhh..."[pcms]
 *8925|
 [fc]
@@ -483,7 +483,7 @@ Inside, I can see belongings that haven't been touched or disturbed.[pcms]
 *8940|
 [fc]
 [vo_ju s="jun0062"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ahh... ahhhh..."[pcms]
 *8941|
 [fc]
@@ -498,7 +498,7 @@ ground with the last of my strength.[pcms]
 *8944|
 [fc]
 [vo_ju s="jun0063"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Haa, haa, nnh..."[pcms]
 [backlay][kan_ma0 layer=3 x="&sf.ma_lo_x[3]" y="&sf.ma_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8945|
@@ -508,7 +508,7 @@ ground with the last of my strength.[pcms]
 *8946|
 [fc]
 [vo_ju s="jun0064"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Eeeek!"[pcms]
 *8947|
 [fc]
@@ -521,7 +521,7 @@ emerging from behind the target tent.[pcms]
 *8949|
 [fc]
 [vo_ju s="jun0065"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ugh, kuh, why... why is this happening..."[pcms]
 *8950|
 [fc]
@@ -537,7 +537,7 @@ think there are still others alive...[pcms]
 *8953|
 [fc]
 [vo_ju s="jun0066"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "..."[pcms]
 *8954|
 [fc]
@@ -584,7 +584,7 @@ reached from behind me and firmly grasped that face.[pcms]
 *8966|
 [fc]
 [vo_ju s="jun0067"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Eh...?"[pcms]
 *8967|
 [fc]
@@ -639,7 +639,7 @@ convulsions.[pcms]
 *8977|
 [fc]
 [vo_ju s="jun0068"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ugh... kuh..."[pcms]
 *8978|
 [fc]
@@ -651,12 +651,12 @@ arm that had reached from behind me.[pcms]
 *8979|
 [fc]
 [vo_ri s="riri0446"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "..."[pcms]
 *8980|
 [fc]
 [vo_ju s="jun0069"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ri... Riri-?"[pcms]
 *8981|
 [fc]
@@ -686,13 +686,13 @@ eyes.[pcms]
 *8988|
 [fc]
 [vo_ju s="jun0070"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "...Riri?"[pcms]
 [backlay][rir_up_05_k04 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *8989|
 [fc]
 [vo_ri s="riri0447"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "..."[pcms]
 *8990|
 [fc]
@@ -704,13 +704,13 @@ It was as if she was confirming something, caressing my cheek...[pcms]
 *8992|
 [fc]
 [vo_ju s="jun0071"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "..."[pcms]
 [backlay][rir_up_05_k01 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *8993|
 [fc]
 [vo_ri s="riri0448"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "..."[pcms]
 *8994|
 [fc]
@@ -760,7 +760,7 @@ Did he think I was being attacked...![pcms]
 *9006|
 [fc]
 [vo_ju s="jun0072"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Wait! This girl is still alive!"[pcms]
 *9007|
 [fc]
@@ -790,7 +790,7 @@ My... precious best friend...[pcms]
 *9015|
 [fc]
 [vo_ju s="jun0073"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ugh... uuuuh... Thank you, Riri..."[pcms]
 *9016|
 [fc]
@@ -802,12 +802,12 @@ I gripped her bloodied hand and thanked her over and over.[pcms]
 *9018|
 [fc]
 [vo_ri s="riri0449"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "..."[pcms]
 *9019|
 [fc]
 [vo_ju s="jun0074"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Riri...?"[pcms]
 [fadeoutbgm time=500]
 [backlay][rir_lo_05_k04 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
@@ -823,7 +823,7 @@ She turned her back to me, heading out of the campsite...[pcms]
 *9022|
 [fc]
 [vo_ju s="jun0075"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "..."[pcms]
 *9023|
 [fc]
@@ -884,7 +884,7 @@ there... to their hometown where their families and friends live.[pcms]
 *9037|
 [fc]
 [vo_ju s="jun0076"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Thank you, Riri... Goodbye"[pcms]
 *9038|
 [fc]

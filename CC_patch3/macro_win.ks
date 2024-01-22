@@ -20,7 +20,7 @@
 [sysbtopt forevisible=false backvisible=false]
 [layopt layer=message0 visible=false page=back]
 [elsif exp="f.selbt == 0"]
-[position layer=message0 page=back left="&sf.window_x" top="&sf.window_y+sf.window_chousei" width="&sf.window_w" height="&sf.window_h" frame="window2" opacity="&sf.graphicframe_opacity" marginl="&sf.text_x" margint="&sf.text_y" marginr="&sf.text_r" marginb=0 visible=true]
+[position layer=message0 page=back left="&sf.window_x" top="&sf.window_y+sf.window_chousei" width="&sf.window_w" height="&sf.window_h" frame="window2" opacity="&sf.graphicframe_opacity" marginl="&sf.text_x" margint="&sf.text_y - 30" marginr="&sf.text_r" marginb=0 visible=true]
 [endif]
 [current layer=message0]
 [trans method=crossfade time=0]

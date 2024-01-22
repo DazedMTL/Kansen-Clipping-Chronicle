@@ -12,7 +12,7 @@
 *10469|
 [fc]
 [vo_ju s="jun0094"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "..."[pcms]
 *10470|
 [fc]
@@ -33,7 +33,7 @@ I feel a bit cheated.[pcms]
 *10475|
 [fc]
 [vo_ju s="jun0095"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Geez... What time is it now?"[pcms]
 *10476|
 [fc]
@@ -67,7 +67,7 @@ get in touch with me.[pcms]
 *10484|
 [fc]
 [vo_ju s="jun0096"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "No... not again...!"[pcms]
 *10485|
 [fc]
@@ -87,7 +87,7 @@ In this respect, Yuuji tends to be more straightforward than I am.[pcms]
 *10489|
 [fc]
 [vo_ju s="jun0097"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "...Huh?"[pcms]
 [bgm storage="bgm11" time=1000]
 *10490|
@@ -138,7 +138,7 @@ What has happened without me knowing?[pcms]
 *10503|
 [fc]
 [vo_ju s="jun0098"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "...Right..."[pcms]
 *10504|
 [fc]
@@ -150,7 +150,7 @@ a call.[pcms]
 *10506|
 [fc]
 [vo_ju s="jun0099"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Huh...?"[pcms]
 *10507|
 [fc]
@@ -173,7 +173,7 @@ Trying to connect to the internet as a test, I find it hard to access.[pcms]
 *10512|
 [fc]
 [vo_ju s="jun0100"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "This is strange... this is really strange..."[pcms]
 *10513|
 [fc]
@@ -188,7 +188,7 @@ Is the same thing happening to my parents and friends...?[pcms]
 *10517|
 [fc]
 [vo_ju s="jun0101"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "...!"[pcms]
 *10518|
 [fc]
@@ -216,7 +216,7 @@ Should I run away, or should I barricade myself in...?[pcms]
 *10526|
 [fc]
 [vo_ju s="jun0102"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "...!"[pcms]
 *10527|
 [fc]
@@ -240,7 +240,7 @@ And then...[pcms]
 *10533|
 [fc]
 [vo_ju s="jun0103"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "...eek!"[pcms]
 *10534|
 [fc]
@@ -285,7 +285,7 @@ With every major shake, I can see the shape of the door warping.[pcms]
 *10545|
 [fc]
 [vo_ju s="jun0104"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Dad... Mom... Help... Aaahhh!"[pcms]
 [se buf=0 storage="seB008"]
 *10546|
@@ -304,7 +304,7 @@ flood of men pour into the room.[pcms]
 *10547|
 [fc]
 [vo_ju s="jun0105"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Nooo! Let me goooo!"[pcms]
 *10548|
 [fc]
@@ -321,7 +321,7 @@ rugby team who asked for my email before.[pcms]
 *10551|
 [fc]
 [vo_ju s="jun0106"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Stop it! What!? What are you going to do?!"[pcms]
 *10552|
 [fc]
@@ -340,7 +340,7 @@ The sensation of the palms on my sides felt abnormally large.[pcms]
 *10556|
 [fc]
 [vo_ju s="jun0107"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Put me down! Let me go!"[pcms]
 *10557|
 [fc]
@@ -372,7 +372,7 @@ press, and grope.[pcms]
 *10564|
 [fc]
 [vo_ju s="jun0108"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "It hurts! No! Don't touch me! Somebody help!"[pcms]
 *10565|
 [fc]
@@ -396,7 +396,7 @@ doubt about it.[pcms]
 *10570|
 [fc]
 [vo_ju s="jun0109"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Please stop, if you do this you'll get arrested by the police, you[r]
 know?!"[pcms]
 *10571|
@@ -430,7 +430,7 @@ many hands were reaching for them.[pcms]
 *10578|
 [fc]
 [vo_ju s="jun0110"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Disgusting! Don't touch me! No more, I can't take it!"[pcms]
 *10579|
 [fc]
@@ -447,7 +447,7 @@ And then he targeted my crotch, opening his lips to devour it.[pcms]
 *10582|
 [fc]
 [vo_ju s="jun0111"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Eeeek! Stop it there! Get away from me!"[pcms]
 *10583|
 [fc]
@@ -460,7 +460,7 @@ And then he targeted my crotch, opening his lips to devour it.[pcms]
 *10585|
 [fc]
 [vo_ju s="jun0112"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Pervert! I can't stand this anymore! Stop it!"[pcms]
 *10586|
 [fc]
@@ -488,7 +488,7 @@ their eyes no longer human, filled with an excitement beyond limit.[pcms]
 *10592|
 [fc]
 [vo_ju s="jun0113"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Noooo... Someone, someone help me..."[pcms]
 *10593|
 [fc]
@@ -510,7 +510,7 @@ I was being violated.[pcms]
 *10597|
 [fc]
 [vo_ju s="jun0114"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Nngh, hiiii! Noooo! Don't come any closer!"[pcms]
 *10598|
 [fc]
@@ -537,7 +537,7 @@ spats.[pcms]
 *10604|
 [fc]
 [vo_ju s="jun0115"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "What? What are you doing?!"[pcms]
 *10605|
 [fc]
@@ -564,7 +564,7 @@ Due to his excessive excitement, he just kept repeating that action.[pcms]
 *10611|
 [fc]
 [vo_ju s="jun0116"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Eh! No, that's a lie, stop it, don't do that!"[pcms]
 *10612|
 [fc]
@@ -576,7 +576,7 @@ that huge thing in, spats and all.[pcms]
 *10614|
 [fc]
 [vo_ju s="jun0117"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Nyahaaaah! Stop it! It hurts so much!"[pcms]
 *10615|
 [fc]
@@ -592,7 +592,7 @@ enter along with the spats and underwear.[pcms]
 *10618|
 [fc]
 [vo_ju s="jun0118"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Gyiiiiii! I'm going to break! Guhiiiiii!"[pcms]
 *10619|
 [fc]
@@ -612,7 +612,7 @@ ten; it was as effective as a breeze blowing by.[pcms]
 *10623|
 [fc]
 [vo_ju s="jun0119"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "It hurts so much! Please... stop it!"[pcms]
 *10624|
 [fc]
@@ -625,7 +625,7 @@ bubble up from somewhere within me.[pcms]
 *10626|
 [fc]
 [vo_ju s="jun0120"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ah! Aaaaah! It hurts! It huuuurts!"[pcms]
 *10627|
 [fc]
@@ -642,7 +642,7 @@ before shot through my entire body.[pcms]
 *10630|
 [fc]
 [vo_ju s="jun0121"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "No, no, noooooo! Ngyaaaaah! G-gyahaaaaaaah!!"[pcms]
 *10631|
 [fc]
@@ -667,7 +667,7 @@ the merciless trampling.[pcms]
 *10636|
 [fc]
 [vo_ju s="jun0122"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Igii! Agiuiiii! Ngiyaaaaaaaah!"[pcms]
 *10637|
 [fc]
@@ -685,7 +685,7 @@ seemed intent on breaking me.[pcms]
 *10640|
 [fc]
 [vo_ju s="jun0123"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Don't move, pleaseee! Ngyaaaaah! I'm going to dieeee!"[pcms]
 *10641|
 [fc]
@@ -720,7 +720,7 @@ suffering, disappearing somewhere.[pcms]
 *10649|
 [fc]
 [vo_ju s="jun0124"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Agiyiiiiii! Please, pull it out alreadyyyyy!"[pcms]
 *10650|
 [fc]
@@ -732,7 +732,7 @@ A throb transmitted through me.[pcms]
 *10652|
 [fc]
 [vo_ju s="jun0125"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Hii...ah, aaaaah--------!"[pcms]
 *10653|
 [fc]
@@ -744,7 +744,7 @@ into me.[pcms]
 *10655|
 [fc]
 [vo_ju s="jun0126"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "No, not inside! You can't! Noooooo!"[pcms]
 *10656|
 [fc]
@@ -767,7 +767,7 @@ spilling out of my body instead.[pcms]
 *10659|
 [fc]
 [vo_ju s="jun0127"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ahhh...ahhhhh...no more, I can't take this...uuuuuh..."[pcms]
 *10660|
 [fc]
@@ -788,7 +788,7 @@ in the rugby shirt reached for me again.[pcms]
 *10664|
 [fc]
 [vo_ju s="jun0128"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Again!? That's impossible, I can't take it anymore, stop it!!"[pcms]
 *10665|
 [fc]
@@ -815,7 +815,7 @@ the wall, his neck bending at an odd angle.[pcms]
 *10670|
 [fc]
 [vo_ju s="jun0129"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Hiiiiiiii! Hii...ah...ahhhhh!"[pcms]
 *10671|
 [fc]
@@ -848,7 +848,7 @@ I could also be killed at any moment.[pcms]
 *10679|
 [fc]
 [vo_ju s="jun0130"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Wh-what... stop it, ahhh, stop it!"[pcms]
 *10680|
 [fc]
@@ -863,7 +863,7 @@ fabric apart.[pcms]
 *10682|
 [fc]
 [vo_ju s="jun0131"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Eh, wa-wait... like this... no way... such strength... no..."[pcms]
 *10683|
 [fc]
@@ -878,7 +878,7 @@ If I'm violated by such a man... I'll be broken.[pcms]
 *10686|
 [fc]
 [vo_ju s="jun0132"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Eeeek! Stop it! Don't look at me!"[pcms]
 *10687|
 [fc]
@@ -899,7 +899,7 @@ untanned crotch was fully exposed.[pcms]
 *10691|
 [fc]
 [vo_ju s="jun0133"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Don't say it! Idiot! I can't take this anymore!"[pcms]
 *10692|
 [fc]
@@ -925,7 +925,7 @@ childish excitement.[pcms]
 *10697|
 [fc]
 [vo_ju s="jun0134"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Nooooo! Please stop... no more!"[pcms]
 *10698|
 [fc]
@@ -941,7 +941,7 @@ He flaunted it as he took it out from under his trousers.[pcms]
 *10701|
 [fc]
 [vo_ju s="jun0135"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Agiiiiii! Ngyiiiiii!"[pcms]
 *10702|
 [fc]
@@ -958,7 +958,7 @@ with strange smiles on their faces.[pcms]
 *10705|
 [fc]
 [vo_ju s="jun0136"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Higyiiiiiiiiii!"[pcms]
 *10706|
 [fc]
@@ -976,7 +976,7 @@ point of bursting to accommodate it.[pcms]
 *10709|
 [fc]
 [vo_ju s="jun0137"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ngyaaaaaaa!"[pcms]
 *10710|
 [fc]
@@ -1006,7 +1006,7 @@ was convulsing as if dancing a strange dance.[pcms]
 *10716|
 [fc]
 [vo_ju s="jun0138"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Uguh, nguuuh, guiiii, ngyiiiiii!"[pcms]
 *10717|
 [fc]
@@ -1029,7 +1029,7 @@ he violated me.[pcms]
 *10721|
 [fc]
 [vo_ju s="jun0139"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Gyaiiiii, nguuuuh, agyaaaaa!"[pcms]
 *10722|
 [fc]
@@ -1053,7 +1053,7 @@ devouring pleasure.[pcms]
 *10727|
 [fc]
 [vo_ju s="jun0140"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Agguh, guuuh, stop... it's suffocating... gyiiiiii!"[pcms]
 *10728|
 [fc]
@@ -1081,7 +1081,7 @@ But all I could do was endure it desperately, clenching my teeth.[pcms]
 *10734|
 [fc]
 [vo_ju s="jun0141"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Inside! That's dangerous!"[pcms]
 *10735|
 [fc]
@@ -1098,7 +1098,7 @@ And yet... to be cummed inside in a place like this![pcms]
 *10739|
 [fc]
 [vo_ju s="jun0142"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Anywhere but inside is no good, I could get pregnant! I don't want to[r]
 get pregnant like this!"[pcms]
 *10740|
@@ -1121,7 +1121,7 @@ the start.[pcms]
 *10744|
 [fc]
 [vo_ju s="jun0143"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "No! Please forgive that! Anything but that! Please... please... ah,[r]
 aaaaah!"[pcms]
 *10745|
@@ -1136,7 +1136,7 @@ aaaaah!"[pcms]
 *10746|
 [fc]
 [vo_ju s="jun0144"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ngyaaaaaaaah! Nguahaaaaaaah!"[pcms]
 *10747|
 [fc]
@@ -1149,7 +1149,7 @@ lower abdomen.[pcms]
 *10749|
 [fc]
 [vo_ju s="jun0145"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "It's coming out! Noooo! Pull it out! Pull it out..."[pcms]
 *10750|
 [fc]
@@ -1185,7 +1185,7 @@ absolutely unbearable.[pcms]
 *10758|
 [fc]
 [vo_ju s="jun0146"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "No, nooooo! Please stop it!"[pcms]
 *10759|
 [fc]
@@ -1220,7 +1220,7 @@ at a strange angle.[pcms]
 *10766|
 [fc]
 [vo_ju s="jun0147"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Again! You murderer!"[pcms]
 [backlay][kan_de0 layer=3 x="&sf.de_lo_x[3]" y="&sf.de_lo_y[0]"][trans time=150 method=crossfade][wt]
 *10767|
@@ -1249,7 +1249,7 @@ As long as I am alive, forever...[pcms]
 *10773|
 [fc]
 [vo_ju s="jun0148"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Please stop it!"[pcms]
 *10774|
 [fc]

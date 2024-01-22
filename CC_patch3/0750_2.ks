@@ -30,7 +30,7 @@ but his touch was far from a caress, rather it was rough and careless.[pcms]
 *10209|
 [fc]
 [vo_ri s="riri0545"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "This is so irritating... Sure, my breasts are modest, but..."[pcms]
 *10210|
 [fc]
@@ -101,7 +101,7 @@ cloth.[pcms]
 *10223|
 [fc]
 [vo_ri s="riri0546"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nn...tttt! Kyauuuuuu!!! Kuhf, kooooh!!"[pcms]
 [se buf=1 storage="se_sex02" loop=true]
 *10223a|
@@ -133,7 +133,7 @@ But she said nothing, only letting out uncontrollable moans.[pcms]
 *10229|
 [fc]
 [vo_ri s="riri0547"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Higuh, ha...guuu! Nguh, nfuuhhh! Kuhiiii...t"[pcms]
 *10230|
 [fc]
@@ -143,7 +143,7 @@ squelching sounds coming from this bitch hole!!"[pcms]
 *10231|
 [fc]
 [vo_ri s="riri0548"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nn, kuuuuh, ha...yeah. Kuh...nnuuuuu...ttt"[pcms]
 *10232|
 [fc]
@@ -153,7 +153,7 @@ the ass by a guy you hate and loving it! You kinky bitch!!!"[pcms]
 *10233|
 [fc]
 [vo_ri s="riri0549"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Kuuuu...ttt!! Nguh, nnh, hiuh! Kyauuuuuu!!"[pcms]
 *10233a|
 [fc]
@@ -167,7 +167,7 @@ her ass higher, she positioned herself to accept him even more.[pcms]
 *10235|
 [fc]
 [vo_ri s="riri0550"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ohit, ohh, ohhhh! Nnh, higuh! Nyiiih! Nnnh!"[pcms]
 *10235a|
 [fc]
@@ -181,7 +181,7 @@ violence, Riri trembled with a pleasure so intense it numbed her mind.[pcms]
 *10236|
 [fc]
 [vo_ri s="riri0551"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Hahheehhh!! Ohh, ohoh! Nooo!! I'm going to cum...I'm cumminggg!!"[pcms]
 *10237|
 [fc]
@@ -190,7 +190,7 @@ couldn't stop. Sweet moans quickly turned into pleading cries.[pcms]
 *10238|
 [fc]
 [vo_ri s="riri0552"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "It's frustrating but it feels good! Nnh, nhoohhh! Being raped in the[r]
 ass like this, I'm cumminggg!!"[pcms]
 *10239|
@@ -216,7 +216,7 @@ tremendous pleasure.[pcms]
 *10242|
 [fc]
 [vo_ri s="riri0553"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nn, hooohhhhh!! I'm cumming, I'm cuuummmiiinggg!!!"[pcms]
 *10243|
 [fc]
@@ -234,7 +234,7 @@ penis and began to splatter the rest onto her ass.[pcms]
 *10245|
 [fc]
 [vo_ri s="riri0554"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Kuhii...iiih!! My ass... it's getting hot too... Higuu, it's hot...[r]
 it's so hot...nkyuuuu...!"[pcms]
 *10246|
@@ -268,7 +268,7 @@ practice several times.[pcms]
 *10252|
 [fc]
 [vo_ri s="riri0555"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Next is you, Senpai? Umm, please don't do anything too unpleasant...[r]
 kyaa!!"[pcms]
 [backlay][evcg storage="EV28_08" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
@@ -289,7 +289,7 @@ she sensed this, Riri responded with friendly words.[pcms]
 *10256|
 [fc]
 [vo_ri s="riri0556"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Tha... that's not true. More importantly, could you not say such[r]
 things...?"[pcms]
 *10257|
@@ -317,7 +317,7 @@ hips in one swift motion.[pcms]
 *10261|
 [fc]
 [vo_ri s="riri0557"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Kyahiiiiiiii!! Kuh, kuiiiii!! Senpaii, suddenly like thaattt,[r]
 nnguuuu!!"[pcms]
 [se buf=1 storage="se_sex03" loop=true]
@@ -345,7 +345,7 @@ feelings completely.[pcms]
 *10266|
 [fc]
 [vo_ri s="riri0558"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Kuu...ttt! That's cruel...! I'm self-conscious about it!"[pcms]
 *10267|
 [fc]
@@ -356,7 +356,7 @@ dared to glare at me like that... Yo!"[pcms]
 *10268|
 [fc]
 [vo_ri s="riri0559"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Fuguu! Nn, nheh, noooohhh---!!"[pcms]
 *10269|
 [fc]
@@ -382,7 +382,7 @@ entwining around him.[pcms]
 *10273|
 [fc]
 [vo_ri s="riri0560"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Hagu, haguuu... That's the worst... the worst!! Kuh, kuunnnn,[r]
 fuguuu... ah, but... this!"[pcms]
 *10274|
@@ -393,7 +393,7 @@ I'll thrust even more! Here, this is what you like!!"[pcms]
 *10275|
 [fc]
 [vo_ri s="riri0561"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Kuh, kuunnnn! I refuse... like thatttt, nnh, kuunnnn... I refuse such[r]
 things...! Ah, kuh, kuuu!!"[pcms]
 *10276|
@@ -410,7 +410,7 @@ into just an erotic cat! Kuhuhuhu!!"[pcms]
 *10278|
 [fc]
 [vo_ri s="riri0562"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "That's not trueee. Hagu, nguuuuuu... I'm not an erotic cat or[r]
 anything like that... kuhin!? Ahh, aguuu...!"[pcms]
 *10279|
@@ -422,7 +422,7 @@ opening quivered with joy.[pcms]
 *10280|
 [fc]
 [vo_ri s="riri0563"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Hih... this is... no... wrong... it's wrong! Why does this make me go[r]
 crazy... ah, ahhh!!"[pcms]
 *10280a|
@@ -433,7 +433,7 @@ kitty!!"[pcms]
 *10281|
 [fc]
 [vo_ri s="riri0564"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "No! No, no, no, no! This is strange, so strange!! Nooooo!!"[pcms]
 *10282|
 [fc]
@@ -442,7 +442,7 @@ soft spot that his glans hit.[pcms]
 *10283|
 [fc]
 [vo_ri s="riri0565"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Naaaaahhh!! Good, it feels so good, soooo goooood!! Ahh, ohhh, aghhh![r]
 I'm cumming, I'm cuuummming!!"[pcms]
 *10284|
@@ -456,7 +456,7 @@ over again.[pcms]
 *10286|
 [fc]
 [vo_ri s="riri0566"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ughiiii! I'm cumming, it's too much to handleee!! Nghh! It's too[r]
 much, I'm dyingggg!!"[pcms]
 *10287|
@@ -471,7 +471,7 @@ much, I'm dyingggg!!"[pcms]
 *10288|
 [fc]
 [vo_ri s="riri0567"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Aoooooonn!! Semen!! Ahh, ahhh! It's spurting into my good spot... I'm[r]
 cumminggg!!"[pcms]
 [backlay][evcg storage="EV28_16" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
@@ -502,7 +502,7 @@ her buttocks as if petting a cat.[pcms]
 *10294|
 [fc]
 [vo_ri s="riri0568"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ah...hiin. You're... Ken-go's... friend... right? Ahh, ahaha... ahah![r]
 Somehow, this is funny..."[pcms]
 *10295|
@@ -531,7 +531,7 @@ matter anymore, does he? I want Kiyohara-san to take my virginity!"[pcms]
 *10300|
 [fc]
 [vo_ri s="riri0569"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Hue...? It's fine... I'll take it with my pussy. I think Ken-go would[r]
 want me to do that for you..."[pcms]
 *10301|
@@ -550,7 +550,7 @@ What remained was an endlessly swelling desire.[pcms]
 *10304|
 [fc]
 [vo_ri s="riri0570"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nn...fuaaaa... It's entering again... Kufuuuu..."[pcms]
 [se buf=1 storage="se_sex03" loop=true]
 *10305|
@@ -575,7 +575,7 @@ questions at Riri.[pcms]
 *10309|
 [fc]
 [vo_ri s="riri0571"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "I liked him... That's why before the camp... I wanted to do it, ahn![r]
 He always talks about Akira... I wanted to give him a blowjob too!"[pcms]
 *10310|
@@ -587,7 +587,7 @@ Hey, if you had done it... would you have let him cum inside?"[pcms]
 *10311|
 [fc]
 [vo_ri s="riri0572"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Hauun! Maybe I would have let him... No, we didn't have condoms but I[r]
 love Ken-go... Nnnn, I definitely would have wanted him to cum inside[r]
 me... Ah!"[pcms]
@@ -603,7 +603,7 @@ Once this was over, she would be desperate to have sex with Ken-go.[pcms]
 *10314|
 [fc]
 [vo_ri s="riri0573"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "I can't say that with words. I want it so much, so very much! I want[r]
 to do it with Ken-go, I want Ken-go's cock, Ken-go's semen!!"[pcms]
 *10315|
@@ -628,7 +628,7 @@ girlfriend might get pregnant!!"[pcms]
 *10318|
 [fc]
 [vo_ri s="riri0574"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "If you say that, I'm going to cummmmm!! Getting fertilized by someone[r]
 else's sperm other than Ken-go's!! Cummingggg!!"[pcms]
 [ÉÅÉXÉtÉâ]
@@ -639,7 +639,7 @@ no trace of guilt; there was only pure pleasure.[pcms]
 *10319|
 [fc]
 [vo_ri s="riri0575"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Kengo... I'm going to get pregnant with a friend's sperm... kuhii,[r]
 I'm going to conceive... Sorry, sorry, Kengo... Hahi, I'm going to cum[r]
 again...!"[pcms]
@@ -651,7 +651,7 @@ breaths in her unending excitement.[pcms]
 *10320|
 [fc]
 [vo_ri s="riri0576"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Hiu... Thank you for taking Kengo's place... But it's still not[r]
 enough... I want you to fuck me more..."[pcms]
 *10324|
@@ -663,7 +663,7 @@ it's so firm...!!"[pcms]
 *10326|
 [fc]
 [vo_ri s="riri0577"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nfufu... Thank you for the compliment. Hey, you can take off my[r]
 panties, okay?"[pcms]
 *10327|
@@ -684,7 +684,7 @@ anymore...! Senpai, please take my virginity!!"[pcms]
 *10330|
 [fc]
 [vo_ri s="riri0578"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "It's okay. Look... nnn, put your junior cock inside me? You know[r]
 where it goes, right? Hurry up, put it in..."[pcms]
 *10331|
@@ -697,7 +697,7 @@ his hot, raging cock, he thrusts it into the dripping wet hole.[pcms]
 *10332|
 [fc]
 [vo_ri s="riri0579"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Kyaaaan! If you're that hasty, it's no good. Ahh, your cock is[r]
 trembling inside my pussy, you can't cum yet...!"[pcms]
 *10333|
@@ -725,7 +725,7 @@ senpai! Do you remember?!"[pcms]
 *10337|
 [fc]
 [vo_ri s="riri0580"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Wow, moving while cumming! This feels good! It feels so good, so keep[r]
 going!!"[pcms]
 *10338|
@@ -742,7 +742,7 @@ enveloping them in pleasure.[pcms]
 *10340|
 [fc]
 [vo_ri s="riri0581"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Saying things like that, nkyu! It's embarrassing...! But is it okay?[r]
 To have such an erotic idol?"[pcms]
 *10341|
@@ -753,7 +753,7 @@ youuuu!!"[pcms]
 *10342|
 [fc]
 [vo_ri s="riri0582"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "I'm so happy!! Look, hit here more... this spot!! If you do that,[r]
 I'll feel even better!!"[pcms]
 *10343|
@@ -773,7 +773,7 @@ her womb, he digs his nails into the twitching flesh of her ass.[pcms]
 *10346|
 [fc]
 [vo_ri s="riri0583"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Haahiiiiii!! Yes, there! It feels good!! It feels too good, I'm going[r]
 to cum with a cock that isn't Kengo's again!!"[pcms]
 *10347|
@@ -783,7 +783,7 @@ And with each apology to him, that excitement became more pure.[pcms]
 *10348|
 [fc]
 [vo_ri s="riri0584"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "I'm sorry, so sorry, Kengo!! But it can't be helped!! My body is hot,[r]
 my pussy is throbbing, and without a cock I'll go crazy!!"[pcms]
 *10349|
@@ -799,7 +799,7 @@ descended womb.[pcms]
 *10351|
 [fc]
 [vo_ri s="riri0585"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Fuhiiiiin!! I'm going to cum! I'm cumming from being hit in the womb![r]
 Cumming... cummingcummingcumminggguuuu!!"[pcms]
 *10352|
@@ -822,7 +822,7 @@ idol's screams shattered his futile efforts.[pcms]
 *10355|
 [fc]
 [vo_ri s="riri0586"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nnhooohhhhh!! Cummingggg!! Over and over... over and over again,[r]
 cummingggguuuuuu!! Ohheeeeee!!"[pcms]
 *10355a|

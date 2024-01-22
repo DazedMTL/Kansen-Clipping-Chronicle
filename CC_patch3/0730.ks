@@ -104,7 +104,7 @@ If I lift the entrance fabric, I should be able to peek inside easily.[pcms]
 *9322|
 [fc]
 [vo_ju s="jun0082"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "..."[pcms]
 *9323|
 [fc]
@@ -119,7 +119,7 @@ And then...[pcms]
 *9326|
 [fc]
 [vo_ju s="jun0083"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "!"[pcms]
 *9327|
 [fc]
@@ -139,12 +139,12 @@ into them.[pcms]
 *9331|
 [fc]
 [vo_ju s="jun0084"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Kyaaaaaaa!"[pcms]
 [backlay][yuj_lo_04_f07 layer=3 x="&sf.yu_lo_x[3]" y="&sf.yu_lo_y[0]"][trans time=150 method=crossfade][wt]
 *9332|
 [fc]
-[ns]yYuuji[nse]
+[ns]Yuuji[nse]
 "Whoa, hey, don't scare me like that."[pcms]
 *9333|
 [fc]
@@ -152,12 +152,12 @@ There he was... my boyfriend, Yuuji.[pcms]
 *9334|
 [fc]
 [vo_ju s="jun0085"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "I'm the one who got scared! Geez, you really startled me!"[pcms]
 [backlay][yuj_lo_04_f10 layer=3 x="&sf.yu_lo_x[3]" y="&sf.yu_lo_y[0]"][trans time=150 method=crossfade][wt]
 *9335|
 [fc]
-[ns]yYuuji[nse]
+[ns]Yuuji[nse]
 "What are you getting mad about..."[pcms]
 *9336|
 [fc]
@@ -176,12 +176,12 @@ It was... kind of creepy.[pcms]
 *9340|
 [fc]
 [vo_ju s="jun0086"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "L-let's go, Yuuji."[pcms]
 [backlay][yuj_lo_04_f06 layer=3 x="&sf.yu_lo_x[3]" y="&sf.yu_lo_y[0]"][trans time=150 method=crossfade][wt]
 *9341|
 [fc]
-[ns]yYuuji[nse]
+[ns]Yuuji[nse]
 "Oh, okay..."[pcms]
 *9342|
 [fc]
@@ -192,22 +192,22 @@ Taking a slightly larger breath to calm my heart.[pcms]
 [backlay][yuj_lo_04_f07 layer=3 x="&sf.yu_lo_x[3]" y="&sf.yu_lo_y[0]"][trans time=150 method=crossfade][wt]
 *9344|
 [fc]
-[ns]yYuuji[nse]
+[ns]Yuuji[nse]
 "Did something happen?"[pcms]
 *9345|
 [fc]
 [vo_ju s="jun0087"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "It's nothing, just a misunderstanding it seems."[pcms]
 [backlay][yuj_lo_04_f09 layer=3 x="&sf.yu_lo_x[3]" y="&sf.yu_lo_y[0]"][trans time=150 method=crossfade][wt]
 *9346|
 [fc]
-[ns]yYuuji[nse]
+[ns]Yuuji[nse]
 "If that's the case... hey, how about we sneak away together tonight?"[pcms]
 *9347|
 [fc]
 [vo_ju s="jun0088"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Sneak away to... where..."[pcms]
 *9348|
 [fc]
@@ -222,26 +222,26 @@ But, could he really be serious about doing it...?[pcms]
 *9351|
 [fc]
 [vo_ju s="jun0089"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "But with so many people around, it'll surely be outside, right?"[pcms]
 [backlay][yuj_lo_04_f10 layer=3 x="&sf.yu_lo_x[3]" y="&sf.yu_lo_y[0]"][trans time=150 method=crossfade][wt]
 *9352|
 [fc]
-[ns]yYuuji[nse]
+[ns]Yuuji[nse]
 "I just can't wait... Just with your mouth is fine, please."[pcms]
 *9353|
 [fc]
 [vo_ju s="jun0090"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Are you serious?"[pcms]
 *9354|
 [fc]
-[ns]yYuuji[nse]
+[ns]Yuuji[nse]
 "I really can't wait any longer, you understand, right?"[pcms]
 *9355|
 [fc]
 [vo_ju s="jun0091"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Well, yeah... but..."[pcms]
 *9356|
 [fc]
@@ -253,17 +253,17 @@ If I leave him be, who knows what he might do...[pcms]
 *9358|
 [fc]
 [vo_ju s="jun0092"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Oh fine, can't be helped then."[pcms]
 [backlay][yuj_lo_04_f01 layer=3 x="&sf.yu_lo_x[3]" y="&sf.yu_lo_y[0]"][trans time=150 method=crossfade][wt]
 *9359|
 [fc]
-[ns]yYuuji[nse]
+[ns]Yuuji[nse]
 "Alright, it's a deal then. What time tonight?"[pcms]
 *9360|
 [fc]
 [vo_ju s="jun0093"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "After taking a bath, I guess. That's probably when I'll be free..."[pcms]
 *9361|
 [fc]

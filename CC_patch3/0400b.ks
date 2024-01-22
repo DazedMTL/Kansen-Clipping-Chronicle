@@ -9,7 +9,7 @@ end.[pcms]
 I completely overslept and missed it![pcms]
 *4678|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Damn it, damn it, damn it...! Everyone's just a bunch of heartless[r]
 jerks!!"[pcms]
 *4679|
@@ -28,11 +28,11 @@ state I'm in![pcms]
 [backlay][sud_lo_03_f07 layer=3 x="&sf.su_lo_x[3]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
 *4682|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "Akira!!"[pcms]
 *4683|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Ahhn!? What do you want, you heartless jerk!!"[pcms]
 *4684|
 [fc]
@@ -45,7 +45,7 @@ premonition was conveyed.[pcms]
 [backlay][sud_lo_03_f04 layer=3 x="&sf.su_lo_x[3]" y="&sf.su_lo_y[0]"][trans time=150 method=crossfade][wt]
 *4686|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "Ri, Riri-chan... Riri-chan is...!!"[pcms]
 [stopse_all]
 [sysbt_meswin clear]

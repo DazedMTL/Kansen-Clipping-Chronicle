@@ -11,7 +11,7 @@
 [sysbt_meswin]
 *3031|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Phew..."[pcms]
 *3032|
 [fc]
@@ -23,7 +23,7 @@ I wish I could just fall asleep like this. I wanted to forget[r]
 everything and immerse myself in a comfortable drowsiness.[pcms]
 *3034|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "I can't sleep..."[pcms]
 *3035|
 [fc]
@@ -38,7 +38,7 @@ feeling a moderate amount of fatigue, but it's not translating into[r]
 sleepiness.[pcms]
 *3037|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Maybe a walk outside would help at times like this..."[pcms]
 *3038|
 [fc]
@@ -51,7 +51,7 @@ It's unlikely that the same kind of thugs from this morning would[r]
 attack again, but the darkness of the night seems ominous.[pcms]
 *3039|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Can't sleep, have worries, and yet no solution comes to mind. It's[r]
 like I'm completely stuck..."[pcms]
 *3040|
@@ -60,7 +60,7 @@ Even as I muttered to myself in self-derision, it didn't distract me.[r]
 I was just trying to forget the loneliness and vaguely mask the fear.[pcms]
 *3041|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "But seriously, when are Suda and the others going to come back to[r]
 this room?"[pcms]
 *3042|
@@ -72,7 +72,7 @@ They said they were feeling sick and didn't even come out for dinner,[r]
 but when I returned from pool practice, no one was here.[pcms]
 *3044|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Don't tell me... they went to that peeping spot in the old building?"[pcms]
 *3045|
 [fc]
@@ -90,7 +90,7 @@ If someone is knocking like this, it's not Suda and the others. Then[r]
 who could it be?[pcms]
 *3048|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Come in, the door is unlocked."[pcms]
 *3049|
 [fc]
@@ -100,7 +100,7 @@ last night, that would be convenient.[pcms]
 *3050|
 [fc]
 [vo_ru s="rui0135"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Hey there, good evening Akira-kun."[pcms]
 *3051|
 [fc]
@@ -108,13 +108,13 @@ But it wasn't Riri who entered; it was Rui-senpai. She approached me[r]
 without hesitation in her jersey.[pcms]
 *3052|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "What brings you here, senpai?"[pcms]
 [backlay][rui_lo_03_f23 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *3053|
 [fc]
 [vo_ru s="rui0136"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Where are the other people in this room?"[pcms]
 *3054|
 [fc]
@@ -126,18 +126,18 @@ It's bothering me, but since I'm the junior here, maybe I should just[r]
 give in.[pcms]
 *3056|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Suda and the others seem to have gone out to play. I'm the only one[r]
 on house duty."[pcms]
 [backlay][rui_lo_03_f26 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *3057|
 [fc]
 [vo_ru s="rui0137"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "That's convenient then."[pcms]
 *3058|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Huh?"[pcms]
 *3059|
 [fc]
@@ -147,7 +147,7 @@ the commotion this morning, like a warning or something.[pcms]
 *3060|
 [fc]
 [vo_ru s="rui0138"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "May I sit down?"[pcms]
 *3061|
 [fc]
@@ -155,18 +155,18 @@ This room is just for Suda and us guys to sleep in; there isn't even a[r]
 reception set or a single chair.[pcms]
 *3062|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "If you're okay with this futon... well, consider it a cushion. It's[r]
 part of the bedding set, so no problem there."[pcms]
 [backlay][rui_lo_03_f02 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *3063|
 [fc]
 [vo_ru s="rui0139"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Haha, Akira-kun is always so unique."[pcms]
 *3064|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "I'll take that as a compliment."[pcms]
 *3065|
 [fc]
@@ -176,11 +176,11 @@ individualistic, so I'll gratefully accept that sentiment.[pcms]
 *3066|
 [fc]
 [vo_ru s="rui0140"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Well then, let's get down to business--"[pcms]
 *3067|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "How are you feeling--"[pcms]
 *3068|
 [fc]
@@ -216,12 +216,12 @@ swimming.[pcms]
 *3075|
 [fc]
 [vo_ru s="rui0141"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "You were worried about me, weren't you? I appreciate your concern.[r]
 I'm fine now."[pcms]
 *3076|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Um... the place where you were bitten, there's no mark left, right?"[pcms]
 *3077|
 [fc]
@@ -231,12 +231,12 @@ is a girl?[pcms]
 *3078|
 [fc]
 [vo_ru s="rui0142"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Hehe, Akira-kun, your thoughts always show on your face. But don't[r]
 worry about that."[pcms]
 *3079|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "I'm glad."[pcms]
 *3080|
 [fc]
@@ -244,7 +244,7 @@ There's no trace of the bite. It's probably just a light cold causing[r]
 a slight fever. That seems to be the extent of Rui-senpai's condition.[pcms]
 *3081|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "I'm relieved to hear that. I've been so worried about it I couldn't[r]
 sleep."[pcms]
 *3082|
@@ -255,7 +255,7 @@ involving Kiyohara Riri.[pcms]
 *3083|
 [fc]
 [vo_ru s="rui0143"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "What's the other thing you're worried about?"[pcms]
 *3084|
 [fc]
@@ -264,7 +264,7 @@ When I'm around Rui-senpai, my expressions tend to give me away. I'll[r]
 have to be more careful in the future.[pcms]
 *3085|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "It's a private matter specific to guys, so no comment, please."[pcms]
 *3086|
 [fc]
@@ -274,11 +274,11 @@ get it![pcms]
 *3087|
 [fc]
 [vo_ru s="rui0144"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Understood. Then for now, I'll let it slide."[pcms]
 *3088|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Th-thank you... So, what's the main issue you wanted to talk about?"[pcms]
 [backlay][rui_up_03_f24 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *3089|
@@ -297,7 +297,7 @@ breathing are driving me to indecent fantasies.[pcms]
 *3092|
 [fc]
 [vo_ru s="rui0145"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "It's more like a request... I have something serious to discuss with[r]
 you, Akira-kun."[pcms]
 *3093|
@@ -311,7 +311,7 @@ In other words, it means Rui-senpai has some fondness for me, and[r]
 somewhere inside, I was hoping for such a convenient setup for sex.[pcms]
 *3095|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "It's about this morning's commotion and those guys who suddenly[r]
 dropped dead out of nowhere, right?"[pcms]
 *3096|
@@ -322,7 +322,7 @@ conversation in that direction.[pcms]
 *3097|
 [fc]
 [vo_ru s="rui0146"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "It's a very important discussion. I want to borrow your strength...[r]
 please."[pcms]
 *3098|
@@ -331,7 +331,7 @@ It must be something like carrying luggage or cleaning. Don't get[r]
 ahead of yourself with weird expectations, me![pcms]
 *3099|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "S-sure thing. Whatever you need, just ask, Rui-senpai."[pcms]
 *3100|
 [fc]
@@ -340,11 +340,11 @@ I laughed. It was meant to be a joke-like laugh.[pcms]
 *3101|
 [fc]
 [vo_ru s="rui0147"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "I appreciate it. Then let's get right to it."[pcms]
 *3102|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "...?"[pcms]
 *3103|
 [fc]
@@ -361,7 +361,7 @@ took a rapid turn. That was--[pcms]
 *3104|
 [fc]
 [vo_ru s="rui0148"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Akira-kun... can you feel my heat... transferring to you?"[pcms]
 *3105|
 [fc]
@@ -369,7 +369,7 @@ Suddenly, Rui-senpai hugged me. The soft sensation and a pleasant[r]
 scent tickled my nostrils.[pcms]
 *3106|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Ye-yes... I can feel it... Your body is warm... And... it's really[r]
 soft... and smells nice..."[pcms]
 *3107|
@@ -379,7 +379,7 @@ intoxicated by Rui-senpai's touch and scent.[pcms]
 *3108|
 [fc]
 [vo_ru s="rui0149"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "This is what I wanted to talk about."[pcms]
 *3109|
 [fc]
@@ -387,7 +387,7 @@ With those words, Rui-senpai pressed closer to me. Her cleavage came[r]
 closer to my face.[pcms]
 *3110|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "So, what does that mean--"[pcms]
 *3111|
 [fc]
@@ -402,7 +402,7 @@ be instantly noticeable.[pcms]
 *3113|
 [fc]
 [vo_ru s="rui0150"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "My body... the depths of my womb are throbbing... I can't stand how[r]
 much I want a man."[pcms]
 *3114|
@@ -413,7 +413,7 @@ reality.[pcms]
 *3115|
 [fc]
 [vo_ru s="rui0151"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "That's why I thought I'd have sex with you."[pcms]
 *3116|
 [fc]
@@ -425,17 +425,17 @@ It was like my own fantasies had materialized into reality. This has[r]
 to be a joke... right?[pcms]
 *3118|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Even as a joke, isn't this going too far--"[pcms]
 *3119|
 [fc]
 [vo_ru s="rui0152"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "But it seems like this part of Shibue-kun is being quite honest,[r]
 isn't it?"[pcms]
 *3120|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Guh!?"[pcms]
 *3121|
 [fc]
@@ -444,7 +444,7 @@ her fingers over it as if she were petting a dog or cat.[pcms]
 *3122|
 [fc]
 [vo_ru s="rui0153"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "I really want to hear your honest feelings."[pcms]
 *3123|
 [fc]
@@ -453,7 +453,7 @@ unfortunately, I had already lost my virginity last night, so I should[r]
 be able to do well.[pcms]
 *3124|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Let's get to the main topic, shall we? This kind of erotic teasing[r]
 isn't like you, Rui-senpai."[pcms]
 *3125|
@@ -464,7 +464,7 @@ manly to refuse when a woman is inviting me.[pcms]
 *3126|
 [fc]
 [vo_ru s="rui0154"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Not like me? That's not true at all. This is exactly how I behave."[pcms]
 *3127|
 [fc]
@@ -472,12 +472,12 @@ What does that mean? This is... how Rui-senpai is?[pcms]
 *3128|
 [fc]
 [vo_ru s="rui0155"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Shibue-kun, why don't you run away instead of spouting such[r]
 conventional wisdom?"[pcms]
 *3129|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "That's because..."[pcms]
 *3130|
 [fc]
@@ -492,7 +492,7 @@ me.[pcms]
 *3132|
 [fc]
 [vo_ru s="rui0156"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Hehe... resistance is futile, you know?"[pcms]
 *3133|
 [fc]
@@ -500,7 +500,7 @@ Her breath was hot on me. Rui-senpai's fingertips were tracing over my[r]
 penis through my pants.[pcms]
 *3134|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Guh... Rui-senpai... I... I'm already!"[pcms]
 *3135|
 [fc]
@@ -510,7 +510,7 @@ Riri last night.[pcms]
 *3136|
 [fc]
 [vo_ru s="rui0157"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "You really can't hold back, can you, Shibue-kun? ÅÙ"[pcms]
 *3137|
 [fc]
@@ -519,7 +519,7 @@ was shameful and pathetic, but that only excited me more.[pcms]
 *3138|
 [fc]
 [vo_ru s="rui0158"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "It's okay. If you're going to pretend to resist, then I'll tempt you[r]
 more boldly."[pcms]
 [backlay][bg storage="BG04c"]
@@ -537,23 +537,23 @@ naked--or so I mistakenly thought for a moment, but she was wearing[r]
 her club's competitive swimsuit underneath.[pcms]
 *3140|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Why are you wearing that under your jersey?"[pcms]
 [backlay][rui_lo_01_f18 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *3141|
 [fc]
 [vo_ru s="rui0159"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "That's a silly question. I've already explained why I came here."[pcms]
 *3142|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "I don't understand, I just don't get it, Rui-senpai!"[pcms]
 [backlay][rui_lo_01_f23 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *3143|
 [fc]
 [vo_ru s="rui0160"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Sex in this special attire is exciting. Don't you think?"[pcms]
 *3144|
 [fc]
@@ -562,7 +562,7 @@ Rui-senpai in her swimsuit with lecherous eyes.[pcms]
 *3145|
 [fc]
 [vo_ru s="rui0161"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "It's proper etiquette for a girl to respond to the expectations of[r]
 boys."[pcms]
 *3146|
@@ -571,12 +571,12 @@ As if seeing right through the lewd gazes and hidden desires I had[r]
 harbored up until now, Rui-senpai laughed.[pcms]
 *3147|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "That's not... I wasn't expecting anything..."[pcms]
 *3148|
 [fc]
 [vo_ru s="rui0162"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "That's what it seemed like to me. And clearly, this part is quite[r]
 pleased."[pcms]
 *3149|
@@ -590,7 +590,7 @@ If this continues, things will get out of hand. Both Rui-senpai and I[r]
 will end up in an irreversible situation. That's what I thought.[pcms]
 *3151|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Rui-senpai... let's stop this, please, things like this..."[pcms]
 *3152|
 [fc]
@@ -600,22 +600,22 @@ common sense, desperately trying to disguise my own desires.[pcms]
 *3153|
 [fc]
 [vo_ru s="rui0163"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Shibue-kun, you're so cold. Do you really dislike me that much?"[pcms]
 *3154|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "It's the opposite! I respect you, and I've always admired you... To[r]
 me, you're like the origin of my current self who's devoted to club[r]
 activities, like a benefactor..."[pcms]
 *3155|
 [fc]
 [vo_ru s="rui0164"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Hmm, I want to hear more."[pcms]
 *3156|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Rui-senpai is very important to me!"[pcms]
 *3157|
 [fc]
@@ -624,7 +624,7 @@ I said it. I finally said it.[pcms]
 *3158|
 [fc]
 [vo_ru s="rui0165"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "I see... So that's how it wasÅÙ)[pcms]
 *3159|
 [fc]
@@ -634,11 +634,11 @@ happily. That reaction made my penis swell and harden even more.[pcms]
 *3160|
 [fc]
 [vo_ru s="rui0166"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Then you should savor me. Do you want this body of mine?"[pcms]
 *3161|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "...Ye-Yes! I want it!"[pcms]
 *3162|
 [fc]
@@ -648,7 +648,7 @@ anything else.[pcms]
 *3163|
 [fc]
 [vo_ru s="rui0167"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Alright, then shall we enjoy ourselves together?"[pcms]
 *3164|
 [fc]

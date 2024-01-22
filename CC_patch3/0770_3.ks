@@ -18,7 +18,7 @@
 *11006|
 [fc]
 [vo_ju s="jun0195"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "No, I can't... I can't take this anymore... No----!"[pcms]
 *11007|
 [fc]
@@ -26,7 +26,7 @@ The burly men grab my body and toss me lightly.[pcms]
 *11008|
 [fc]
 [vo_ju s="jun0196"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Kyaaahhhhh!"[pcms]
 *11009|
 [fc]
@@ -61,7 +61,7 @@ been eyeing you, Jun-chan!"[pcms]
 *11015|
 [fc]
 [vo_ju s="jun0197"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "No, nooooo... don't do anything scaryyyyy...!"[pcms]
 *11016|
 [fc]
@@ -85,7 +85,7 @@ hands.[pcms]
 *11021|
 [fc]
 [vo_ju s="jun0198"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Auuuuh! Kuuuh! It's scary... it's scary..."[pcms]
 *11022|
 [fc]
@@ -111,7 +111,7 @@ wherever they want.[pcms]
 *11027|
 [fc]
 [vo_ju s="jun0199"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Guuh, guh... ah, ahhh...!"[pcms]
 [se buf=0 storage="se_sex01"]
 [evcg”’ƒtƒ‰ storage="EV33_03" layer=0 page=back visible=true left=0 top=0]
@@ -130,7 +130,7 @@ body is violated.[pcms]
 *11030|
 [fc]
 [vo_ju s="jun0200"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Gabooh, gabooohhh! Guboohhhhhhhhh!"[pcms]
 *11031|
 [fc]
@@ -162,7 +162,7 @@ intense that it kept me from passing out.[pcms]
 *11038|
 [fc]
 [vo_ju s="jun0201"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Agguuuoohhh! Ngabuuuh! Gebuuuh! Gabuuuh!"[pcms]
 *11039|
 [fc]
@@ -188,7 +188,7 @@ fluid is poured into my body.[pcms]
 *11043|
 [fc]
 [vo_ju s="jun0202"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Gabuh! Ngegeeeeh! Gebuh! Nguh!"[pcms]
 *11044|
 [fc]
@@ -215,7 +215,7 @@ sound and sprayed his hot semen on my spats.[pcms]
 *11048|
 [fc]
 [vo_ju s="jun0203"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Gebuh, geeeh! Gabuh, koboh, gohoh, haa, haa..."[pcms]
 *11049|
 [fc]
@@ -247,7 +247,7 @@ side as if passing it.[pcms]
 [fc]
 [quakesp time=500 laynum=0 hmax=20 vmax=20]
 [vo_ju s="jun0204"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Gefuh, gehoh...ah...kyaaahhh!"[pcms]
 *11056|
 [fc]
@@ -274,7 +274,7 @@ rear hole.[pcms]
 *11060|
 [fc]
 [vo_ju s="jun0205"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Munguuuuh! Anmuuuuuuh!"[pcms]
 [se buf=1 storage="se_sex03" loop=true]
 *11061|
@@ -304,7 +304,7 @@ kept moving his hips back and forth.[pcms]
 *11067|
 [fc]
 [vo_ju s="jun0206"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Gafuuuh! Gobohh! Gaubuuh! Gubeeeh!"[pcms]
 *11068|
 [fc]
@@ -329,7 +329,7 @@ indulging in pleasure, driven by their male instincts.[pcms]
 *11073|
 [fc]
 [vo_ju s="jun0207"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Gubouuuh! Nguuuuahh! Gabugoooh!"[pcms]
 *11074|
 [fc]
@@ -363,7 +363,7 @@ keeping the rod deep in my throat.[pcms]
 *11080|
 [fc]
 [vo_ju s="jun0208"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Guh, ah, aguuuahhh! Nguuuuh!"[pcms]
 *11081|
 [fc]
@@ -397,7 +397,7 @@ horrible taste.[pcms]
 *11088|
 [fc]
 [vo_ju s="jun0209"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ugh... ubuu, ugeeeh, geuboooh...!"[pcms]
 *11089|
 [fc]
@@ -420,7 +420,7 @@ I'm taking the anal! Hyahhyahhya-![pcms]
 *11094|
 [fc]
 [vo_ju s="jun0210"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Please, let me rest..."[pcms]
 [backlay][black_toplayer][trans method=universal rule="DtoT" vague=300 time=300][wt2][hide_chara_int]
 *11095|
@@ -442,7 +442,7 @@ Hyaaa! The anal is so tight![pcms]
 *11098|
 [fc]
 [vo_ju s="jun0211"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Aguuuuh! Nguuuiiiiih...!"[pcms]
 [se buf=1 storage="se_sex02" loop=true]
 *11099|
@@ -457,7 +457,7 @@ the pain in my lower half feels sharper.[pcms]
 *11101|
 [fc]
 [vo_ju s="jun0212"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Please, no more... I'm going to die..."[pcms]
 *11102|
 [fc]
@@ -479,7 +479,7 @@ I can't wait! It's mine![pcms]
 *11106|
 [fc]
 [vo_ju s="jun0213"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Stop it! Aaahhh!"[pcms]
 *11107|
 [fc]
@@ -500,7 +500,7 @@ Can't be helped then![pcms]
 *11111|
 [fc]
 [vo_ju s="jun0214"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "No, two at once is impossible... absolutely impossible!"[pcms]
 *11112|
 [fc]
@@ -513,7 +513,7 @@ The place slick with other men's semen received his forceful thrusts.[pcms]
 *11114|
 [fc]
 [vo_ju s="jun0215"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "This is going to kill me... I'm going to die!"[pcms]
 *11115|
 [fc]
@@ -523,7 +523,7 @@ I'm in! It's in![pcms]
 *11116|
 [fc]
 [vo_ju s="jun0216"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Gyaaaahhhhh! Ngyiiiiih!"[pcms]
 *11117|
 [fc]
@@ -540,7 +540,7 @@ Your dick is so hard...[pcms]
 *11120|
 [fc]
 [vo_ju s="jun0217"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ugeeeeh, gebouaaah..."[pcms]
 *11121|
 [fc]
@@ -553,7 +553,7 @@ All that comes out is semen, but the vomiting doesn't stop.[pcms]
 *11123|
 [fc]
 [vo_ju s="jun0218"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Gafuuu, gefuuu, uuuuuh, uuuuuh..."[pcms]
 *11124|
 [fc]
@@ -571,7 +571,7 @@ The dicks are rubbing against each other... it feels so weird...[pcms]
 *11127|
 [fc]
 [vo_ju s="jun0219"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "No, pull it out... it's coming out...[pcms]
 [se buf=1 storage="se_sex03" loop=true]
 *11128|
@@ -594,7 +594,7 @@ No way... this...[pcms]
 *11133|
 [fc]
 [vo_ju s="jun0220"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "This is no good... I'm really going to die..."[pcms]
 *11134|
 [fc]
@@ -604,7 +604,7 @@ Shut up! Don't get cocky![pcms]
 *11135|
 [fc]
 [vo_ju s="jun0221"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Gubuuu!"[pcms]
 *11136|
 [fc]
@@ -620,7 +620,7 @@ Ohh, my throat, it feels so good![pcms]
 *11139|
 [fc]
 [vo_ju s="jun0222"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ngo, nguuu, nguuu, nguuuooo!"[pcms]
 *11140|
 [fc]
@@ -642,7 +642,7 @@ Ahh, the anus is bliss... I can feel two of them through the wall...[pcms]
 *11144|
 [fc]
 [vo_ju s="jun0223"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Nguuuu, nguuu! Nnnn! Ninuuuu!"[pcms]
 *11145|
 [fc]
@@ -706,7 +706,7 @@ climax.[pcms]
 *11158|
 [fc]
 [vo_ju s="jun0224"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Gubbi, bibbi, biuuu, nbuiii, biiii!"[pcms]
 *11159|
 [fc]
@@ -726,7 +726,7 @@ Ahhh, that feels so good...[pcms]
 *11163|
 [fc]
 [vo_ju s="jun0225"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ngebuoooahhh! Ngueeeh! Gabuuuuh!"[pcms]
 *11164|
 [fc]

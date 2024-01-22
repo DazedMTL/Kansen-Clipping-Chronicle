@@ -12,7 +12,7 @@ Again... someone was killed...[pcms]
 *10857|
 [fc]
 [vo_ju s="jun0163"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "I-I can't take this anymore..."[pcms]
 *10858|
 [fc]
@@ -21,7 +21,7 @@ Again... someone was killed...[pcms]
 *10859|
 [fc]
 [vo_ju s="jun0164"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Kyaaaah! Don't pull meeee!"[pcms]
 *10860|
 [fc]
@@ -42,7 +42,7 @@ With my body aching all over, just standing like this is painful.[pcms]
 *10863|
 [fc]
 [vo_ju s="jun0165"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "No, it hurts! Don't force it!"[pcms]
 [backlay][evcg storage="EV32_02" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10864|
@@ -62,7 +62,7 @@ much I scream or struggle, the man shows no mercy.[pcms]
 *10867|
 [fc]
 [vo_ju s="jun0166"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Agiiiiiiii! Gyiiiiiiii!"[pcms]
 *10868|
 [fc]
@@ -79,7 +79,7 @@ Perhaps because of the different angle, the pain is even more intense.[pcms]
 *10871|
 [fc]
 [vo_ju s="jun0167"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "It hurts! Don't move!"[pcms]
 [se buf=1 storage="se_sex03" loop=true]
 *10872|
@@ -104,7 +104,7 @@ body.[pcms]
 *10877|
 [fc]
 [vo_ju s="jun0168"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Gyaaaaah! Stop it!"[pcms]
 *10878|
 [fc]
@@ -121,7 +121,7 @@ raw.[pcms]
 *10881|
 [fc]
 [vo_ju s="jun0169"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Aguuuuu! Ngyiiiiii!"[pcms]
 *10882|
 [fc]
@@ -135,7 +135,7 @@ raw.[pcms]
 *10883|
 [fc]
 [vo_ju s="jun0170"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Kuuu, uuuu, aaaaah..."[pcms]
 *10884|
 [fc]
@@ -166,7 +166,7 @@ There's no way I won't get pregnant from this...[pcms]
 *10891|
 [fc]
 [vo_ju s="jun0171"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Eh... what are you going to do...? I can't take this anymore..."[pcms]
 *10892|
 [fc]
@@ -178,7 +178,7 @@ The man places his hand on my buttocks and starts to pry them open.[pcms]
 *10894|
 [fc]
 [vo_ju s="jun0172"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Don't do that, please stop!"[pcms]
 *10895|
 [fc]
@@ -211,7 +211,7 @@ sound as his joint bends in an impossible direction.[pcms]
 *10901|
 [fc]
 [vo_ju s="jun0173"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ugh... kuh..."[pcms]
 *10902|
 [fc]
@@ -226,7 +226,7 @@ This nightmare... it never ends...[pcms]
 *10904|
 [fc]
 [vo_ju s="jun0174"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ahiiee! Higiiii!"[pcms]
 [se buf=1 storage="se_sex03" loop=true]
 *10905|
@@ -249,7 +249,7 @@ body is colliding with me during sex.[pcms]
 *10909|
 [fc]
 [vo_ju s="jun0175"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Auuuh! Aiiih! It hurts! Gyiiiiii!"[pcms]
 *10910|
 [fc]
@@ -268,7 +268,7 @@ floor, as if he can't hear anything.[pcms]
 *10913|
 [fc]
 [vo_ju s="jun0176"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Agiiih! Guuuh! Aiiih, aiiiih!"[pcms]
 *10914|
 [fc]
@@ -287,7 +287,7 @@ I gasp for air each time he pulls away after colliding with me.[pcms]
 *10918|
 [fc]
 [vo_ju s="jun0177"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Aguh, fuguuh, auuh, nfuuh!"[pcms]
 *10919|
 [fc]
@@ -296,7 +296,7 @@ I gasp for air each time he pulls away after colliding with me.[pcms]
 *10920|
 [fc]
 [vo_ju s="jun0178"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Kyah! Noooo!"[pcms]
 [stopse buf=1]
 [se buf=0 storage="se_sex01"]
@@ -314,7 +314,7 @@ A slimy, unpleasant warmth spreads slowly across my buttocks.[pcms]
 *10923|
 [fc]
 [vo_ju s="jun0179"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Uuh... auuh..."[pcms]
 *10924|
 [fc]
@@ -338,7 +338,7 @@ From my standing buttocks, semen warm enough to steam drips down.[pcms]
 *10926|
 [fc]
 [vo_ju s="jun0180"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Hiiiiii!"[pcms]
 *10927|
 [fc]
@@ -371,7 +371,7 @@ lifts my body.[pcms]
 *10933|
 [fc]
 [vo_ju s="jun0181"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Kyaaaah! Put me downnnn!"[pcms]
 *10934|
 [fc]
@@ -380,7 +380,7 @@ lifts my body.[pcms]
 *10935|
 [fc]
 [vo_ju s="jun0182"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Hiiiiii!"[pcms]
 *10936|
 [fc]
@@ -399,7 +399,7 @@ groin.[pcms]
 *10939|
 [fc]
 [vo_ju s="jun0183"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Higyaaaa! I'm going to dieeee!"[pcms]
 [se buf=1 storage="se_sex02" loop=true]
 *10940|
@@ -417,7 +417,7 @@ watch closely!"[pcms]
 *10943|
 [fc]
 [vo_ju s="jun0184"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Aggyaaaa! Nghiiiiii!"[pcms]
 *10944|
 [fc]
@@ -430,7 +430,7 @@ It felt as terrible as if a plastic bottle was being inserted.[pcms]
 *10946|
 [fc]
 [vo_ju s="jun0185"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ugh, guh, ahhhhhh..."[pcms]
 *10947|
 [fc]
@@ -459,7 +459,7 @@ My ass...?! With something this thick, it'll break me![pcms]
 *10953|
 [fc]
 [vo_ju s="jun0186"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Wait, wait a minute, it won't go in, it absolutely won't fit![r]
 Impossible! Impossible impossible!!"[pcms]
 *10954|
@@ -469,7 +469,7 @@ Impossible! Impossible impossible!!"[pcms]
 *10955|
 [fc]
 [vo_ju s="jun0187"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "That place... that's not right... hiuuh!? Gah... gyaaaaah!"[pcms]
 [se buf=0 storage="se_sex01"]
 [evcg”’ƒtƒ‰ storage="EV31_15" layer=0 page=back visible=true left=0 top=0]
@@ -484,7 +484,7 @@ I was violated.[pcms]
 *10958|
 [fc]
 [vo_ju s="jun0188"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Higyuh! Ngyiiih! Impossible! Agah... agyiii!"[pcms]
 *10959|
 [fc]
@@ -506,7 +506,7 @@ wiggled his hips, forcing his way inside.[pcms]
 *10963|
 [fc]
 [vo_ju s="jun0189"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Gyaaaaah! Guh... gyiiiiiiii!"[pcms]
 *10964|
 [fc]
@@ -534,7 +534,7 @@ option.[pcms]
 *10969|
 [fc]
 [vo_ju s="jun0190"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Hih... higuuuaah! Ah... guuuuuuuh! Aaaaahhh!!"[pcms]
 *10970|
 [fc]
@@ -556,7 +556,7 @@ being rubbed raw was like torture.[pcms]
 *10974|
 [fc]
 [vo_ju s="jun0191"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Gyah, ah! Gueh! Ugyaaaah!"[pcms]
 *10975|
 [fc]
@@ -577,7 +577,7 @@ ravaged my narrow openings.[pcms]
 *10979|
 [fc]
 [vo_ju s="jun0192"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Agguuuuuh! I-I'm gonna dieeeee!"[pcms]
 *10980|
 [fc]
@@ -598,7 +598,7 @@ through the wall, almost shaving it down with friction.[pcms]
 *10984|
 [fc]
 [vo_ju s="jun0193"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Guh... ah, ahah... uweeeeeeeh!"[pcms]
 *10985|
 [fc]
@@ -620,7 +620,7 @@ disgust beyond its limits.[pcms]
 *10988|
 [fc]
 [vo_ju s="jun0194"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "No... more... stop it... I can't take this... anymore... noooo..."[pcms]
 *10989|
 [fc]

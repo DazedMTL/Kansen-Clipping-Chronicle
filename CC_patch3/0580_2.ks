@@ -13,11 +13,11 @@
 [sysbt_meswin]
 *6911|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "Alright, here we go-! So-ra, let's join in-!!"[pcms]
 *6912|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Drop dead."[pcms]
 [se buf=1 storage="se_sex02" loop=true]
 *6913|
@@ -28,7 +28,7 @@ and rub the glans against her pussy.[pcms]
 *6914|
 [fc]
 [vo_ru s="rui0378"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Ngh, uuuuuuuuh!! Hngh, nghuuuuu...uhhh!!"[pcms]
 *6914a|
 [fc]
@@ -36,7 +36,7 @@ But the senior tries to suppress her voice as she desperately closes[r]
 her mouth, seemingly determined not to let out any more moans.[pcms]
 *6915|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "Eh~~~~? Why are you holding back? Here, how about this?"[pcms]
 *6916|
 [fc]
@@ -45,7 +45,7 @@ swaying G-cup breasts with overwhelming presence.[pcms]
 *6917|
 [fc]
 [vo_ru s="rui0379"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Nnnngh!! Ghh, guuuhhh!! Haah, uuuuuh...uhhh!!"[pcms]
 *6918|
 [fc]
@@ -57,7 +57,7 @@ assault. Or maybe she doesn't want to show us any more disgrace?[pcms]
 "Hey, Suda, hurry up and stick it in. I'm getting tired of this."[pcms]
 *6920|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "Right~~. So then, this time for real...re--let's join!!"[pcms]
 *6921|
 [fc]
@@ -69,7 +69,7 @@ swallows the dick...[pcms]
 *6922|
 [fc]
 [vo_ru s="rui0380"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Higuuuuuh...uhhh!! Ghh, guuh, nuuuuuuh..."[pcms]
 *6923|
 [fc]
@@ -78,7 +78,7 @@ red, she bites down on her teeth trying to suppress what's[r]
 overflowing.[pcms]
 *6924|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "Impressive~~! Then, how about this? Here here here~~"[pcms]
 *6924a|
 [fc]
@@ -93,12 +93,12 @@ Suda's tight abdomen.[pcms]
 *6926|
 [fc]
 [vo_ru s="rui0381"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Ha...ghh, uhh...hah...uhhhhh!! Suda, you...you're underestimating me[r]
 too much..."[pcms]
 *6927|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "Oops, is that so? I didn't mean it like that, but I'll try a bit[r]
 harder. Gyahaha!"[pcms]
 *6928|
@@ -107,7 +107,7 @@ Suda grins slyly with his fox-like eyes and starts to vary his hip[r]
 movements.[pcms]
 *6929|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "How about here? Or maybe this side? Or maybe maybe..."[pcms]
 *6930|
 [fc]
@@ -117,7 +117,7 @@ enthusiasm is something I should learn from as well.[pcms]
 *6931|
 [fc]
 [vo_ru s="rui0382"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Ugh...h. Such things won't...I won't fall for them... Not to[r]
 you...not to any of you, absolutely not..."[pcms]
 *6932|
@@ -126,7 +126,7 @@ Such a strong will, it's hard to believe she just moaned. Maybe she[r]
 regained herself after coming once.[pcms]
 *6933|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "(That's right, this is Rui-senpai. The person I admire more than[r]
 anyone else, who I've always looked up to. That's why she wouldn't[r]
 feel anything from someone like Suda.)"[pcms]
@@ -136,7 +136,7 @@ Why am I letting someone like Suda have his way with Senpai? Why,[r]
 why...?[pcms]
 *6935|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "Hehehe, then...how about this spot?"[pcms]
 *6936|
 [fc]
@@ -146,7 +146,7 @@ whisper and the following voice.[pcms]
 *6937|
 [fc]
 [vo_ru s="rui0383"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Kyaaun!! Ah...uhh, kuuuuuuu~~~uh!"[pcms]
 *6938|
 [fc]
@@ -154,7 +154,7 @@ That was unmistakably a moan. It was Senpai's raw voice that Suda had[r]
 unearthed.[pcms]
 *6939|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "There there, is it here? Surprisingly easy to understand- Gyahaha!"[pcms]
 *6940|
 [fc]
@@ -163,7 +163,7 @@ sweet voices begin to spill from the white throat immediately.[pcms]
 *6941|
 [fc]
 [vo_ru s="rui0384"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Hauhn, fuuaaaaah!! No, stop...nyahaaaah! I don't want to feel it, I[r]
 don't want to...fuuaaaaah!!"[pcms]
 *6942|
@@ -172,7 +172,7 @@ The sound of sticky fluids being stirred overlaps with Senpai's moans.[r]
 It violently shakes my heart.[pcms]
 *6943|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "What are you saying? You're letting out such an erotic voice."[pcms]
 *6944|
 [fc]
@@ -182,7 +182,7 @@ vigorously.[pcms]
 *6945|
 [fc]
 [vo_ru s="rui0385"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Nngh, kwooooh!! Ghh, guuuuhh, noo, I don't want this, I don't want[r]
 thisssss! You're making me feel like this...fuhhyaaaah!!"[pcms]
 *6946|
@@ -191,12 +191,12 @@ While shedding tears profusely, Senpai begins to moan wildly. The[r]
 conflicting emotions awaken a dark feeling in my heart.[pcms]
 *6947|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "Kuu~~h, this pussy is so good! I can't wait to cum inside!"[pcms]
 *6947a|
 [fc]
 [vo_ru s="rui0386"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "No no nooo! Don't cum anymore! You can't cum anymore!! Ahh, aaaaahn![r]
 Noo, I'm going to...I'm going to come againnnn!!"[pcms]
 *6948|
@@ -206,7 +206,7 @@ to tilt towards climax. And to think she didn't come when it was my[r]
 turn...!![pcms]
 *6949|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "I'm gonna cum! I'm gonna cuuuuum!! Gyahahahahahaha!!"[pcms]
 *6950|
 [fc]
@@ -220,7 +220,7 @@ was screaming with her eyes wide open.[pcms]
 *6951|
 [fc]
 [vo_ru s="rui0387"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Nghhhhh, nuuuuuuuuu--------!! Kuhiiiiii--------!!"[pcms]
 *6952|
 [fc]
@@ -228,7 +228,7 @@ Senpai climaxed as if being lifted by the semen that was pounded into[r]
 her. And it was accompanied by a more vivid scream than ever before.[pcms]
 *6953|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "Fuhii~~~. Unlike with the teachers, this one's so tight. Ohoh! I'm[r]
 still gonna cum more~~"[pcms]
 *6954|
@@ -237,11 +237,11 @@ As Senpai trembled violently, Suda continued to pour his semen into[r]
 her. And that was supposed to be my pussy alone...![pcms]
 *6955|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Suda! That's enough. Senpai isn't yours!"[pcms]
 *6956|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "Haa~~~? What, you mad? Well, whatever."[pcms]
 [se buf=1 storage="se_sex01"]
 [backlay][evcg storage="EV24_08" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
@@ -276,7 +276,7 @@ Senpai.[pcms]
 *6962|
 [fc]
 [vo_ru s="rui0388"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Co-Coach... I can't possibly answer that...kuhaaaaa!?"[pcms]
 *6962a|
 [fc]
@@ -294,7 +294,7 @@ If his dick is like a snake, then this part is too.[pcms]
 *6965|
 [fc]
 [vo_ru s="rui0389"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Kuh...!! Even you, Coach, what are you doing... You're supposed to be[r]
 in a position to guide us...nhiiii!!"[pcms]
 *6966|
@@ -320,7 +320,7 @@ screamed with her eyes wide open.[pcms]
 *6969|
 [fc]
 [vo_ru s="rui0390"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Uhyaaaaaaahhh!! Ahh, ahhh, ohhhhhn!!"[pcms]
 *6970|
 [fc]
@@ -331,7 +331,7 @@ relentlessly.[pcms]
 *6971|
 [fc]
 [vo_ru s="rui0391"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Haguh! Hagyaaa!! Guh, guuh, guuuuuhhh!! Co-Coach, please[r]
 stop...please!!"[pcms]
 *6972|
@@ -348,7 +348,7 @@ pulling it in, he twisted his overly long weapon even deeper.[pcms]
 *6974|
 [fc]
 [vo_ru s="rui0392"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Higyaaaaahhh!! It's coming, it's reaching my deepest part! Ohh,[r]
 ohhhh!! Uwaaaaahhhhh!!"[pcms]
 *6975|
@@ -367,7 +367,7 @@ maliciously. It was a different dimension from Suda's clumsy torment.[pcms]
 *6978|
 [fc]
 [vo_ru s="rui0393"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "I...I won't cum! I won't cummmmm!!"[pcms]
 *6979|
 [fc]
@@ -402,7 +402,7 @@ screamed while scattering drool.[pcms]
 *6986|
 [fc]
 [vo_ru s="rui0394"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "I-I-I-I-I-I won't cummmmm!! I-I won't cum! N-nooooo!!"[pcms]
 *6986a|
 [fc]
@@ -411,7 +411,7 @@ However, Senpai's continued screams were contrary to her will.[pcms]
 *6987|
 [fc]
 [vo_ru s="rui0395"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "N-noooo!! I'm cumming, I'm cumming, ahhhh, I'm cumming, I'm cumming![r]
 Cummingggggg-------!!"[pcms]
 [ÉÅÉXÉtÉâ]
@@ -435,7 +435,7 @@ pool. It was because her climaxing was so intense.[pcms]
 *6992|
 [fc]
 [vo_ru s="rui0396"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Ag...uh. Guh...uuuuuuh, uguuuuuu...!!"[pcms]
 *6993|
 [fc]
@@ -450,7 +450,7 @@ I'll take her anal!"[pcms]
 [backlay][evcg storage="EV24a_15" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *6995|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Uwaaaaahhh!! Senpai is mine!! She's all mineee!!"[pcms]
 *6995a|
 [fc]
@@ -466,7 +466,7 @@ dick into her tightly closed asshole.[pcms]
 *6997|
 [fc]
 [vo_ru s="rui0397"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Nguuuuuuu-----!! Haguh, higyiiiiii!!"[pcms]
 *6997a|
 [fc]
@@ -474,7 +474,7 @@ An uncontrollable scream burst forth. Although it was mostly due to[r]
 pain, I felt something in that voice.[pcms]
 *6998|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Se-Senpai...! Could it be that this is your first time here!?"[pcms]
 *6999|
 [fc]
@@ -488,7 +488,7 @@ to penetration.[pcms]
 *7001|
 [fc]
 [vo_ru s="rui0398"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "It hurts, it hurts!! Pull it out, pull it ouuuutttt!!! Nooo, I don't[r]
 want it in my ass nooooo!!"[pcms]
 *7002|
@@ -497,7 +497,7 @@ So that's it, Senpai was indeed an anal virgin. I couldn't get her[r]
 pussy, but this became mine!![pcms]
 *7003|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Great, this isn't a bitch's hole! Ahahaha! Yes, I did it!!"[pcms]
 [se buf=1 storage="se_sex03" loop=true]
 *7004|
@@ -507,7 +507,7 @@ Overwhelmed with joy like never before, I began to thrust.[pcms]
 *7005|
 [fc]
 [vo_ru s="rui0399"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Ngyigyigyigiiii!! It hurts!! Don't move...it!! Aguh, agyiiiiii!!"[pcms]
 *7006|
 [fc]
@@ -526,7 +526,7 @@ penetration.[pcms]
 *7009|
 [fc]
 [vo_ru s="rui0400"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Fuhiii!! Fugh, fuahhh! No, don't move now...!! Ahh, ahhhhh! It's[r]
 starting to feel goooood!!"[pcms]
 *7010|
@@ -540,13 +540,13 @@ I have no intention of being ordered around by this guy, but I[r]
 accelerate my hip movements. Of course, not for Coach's sake.[pcms]
 *7012|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Senpai, I will make you cum. I'll make you cum with this virgin[r]
 hole!!"[pcms]
 *7013|
 [fc]
 [vo_ru s="rui0401"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "No, noooooo!! I don't want that, I don't need itttt!! Ahh, ah,[r]
 ahhhhh!! I don't want thaaaat!!"[pcms]
 *7014|
@@ -560,7 +560,7 @@ all the way into her asshole that began to leak intestinal fluids.[pcms]
 *7016|
 [fc]
 [vo_ru s="rui0402"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Hahheeeehhh!? Wh-why does it...feel good!? Even though it's my ass,[r]
 it feels so goooood!!"[pcms]
 *7017|
@@ -578,7 +578,7 @@ nice guy. I exchange a look with my partner and put more power into my[r]
 thrusts.[pcms]
 *7020|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "How is it, Senpai? Feels good to have your ass fucked? It's okay to[r]
 cum. You can cum from your ass fucking too."[pcms]
 *7020a|
@@ -590,7 +590,7 @@ side to side.[pcms]
 *7021|
 [fc]
 [vo_ru s="rui0403"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "No, I don't want to say that! I don't want... Ahhh! Oh, it feels[r]
 good!!"[pcms]
 *7022|
@@ -600,7 +600,7 @@ she turned her melted eyes towards me.[pcms]
 *7023|
 [fc]
 [vo_ru s="rui0404"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "I don't want it, but I'm cumming, I'm cumming! I'm cumming from my[r]
 ass!!"[pcms]
 *7023a|
@@ -611,7 +611,7 @@ and slammed forward. At that moment--[pcms]
 *7024|
 [fc]
 [vo_ru s="rui0405"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "I'm cummingggg!! I'm cumming from my ass!!"[pcms]
 *7024a|
 [fc]
@@ -625,7 +625,7 @@ couldn't resist spilling what we had mixed up.[pcms]
 *7025|
 [fc]
 [vo_ru s="rui0406"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Ahhhh! The semen is coming! Oh, ohh! Semen in both my pussy and my[r]
 ass!!"[pcms]
 *7026|
@@ -635,7 +635,7 @@ out. I really wanted to make her cum just from her ass, but this can't[r]
 be helped.[pcms]
 *7027|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Phew... Senpai's ass was the best. Ahahaha!"[pcms]
 *7028|
 [fc]
@@ -649,7 +649,7 @@ I pulled out my twitching dick and peered into her gaping asshole.[pcms]
 *7030|
 [fc]
 [vo_ru s="rui0407"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Don't look... at that. Don't look there... ugh."[pcms]
 *7031|
 [fc]
@@ -680,7 +680,7 @@ With that said, I had no choice but to step back. After all, I was the[r]
 one who took her virginity.[pcms]
 *7037|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Alright. Everyone make Senpai feel good."[pcms]
 [backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]
 [se buf=0 storage="se_sex01"]
@@ -694,7 +694,7 @@ one of them hammered his lust into Senpai's pussy hole.[pcms]
 *7039|
 [fc]
 [vo_ru s="rui0408"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Hyaguuu!! No more...! I don't want to do it anymore!!"[pcms]
 *7039a|
 [fc]
@@ -713,7 +713,7 @@ ease. The pleasure quickly showing on Senpai's face was proof of that.[pcms]
 *7042|
 [fc]
 [vo_ru s="rui0409"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Uhiinnn!! No no nooo! I don't want to cum anymore!! I don't want[r]
 to... aheeeeee!!"[pcms]
 *7043|
@@ -736,7 +736,7 @@ just penetrated it, insertion would surely be easy.[pcms]
 *7046|
 [fc]
 [vo_ru s="rui0410"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "No, nooo! Not the ass anymore! That place is off limits!!"[pcms]
 *7047|
 [fc]
@@ -748,7 +748,7 @@ have no choice either... here I go!!"[pcms]
 *7048|
 [fc]
 [vo_ru s="rui0411"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Ngaahhhhh!! Ahh, ahgghh, ahiieeee!!"[pcms]
 [se buf=1 storage="se_sex03" loop=true]
 *7049|
@@ -805,7 +805,7 @@ Indeed, this might be what Coach meant by teamwork.[pcms]
 *7061|
 [fc]
 [vo_ru s="rui0412"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Ugh, ughaaaah. Stop messing around... enough already, nguuuh! Your[r]
 misdeeds... ugh, I will never... forget them...!"[pcms]
 *7062|
@@ -819,7 +819,7 @@ That's probably not a lie. Everyone must have admired Senpai Rui.[r]
 That's why they can't help but desire her body. I feel the same way.[pcms]
 *7064|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "That's right, Senpai. Everyone admired you. So please, take mine in[r]
 your mouth too."[pcms]
 *7065|
@@ -830,7 +830,7 @@ Senpai's face and told her with a smile.[pcms]
 *7066|
 [fc]
 [vo_ru s="rui0413"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Wh-what are you saying...? Where... where have you been putting it[r]
 until now...?"[pcms]
 *7066a|
@@ -840,7 +840,7 @@ with that?[pcms]
 *7067|
 [fc]
 [vo_ru s="rui0414"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "No way! Don't bring that dirty thing near me!! I will never...[r]
 nnoooohhhhh!?"[pcms]
 *7068|
@@ -851,7 +851,7 @@ her mouth opened wide and I didn't hesitate to shove my dick in.[pcms]
 *7069|
 [fc]
 [vo_ru s="rui0415"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Obboooohhhhh!!? Ogohh, ogooohhhhh!!"[pcms]
 *7070|
 [fc]
@@ -859,7 +859,7 @@ As soon as I slammed my glans down her throat, I pressed it in firmly.[r]
 I figured this way she couldn't close her mouth.[pcms]
 *7071|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Since my dick got dirty in your ass, please clean it properly."[pcms]
 *7072|
 [fc]
@@ -868,7 +868,7 @@ began to lick with what seemed like pleasure.[pcms]
 *7073|
 [fc]
 [vo_ru s="rui0416"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Obuhh, obuuuh! Ugh, ueeeeh...!! I won't forgive this... habuhh,[r]
 nnooooh...!"[pcms]
 *7074|
@@ -887,7 +887,7 @@ and their movements rapidly sped up.[pcms]
 *7077|
 [fc]
 [vo_ru s="rui0417"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Ohohh, oohnn! Obuhh, ndjuu... jurrurururuu!! Jabahh, jubooohhh!![r]
 Nbuu, nheeeehhh!"[pcms]
 *7078|
@@ -896,7 +896,7 @@ Before I knew it, Senpai's tongue movements had become more intense.[r]
 Despite what she says, she must love licking my dick.[pcms]
 *7079|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "That's good, Senpaiii! Ohh, I'm going to cum... I'm cumming!!"[pcms]
 *7080|
 [fc]
@@ -905,7 +905,7 @@ like my dick was being swallowed by an intense vacuum.[pcms]
 *7081|
 [fc]
 [vo_ru s="rui0418"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Nboooohhhhh!! Ndjyuhh, juboooh!! Ha... nnooohh, haooh![r]
 Ndjyuuuuuuuuhhh!!"[pcms]
 *7082|
@@ -928,7 +928,7 @@ easily sprayed our semen all over.[pcms]
 *7085|
 [fc]
 [vo_ru s="rui0419"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Nbuuuuuuuuuuuuuuuhhhhh!! Obuhh, ogoooohhh!!"[pcms]
 *7086|
 [fc]
@@ -937,7 +937,7 @@ mouth, and it all flowed back out from their junctions at once.[pcms]
 *7087|
 [fc]
 [vo_ru s="rui0420"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Obuhh! Ogeehh...!! Eehh, guuuhh! Ngiieeeeeeeeeeehhh!!!"[pcms]
 *7088|
 [fc]
@@ -945,7 +945,7 @@ In the midst of that hot torrent, Senpai also reached climax. To come[r]
 no matter where it's put in herher eroticism is extraordinary.[pcms]
 *7089|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Hahii... Senpai's mouth pussy was the best too. Right guys?"[pcms]
 *7090|
 [fc]
@@ -960,7 +960,7 @@ experience.[pcms]
 *7092|
 [fc]
 [vo_ru s="rui0421"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Guh... uuuuuh... Why are you guys doing such things..."[pcms]
 *7093|
 [fc]
@@ -977,7 +977,7 @@ club advisor... the muscle-brained Mr. Onodera.[pcms]
 *7096|
 [fc]
 [vo_ru s="rui0422"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Oh, Mr. Onodera...! Everyone's... everyone's gone crazy..."[pcms]
 *7097|
 [fc]
@@ -1006,7 +1006,7 @@ pretty vicious tool.[pcms]
 *7102|
 [fc]
 [vo_ru s="rui0423"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "No... no more... Why is this happening... Nooooo!!"[pcms]
 [if exp="tf.scene_mode == 1 && tf.all_play == 0"]
 	[jump storage="b_scene.ks" target=*back_from_SR]

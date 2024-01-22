@@ -13,7 +13,7 @@
 *3165|
 [fc]
 [vo_ru s="rui0168"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Hehe, Shibue-kun's is quite lively, isn't it?"[pcms]
 *3166|
 [fc]
@@ -21,7 +21,7 @@ Senpai Rui traps my penis between her breasts, creating what's[r]
 commonly known as a paizuri, and teases me with those words.[pcms]
 *3167|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "It can't help but get excited! With you doing this to me!"[pcms]
 *3168|
 [fc]
@@ -31,7 +31,7 @@ almost scary.[pcms]
 *3169|
 [fc]
 [vo_ru s="rui0169"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "It's true. Shibue-kun's penis is so youthful and unnecessarily[r]
 energetic, frolicking between my breasts."[pcms]
 *3170|
@@ -41,7 +41,7 @@ time experience. My fully engorged and rock-hard erection was[r]
 trembling.[pcms]
 *3171|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Senpai Rui... to be enveloped by Senpai Rui's breasts... it's like a[r]
 dream! It feels so amazing!"[pcms]
 *3172|
@@ -70,7 +70,7 @@ Flushed skin, sweat, the lascivious feel of flesh, and seductive[r]
 sighs. All of it was trying to melt my penis with pleasure.[pcms]
 *3177|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "This is bad... Senpai Rui... I'm going to ejaculate soon!"[pcms]
 *3178|
 [fc]
@@ -81,7 +81,7 @@ mind.[pcms]
 *3179|
 [fc]
 [vo_ru s="rui0170"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Hehe, I can't have you giving up so easily now."[pcms]
 *3180|
 [fc]
@@ -90,7 +90,7 @@ hands, enveloping my penis while moving her upper body up and down.[pcms]
 *3181|
 [fc]
 [vo_ru s="rui0171"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "This is just foreplay, you know? Just a warm-up exercise before sex."[pcms]
 *3182|
 [fc]
@@ -98,7 +98,7 @@ Senpai Rui looked at me with a teasing tone. Her gentle smile seemed[r]
 to hide a lewd provocation.[pcms]
 *3183|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "I-I understand that, but... still!"[pcms]
 *3184|
 [fc]
@@ -109,7 +109,7 @@ wouldn't create too much friction.[pcms]
 *3185|
 [fc]
 [vo_ru s="rui0172"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "That won't do, Shibue-kun. I want to have sex. I don't intend to be[r]
 reduced to just a tool for your masturbation."[pcms]
 *3186|
@@ -118,21 +118,21 @@ The decisive pleasure that would lead to ejaculation was put on hold.[r]
 Frustration and impatience were burning through my brain and body.[pcms]
 *3187|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "What should I do... How can I get you to let me ejaculate?"[pcms]
 *3188|
 [fc]
 [vo_ru s="rui0173"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Hmm... well then. If you answer all of my questions... maybe?"[pcms]
 *3189|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "If that's all it takes, then please ask me anything quickly!"[pcms]
 *3190|
 [fc]
 [vo_ru s="rui0174"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Then first... let's clear up my doubts. Is this your first time,[r]
 Shibue-kun?"[pcms]
 *3191|
@@ -146,7 +146,7 @@ the virginity of Riri, who was not only my best friend's girlfriend[r]
 but also my childhood friend.[pcms]
 *3193|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "It's my second time... It's not my first."[pcms]
 *3194|
 [fc]
@@ -154,7 +154,7 @@ After much internal debate, I finally confessed as much.[pcms]
 *3195|
 [fc]
 [vo_ru s="rui0175"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Huh... that's surprising. I thought for sure this would be your first[r]
 time."[pcms]
 *3196|
@@ -164,26 +164,26 @@ thought was both pleasing and embarrassing.[pcms]
 *3197|
 [fc]
 [vo_ru s="rui0176"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Then the next question. Who was your first partner? If it's someone I[r]
 know, could you tell me their name?"[pcms]
 *3198|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Please spare me that. It would cause trouble for the other person..."[pcms]
 *3199|
 [fc]
 [vo_ru s="rui0177"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "You can relax. I'm very discreet. Or do you not trust me?"[pcms]
 *3200|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "That's not it..."[pcms]
 *3201|
 [fc]
 [vo_ru s="rui0178"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Well, if Shibue-kun really wants to keep the identity of your partner[r]
 a secret, I can't object..."[pcms]
 [backlay][evcg storage="EV08_02" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
@@ -193,13 +193,13 @@ But even as Senpai Rui said that, she clearly slowed down the paizuri[r]
 movement to an extremely slow pace.[pcms]
 *3203|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Ahh... Senpai Rui... this is torture..."[pcms]
 [backlay][evcg storage="EV08_01" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *3204|
 [fc]
 [vo_ru s="rui0179"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "I know it's a vulgar curiosity, but I can't help wondering... Who was[r]
 Shibue-kun's first partner?"[pcms]
 *3205|
@@ -210,7 +210,7 @@ it's going to be.[pcms]
 *3206|
 [fc]
 [vo_ru s="rui0180"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "It's my fault for not being trustworthy, huh? Can't be helped then."[pcms]
 *3207|
 [fc]
@@ -219,7 +219,7 @@ paizuri, pressing down with a flashy movement. The sudden surge of[r]
 intense pleasure almost made me surrender.[pcms]
 *3208|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "It's Riri... My first time was with someone you know... Kiyohara[r]
 Riri!"[pcms]
 *3209|
@@ -229,7 +229,7 @@ Rui wouldn't carelessly talk about it to others.[pcms]
 *3210|
 [fc]
 [vo_ru s="rui0181"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Kiyohara-kun, huh... But isn't that a problem?"[pcms]
 *3211|
 [fc]
@@ -238,7 +238,7 @@ like a reward for finally confessing.[pcms]
 *3212|
 [fc]
 [vo_ru s="rui0182"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Kiyohara-kun is... your best friend's girlfriend, isn't she?"[pcms]
 *3213|
 [fc]
@@ -246,7 +246,7 @@ It was a natural question. What I had done was an act that couldn't be[r]
 undone or forgotten.[pcms]
 *3214|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Yes... I took the virginity of my best friend's... his girlfriend!"[pcms]
 *3215|
 [fc]
@@ -256,7 +256,7 @@ excitement.[pcms]
 *3216|
 [fc]
 [vo_ru s="rui0183"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "After stealing your best friend's girlfriend and confessing it to[r]
 me... you get this hard... You're a bad boy, Shibue-kunÅÙ"[pcms]
 [backlay][evcg storage="EV08_02" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
@@ -269,7 +269,7 @@ before.[pcms]
 *3218|
 [fc]
 [vo_ru s="rui0184"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "When and where did you take Kiyohara-kun's virginity?"[pcms]
 *3219|
 [fc]
@@ -277,7 +277,7 @@ I was torn between not wanting to answer and wanting to confess[r]
 everything. But ultimately, pleasure won out and I opened my mouth.[pcms]
 *3220|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Last night... in the old gym storage room!"[pcms]
 *3221|
 [fc]
@@ -286,7 +286,7 @@ accomplice. An accomplice in the crime of betraying my best friend.[pcms]
 *3222|
 [fc]
 [vo_ru s="rui0185"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Hmm, and in what position did you do it?"[pcms]
 *3223|
 [fc]
@@ -294,7 +294,7 @@ From there on, it was like rolling downhill. I answered Senpai Rui's[r]
 questions without hesitation.[pcms]
 *3224|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Riri was on all fours, and I took her from behind!"[pcms]
 *3225|
 [fc]
@@ -303,39 +303,39 @@ I was simultaneously reliving the sex with Riri in my mind.[pcms]
 *3226|
 [fc]
 [vo_ru s="rui0186"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "How many times did you do it? And where did you ejaculate at the end?[r]
 Surely you didn't... ejaculate inside her, did you?"[pcms]
 *3227|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "I'm sorry! I couldn't stop myself and did it three times! Once inside[r]
 Riri! Then on her butt once! And finally inside again!"[pcms]
 *3228|
 [fc]
 [vo_ru s="rui0187"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Oh dear, Shibue-kun? Ejaculating inside is problematic enough... but[r]
 to do that with Kiyohara-kun on her first time... and even in her[r]
 butt... you've done something outrageous, haven't you?"[pcms]
 *3229|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "I'm sorry! But it felt so good, I couldn't stop!"[pcms]
 *3230|
 [fc]
 [vo_ru s="rui0188"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "So... your best friend's girlfriend... Oh right, Kiyohara-kun is also[r]
 your childhood friend, isn't she? Hehe..."[pcms]
 *3231|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "What do you mean?"[pcms]
 *3232|
 [fc]
 [vo_ru s="rui0189"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "I wonder how sex with Kiyohara-kun, your childhood friend and your[r]
 best friend's girlfriend, was? Share your thoughts with me."[pcms]
 *3233|
@@ -344,23 +344,23 @@ The movements of Senpai Rui's paizuri were accelerating. I was being[r]
 pushed to the brink of ejaculation at any moment.[pcms]
 *3234|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "It was amazing! It felt so good that I didn't care about Kenkou[r]
 anymore, I was just obsessed with having sex with Riri!"[pcms]
 *3235|
 [fc]
 [vo_ru s="rui0190"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "My goodness... You're an appalling person. What you did is[r]
 fundamentally wrong as a human being, you know?"[pcms]
 *3236|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "I'm sorry! I really am sorry, Senpai Rui!"[pcms]
 *3237|
 [fc]
 [vo_ru s="rui0191"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "And to think you'd make me, your senior, do such indecent things...[r]
 You're shameless to the extreme."[pcms]
 [backlay][evcg storage="EV08_02" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
@@ -371,7 +371,7 @@ ache for it, but bringing that up now seemed out of place, so I didn't[r]
 mention it.[pcms]
 *3239|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "I'm about to come... Please let me come, Senpai Rui!"[pcms]
 *3240|
 [fc]
@@ -381,17 +381,17 @@ semen. It was a plea for her consent in that regard.[pcms]
 *3241|
 [fc]
 [vo_ru s="rui0192"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Can't be helped. Alright then, why don't you try coming on my face?"[pcms]
 *3242|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Thank you so much!"[pcms]
 [backlay][evcg storage="EV08_02" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *3243|
 [fc]
 [vo_ru s="rui0193"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "But in exchange... I'll observe closely. The penis that defiled[r]
 Kiyohara-kun's purity last night... I want to see it squirming[r]
 pathetically as it ejaculates."[pcms]
@@ -407,7 +407,7 @@ Rui's words. The sensation of being titillated is overlaid with the[r]
 different feeling of vaginal penetration.[pcms]
 *3246|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Uguh... Ahhhhh!"[pcms]
 *3247|
 [fc]
@@ -417,7 +417,7 @@ violating her breasts, my mind was recalling ravaging Riri's insides.[pcms]
 *3248|
 [fc]
 [vo_ru s="rui0194"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Now, Shibue-kun... feel free to climax with my breasts."[pcms]
 *3249|
 [fc]
@@ -425,7 +425,7 @@ Senpai Rui blew a breath on the tip of my penis. That was the final[r]
 straw.[pcms]
 *3250|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Riri! Senpai Rui!"[pcms]
 [stopse buf=1]
 [se buf=0 storage="se_sex01"]
@@ -441,7 +441,7 @@ foreplay.[pcms]
 *3252|
 [fc]
 [vo_ru s="rui0195"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Mmm..."[pcms]
 *3253|
 [fc]
@@ -451,7 +451,7 @@ ejaculating, it aroused me again.[pcms]
 *3254|
 [fc]
 [vo_ru s="rui0196"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Ngh... Mmm... Mmm..."[pcms]
 *3255|
 [fc]
@@ -461,7 +461,7 @@ lips, Senpai Rui licked and swallowed it down.[pcms]
 *3256|
 [fc]
 [vo_ru s="rui0197"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Shibue-kun's is less bitter, it's delicious."[pcms]
 *3257|
 [fc]
@@ -469,7 +469,7 @@ Whether she truly perceived it as such taste-wise was unclear, but[r]
 Senpai Rui's words and tone felt very sincere.[pcms]
 *3258|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Huh! Shibue-kun's... is?"[pcms]
 *3259|
 [fc]
@@ -478,7 +478,7 @@ fact that she was experienced with men... was also shocking.[pcms]
 *3260|
 [fc]
 [vo_ru s="rui0198"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Yes, that's right. I've known men for quite some time now."[pcms]
 *3261|
 [fc]
@@ -486,17 +486,17 @@ Senpai Rui said, as if seeing right through my inner thoughts.[pcms]
 *3262|
 [fc]
 [vo_ru s="rui0199"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "This lewd body of mine... these breasts that attract men's eyes...[r]
 They didn't become like this naturally, you know?"[pcms]
 *3263|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "What do you mean?"[pcms]
 *3264|
 [fc]
 [vo_ru s="rui0200"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "I've been involved with my cousin in Tokyo for many years now."[pcms]
 *3265|
 [fc]
@@ -509,7 +509,7 @@ body... could it be due to sex?[pcms]
 *3267|
 [fc]
 [vo_ru s="rui0201"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Hehe... Just when I thought you were wilting, you're getting hard[r]
 again. Good, I'll take care of this while we talk."[pcms]
 *3268|
@@ -521,7 +521,7 @@ lethargy.[pcms]
 *3269|
 [fc]
 [vo_ru s="rui0202"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Next time... I'll use my mouth and tongue too... HeheÅÙ"[pcms]
 *3270|
 [fc]
@@ -530,11 +530,11 @@ breasts. I was completely at her mercy.[pcms]
 *3271|
 [fc]
 [vo_ru s="rui0203"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Mmm... Chub... NuhÅÙ"[pcms]
 *3272|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Se-Senpai Rui... Ahh!"[pcms]
 *3273|
 [fc]
@@ -544,7 +544,7 @@ but also kissed the tip of my glans and licked it with her tongue.[pcms]
 *3274|
 [fc]
 [vo_ru s="rui0204"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Now, about my sexual experiences... with my cousin in Tokyo... The[r]
 beginning was like this--"[pcms]
 *3275|
@@ -554,7 +554,7 @@ Rui's house. The year before they became involved, Senpai Rui--[pcms]
 *3276|
 [fc]
 [vo_ru s="rui0205"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "I learned to climax through masturbation... and I was also interested[r]
 in sex."[pcms]
 *3277|
@@ -563,29 +563,29 @@ Everyone has their own sexual experiences, so I won't judge. But to[r]
 think she had sex three years ago... she was quite precocious.[pcms]
 *3278|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Don't tell me... just like tonight... with your cousin?"[pcms]
 *3279|
 [fc]
 [vo_ru s="rui0206"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "On a day when my grandmother and parents were out, I provoked him in[r]
 my underwear. Then, my cousin's eyes turned bloodshot as he pinned me[r]
 down."[pcms]
 *3280|
 [fc]
 [vo_ru s="rui0207"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "My cousin, who is usually intellectual and quiet, breathed heavily[r]
 and devoured my body like a beast."[pcms]
 *3281|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "...Did you resist?"[pcms]
 *3282|
 [fc]
 [vo_ru s="rui0208"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "I did it on purpose to get him in the mood, though."[pcms]
 *3283|
 [fc]
@@ -594,7 +594,7 @@ years ago, provoking a ronin student.[pcms]
 *3284|
 [fc]
 [vo_ru s="rui0209"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "He ejaculated four times in a row without rest."[pcms]
 *3285|
 [fc]
@@ -603,7 +603,7 @@ vulgar imagination, while giving a paizuri.[pcms]
 *3286|
 [fc]
 [vo_ru s="rui0210"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "The first time was in the missionary position after he pushed me[r]
 down."[pcms]
 *3287|
@@ -613,7 +613,7 @@ years ago being overpowered by her ronin cousin.[pcms]
 *3288|
 [fc]
 [vo_ru s="rui0211"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "The second time he came on my chest, and the third time on my face."[pcms]
 *3289|
 [fc]
@@ -623,7 +623,7 @@ release.[pcms]
 *3290|
 [fc]
 [vo_ru s="rui0212"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "The last, fourth time was in a rough standing carry positionhe lifted[r]
 me up face-to-face and then ejaculated inside me."[pcms]
 *3291|
@@ -634,7 +634,7 @@ heat.[pcms]
 *3292|
 [fc]
 [vo_ru s="rui0213"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "With that fourth ejaculation... for the first time, I climaxed from[r]
 sex."[pcms]
 *3293|
@@ -644,7 +644,7 @@ Despite having just ejaculated, I was close to coming again.[pcms]
 *3294|
 [fc]
 [vo_ru s="rui0214"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "It was a different kind of climax from masturbation... it felt so[r]
 good I thought I might pass out."[pcms]
 *3295|
@@ -653,7 +653,7 @@ Senpai Rui looked beautiful as she spoke with an ecstatic expression.[r]
 I couldn't help but want to defile this person even more.[pcms]
 *3296|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Senpai Rui... please, do it with your mouth directly!"[pcms]
 *3297|
 [fc]
@@ -663,7 +663,7 @@ laughed joyfully and accepted it.[pcms]
 *3298|
 [fc]
 [vo_ru s="rui0215"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Mmgh... mmm... mmm..."[pcms]
 *3299|
 [fc]
@@ -671,7 +671,7 @@ The tip of her tongue moved around and poked at the head of my penis[r]
 in a lewd manner. That alone was enough to bring me to my limit.[pcms]
 *3300|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Senpai Rui... I can't hold it anymore... I'm going to ejaculate!"[pcms]
 *3301|
 [fc]
@@ -684,7 +684,7 @@ Senpai Rui's tongue and finished inside her mouth.[pcms]
 [éÀê∏ÉtÉâB]
 *3302|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "I'm sorry... I got a little carried away with excitement."[pcms]
 *3303|
 [fc]
@@ -695,11 +695,11 @@ Rui's mouth.[pcms]
 *3304|
 [fc]
 [vo_ru s="rui0216"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Mmm... uh... mmm..."[pcms]
 *3305|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Senpai... did you swallow?"[pcms]
 *3306|
 [fc]
@@ -709,7 +709,7 @@ immediately after, Senpai Rui opened her mouth wide to show me inside.[pcms]
 *3307|
 [fc]
 [vo_ru s="rui0217"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Mmm... ah... ah"[pcms]
 *3308|
 [fc]
@@ -718,27 +718,27 @@ considerable amount. However, there was no trace of semen inside her[r]
 open mouth.[pcms]
 *3309|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Did you swallow it all?"[pcms]
 *3310|
 [fc]
 [vo_ru s="rui0218"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "I should have told you that Shibue-kun's tastes less bitter and is[r]
 delicious."[pcms]
 *3311|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "No, I mean, you didn't have to show me that..."[pcms]
 *3312|
 [fc]
 [vo_ru s="rui0219"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "But you get excited when a girl like me does this kind of thing,[r]
 right?"[pcms]
 *3313|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "That is..."[pcms]
 *3314|
 [fc]
@@ -752,7 +752,7 @@ before.[pcms]
 *3316|
 [fc]
 [vo_ru s="rui0220"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "You don't have to be embarrassed, Shibue-kun. I like it."[pcms]
 *3317|
 [fc]
@@ -761,7 +761,7 @@ that thought was quickly dismissed.[pcms]
 *3318|
 [fc]
 [vo_ru s="rui0221"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "I really love seeing boys ejaculate."[pcms]
 *3319|
 [fc]
@@ -769,7 +769,7 @@ Her confession sounded sincere despite the vulgar words.[pcms]
 *3320|
 [fc]
 [vo_ru s="rui0222"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "It's shameful and sloppy... but it's incredibly lewd."[pcms]
 *3321|
 [fc]
@@ -778,7 +778,7 @@ intensity.[pcms]
 *3322|
 [fc]
 [vo_ru s="rui0223"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Just thinking about such a phenomenon happening deep inside my body[r]
 makes me feel like I'm going crazy... it's exciting."[pcms]
 *3323|
@@ -788,16 +788,16 @@ coveted Senpai Rui's vagina![pcms]
 *3324|
 [fc]
 [vo_ru s="rui0224"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Hehe, you got excited by my words again, didn't you Shibue-kun?"[pcms]
 *3325|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "I-I'm sorry! But I also...!"[pcms]
 *3326|
 [fc]
 [vo_ru s="rui0225"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "My, my, stealing the virginity of your best friend's girlfriend and[r]
 even dirtying her backdoor... It seems that your undisciplined penis[r]
 needs some punishment from me."[pcms]
@@ -807,7 +807,7 @@ Punishment from Senpai Rui. I already knew all too well what that[r]
 would entail.[pcms]
 *3328|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Please... I want the punishment from Senpai Rui."[pcms]
 *3329|
 [fc]
@@ -817,7 +817,7 @@ Senpai Rui.[pcms]
 *3330|
 [fc]
 [vo_ru s="rui0226"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Hehe, I am your senior after all. It can't be helped that I look[r]
 after my junior."[pcms]
 [if exp="tf.scene_mode == 1 && tf.all_play == 0"]

@@ -16,7 +16,7 @@
 *10360|
 [fc]
 [vo_ri s="riri0587"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Aaahhhnnn!! Amazing!! It's so amazing! Come on, move more, more and[r]
 more!!"[pcms]
 [se buf=1 storage="se_sex03" loop=true]
@@ -37,7 +37,7 @@ even as he said that, his dick was strained to its limit.[pcms]
 *10364|
 [fc]
 [vo_ri s="riri0588"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "But I can't stand waiting in line anymore! Senpai, you wanted to do[r]
 it with me too, right?!"[pcms]
 *10365|
@@ -58,7 +58,7 @@ beyond his expectations.[pcms]
 *10368|
 [fc]
 [vo_ri s="riri0589"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "NfuuuuhhhÅÙ When I grind like this with my pussy, your dick twitches[r]
 and jerks. Ahaha, ahahahaha!!"[pcms]
 *10369|
@@ -68,7 +68,7 @@ around her as if she were picking fruit.[pcms]
 *10370|
 [fc]
 [vo_ri s="riri0590"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "AhahaÅÙ I can only see dicks now. Look, look, when I stroke it like[r]
 this, cum comes out, right?!"[pcms]
 *10371|
@@ -78,7 +78,7 @@ front of her that emits a lewd smell.[pcms]
 *10372|
 [fc]
 [vo_ri s="riri0591"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Habuuh, habuuu!! Dick tastes so good!! I want more, much more![r]
 Jupooh, jururururuuu!!"[pcms]
 *10373|
@@ -89,13 +89,13 @@ push her further into excitement.[pcms]
 *10374|
 [fc]
 [vo_ri s="riri0592"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Jupooh, jururunnÅÙ Hafuuu, this dick tastes good but next, I'll go for[r]
 that one! Nn--h, jubunn!!"[pcms]
 *10375|
 [fc]
 [vo_ri s="riri0593"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Njuuh, jururuh! This one has a big tip. Ah...nnnh, is this smegma?[r]
 It's okay, I'll clean it up for you!"[pcms]
 *10376|
@@ -114,7 +114,7 @@ forest of flesh with her eyes brimming with moisture.[pcms]
 *10379|
 [fc]
 [vo_ri s="riri0594"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Thank youÅÙ I'm so happy you're showing me all these dicksÅs)[pcms]
 *10380|
 [fc]
@@ -123,7 +123,7 @@ suck on the microphones leaking pre-cum one after another.[pcms]
 *10381|
 [fc]
 [vo_ri s="riri0595"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ah, this one's uncircumcised. If I peel it back like this...[r]
 haaaahnnnÅÙ The smelly insides came out! Ahaha, I'm going to enjoy[r]
 this!!"[pcms]
@@ -135,7 +135,7 @@ brought to climax by the overflowing scent.[pcms]
 *10383|
 [fc]
 [vo_ri s="riri0596"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Oguh, ouuhh! Ha...nnnh, jurururuhhh!! Nn...h, hiuuhh, I'm drowning in[r]
 dick, I'm gonna cum...!"[pcms]
 *10384|
@@ -149,7 +149,7 @@ being jerked off let out a pitiful cry.[pcms]
 *10386|
 [fc]
 [vo_ri s="riri0597"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "...Nboh, haunn! Eh-ehh, you're cumming already? You won't feel good[r]
 if you don't hold on a bit longer!"[pcms]
 *10387|
@@ -159,7 +159,7 @@ if you don't hold on a bit longer!"[pcms]
 *10388|
 [fc]
 [vo_ri s="riri0598"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "If you don't hold back, I might just rip your dick off? Ahaha,[r]
 ahahahaha!! Look, senpai, thrust into my pussy more!"[pcms]
 *10389|
@@ -177,7 +177,7 @@ began rhythmically slapping the dancing buttocks on his stomach.[pcms]
 *10392|
 [fc]
 [vo_ri s="riri0599"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ohhooonnn!! Yes, that's good!! When my cervix is hit by a dick, it[r]
 makes me so happy!!"[pcms]
 *10393|
@@ -187,7 +187,7 @@ makes me so happy!!"[pcms]
 *10394|
 [fc]
 [vo_ri s="riri0600"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nnhiiiiinnn!! Amazing, that's amazing!! Ohh, ohhon! My womb is gonna[r]
 be crushed by the dick!!"[pcms]
 *10395|
@@ -205,7 +205,7 @@ splashing sounds and heavy breathing as the heat began to rise.[pcms]
 *10398|
 [fc]
 [vo_ri s="riri0601"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "It's okay... everyone, let it out!! Cum for me!!"[pcms]
 *10399|
 [fc]
@@ -219,7 +219,7 @@ multitude of dicks that had been boiling over suddenly burst forth.[pcms]
 *10400|
 [fc]
 [vo_ri s="riri0602"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Naaaaahhhhh!!! Semen, there's so much semen!!!"[pcms]
 *10401|
 [fc]
@@ -228,7 +228,7 @@ wasn't all. Hot fluid was also being poured inside her.[pcms]
 *10402|
 [fc]
 [vo_ri s="riri0603"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Kuh, hiiiiii... It's coming inside me too. My whole body is getting[r]
 filled with semen... I'm coming, I'm cuuumming!!"[pcms]
 *10403|
@@ -238,7 +238,7 @@ continued to let out lewd screams.[pcms]
 *10404|
 [fc]
 [vo_ri s="riri0604"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nyiiiiii!! Coming feels so good! It's the best!! Ohh, ohh... Sex[r]
 while climaxing is the best! I'm cuuummming!!"[pcms]
 [ÉÅÉXÉtÉâ]
@@ -268,7 +268,7 @@ to her excited companions.[pcms]
 *10410|
 [fc]
 [vo_ri s="riri0605"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Hey, I want more. You all want to have sex too, right?"[pcms]
 *10411|
 [fc]
@@ -281,7 +281,7 @@ Of course, there was no one who would refuse such an invitation.[pcms]
 *10412|
 [fc]
 [vo_ri s="riri0606"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Kuhiiiiii!! As expected, dicks are the best!!! Thrust more, give me[r]
 more dicks!!"[pcms]
 [se buf=1 storage="se_sex02" loop=true]
@@ -295,7 +295,7 @@ The thoughts of Kenwaku and any sense of guilt were gone, replaced by[r]
 an intoxication with the unlimited pleasure being offered.[pcms]
 *10415|
 [fc]
-[ns]ó§è„ïî?[Ê[nse]yÇ`[Åznse]
+[ns]ó§è„ïî?[Ê[nse]Ç`[Åznse]
 "Man, who would've thought Kiyohara was such a slut. Is it really[r]
 okay? If you get cummed in this much, you're definitely gonna get[r]
 pregnant."[pcms]
@@ -304,7 +304,7 @@ pregnant."[pcms]
 One of the men being jerked off by Riri laughed teasingly.[pcms]
 *10417|
 [fc]
-[ns]ó§è„ïî?[Ê[nse]yÇa[Åznse]
+[ns]ó§è„ïî?[Ê[nse]Ça[Åznse]
 "Right? And we won't even know whose kid it is. What do you say?"[pcms]
 *10418|
 [fc]
@@ -313,18 +313,18 @@ derisive laughter quickly spread among the men.[pcms]
 *10419|
 [fc]
 [vo_ri s="riri0607"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Njutsu, jupa...! Nfu, I don't really care about that. I don't mind[r]
 whose baby it is, not at all. Because... mmm, jupÅÙ"[pcms]
 *10419a|
 [fc]
 [vo_ri s="riri0608"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nfufu, because I plan to give birth to all of your babies. So please,[r]
 give me more semen? Fill my womb with your thick semen?"[pcms]
 *10420|
 [fc]
-[ns]ó§è„ïî?[Ê[nse]yÇ`[Åznse]
+[ns]ó§è„ïî?[Ê[nse]Ç`[Åznse]
 "Hey hey, seriously? You want our kids that badly?"[pcms]
 *10421|
 [fc]
@@ -333,7 +333,7 @@ tremble uncontrollably.[pcms]
 *10422|
 [fc]
 [vo_ri s="riri0609"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "YesÅÙ So you see, I want you to fertilize all the eggs in my belly![r]
 Cum inside me a lot and impregnate me!!"[pcms]
 *10423|
@@ -358,7 +358,7 @@ A younger man who had been waiting his turn burst out of the circle[r]
 and clung to Riri's buttocks as if begging.[pcms]
 *10428|
 [fc]
-[ns]ó§è„ïî?[Ê[nse]yÇb[Åznse]
+[ns]ó§è„ïî?[Ê[nse]Çb[Åznse]
 "Damn you, how dare you act like that when you're just a junior! You[r]
 can have as much as you want after us!"[pcms]
 *10429|
@@ -367,7 +367,7 @@ can have as much as you want after us!"[pcms]
 "That's too cruel! I'll do anything for you seniors! Please let me!"[pcms]
 *10430|
 [fc]
-[ns]ó§è„ïî?[Ê[nse]yÇb[Åznse]
+[ns]ó§è„ïî?[Ê[nse]Çb[Åznse]
 "Tch, arguing here will just kill the mood... Fine, you can use this[r]
 one!"[pcms]
 [backlay][evcg storage="EV29_09" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
@@ -380,11 +380,11 @@ symbol of desire into another place.[pcms]
 *10432|
 [fc]
 [vo_ri s="riri0610"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Fungiiiiiiii!!? Ohh, a dick is entering my ass!!"[pcms]
 *10433|
 [fc]
-[ns]ó§è„ïî?[Ê[nse]yÇb[Åznse]
+[ns]ó§è„ïî?[Ê[nse]Çb[Åznse]
 "Ah-, so this was your first time too. Makes sense, even if you're a[r]
 huge pervert, you were still a virgin."[pcms]
 [se buf=1 storage="se_sex03" loop=true]
@@ -396,7 +396,7 @@ rough thrusting into her tight ass that he pried open.[pcms]
 *10435|
 [fc]
 [vo_ri s="riri0611"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Higu! Ohooooo!! My ass is being ground by a dick! Ohhhn! It hurts but[r]
 it feels so good!!"[pcms]
 *10436|
@@ -410,7 +410,7 @@ apart, but for Riri at that moment even that was part of the pleasure.[pcms]
 [backlay][evcg storage="EV29_12" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10438|
 [fc]
-[ns]ó§è„ïî?[Ê[nse]yÇb[Åznse]
+[ns]ó§è„ïî?[Ê[nse]Çb[Åznse]
 "As expected of a perverted virgin. You're already hooked on anal sex.[r]
 Hey you! Hurry up and stick your dick in too!"[pcms]
 *10439|
@@ -426,7 +426,7 @@ all at once.[pcms]
 *10441|
 [fc]
 [vo_ri s="riri0612"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nn, hiiiiiiii!! It's coming into my pussy too!! Aheh, aheeeh! I'm[r]
 filled with dicks, it's amazing!!"[pcms]
 *10442|
@@ -440,7 +440,7 @@ pleasure, and it was a reward.[pcms]
 "Senpai, inside you... it's so tight... kuuuu!!"[pcms]
 *10443|
 [fc]
-[ns]ó§è„ïî?[Ê[nse]yÇb[Åznse]
+[ns]ó§è„ïî?[Ê[nse]Çb[Åznse]
 "You've got to be kidding, your dick is too big...! Mine is getting[r]
 tight too, ugh!"[pcms]
 *10443a|
@@ -451,7 +451,7 @@ members let out pitiful screams.[pcms]
 *10444|
 [fc]
 [vo_ri s="riri0613"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nfu, nkuuuu!! This is good, I'm happy to be filled with dicks![r]
 Look... look! Grind inside me more!"[pcms]
 *10445|
@@ -460,7 +460,7 @@ No sooner had she said it than Riri began to move her hips on her own.[r]
 Naturally, this tormented the two club members even more.[pcms]
 *10446|
 [fc]
-[ns]ó§è„ïî?[Ê[nse]yÇb[Åznse]
+[ns]ó§è„ïî?[Ê[nse]Çb[Åznse]
 "Guoooo!! My dick is going to tear off...!!"[pcms]
 *10447|
 [fc]
@@ -473,7 +473,7 @@ But such screams only heightened Riri's excitement to its peak.[pcms]
 *10449|
 [fc]
 [vo_ri s="riri0614"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Not enough dicks! Nn... slurp, slobber, nub, mmmÅÙ Now all my lewd[r]
 holes are filled with dicks! Hafuuu!"[pcms]
 *10449a|
@@ -484,7 +484,7 @@ believe she was a virgin just a short while ago.[pcms]
 *10450|
 [fc]
 [vo_ri s="riri0615"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Hafu, hafuu! Hey, I want your semen! Nn-- slurp, slob, slurp!!"[pcms]
 *10451|
 [fc]
@@ -492,7 +492,7 @@ Drooling profusely, Riri cutely begs the men for their semen.[pcms]
 *10452|
 [fc]
 [vo_ri s="riri0616"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Quickly, quickly quickly quickly quickly!! Give me your semen!![r]
 Slurrrrrp! Slurp, sluroro...!!"[pcms]
 *10453|
@@ -501,7 +501,7 @@ The moment an indecent smile appeared on her flushed red face, the men[r]
 realized they couldn't resist.[pcms]
 *10454|
 [fc]
-[ns]ó§è„ïî?[Ê[nse]yÇb[Åznse]
+[ns]ó§è„ïî?[Ê[nse]Çb[Åznse]
 "Uuuu! It's coming out, I'm gonna cummm!!"[pcms]
 *10455|
 [fc]
@@ -519,7 +519,7 @@ convulsed as if in death throes...[pcms]
 *10457|
 [fc]
 [vo_ri s="riri0617"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nhoohoooooo!! I'm cummingggg!!"[pcms]
 *10458|
 [fc]
@@ -528,7 +528,7 @@ back and let out a beastly roar.[pcms]
 *10459|
 [fc]
 [vo_ri s="riri0618"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Cummingggg, guuuuuuuuu-------!! Ooooohhhhh--------!!"[pcms]
 *10460|
 [fc]
@@ -546,7 +546,7 @@ all around at once.[pcms]
 *10462|
 [fc]
 [vo_ri s="riri0619"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ooooohhh! Semen, I want your semeeeen!! Still cumminggg![r]
 Nnnnooooooohhh!!"[pcms]
 *10462a|
@@ -565,7 +565,7 @@ Could a mere beast retain the concept of regret?[pcms]
 *10465|
 [fc]
 [vo_ri s="riri0620"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Aha... ahahaha. Filled with semen... Hey, I want more semen. Do my[r]
 pussy more..."[pcms]
 *10466|
@@ -575,7 +575,7 @@ dicks again. Driven by endless excitement in their glowing red eyes.[pcms]
 *10467|
 [fc]
 [vo_ri s="riri0621"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "That's right everyone. It's not over yet, okay? Forever and ever![r]
 We'll have sex until we die..."[pcms]
 *10468|

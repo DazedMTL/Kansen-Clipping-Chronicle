@@ -435,7 +435,7 @@ you, Senior Satake!"[pcms]
 *4501|
 [fc]
 [ns]Akira[nse]
-??? "Do it, Shibue! Splendidly scatter the anal virginity of Kiyohara[r]
+"Do it, Shibue! Splendidly scatter the anal virginity of Kiyohara[r]
 as her lover!"[pcms]
 *4502|
 [fc]

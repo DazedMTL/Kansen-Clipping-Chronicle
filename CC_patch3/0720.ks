@@ -15,7 +15,7 @@
 *9254|
 [fc]
 [vo_ri s="riri0459"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "For lunch, the center prepared it for us. It feels so strange to have[r]
 someone other than my mom cook for me."[pcms]
 *9255|
@@ -32,7 +32,7 @@ it's the third-years' turn, right? Moe-senpai?"[pcms]
 *9257|
 [fc]
 [vo_ri s="riri0460"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "That's right! Moe-senpai is good at cooking, isn't she? I'm looking[r]
 forward to it."[pcms]
 *9258|
@@ -52,7 +52,7 @@ There was no sign of Akira or Rui-senpai, who should have been there.[pcms]
 *9262|
 [fc]
 [vo_ri s="riri0461"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ah... I wonder if the swim team is still practicing."[pcms]
 *9263|
 [fc]
@@ -61,7 +61,7 @@ of this...[pcms]
 *9264|
 [fc]
 [vo_ri s="riri0462"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Hmm... maybe they've arrived by now?"[pcms]
 *9265|
 [fc]
@@ -70,7 +70,7 @@ involuntarily glanced at the clock.[pcms]
 *9266|
 [fc]
 [vo_ri s="riri0463"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "He's going to his relatives in Kamakura, right? I wonder if he's[r]
 arrived."[pcms]
 *9267|
@@ -138,7 +138,7 @@ been hit were anywhere to be found.[pcms]
 *9282|
 [fc]
 [vo_ri s="riri0464"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Hey, doesn't that sound like this morning's accident?"[pcms]
 *9283|
 [fc]
@@ -153,7 +153,7 @@ been hit were anywhere to be found.[pcms]
 *9285|
 [fc]
 [vo_ri s="riri0465"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "They say these incidents have been increasing lately..."[pcms]
 *9286|
 [fc]
@@ -166,7 +166,7 @@ I had a bad feeling about this.[pcms]
 *9288|
 [fc]
 [vo_ri s="riri0466"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ah-ah... at a time like this..."[pcms]
 *9289|
 [fc]

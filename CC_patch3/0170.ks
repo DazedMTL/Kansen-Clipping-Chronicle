@@ -7,7 +7,7 @@
 *1562|
 [fc]
 [vo_ru s="rui0117"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "What the heck! Everyone's treating me like a hopeless fool! I can[r]
 cook if I try! Really!"[pcms]
 [backlay][rui_lo_01_g01 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
@@ -22,13 +22,13 @@ under her breath.[pcms]
 *1565|
 [fc]
 [vo_mo s="misuzu0038"]
-[ns]yNenohi[nse]
+[ns]Nenohi[nse]
 "Captain, may I have a moment?"[pcms]
 [backlay][rui_lo_01_f26 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *1566|
 [fc]
 [vo_ru s="rui0118"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Sure, what do you want with me, the disappointing fool?"[pcms]
 [backlay][rui_lo_01_g01 layer=3 x="&sf.ru_lo_x[3]" y="&sf.ru_lo_y[0]"][trans time=150 method=crossfade][wt]
 *1567|

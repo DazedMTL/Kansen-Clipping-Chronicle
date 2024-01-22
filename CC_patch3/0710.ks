@@ -21,7 +21,7 @@ someone suddenly touched my butt from behind.[pcms]
 *9198|
 [fc]
 [vo_ju s="jun0077"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Eek!"[pcms]
 *9199|
 [fc]
@@ -43,7 +43,7 @@ Geez...[pcms]
 *9204|
 [fc]
 [vo_ju s="jun0078"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "N-nothing, just... you know, that thing, that thing."[pcms]
 *9205|
 [fc]
@@ -136,7 +136,7 @@ place for the first time...[pcms]
 *9228|
 [fc]
 [vo_ju s="jun0079"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ah, uh...?"[pcms]
 [backlay][bg storage="BG13a"][trans time=500 method=crossfade][wt2]
 *9229|
@@ -146,7 +146,7 @@ towards the campsite.[pcms]
 *9230|
 [fc]
 [vo_ju s="jun0080"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "S-sorry, I was just thinking about something..."[pcms]
 *9231|
 [fc]
@@ -226,7 +226,7 @@ Also, I wonder if it's okay to leave that cooler box as it is...[pcms]
 *9249|
 [fc]
 [vo_ju s="jun0081"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ah! So-sorry, I'm coming now!"[pcms]
 *9250|
 [fc]

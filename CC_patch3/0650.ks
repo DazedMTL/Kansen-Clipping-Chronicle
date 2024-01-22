@@ -3,13 +3,13 @@
 [sysbt_meswin]
 *8367|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Riri, how's it over there?"[pcms]
 [backlay][rir_lo_03_f01 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8368|
 [fc]
 [vo_ri s="riri0808"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "It's fine. I've packed everything. Ashina-senpai's stuff is all[r]
 packed too."[pcms]
 *8369|
@@ -23,7 +23,7 @@ With this, even if we lose one of the bags, we should be able to[r]
 manage somehow.[pcms]
 *8371|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Ashina-senpai..."[pcms]
 [backlay][evcg storage="EV35_02" layer=0 page=back visible=true left=0 top=0][trans time=500 method=crossfade][wt2]
 *8372|
@@ -37,7 +37,7 @@ expression is sorrowful--[pcms]
 *8373a|
 [fc]
 [vo_ru s="rui0744"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "...I'm sorry, but could you go ahead without me for a bit?"[pcms]
 *8374|
 [fc]
@@ -51,7 +51,7 @@ That must be, surely--[pcms]
 [trans time=500 method=crossfade][wt2]
 *8376|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Understood... Riri, let's go."[pcms]
 *8377|
 [fc]
@@ -61,7 +61,7 @@ her voice as if clinging to us.[pcms]
 *8378|
 [fc]
 [vo_mo s="misuzu0218"]
-[ns]yNenohi[nse]
+[ns]Nenohi[nse]
 "Ah, Akira-senpai...! I'll follow soon...! So, please... wait for[r]
 me... please...!"[pcms]
 *8378a|
@@ -70,7 +70,7 @@ With sobs, Nenohi-san pleads desperately. Perhaps she could feel[r]
 Ashina-senpai's resolve just by being held.[pcms]
 *8379|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "...I won't leave you behind. We'll wait for sure, so come with[r]
 senpai, okay?"[pcms]
 *8380|
@@ -98,7 +98,7 @@ I'll wait for sure, huh... In the end, I am...[pcms]
 *8383|
 [fc]
 [vo_ri s="riri0809"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Akira, be careful! Over there...!"[pcms]
 *8384|
 [fc]
@@ -207,13 +207,13 @@ Whether she was sly or diligently carried out her duties for the club[r]
 members... Memories flash through my mind in an instant.[pcms]
 *8410|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "...I'm sorry for lying."[pcms]
 [backlay][rir_lo_03_f14 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8411|
 [fc]
 [vo_ri s="riri0810"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "...I'm sorry, I couldn't take you with us..."[pcms]
 *8412|
 [fc]

@@ -15,7 +15,7 @@
 *6110|
 [fc]
 [vo_ri s="riri0370"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Habu, nmbu, jyurururu. Mmm... kufufu, a cock drenched in semen tastes[r]
 so good."[pcms]
 *6111|
@@ -24,12 +24,12 @@ While sucking on the semen-covered cock, Riri laughs.[pcms]
 *6112|
 [fc]
 [vo_ri s="riri0371"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Hey Akira, how was my pussy? It was my first time, so I think it was[r]
 pretty tight."[pcms]
 *6113|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Ah... yeah. It felt good."[pcms]
 *6114|
 [fc]
@@ -38,7 +38,7 @@ and more importantly, it felt better to just enjoy it.[pcms]
 *6115|
 [fc]
 [vo_ri s="riri0372"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Really? Then let's have sex again. Look... nchu, juboo! I'm getting[r]
 excited again!"[pcms]
 *6116|
@@ -47,12 +47,12 @@ Drooling, Riri happily invites me. Of course, I have no reason to[r]
 refuse.[pcms]
 *6117|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Yeah... I might want to taste Riri's pussy more too."[pcms]
 *6118|
 [fc]
 [vo_ri s="riri0373"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "That's great, being enthusiastic is a virtue. So, let's get started!"[pcms]
 *6119|
 [fc]
@@ -60,12 +60,12 @@ I actually wanted her to keep sucking it for a bit longer, but that[r]
 can wait until after I've enjoyed her pussy.[pcms]
 *6120|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Then get on top again. I want to see your ass."[pcms]
 *6121|
 [fc]
 [vo_ri s="riri0374"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nfufu, Akira really loves asses, huh? Alright, I'll ride you again."[pcms]
 [backlay][evcg storage="EV22_12" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 [se buf=0 storage="se_sex01"]
@@ -74,7 +74,7 @@ can wait until after I've enjoyed her pussy.[pcms]
 *6122|
 [fc]
 [vo_ri s="riri0375"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Mmm... kuhii! As expected, cocks feel super good. Hey, there's[r]
 something I want to do, is that okay?"[pcms]
 *6123|
@@ -83,7 +83,7 @@ She easily takes in the penis and then pushes her ass against me as if[r]
 trying to crush me.[pcms]
 *6124|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Sure, but... what do you want to do?"[pcms]
 *6125|
 [fc]
@@ -93,7 +93,7 @@ has something she wants to do, I guess I'll go along with it.[pcms]
 *6126|
 [fc]
 [vo_ri s="riri0376"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Earlier, when you were grinding deep inside my pussy, there was this[r]
 really good spot. So... kuu!?"[pcms]
 *6127|
@@ -106,7 +106,7 @@ back.[pcms]
 *6128|
 [fc]
 [vo_ri s="riri0377"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ohh, right there, that's the spot!! The very back of my pussy, right[r]
 above the end, that's where it feels good!!"[pcms]
 *6129|
@@ -117,7 +117,7 @@ slamming her ass down hard.[pcms]
 *6130|
 [fc]
 [vo_ri s="riri0378"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Hohi, hohiiii!! Right there's good, it's insanely good!! Ahh, ahhhh!![r]
 I'm gonna cum, gonna cum soon, cumminggg!!"[pcms]
 *6130a|
@@ -126,14 +126,14 @@ After just a few thrusts, Riri climaxed and her face melted into a[r]
 smile.[pcms]
 *6131|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "What's up, Riri? Was it that good? You've got a crazy orgasm face[r]
 going on."[pcms]
 [backlay][evcg storage="EV22_17" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *6132|
 [fc]
 [vo_ri s="riri0379"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Hehe... e. Because it feels so good. Sex is really addictive, isn't[r]
 it? I think I'm getting hooked."[pcms]
 *6133|
@@ -143,16 +143,16 @@ with something this pleasurable, they seem trivial.[pcms]
 *6134|
 [fc]
 [vo_ri s="riri0380"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Hey... can I ask for another favor?"[pcms]
 *6135|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "What? Another request? You want me to pound your pussy again?"[pcms]
 *6136|
 [fc]
 [vo_ri s="riri0381"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "That would be nice too, kufufu. After we get back from the training[r]
 camp, I want to have sex with you and Kenkou together - a threesome."[pcms]
 *6137|
@@ -162,12 +162,12 @@ pitiful, and it seems like it would feel even better.[pcms]
 *6138|
 [fc]
 [vo_ri s="riri0382"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "You don't seem to mind it either. Actually, when I masturbate, I use[r]
 the thought of having sex with both of you as material."[pcms]
 *6139|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Huh, is that so? Then we'll have to make that fantasy a reality."[pcms]
 *6140|
 [fc]
@@ -176,17 +176,17 @@ Kenkou probably wants to taste Riri's pussy too.[pcms]
 *6141|
 [fc]
 [vo_ri s="riri0383"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "That's right. Since Akira took my mouth and pussy firsts, maybe I'll[r]
 give my ass to Kenkou?"[pcms]
 *6142|
 [fc]
 [vo_ri s="riri0384"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "I've heard that anal sex feels good too."[pcms]
 *6143|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Did you hear that from Igarashi-san? She seems really erotic for[r]
 real."[pcms]
 *6144|
@@ -196,7 +196,7 @@ probably go all orgasmic like Riri.[pcms]
 *6145|
 [fc]
 [vo_ri s="riri0385"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nope. That's what I saw on the net! Ahh, I can't wait to be ravished[r]
 by all three of you."[pcms]
 *6146|
@@ -206,7 +206,7 @@ wetter.[pcms]
 *6147|
 [fc]
 [vo_ri s="riri0386"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Having every hole filled with cock and being flooded with hot[r]
 semen... And then being impregnated with both of your seeds."[pcms]
 *6148|
@@ -214,12 +214,12 @@ semen... And then being impregnated with both of your seeds."[pcms]
 Driven by her runaway desires, Riri drools and grinds her hips harder.[pcms]
 *6148a|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "You want cum that badly? You're dangerously erotic too, huh."[pcms]
 *6149|
 [fc]
 [vo_ri s="riri0387"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "What's wrong with that? I'll mix both of your semen inside my pussy[r]
 and get fertilized by it all at once. And then I'll surely give birth[r]
 to twins! Ahahaha!"[pcms]
@@ -229,7 +229,7 @@ Watching Riri laugh joyfully makes me happy too. But right now, it's[r]
 not Kenkou who can do whatever he wants with this pussy.[pcms]
 *6150|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Don't get lost in your fantasies forever. You're having sex with me[r]
 right now, right?"[pcms]
 *6151|
@@ -240,7 +240,7 @@ gripping me.[pcms]
 *6152|
 [fc]
 [vo_ri s="riri0388"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Ohiiii!! Th-that's right, I'm having sex with Akira right now!![r]
 Oooohhh!! More, more, pound me deeper!!"[pcms]
 *6153|
@@ -250,12 +250,12 @@ sweaty buttocks, I thrust vigorously into her most beloved spot.[pcms]
 *6154|
 [fc]
 [vo_ri s="riri0389"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Hahheeehh!! Good, Akira's cock is the best!! Hey, cum again! Fill my[r]
 pussy up with semen!!"[pcms]
 *6155|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Not yet. You need to feel even better first."[pcms]
 *6156|
 [fc]
@@ -272,12 +272,12 @@ that nuisance away. Reason is just a waste to have.[pcms]
 *6159|
 [fc]
 [vo_ri s="riri0390"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Kuhiiii!! Ah, Akira! If you grind me like that, your rock-hard cock[r]
 is going to tear through my stomach!!"[pcms]
 *6160|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "That's exactly what I want. Come on, feel even better, Riri!"[pcms]
 *6161|
 [fc]
@@ -287,7 +287,7 @@ gaze intently at the sweaty buttocks.[pcms]
 *6162|
 [fc]
 [vo_ri s="riri0391"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Th-that's right, yeah! More, more!! Break through my pussy, more and[r]
 more and more!!"[pcms]
 *6163|
@@ -298,7 +298,7 @@ what seems like the entrance all at once.[pcms]
 *6164|
 [fc]
 [vo_ri s="riri0392"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Hahiieeiiiiii!! Ha, it's coming in!! Into a place where it[r]
 shouldn't... going in... nghiiiiiiii!!!"[pcms]
 *6165|
@@ -313,7 +313,7 @@ reaches climax while drenched in drool and sweat.[pcms]
 *6166|
 [fc]
 [vo_ri s="riri0393"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "I'm cummingggg!! Cumming, nnoooohhhhhhhhhhh!!"[pcms]
 *6167|
 [fc]
@@ -325,7 +325,7 @@ It felt like it would never end, but unfortunately, nothing lasts[r]
 forever.[pcms]
 *6169|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "What, it's over already?"[pcms]
 *6170|
 [fc]
@@ -334,7 +334,7 @@ something is caught, but I don't care.[pcms]
 *6171|
 [fc]
 [vo_ri s="riri0394"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nghiii!? It's coming out, everything inside my stomach is coming[r]
 out!! Stop it, stop eeehhh!!"[pcms]
 [se buf=0 storage="se_sex01"]
@@ -345,7 +345,7 @@ Riri convulses violently but eventually stops moving altogether as I[r]
 manage to pull out.[pcms]
 *6173|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Hey, Riri? What's wrong, did you faint from feeling too good?"[pcms]
 *6174|
 [fc]
@@ -358,7 +358,7 @@ since her eyes are wide open, she must be thoroughly satisfied.[pcms]
 [backlay][bg storage="BG04b"][trans time=500 method=crossfade][wt2]
 *6175|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Hmm. Still not satisfied..."[pcms]
 *6176|
 [fc]
@@ -374,7 +374,7 @@ Besides, this pussy is a shared property with Kenkou. It's not truly[r]
 "my exclusive pussy" in the real sense.[pcms]
 *6179|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Right. As a man, I have to find a pussy that's only mine. Someone who[r]
 will only have creampie sex with me and get pregnant with only my[r]
 sperm."[pcms]
@@ -384,7 +384,7 @@ I wonder if such a convenient person exists... When I think about it,[r]
 the first person that comes to mind is senior Ashina Rui.[pcms]
 *6181|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "That's it. I'll make senior Ashina Rui my exclusive pussy. She must[r]
 be waiting for my penis too."[pcms]
 *6182|

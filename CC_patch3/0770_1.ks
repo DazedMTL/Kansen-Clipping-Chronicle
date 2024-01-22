@@ -19,7 +19,7 @@
 *10776|
 [fc]
 [vo_ju s="jun0149"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Aggh, guhh, ahh, nngguhh..."[pcms]
 *10777|
 [fc]
@@ -37,7 +37,7 @@ beasts.[pcms]
 *10780|
 [fc]
 [vo_ju s="jun0150"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Haa... ahh, nngguhh, ahh, aahhh..."[pcms]
 *10781|
 [fc]
@@ -64,7 +64,7 @@ After all... they are men whose names or anything else I don't know...[pcms]
 *10787|
 [fc]
 [vo_ju s="jun0151"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ahhhh! Aiiiiiiii! Kuuuuuuuh!"[pcms]
 *10788|
 [fc]
@@ -81,7 +81,7 @@ turn into a scream.[pcms]
 *10791|
 [fc]
 [vo_ju s="jun0152"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "No! Ahhhhhhhhhh!"[pcms]
 [stopse buf=1]
 [se buf=0 storage="se_sex01"]
@@ -113,7 +113,7 @@ out from my slit as if I were peeing.[pcms]
 *10797|
 [fc]
 [vo_ju s="jun0153"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Eh..."[pcms]
 *10798|
 [fc]
@@ -148,7 +148,7 @@ watching me being raped with bizarre cries.[pcms]
 *10803|
 [fc]
 [vo_ju s="jun0154"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Hiiii..."[pcms]
 *10804|
 [fc]
@@ -211,7 +211,7 @@ I feel like it's even more muscular.[pcms]
 *10818|
 [fc]
 [vo_ju s="jun0155"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ahhhh! It hurts so much!"[pcms]
 *10819|
 [fc]
@@ -228,7 +228,7 @@ womb from the inside.[pcms]
 *10822|
 [fc]
 [vo_ju s="jun0156"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Nooo! It hurts! Stop it!"[pcms]
 *10823|
 [fc]
@@ -246,7 +246,7 @@ violently.[pcms]
 *10826|
 [fc]
 [vo_ju s="jun0157"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "No more, please, I can't take it, stop!"[pcms]
 *10827|
 [fc]
@@ -267,7 +267,7 @@ my body.[pcms]
 *10831|
 [fc]
 [vo_ju s="jun0158"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "I'm going to die... I'm being killed...!"[pcms]
 *10832|
 [fc]
@@ -284,7 +284,7 @@ the tip into my cervical opening.[pcms]
 *10835|
 [fc]
 [vo_ju s="jun0159"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Please stop... If it's sex... that's fine, but no more, aghh!"[pcms]
 *10836|
 [fc]
@@ -299,7 +299,7 @@ But I can't escape the pain and suffering.[pcms]
 *10839|
 [fc]
 [vo_ju s="jun0160"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Please, finish quickly!"[pcms]
 *10840|
 [fc]
@@ -329,7 +329,7 @@ swelling in my belly.[pcms]
 *10845|
 [fc]
 [vo_ju s="jun0161"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ahh... please pull it out..."[pcms]
 *10846|
 [fc]
@@ -365,7 +365,7 @@ The painful and difficult sex is about to start again.[pcms]
 *10853|
 [fc]
 [vo_ju s="jun0162"]
-[ns]yJun[nse]
+[ns]Jun[nse]
 "Ahhh..."[pcms]
 *10854|
 [fc]

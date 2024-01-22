@@ -24,7 +24,7 @@ rubbing his erect penis against her secret place.[pcms]
 *9671|
 [fc]
 [vo_ru s="rui0552"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Nnnaah... Fuaah... Don't tease me. It's so frustrating... I feel like[r]
 I'm going to climax just like this... Kuaaaaah!"[pcms]
 *9672|
@@ -47,7 +47,7 @@ honey, inserted his penis inside her vagina.[pcms]
 *9675|
 [fc]
 [vo_ru s="rui0553"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Kuyaaaaah... Nnkuaaaaaah?"[pcms]
 *9676|
 [fc]
@@ -66,7 +66,7 @@ ejaculated almost immediately in a premature outburst.[pcms]
 *9678|
 [fc]
 [vo_ru s="rui0554"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Fufufu... You're full of energy... Your first time having sex felt so[r]
 good... You came right away, didn't you?"[pcms]
 *9679|
@@ -90,7 +90,7 @@ and it's getting hard again?"[pcms]
 *9683|
 [fc]
 [vo_ru s="rui0555"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "It seems we're physically compatible. Shall we continue?"[pcms]
 *9684|
 [fc]
@@ -103,7 +103,7 @@ respond to Rui's words with his frantic movements.[pcms]
 *9686|
 [fc]
 [vo_ru s="rui0556"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Fuwaaa... That's good... It's strong and resonates deep inside."[pcms]
 *9687|
 [fc]
@@ -117,7 +117,7 @@ Rui's indecent confession, he still harbored strong feelings for her.[pcms]
 *9689|
 [fc]
 [vo_ru s="rui0557"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "I'm happy... Then tonight... Just for now, I'll become your bride."[pcms]
 *9690|
 [fc]
@@ -132,7 +132,7 @@ fill your womb with my semen again!"[pcms]
 *9692|
 [fc]
 [vo_ru s="rui0558"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Of course... I'll bear your child with your seed... So ejaculate a[r]
 lot inside my vagina, okay?"[pcms]
 *9693|
@@ -152,7 +152,7 @@ her intense pleasure.[pcms]
 *9696|
 [fc]
 [vo_ru s="rui0559"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Fuhhaaaaan... Kuaaah... Ah... Release it... Inside me... Feel good[r]
 and ejaculate a lot..."[pcms]
 *9697|
@@ -166,7 +166,7 @@ vagina at the end of this pleasurable torture.[pcms]
 *9699|
 [fc]
 [vo_ru s="rui0560"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "I'm also climaxing... Climaxing... I'll take lots of your semen and[r]
 climax!"[pcms]
 *9700|
@@ -185,7 +185,7 @@ Gouda was experiencing his second vaginal ejaculation.[pcms]
 *9702|
 [fc]
 [vo_ru s="rui0561"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Haaaah... Ah... It's hot... Your semen is... again..."[pcms]
 [backlay][evcg storage="EV19_07" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *9703|
@@ -206,7 +206,7 @@ the bottom of his heart.[pcms]
 *9706|
 [fc]
 [vo_ru s="rui0562"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Pull yourself together... The semen you released is energetically[r]
 fertilizing an egg inside me, trying to impregnate me."[pcms]
 *9707|
@@ -216,7 +216,7 @@ fertilizing an egg inside me, trying to impregnate me."[pcms]
 *9708|
 [fc]
 [vo_ru s="rui0563"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Fufu, see? You can still move energetically... Now boys, the night[r]
 has just begun. If you want to impregnate me... come here?"[pcms]
 [backlay][evcg storage="EV19_09" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
@@ -232,7 +232,7 @@ again erect and towering.[pcms]
 *9711|
 [fc]
 [vo_ru s="rui0564"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "That's right. You were the first to step up earlier, and you got[r]
 interrupted, so it's your turn now. Let's do that."[pcms]
 *9712|
@@ -253,7 +253,7 @@ glans against her buttocks.[pcms]
 *9714|
 [fc]
 [vo_ru s="rui0565"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "You rubbed against my butt and came... didn't you?"[pcms]
 *9715|
 [fc]
@@ -275,7 +275,7 @@ faintly trembling buttocks.[pcms]
 *9719|
 [fc]
 [vo_ru s="rui0566"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Don't worry about it. Now, let's continue."[pcms]
 *9720|
 [fc]
@@ -295,7 +295,7 @@ long-awaited defloration.[pcms]
 *9723|
 [fc]
 [vo_ru s="rui0567"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Kuhaaah... Naaa... Nnn... Yours is... hot too..."[pcms]
 *9724|
 [fc]
@@ -314,7 +314,7 @@ desperately swung his hips while enduring the pleasure.[pcms]
 *9727|
 [fc]
 [vo_ru s="rui0568"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "How is it? What's it like experiencing a woman for the first time?"[pcms]
 *9728|
 [fc]
@@ -329,7 +329,7 @@ was impossible and let out a cry of defeat.[pcms]
 *9730|
 [fc]
 [vo_ru s="rui0569"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "It can't be helped since it's your first time... Fuhaa... Ah... Go[r]
 ahead and come inside me, feel good."[pcms]
 *9731|
@@ -354,7 +354,7 @@ close to climaxing but did not reach it spectacularly.[pcms]
 *9734|
 [fc]
 [vo_ru s="rui0570"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Fuaaah... Ah... Your semen... sperm might have... fertilized me."[pcms]
 *9735|
 [fc]
@@ -383,7 +383,7 @@ inserted his erect penis into her vagina.[pcms]
 *9740|
 [fc]
 [vo_ru s="rui0571"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Nuhh... Nhaa?"[pcms]
 [se buf=1 storage="se_sex03" loop=true]
 *9741|
@@ -400,7 +400,7 @@ than pleasure as he violated Rui.[pcms]
 *9743|
 [fc]
 [vo_ru s="rui0572"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "I'm sorry... I'm a nymphomaniac and a pervert... To excite my[r]
 cousin... I seduce men who come my way... That's the kind of girl I[r]
 am."[pcms]
@@ -411,7 +411,7 @@ laid the groundwork for masochistic pleasure.[pcms]
 *9745|
 [fc]
 [vo_ru s="rui0573"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "You're punishing me... giving me a spanking, aren't you?"[pcms]
 *9746|
 [fc]
@@ -432,7 +432,7 @@ penis.[pcms]
 *9749|
 [fc]
 [vo_ru s="rui0574"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Fuwaaa... I'm such a shameless girl... a lewd girl... But I can't[r]
 stop this throbbing in my body... Please forgive me."[pcms]
 *9750|
@@ -451,7 +451,7 @@ her disarray, had drawn him in that far.[pcms]
 *9752|
 [fc]
 [vo_ru s="rui0575"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Fuwaaa... No, I'm going to come... I feel like I'm going to come...[r]
 Fuhhyaaa!"[pcms]
 *9753|
@@ -468,7 +468,7 @@ rather than endure the assault.[pcms]
 *9755|
 [fc]
 [vo_ru s="rui0576"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Fuhhyaaaa... I'm coming... I'm really coming, comingggg!"[pcms]
 *9756|
 [fc]
@@ -486,7 +486,7 @@ a joy.[pcms]
 *9759|
 [fc]
 [vo_ru s="rui0577"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Fuhhyahaa... Ah... The roughness is good! Being treated roughly makes[r]
 me come again!"[pcms]
 *9760|
@@ -506,7 +506,7 @@ he had already ejaculated.[pcms]
 *9762|
 [fc]
 [vo_ru s="rui0578"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Ahhaa... Being violated roughly and filled with semen, ahhÅÙ)[pcms]
 *9763|
 [fc]
@@ -516,7 +516,7 @@ buttocks.[pcms]
 *9764|
 [fc]
 [vo_ru s="rui0579"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Fuhahh... Ahn... It feels good... more semen..."[pcms]
 *9765|
 [fc]
@@ -530,7 +530,7 @@ him, pulled his penis out of Rui's vagina and walked away.[pcms]
 *9767|
 [fc]
 [vo_ru s="rui0580"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Who's next? Who will give me a naughty punishment next?"[pcms]
 *9768|
 [fc]
@@ -547,7 +547,7 @@ relations with a ronin student..."[pcms]
 *9770|
 [fc]
 [vo_ru s="rui0581"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Ah... So you're going to blame me and punish me too?"[pcms]
 *9771|
 [fc]
@@ -561,7 +561,7 @@ with male semen. He was enveloped in a perverted excitement.[pcms]
 *9773|
 [fc]
 [vo_ru s="rui0582"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Fuhhyawaa... More... More violently... Hurry up and violate me!"[pcms]
 *9774|
 [fc]
@@ -577,7 +577,7 @@ penis in a rough manner.[pcms]
 *9776|
 [fc]
 [vo_ru s="rui0583"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Fuhhyawaaaah... Ahhihihihi!"[pcms]
 *9777|
 [fc]
@@ -586,7 +586,7 @@ Daiba's frantic insertion to the position where she felt good.[pcms]
 *9778|
 [fc]
 [vo_ru s="rui0584"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Thrust here! Here! When you thrust here, I turn into a lewd female[r]
 who can only think about sex and becomes stupid from it!"[pcms]
 [se buf=1 storage="se_sex03" loop=true]
@@ -603,7 +603,7 @@ experience.[pcms]
 *9781|
 [fc]
 [vo_ru s="rui0585"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Fuhhyaaaah... I'm coming, I'm really coming... Comingggg!"[pcms]
 *9782|
 [fc]
@@ -617,7 +617,7 @@ perverted excitement of blaming Rui.[pcms]
 *9784|
 [fc]
 [vo_ru s="rui0586"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Fuh... Ah... I've been abstaining from sex for eight months now...[r]
 That's why I'm thrilled to be having raw sex with everyone's penises."[pcms]
 *9785|
@@ -628,7 +628,7 @@ Princess?!"[pcms]
 *9786|
 [fc]
 [vo_ru s="rui0587"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "The smelly, hot, sticky semen... It's the best... I want more semen[r]
 to come out and come... I want to comeee!"[pcms]
 *9787|
@@ -643,7 +643,7 @@ her to the brink of pleasure hell once again, right after her climax.[pcms]
 *9789|
 [fc]
 [vo_ru s="rui0588"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Fuhhyawaaa... I'm cumming again... I'm going to cum, I'm cumming!"[pcms]
 *9790|
 [fc]
@@ -653,7 +653,7 @@ wished, I'll release plenty... inside you!"[pcms]
 *9791|
 [fc]
 [vo_ru s="rui0589"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Fyaaaannn... I'm cumming, I'm cumming, cumming, cumming, uuuuh!"[pcms]
 [stopse buf=1]
 [se buf=0 storage="se_sex01"]
@@ -668,7 +668,7 @@ violently.[pcms]
 *9793|
 [fc]
 [vo_ru s="rui0590"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Hahyua... ah... that was amazing... but still... more... I want[r]
 more... penis... semen... I want more... I want to cum more... cum..."[pcms]
 [backlay][evcg storage="EV19_28" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
@@ -699,7 +699,7 @@ Let me too!"[pcms]
 *9800|
 [fc]
 [vo_ru s="rui0591"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "It's okay... even if it's all three of you together... or even other[r]
 boys... with my hands or... various places, I'll let you ejaculate..."[pcms]
 *9801|

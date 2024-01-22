@@ -3,17 +3,17 @@
 [sysbt_meswin]
 *1783|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Haa, haa, haa...!"[pcms]
 [backlay][mis_lo_01b_f01 layer=3 x="&sf.mi_lo_x[3]" y="&sf.mi_lo_y[0]"][trans time=150 method=crossfade][wt]
 *1784|
 [fc]
 [vo_mo s="misuzu0042"]
-[ns]yNenohi[nse]
+[ns]Nenohi[nse]
 "Good work, Senpai."[pcms]
 *1785|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Thanks, Manager."[pcms]
 [backlay][mis_lo_01a_f01 layer=3 x="&sf.mi_lo_x[3]" y="&sf.mi_lo_y[0]"][trans time=150 method=crossfade][wt]
 *1786|
@@ -27,7 +27,7 @@ to change the practice menu. So instead, I've increased the speed at[r]
 which I complete it...[pcms]
 *1788|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Haa...haa...phew...phewww...hmm, haaa...it's really taking its toll."[pcms]
 *1789|
 [fc]
@@ -39,7 +39,7 @@ But if it were Suda, he would easily handle this much. I need to build[r]
 up my stamina quickly...[pcms]
 *1791|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Huh? Speaking of which, it looks like Suda isn't here..."[pcms]
 *1792|
 [fc]
@@ -49,13 +49,13 @@ been expelled for his perverted behavior or sexual harassment?[pcms]
 *1793|
 [fc]
 [vo_mo s="misuzu0043"]
-[ns]yNenohi[nse]
+[ns]Nenohi[nse]
 "If you're looking for Suda-senpai, he took Takahashi-sensei to the[r]
 infirmary. It seems Takahashi-sensei was pushing herself too hard..."[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *1794|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Ah, I see..."[pcms]
 *1795|
 [fc]
@@ -80,7 +80,7 @@ Now that it's decided, practice, practice. I have to use my time[r]
 meaningfully.[pcms]
 *1800|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Let's see, the next item on the menu is..."[pcms]
 [stopse_all]
 [sysbt_meswin clear]

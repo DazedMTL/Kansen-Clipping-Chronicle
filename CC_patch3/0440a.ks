@@ -137,7 +137,7 @@ And--[pcms]
 [yuj_up_04_f01 layer=1 x="&sf.yu_up_x[1]" y="&sf.yu_up_y[0]"][trans time=150 method=crossfade][wt]
 *5136|
 [fc]
-[ns]Yuuji[nse]
+[ns]uuji[nse]
 "Thanks for going out of your way to check on me by escaping out[r]
 here."[pcms]
 *5137|
@@ -162,7 +162,7 @@ I was about to laugh off their overly gracious thanks when--[pcms]
 [yuj_up_04_f18 layer=1 x="&sf.yu_up_x[1]" y="&sf.yu_up_y[0]"][trans time=150 method=crossfade][wt]
 *5141|
 [fc]
-[ns]Yuuji[nse]
+[ns]uuji[nse]
 "So, is that so? But thanks... *cough*, *cough cough*!"[pcms]
 [backlay]
 [jun_up_04a_f10 layer=2 x="&sf.ju_up_x[2]" y="&sf.ju_up_y[0]"]

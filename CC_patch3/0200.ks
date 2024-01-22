@@ -8,7 +8,7 @@
 [sysbt_meswin]
 *1801|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Let's eat!"[pcms]
 *1802|
 [fc]
@@ -16,13 +16,13 @@ Today's dinner is a ginger pork set meal. Just like the day before[r]
 yesterday and yesterday, it's incredibly delicious.[pcms]
 *1803|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Who's on cooking duty today?"[pcms]
 [backlay][rir_up_03_f01 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *1804|
 [fc]
 [vo_ri s="riri0123"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Today, it was the first-year members of the swim club..."[pcms]
 *1805|
 [fc]
@@ -36,7 +36,7 @@ pork must be Nenohi-san's work. It's finally her turn to shine, good[r]
 for her.[pcms]
 *1807|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Oh, Manager. This ginger pork is really delicious. Is there some kind[r]
 of trick to it?"[pcms]
 *1808|
@@ -48,14 +48,14 @@ if it's the end of the world.[pcms]
 *1809|
 [fc]
 [vo_mo s="misuzu0044"]
-[ns]yNenohi[nse]
+[ns]Nenohi[nse]
 "The trick is to use a sweet Western liquor in the marinade... and[r]
 also to let the meat come to room temperature and warm it up before[r]
 cooking... tch..."[pcms]
 [backlay][mis_up_03_g05 layer=3 x="&sf.mi_up_x[3]" y="&sf.mi_up_y[0]"][trans time=150 method=crossfade][wt]
 *1809a|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "I see... thanks."[pcms]
 *1810|
 [fc]
@@ -63,7 +63,7 @@ What's with her...? It's her long-awaited turn to cook, yet she's so[r]
 gloomy and in such a bad mood.[pcms]
 *1811|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Did something happen...?"[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *1812|
@@ -74,12 +74,12 @@ returns a convincing answer with a wry smile.[pcms]
 *1813|
 [fc]
 [vo_ri s="riri0124"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nishino-kun finally came down with a cold. So, she can't enjoy the[r]
 meal she cooked."[pcms]
 *1814|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Ah, I see..."[pcms]
 *1815|
 [fc]
@@ -93,7 +93,7 @@ But that doesn't mean I can do anything for him.[pcms]
 [sud_up_03_f02 layer=2 x="&sf.su_up_x[2]" y="&sf.su_up_y[0]"][trans time=150 method=crossfade][wt]
 *1817|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "Come on, cheer up, Nenohi-chan!"[pcms]
 *1818|
 [fc]
@@ -107,13 +107,13 @@ phone in front of the center office when...[pcms]
 [sud_up_03_f07 layer=2 x="&sf.su_up_x[2]" y="&sf.su_up_y[0]"][trans time=150 method=crossfade][wt]
 *1820|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "...Huh? Manager, do you have a fever by any chance?"[pcms]
 [backlay][chara_int][rir_up_03_f10 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *1821|
 [fc]
 [vo_ri s="riri0125"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Eh, really? Did you catch it too?"[pcms]
 [backlay][chara_int]
 [mis_up_03_g02 layer=1 x="&sf.mi_up_x[1]" y="&sf.mi_up_y[0]"]
@@ -121,12 +121,12 @@ phone in front of the center office when...[pcms]
 *1822|
 [fc]
 [vo_mo s="misuzu0045"]
-[ns]yNenohi[nse]
+[ns]Nenohi[nse]
 "No, it must be serious mental damage eroding my body... That's why I[r]
 feel sluggish, so please don't worry..."[pcms]
 *1823|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Sorry to interrupt... yeah, I feel a bit feverish. After I finish[r]
 eating, I should go get some medicine from the infirmary."[pcms]
 *1824|
@@ -141,7 +141,7 @@ crucial, it's better to be safe than sorry.[pcms]
 [sud_up_03_f02 layer=2 x="&sf.su_up_x[2]" y="&sf.su_up_y[0]"][trans time=150 method=crossfade][wt]
 *1826|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "Then later, I'll take you to the infirmary myself!"[pcms]
 *1827|
 [fc]
@@ -155,7 +155,7 @@ I really should report this. Wasn't there a phone in the cafeteria?[pcms]
 *1829|
 [fc]
 [vo_mo s="misuzu0046"]
-[ns]yNenohi[nse]
+[ns]Nenohi[nse]
 "No, thank you. I'm fine by myself."[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *1830|
@@ -164,7 +164,7 @@ She flatly refuses, without giving an inch. But just in case, I'll[r]
 make sure to report later.[pcms]
 *1831|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "By the way, how was Takahashi-chan doing?"[pcms]
 *1832|
 [fc]
@@ -176,7 +176,7 @@ I wonder how she was doing.[pcms]
 [backlay][sud_up_03_f02 layer=3 x="&sf.su_up_x[3]" y="&sf.su_up_y[0]"][trans time=150 method=crossfade][wt]
 *1834|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "Ah... she was really soft."[pcms]
 *1835|
 [fc]
@@ -189,7 +189,7 @@ What on earth is he talking about?[pcms]
 *1837|
 [fc]
 [vo_ri s="riri0126"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Takahashi-chan seems to have recovered a bit?"[pcms]
 [backlay][tak_lo_03_f02 layer=3 x="&sf.ta_lo_x[3]" y="&sf.ta_lo_y[0]"][trans time=150 method=crossfade][wt]
 *1838|
@@ -223,15 +223,15 @@ up so much. What is she, a child?[pcms]
 [backlay][sud_up_03_f18c layer=3 x="&sf.su_up_x[3]" y="&sf.su_up_y[0]"][trans time=150 method=crossfade][wt]
 *1845|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "Nngh, guh...! Cough! Cough!"[pcms]
 *1846|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Whoa there. That's nasty, Suda. If you're going to cough, turn away."[pcms]
 *1847|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "My bad, my bad... Maybe I ate too fast... Nngh, cough... Mmm!"[pcms]
 [backlay][sud_up_03_f10 layer=3 x="&sf.su_up_x[3]" y="&sf.su_up_y[0]"][trans time=150 method=crossfade][wt]
 *1848|
@@ -246,17 +246,17 @@ he continues to let out shallow coughs.[pcms]
 *1850|
 [fc]
 [vo_mo s="misuzu0047"]
-[ns]yNenohi[nse]
+[ns]Nenohi[nse]
 "Suda-senpai, could it be that you've caught it too?"[pcms]
 [backlay][rir_up_03_f01 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *1851|
 [fc]
 [vo_ri s="riri0127"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nah, I think Suda-kun will be fine. Because he's that."[pcms]
 *1852|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Right, Suda doesn't catch colds because he's that."[pcms]
 *1853|
 [fc]
@@ -273,7 +273,7 @@ Suda glares at us, but he's still coughing in the back of his throat.[pcms]
 *1855|
 [fc]
 [vo_mo s="misuzu0048"]
-[ns]yNenohi[nse]
+[ns]Nenohi[nse]
 "However, there is a theory that 'that' catches summer colds, you[r]
 know?"[pcms]
 [backlay]
@@ -281,7 +281,7 @@ know?"[pcms]
 [sud_up_03_f07 layer=2 x="&sf.su_up_x[2]" y="&sf.su_up_y[0]"][trans time=150 method=crossfade][wt]
 *1856|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "Oh... then does that mean the manager is 'that' too?"[pcms]
 [backlay]
 [mis_up_03_f02 layer=1 x="&sf.mi_up_x[1]" y="&sf.mi_up_y[0]"]
@@ -289,7 +289,7 @@ know?"[pcms]
 *1857|
 [fc]
 [vo_mo s="misuzu0049"]
-[ns]yNenohi[nse]
+[ns]Nenohi[nse]
 "I just caught a cold because my maiden heart was lonely, so it has[r]
 nothing to do with 'that'."[pcms]
 *1858|
@@ -305,7 +305,7 @@ it could help 'that' get better.[pcms]
 [sud_up_03_f07 layer=2 x="&sf.su_up_x[2]" y="&sf.su_up_y[0]"][trans time=150 method=crossfade][wt]
 *1860|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Well, whatever. If you go to the infirmary, make sure to get a mask[r]
 along with your medicine, okay?"[pcms]
 *1861|
@@ -317,7 +317,7 @@ Everyone here would end up on the same level as Suda.[pcms]
 [sud_up_03_f18 layer=2 x="&sf.su_up_x[2]" y="&sf.su_up_y[0]"][trans time=150 method=crossfade][wt]
 *1862|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "Got it. If I don't forget, I'll get one... Cough, cough cough..."[pcms]
 *1863|
 [fc]

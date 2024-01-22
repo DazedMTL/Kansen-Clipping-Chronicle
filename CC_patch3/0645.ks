@@ -7,7 +7,7 @@ Outside the window is the back garden of the old building. Beyond the[r]
 divided hedges is a parking space, and beyond that, the forest.[pcms]
 *8289|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "...Alright."[pcms]
 *8290|
 [fc]
@@ -23,7 +23,7 @@ without being detected.[pcms]
 *8292|
 [fc]
 [vo_ru s="rui0737"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "We're all set here. Let's go before they come back."[pcms]
 *8293|
 [fc]
@@ -50,13 +50,13 @@ quickly run beyond the hedges.[pcms]
 [backlay][bg storage="BG02c"][trans time=500 method=crossfade][wt2]
 *8298|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Riri, are you okay?"[pcms]
 [backlay][rir_up_03_f10 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *8299|
 [fc]
 [vo_ri s="riri0801"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Sorry, Akira. I'm causing trouble."[pcms]
 [backlay][rir_up_03_f05 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *8300|
@@ -91,7 +91,7 @@ Looking back while running, I see more infected chasing us than I[r]
 expected.[pcms]
 *8307|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Hurry! They're catching up!"[pcms]
 *8308|
 [fc]
@@ -107,7 +107,7 @@ turned, they're faster than us and are gradually closing the distance.[pcms]
 *8310|
 [fc]
 [vo_ri s="riri0802"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Damn it! Why am I so slow!"[pcms]
 *8311|
 [fc]
@@ -116,7 +116,7 @@ She curses at her uncooperative leg but still runs as hard as she can.[pcms]
 *8312|
 [fc]
 [vo_ru s="rui0738"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "We're almost at the forest! Hang in there!"[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8313|
@@ -126,7 +126,7 @@ the forest that's now right in front of us.[pcms]
 [backlay][bg storage="BG14c"][trans time=500 method=crossfade][wt2]
 *8314|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Alright, we've made it into the forest!"[pcms]
 *8315|
 [fc]
@@ -146,7 +146,7 @@ If we maneuver well, we should be able to escape...![pcms]
 [sysbt_meswin]
 *8318|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Haah, haah, haah..."[pcms]
 *8319|
 [fc]
@@ -162,12 +162,12 @@ We have to be careful not to run into them by accident...[pcms]
 *8322|
 [fc]
 [vo_ru s="rui0739"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Agghh, ughhh!!"[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8323|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Rui-senpai!?"[pcms]
 *8324|
 [fc]
@@ -177,12 +177,12 @@ and Nenohi-san who was being pulled by her also falls.[pcms]
 *8325|
 [fc]
 [vo_mo s="misuzu0216"]
-[ns]yNenohi[nse]
+[ns]Nenohi[nse]
 "Ka-Kaichou, what's... Ahh!?"[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *8326|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Are you okay, Rui-senpai!"[pcms]
 *8327|
 [fc]
@@ -197,7 +197,7 @@ blood.[pcms]
 *8329|
 [fc]
 [vo_ru s="rui0740"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "I'm... I'm done for...ugh, ughhh...arghh!!"[pcms]
 *8330|
 [fc]
@@ -221,18 +221,18 @@ were closing in on us quickly.[pcms]
 *8334|
 [fc]
 [vo_mo s="misuzu0217"]
-[ns]yNenohi[nse]
+[ns]Nenohi[nse]
 "...heh...heheh...Ka-Kaichou...! Thank you for sacrificing yourself[r]
 for me, until the very end ahhhh~~~!!"[pcms]
 *8335|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Hey, Ma-Manager!!"[pcms]
 [backlay][rir_lo_03_f04 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8336|
 [fc]
 [vo_ri s="riri0803"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Nenohi-san, what are you saying...!"[pcms]
 [backlay][mis_lo_03_k01 layer=3 x="&sf.mi_lo_x[3]" y="&sf.mi_lo_y[0]"][trans time=150 method=crossfade][wt]
 [wait2 time=500]
@@ -243,7 +243,7 @@ With a twisted smile, Misuzu-san spat out such a despicable line and,[r]
 with her red eyes flashing, she ran off alone.[pcms]
 *8338|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Nenohi-san...she's turned, that's it."[pcms]
 *8339|
 [fc]
@@ -257,18 +257,18 @@ confirm...not that there was time to prepare either.[pcms]
 *8341|
 [fc]
 [vo_ru s="rui0741"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Heh, a desperate decision... You guys are going to leave me behind[r]
 too, aren't you?"[pcms]
 *8342|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Don't be ridiculous...there's no way we could do that!"[pcms]
 [backlay][rir_up_03_f04 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *8343|
 [fc]
 [vo_ri s="riri0804"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "That's right! We can't just leave Senpai behind alone...!"[pcms]
 *8344|
 [fc]
@@ -282,11 +282,11 @@ leg causing her face to contort, she took up a defensive stance.[pcms]
 *8346|
 [fc]
 [vo_ru s="rui0742"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Don't be stupid! There's no need for all of us to die...whoa!?"[pcms]
 *8347|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Senpai!?"[pcms]
 [backlay][kan_de0 layer=3 x="&sf.de_lo_x[3]" y="&sf.de_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8348|
@@ -302,7 +302,7 @@ I struck its head hard with the bat and sent it flying.[pcms]
 *8350|
 [fc]
 [vo_ri s="riri0805"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Akira! Over here too!!"[pcms]
 [backlay][evcg storage="EV53_02" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *8351|
@@ -322,11 +322,11 @@ But in that moment, another infected tackled her.[pcms]
 *8354|
 [fc]
 [vo_ri s="riri0806"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Kyaaaaaaaahhhhh!!!!"[pcms]
 *8355|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Riri!!"[pcms]
 [se buf=0 storage="seB012"]
 [backlay][black_toplayer][trans method=universal rule="TtoD" vague=300 time=200][wt2][hide_chara_int]
@@ -343,7 +343,7 @@ couldn't bring it down.[pcms]
 [ê‘ÉtÉâ]
 *8358|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Guhhhhh!!"[pcms]
 *8359|
 [fc]
@@ -355,7 +355,7 @@ me down.[pcms]
 *8361|
 [fc]
 [vo_ri s="riri0807"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Akira! Akiraaaaaa!! Noo, igi, i... guaaaaaaaahhhh!!!"[pcms]
 *8362|
 [fc]
@@ -372,7 +372,7 @@ belatedly.[pcms]
 *8364|
 [fc]
 [vo_ru s="rui0743"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Shibue-kun! Kiyohara-k...gah, ahh...ahhhhhhhhhhh!!!"[pcms]
 *8365|
 [fc]

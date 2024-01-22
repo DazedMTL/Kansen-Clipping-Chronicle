@@ -24,7 +24,7 @@
 [macro name=nse]
 [hisout txt="Åz"][endnowait][hr][current layer=message0][eval exp="sf.text_x = sf.text_x + sf.text_x_namechip"]
 [endmacro]
-ÅyAkiraÅz
+[macro name=ÅyâõÅz]
 [if     exp="f.Ç‹Çæä˘ì«Ç≈ÇÕÇ»Ç¢ == 0 || sf.allskip == 1"]
 [eval exp="tf.namecolor = sf.kidoku_RGB"]
 [else]
@@ -35,9 +35,9 @@
 [position layer="&sf.message_namechip" page=fore left="&sf.namechip_x+15" top="&sf.namechip_y" width="&sf.namechip_w" height="&sf.namechip_h" color=0x000000 frame="" opacity=0 marginL="&sf.namechip_ml" marginT="&sf.namechip_mt"]
 [current layer="&sf.message_namechip"]
 [font face="user" size="&sf.namechip_size" font color="&tf.namecolor" bold=true edge="&sf.edge_on" edgecolor="&sf.kidoku_Edgecolor" shadow=false]
-ÅyAkiraÅz
+[nowait][hisout txt="Åy"]âõ[hisout txt="Åz"][endnowait][hr][current layer=message0]
 [endmacro]
-ÅyÅHÅHÅHÅz
+[macro name=ÅyÅHÅHÅHÅz]
 [if     exp="f.Ç‹Çæä˘ì«Ç≈ÇÕÇ»Ç¢ == 0 || sf.allskip == 1"]
 [eval exp="tf.namecolor = sf.kidoku_RGB"]
 [else]
@@ -48,9 +48,9 @@
 [position layer="&sf.message_namechip" page=fore left="&sf.namechip_x" top="&sf.namechip_y" width="&sf.namechip_w" height="&sf.namechip_h" color=0x000000 frame="" opacity=0 marginL="&sf.namechip_ml" marginT="&sf.namechip_mt"]
 [current layer="&sf.message_namechip"]
 [font face="user" size="&sf.namechip_size" font color="&tf.namecolor" bold=true edge="&sf.edge_on" edgecolor="&sf.kidoku_Edgecolor" shadow=false]
-Åy"]ÅHÅHÅH[hisout txt="Åz
+[nowait][hisout txt="Åy"]ÅHÅHÅH[hisout txt="Åz"][endnowait][hr][current layer=message0]
 [endmacro]
-ÅyRuiÅz
+[macro name=Åyó›Åz]
 [if     exp="f.Ç‹Çæä˘ì«Ç≈ÇÕÇ»Ç¢ == 0 || sf.allskip == 1"]
 [eval exp="tf.namecolor = sf.kidoku_RGB"]
 [else]
@@ -61,9 +61,9 @@
 [position layer="&sf.message_namechip" page=fore left="&sf.namechip_x+15" top="&sf.namechip_y" width="&sf.namechip_w" height="&sf.namechip_h" color=0x000000 frame="" opacity=0 marginL="&sf.namechip_ml" marginT="&sf.namechip_mt"]
 [current layer="&sf.message_namechip"]
 [font face="user" size="&sf.namechip_size" font color="&tf.namecolor" bold=true edge="&sf.edge_on" edgecolor="&sf.kidoku_Edgecolor" shadow=false]
-ÅyRuiÅz
+[nowait][hisout txt="Åy"]ó›[hisout txt="Åz"][endnowait][hr][current layer=message0]
 [endmacro]
-ÅyRiriÅz
+[macro name=Åyóúó¢Åz]
 [if     exp="f.Ç‹Çæä˘ì«Ç≈ÇÕÇ»Ç¢ == 0 || sf.allskip == 1"]
 [eval exp="tf.namecolor = sf.kidoku_RGB"]
 [else]
@@ -74,9 +74,9 @@
 [position layer="&sf.message_namechip" page=fore left="&sf.namechip_x" top="&sf.namechip_y" width="&sf.namechip_w" height="&sf.namechip_h" color=0x000000 frame="" opacity=0 marginL="&sf.namechip_ml" marginT="&sf.namechip_mt"]
 [current layer="&sf.message_namechip"]
 [font face="user" size="&sf.namechip_size" font color="&tf.namecolor" bold=true edge="&sf.edge_on" edgecolor="&sf.kidoku_Edgecolor" shadow=false]
-ÅyRiriÅz
+[nowait][hisout txt="Åy"]óúó¢[hisout txt="Åz"][endnowait][hr][current layer=message0]
 [endmacro]
-ÅyTakahashiÅz
+[macro name=ÅyçÇã¥Åz]
 [if     exp="f.Ç‹Çæä˘ì«Ç≈ÇÕÇ»Ç¢ == 0 || sf.allskip == 1"]
 [eval exp="tf.namecolor = sf.kidoku_RGB"]
 [else]
@@ -87,9 +87,9 @@
 [position layer="&sf.message_namechip" page=fore left="&sf.namechip_x" top="&sf.namechip_y" width="&sf.namechip_w" height="&sf.namechip_h" color=0x000000 frame="" opacity=0 marginL="&sf.namechip_ml" marginT="&sf.namechip_mt"]
 [current layer="&sf.message_namechip"]
 [font face="user" size="&sf.namechip_size" font color="&tf.namecolor" bold=true edge="&sf.edge_on" edgecolor="&sf.kidoku_Edgecolor" shadow=false]
-ÅyTakahashiÅz
+[nowait][hisout txt="Åy"]çÇã¥[hisout txt="Åz"][endnowait][hr][current layer=message0]
 [endmacro]
-ÅyJunÅz
+[macro name=ÅyèÉÅz]
 [if     exp="f.Ç‹Çæä˘ì«Ç≈ÇÕÇ»Ç¢ == 0 || sf.allskip == 1"]
 [eval exp="tf.namecolor = sf.kidoku_RGB"]
 [else]
@@ -100,9 +100,9 @@
 [position layer="&sf.message_namechip" page=fore left="&sf.namechip_x" top="&sf.namechip_y" width="&sf.namechip_w" height="&sf.namechip_h" color=0x000000 frame="" opacity=0 marginL="&sf.namechip_ml" marginT="&sf.namechip_mt"]
 [current layer="&sf.message_namechip"]
 [font face="user" size="&sf.namechip_size" font color="&tf.namecolor" bold=true edge="&sf.edge_on" edgecolor="&sf.kidoku_Edgecolor" shadow=false]
-ÅyJunÅz
+[nowait][hisout txt="Åy"]èÉ[hisout txt="Åz"][endnowait][hr][current layer=message0]
 [endmacro]
-ÅyNenohiÅz
+[macro name=ÅyéqñÏì˙Åz]
 [if     exp="f.Ç‹Çæä˘ì«Ç≈ÇÕÇ»Ç¢ == 0 || sf.allskip == 1"]
 [eval exp="tf.namecolor = sf.kidoku_RGB"]
 [else]
@@ -113,9 +113,9 @@
 [position layer="&sf.message_namechip" page=fore left="&sf.namechip_x" top="&sf.namechip_y" width="&sf.namechip_w" height="&sf.namechip_h" color=0x000000 frame="" opacity=0 marginL="&sf.namechip_ml" marginT="&sf.namechip_mt"]
 [current layer="&sf.message_namechip"]
 [font face="user" size="&sf.namechip_size" font color="&tf.namecolor" bold=true edge="&sf.edge_on" edgecolor="&sf.kidoku_Edgecolor" shadow=false]
-ÅyNenohiÅz
+[nowait][hisout txt="Åy"]éqñÏì˙[hisout txt="Åz"][endnowait][hr][current layer=message0]
 [endmacro]
-ÅySudaÅz
+[macro name=Åyê{ìcÅz]
 [if     exp="f.Ç‹Çæä˘ì«Ç≈ÇÕÇ»Ç¢ == 0 || sf.allskip == 1"]
 [eval exp="tf.namecolor = sf.kidoku_RGB"]
 [else]
@@ -126,9 +126,9 @@
 [position layer="&sf.message_namechip" page=fore left="&sf.namechip_x" top="&sf.namechip_y" width="&sf.namechip_w" height="&sf.namechip_h" color=0x000000 frame="" opacity=0 marginL="&sf.namechip_ml" marginT="&sf.namechip_mt"]
 [current layer="&sf.message_namechip"]
 [font face="user" size="&sf.namechip_size" font color="&tf.namecolor" bold=true edge="&sf.edge_on" edgecolor="&sf.kidoku_Edgecolor" shadow=false]
-ÅySudaÅz
+[nowait][hisout txt="Åy"]ê{ìc[hisout txt="Åz"][endnowait][hr][current layer=message0]
 [endmacro]
-ÅyYuujiÅz
+[macro name=ÅyóEìÒÅz]
 [if     exp="f.Ç‹Çæä˘ì«Ç≈ÇÕÇ»Ç¢ == 0 || sf.allskip == 1"]
 [eval exp="tf.namecolor = sf.kidoku_RGB"]
 [else]
@@ -139,9 +139,9 @@
 [position layer="&sf.message_namechip" page=fore left="&sf.namechip_x" top="&sf.namechip_y" width="&sf.namechip_w" height="&sf.namechip_h" color=0x000000 frame="" opacity=0 marginL="&sf.namechip_ml" marginT="&sf.namechip_mt"]
 [current layer="&sf.message_namechip"]
 [font face="user" size="&sf.namechip_size" font color="&tf.namecolor" bold=true edge="&sf.edge_on" edgecolor="&sf.kidoku_Edgecolor" shadow=false]
-ÅyYuujiÅz
+[nowait][hisout txt="Åy"]óEìÒ[hisout txt="Åz"][endnowait][hr][current layer=message0]
 [endmacro]
-ÅyKenshoÅz
+[macro name=Åyå∞åÂÅz]
 [if     exp="f.Ç‹Çæä˘ì«Ç≈ÇÕÇ»Ç¢ == 0 || sf.allskip == 1"]
 [eval exp="tf.namecolor = sf.kidoku_RGB"]
 [else]
@@ -152,6 +152,6 @@
 [position layer="&sf.message_namechip" page=fore left="&sf.namechip_x" top="&sf.namechip_y" width="&sf.namechip_w" height="&sf.namechip_h" color=0x000000 frame="" opacity=0 marginL="&sf.namechip_ml" marginT="&sf.namechip_mt"]
 [current layer="&sf.message_namechip"]
 [font face="user" size="&sf.namechip_size" font color="&tf.namecolor" bold=true edge="&sf.edge_on" edgecolor="&sf.kidoku_Edgecolor" shadow=false]
-ÅyKenshoÅz
+[nowait][hisout txt="Åy"]å∞åÂ[hisout txt="Åz"][endnowait][hr][current layer=message0]
 [endmacro]
 [return]

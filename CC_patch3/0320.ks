@@ -150,7 +150,7 @@ The more I watch, the more my mood darkens and sinks.[pcms]
 [trans time=500 method=crossfade][wt2]
 *2412|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "Whoa!! Things are getting pretty crazy! Gobboh, Gehoh... Hnnn, isn't[r]
 this kind of bad!?"[pcms]
 *2413|
@@ -168,7 +168,7 @@ Guys like him are probably necessary, at least one in every group. The[r]
 carefree type who gets excited when a typhoon hits.[pcms]
 *2416|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "You're treating it like it's someone else's problem. We're involved[r]
 in this too, you know?"[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
@@ -345,11 +345,11 @@ only, which made me feel somewhat conflicted.[pcms]
 *2457|
 [fc]
 [vo_ri s="riri0676"]
-[ns]yRiri[nse]
+[ns]Riri[nse]
 "Wow, now!? That's late!"[pcms]
 *2458|
 [fc]
-[ns]ySuda[nse]
+[ns]Suda[nse]
 "Well, can't really help it this time, right? It's not like you can[r]
 make fun of Mahjong.Gakan Police under these circumstances."[pcms]
 *2459|

@@ -14,7 +14,7 @@
 [sysbt_meswin]
 *7247|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Senpai, hey, senpai! Please wake up soon."[pcms]
 *7248|
 [fc]
@@ -23,7 +23,7 @@ my cheeks covered in semen, saliva, and vomit.[pcms]
 *7249|
 [fc]
 [vo_ru s="rui0455"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Uh...ah. What...who are you...? What happened to me?"[pcms]
 *7250|
 [fc]
@@ -31,12 +31,12 @@ It seems her memory is confused. The stern look she had until a moment[r]
 ago is gone, and now she's looking at me as if clinging for support.[pcms]
 *7251|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Well, you see, senpai, you fainted. But I'm glad you're safe."[pcms]
 *7252|
 [fc]
 [vo_ru s="rui0456"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Is that so...? Did you...save me? Thank you, really...thank you."[pcms]
 *7253|
 [fc]
@@ -48,13 +48,13 @@ But the people around us are starting to get noisy, urging us to hurry[r]
 up. It's about time I fulfill my role.[pcms]
 *7255|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "So, I want senpai to feel even better. Everyone's standing by for[r]
 that reason too, so it's okay, right?"[pcms]
 *7256|
 [fc]
 [vo_ru s="rui0457"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "I don't...understand what you're saying...? Who are you[r]
 exactly...cough, cough! Sorry...my vision is getting blurry..."[pcms]
 *7257|
@@ -63,7 +63,7 @@ In the back, Onodera was sneering, saying "She's practically dead,"[r]
 but I ignored that and continued speaking.[pcms]
 *7258|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Well, anyway, we're all going to work hard. I wanted to do it alone[r]
 originally, but since you're everyone's idol..."[pcms]
 *7259|
@@ -72,7 +72,7 @@ The jealousy from before is gone. After all, senpai is everyone's[r]
 idol; even if she's a promiscuous bitch, that doesn't change.[pcms]
 *7260|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "So with that said, I'll start by cleaning you up. You've been[r]
 creampied a lot, and some people don't like that."[pcms]
 [backlay][evcg storage="EV23_21" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
@@ -83,11 +83,11 @@ pussy.[pcms]
 *7262|
 [fc]
 [vo_ru s="rui0458"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Uh...ah. What, what are you doing...?"[pcms]
 *7263|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Please stay still. I'm going to scrape out the filth now."[pcms]
 *7264|
 [fc]
@@ -98,7 +98,7 @@ fingers bundled together into her all at once.[pcms]
 *7265|
 [fc]
 [vo_ru s="rui0459"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Nngaaaaaaaahhhhhhhhhhhhh!!!"[pcms]
 *7266|
 [fc]
@@ -107,7 +107,7 @@ that, the "insertion" became easier and my "fingers" were swallowed up[r]
 smoothly.[pcms]
 *7267|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Ohh, this is senpai's pussy. It's different from touching it with a[r]
 dick!"[pcms]
 *7268|
@@ -116,7 +116,7 @@ I couldn't help but be moved by the strange sensation inside senpai.[r]
 Soft folds clung to my fingers, squeezing them tightly.[pcms]
 *7269|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Alright, let's keep going. Here we go...!!"[pcms]
 *7270|
 [fc]
@@ -126,21 +126,21 @@ her breath for a moment there.[pcms]
 *7271|
 [fc]
 [vo_ru s="rui0460"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Aga...agiih, oh...oguuuhh, what...are you doing...?"[pcms]
 *7272|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Ah, I just stuck my arm in. This way I can scoop around inside. Since[r]
 you're a promiscuous bitch, I figured it'd be fine."[pcms]
 *7273|
 [fc]
 [vo_ru s="rui0461"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Uh, an arm? That's absurd...it'll break...my pussy will break..."[pcms]
 *7274|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "You've been saying that but it's not broken, so no problem. Look, I'm[r]
 about to start cleaning."[pcms]
 *7275|
@@ -151,7 +151,7 @@ the sticky folds directly.[pcms]
 *7276|
 [fc]
 [vo_ru s="rui0462"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Hagyaaaaah! Stop...stop it, ngahh! Aoooohhh!!"[pcms]
 *7277|
 [fc]
@@ -160,13 +160,13 @@ pretty lively to me. Looks like she can handle everyone's[r]
 "hospitality."[pcms]
 *7278|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Hmm, is this hard spot the G-spot? And...this plump spot at the very[r]
 back is the cervix."[pcms]
 *7279|
 [fc]
 [vo_ru s="rui0463"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Nnoooohhh!! Oh---ohhhhhhhh!! Stop it! Don't do that!!"[pcms]
 *7280|
 [fc]
@@ -176,7 +176,7 @@ out the remnants of semen stuck to her, I gently caressed her cervix.[pcms]
 *7281|
 [fc]
 [vo_ru s="rui0464"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Nhih!? That spot...! It's being caressed!! My cervix entrance is[r]
 being stroked by Shibue-kun's fingers!!"[pcms]
 *7282|
@@ -187,12 +187,12 @@ cervix over and over again.[pcms]
 *7283|
 [fc]
 [vo_ru s="rui0465"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Shibue-kunnnn, I can't take it anymore! My cervix is being played[r]
 with; I'm going to die!! Please stop it, stop ittttt!!"[pcms]
 *7284|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Understood. Then let's clean everything up in one go."[pcms]
 *7285|
 [fc]
@@ -202,7 +202,7 @@ should be comparable to that beer bottle dick.[pcms]
 *7286|
 [fc]
 [vo_ru s="rui0466"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Agagagagagagaaaaa!! I'm dying, dying dying dying dyingggggg!! I'm[r]
 going to dieeeeeeeee------------!!"[pcms]
 *7287|
@@ -212,7 +212,7 @@ At the moment when such thrusting had been repeated exactly 15 times.[pcms]
 *7288|
 [fc]
 [vo_ru s="rui0467"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Ngyiiiiii!! I'm cumming, cumming, cumming, ahhhhhh!!"[pcms]
 [stopse buf=1]
 [se buf=0 storage="seD002"]
@@ -231,12 +231,12 @@ people who aren't into that kind of thing.[pcms]
 *7291|
 [fc]
 [vo_ru s="rui0468"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Ah...ugh, Shibue-kun...uh...ah, haha...ahahaha! Somehow, it's[r]
 becoming fun... Have I gone crazy...?"[pcms]
 *7293|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Of course I'll help you. After all...you're the person I admire."[pcms]
 [backlay][black_toplayer][trans time=1000 method=crossfade][wt2][hide_chara_int]
 [stopse buf=0]
@@ -247,7 +247,7 @@ her into the pool.[pcms]
 [se buf=0 storage="seD020"]
 *7295|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Ahahaha, this should clean everything off. I must say, that was a[r]
 good decision."[pcms]
 *7296|
@@ -309,7 +309,7 @@ her.[pcms]
 *7308|
 [fc]
 [vo_ru s="rui0469"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Uh...ah... Ah...uh, uhh...ahhh...uh, haha...ah..."[pcms]
 *7309|
 [fc]
@@ -318,12 +318,12 @@ from enough to excite me.[pcms]
 [backlay][evcg storage="EV26_02" layer=0 page=back visible=true left=0 top=0][trans time=500 method=crossfade][wt2]
 *7310|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Senpai...please feel more pleasure..."[pcms]
 *7311|
 [fc]
 [vo_ru s="rui0470"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Ah...uh...hiu...ahhhh... Is it going to feel good? I want to feel[r]
 good..."[pcms]
 *7312|
@@ -336,7 +336,7 @@ Even like this, senpai remained beautiful, and it felt good inside[r]
 her. But this is just...lonely.[pcms]
 *7314|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Why...won't you say anything...to me..."[pcms]
 *7315|
 [fc]
@@ -349,12 +349,12 @@ inside her over and over again.[pcms]
 *7317|
 [fc]
 [vo_ru s="rui0471"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Mmm...fua, ah...hmm, Shibue-kun... It feels good...this is[r]
 amazing...ahhh..."[pcms]
 *7318|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Senpai...senpai...! How is it? Does it feel good?"[pcms]
 *7319|
 [fc]
@@ -363,7 +363,7 @@ vigorously into the entwining depths of senpai.[pcms]
 *7320|
 [fc]
 [vo_ru s="rui0472"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Shibue-kun... What's happening? Why has it come to this? Why have[r]
 we...hey, haha! Ahaha..."[pcms]
 *7321|
@@ -373,7 +373,7 @@ happened.[pcms]
 *7322|
 [fc]
 [vo_ru s="rui0473"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "It's over...finally over... Ahh...fuh..."[pcms]
 *7323|
 [fc]
@@ -381,7 +381,7 @@ After that, senpai said nothing more. But I kept moving my hips. I[r]
 didn't want it to end.[pcms]
 *7324|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Ugh... Senpai, I'm going to come again...I'll give it to you again."[pcms]
 [stopse buf=1]
 [se buf=0 storage="se_sex01"]
@@ -397,7 +397,7 @@ burst inside senpai in clumps.[pcms]
 [endif]
 *7326|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Senpai, how was it? Did it feel good?"[pcms]
 *7327|
 [fc]
@@ -409,7 +409,7 @@ It felt like the moment of falling into a dream, a gentle comfort[r]
 covering my consciousness.[pcms]
 *7329|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "So, yeah... Senpai is just sleeping, right...? Then, I should[r]
 also...sleep. Take a rest and then..."[pcms]
 *7330|
@@ -418,7 +418,7 @@ Laying down as if to protect my most precious senpai, I rest my head[r]
 on her soft chest.[pcms]
 *7331|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Ahaha... When she wakes up, she might be...surprised. But...it's[r]
 okay. Because I am with senpai..."[pcms]
 *7332|

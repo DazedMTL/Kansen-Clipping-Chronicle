@@ -7,7 +7,7 @@
 *8722|
 [fc]
 [vo_ru s="rui0773"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Move it!"[pcms]
 *8723|
 [fc]
@@ -22,7 +22,7 @@ matter.[pcms]
 *8725|
 [fc]
 [vo_ru s="rui0774"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "What are you doing! Hurry up and get the boat out!!"[pcms]
 *8726|
 [fc]
@@ -41,7 +41,7 @@ The light FRP hull slid out onto the surface of Lake Tazawa.[pcms]
 *8729|
 [fc]
 [vo_ru s="rui0775"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "Get on!"[pcms]
 *8730|
 [fc]
@@ -80,7 +80,7 @@ Far away, far away... as if coming from a place even more distant than[r]
 reality itself...[pcms]
 *8737|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "I've realized something just now..."[pcms]
 *8738|
 [fc]
@@ -88,7 +88,7 @@ Unconsciously, words slipped through the gap between my half-open[r]
 lips. My heart was leaking those words.[pcms]
 *8739|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "I admired Rui-senpai... but the one I truly loved was Riri..."[pcms]
 *8739a|
 [fc]
@@ -97,12 +97,12 @@ if falling from above, continued to leak out without being able to be[r]
 stopped or embellished.[pcms]
 *8740|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "I really loved her... and I always wanted to be by her side until we[r]
 grew old and died..."[pcms]
 *8741|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "The one I always wanted by my side was Riri... I wanted Riri to be[r]
 there, by my side..."[pcms]
 *8742|
@@ -114,7 +114,7 @@ When I realized tears were flowing, it was already too late to stop[r]
 them.[pcms]
 *8744|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Ugh, ahh... Riri... Riri...! Ah, ahh... uwaahhhhhhhhhhhhhhhhh!!!"[pcms]
 *8745|
 [fc]
@@ -136,14 +136,14 @@ that I wanted to kill myself with hatred.[pcms]
 I abandoned her... I had abandoned Riri...![pcms]
 *8750|
 [fc]
-[ns]yAkira[nse]
+[ns]Akira[nse]
 "Aaaaaaaaaah! Riri, Riri, Riri, Ririiiiii!! Ugh, huff,[r]
 uwaahhhhhhhhh!!"[pcms]
 [backlay][rui_up_02_f12 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *8751|
 [fc]
 [vo_ru s="rui0776"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "...It's not your fault. You're not to blame..."[pcms]
 *8752|
 [fc]
@@ -208,7 +208,7 @@ thunder shook the lake surface, the forest, and us.[pcms]
 *8765|
 [fc]
 [vo_ru s="rui0777"]
-[ns]yRui[nse]
+[ns]Rui[nse]
 "What was that just now..."[pcms]
 [bgm storage="bgm15" time=2000]
 *8766|
