@@ -141,11 +141,11 @@ crawling on her stomach down the stairs towards me.[pcms]
 I felt a chill at the sight of her, moving like a ghost.[pcms]
 *5474|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Uwaaaah~... That's Riri's butt!"[pcms]
 *5475|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Ugh! Rui-senpai is here too!"[pcms]
 *5476|
 [fc]

@@ -38,7 +38,7 @@ He too, while talking with friends, sends me a mischievous smile.[pcms]
 Geez...[pcms]
 *9203|
 [fc]
-[ns]女子陸[[nse]
+[ns]女子陸[nse]
 "What's wrong?"[pcms]
 *9204|
 [fc]
@@ -47,7 +47,7 @@ Geez...[pcms]
 "N-nothing, just... you know, that thing, that thing."[pcms]
 *9205|
 [fc]
-[ns]女子陸[[nse]
+[ns]女子陸[nse]
 "Eh-, you seem kind of suspicious."[pcms]
 *9206|
 [fc]
@@ -131,7 +131,7 @@ If I end up taking Yuuji's hard one in my mouth in such an unfamiliar[r]
 place for the first time...[pcms]
 *9227|
 [fc]
-[ns]女子陸[[nse]
+[ns]女子陸[nse]
 "Hey, Jun!"[pcms]
 *9228|
 [fc]
@@ -221,7 +221,7 @@ to camp while having a cold.[pcms]
 Also, I wonder if it's okay to leave that cooler box as it is...[pcms]
 *9248|
 [fc]
-[ns]女子陸[[nse]
+[ns]女子陸[nse]
 "Ugh! Jun! It's not my problem anymore!"[pcms]
 *9249|
 [fc]

@@ -53,7 +53,7 @@ Wow, as expected of the senior. She's enduring such a leech-like[r]
 assault. Or maybe she doesn't want to show us any more disgrace?[pcms]
 *6919|
 [fc]
-[ns]‰Á[[nse]
+[ns]‰Á[nse]
 "Hey, Suda, hurry up and stick it in. I'm getting tired of this."[pcms]
 *6920|
 [fc]
@@ -421,11 +421,11 @@ While bursting out with an incredible climaxing voice, Senpai began to[r]
 convulse. She had been cumming before, but this was incomparable.[pcms]
 *6989|
 [fc]
-[ns]—¤ã[[nse]
+[ns]—¤ã[nse]
 "Ohhhhh~~! She came again, she cameeeee~~!"[pcms]
 *6990|
 [fc]
-[ns]…‰j[[nse]
+[ns]…‰j[nse]
 "She came while being violated! She came with such a loud voice!"[pcms]
 *6991|
 [fc]

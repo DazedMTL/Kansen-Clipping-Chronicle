@@ -183,7 +183,7 @@ on surviving...![pcms]
 [fadeoutbgm time=500]
 *8464|
 [fc]
-[ns]男[[nse]
+[ns]男[nse]
 "Aaaaargh!!!"[pcms]
 [bgm storage="bgm13" time=100]
 *8465|
@@ -214,7 +214,7 @@ unsteady on her feet, pulled out a skewer and faced the infected.[pcms]
 [backlay][kan_ma layer=3 x="&sf.ma_lo_x[3]" y="&sf.ma_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8470|
 [fc]
-[ns]男[[nse]
+[ns]男[nse]
 "Woman woman woman woman woman woman aaaaah!! Let me do it, let me do[r]
 it, I'll rape, I'll rape, I'll rape... gubiyu!!"[pcms]
 *8471|

@@ -329,7 +329,7 @@ It wasn't just the rugby team; members of the wrestling and judo[r]
 clubs, all big-bodied men, had gathered.[pcms]
 *10553|
 [fc]
-[ns]レスリン[[nse]
+[ns]レスリン[nse]
 "We've caught Jun-san!"[pcms]
 *10554|
 [fc]
@@ -359,7 +359,7 @@ strength I had worked so hard to build.[pcms]
 "So soft, her body is so soft and melting!"[pcms]
 *10561|
 [fc]
-[ns]レスリン[[nse]
+[ns]レスリン[nse]
 "That smell! The sweet smell of a girl, it's irresistible!"[pcms]
 *10562|
 [fc]
@@ -401,7 +401,7 @@ doubt about it.[pcms]
 know?!"[pcms]
 *10571|
 [fc]
-[ns]レスリン[[nse]
+[ns]レスリン[nse]
 "Jun-chan! Jun-chan's lovely smell!"[pcms]
 *10572|
 [fc]
@@ -455,7 +455,7 @@ And then he targeted my crotch, opening his lips to devour it.[pcms]
 "My pussy! Such a soft pussy! It's all mine!"[pcms]
 *10584|
 [fc]
-[ns]レスリン[[nse]
+[ns]レスリン[nse]
 "The crack of your ass feels so good! Fart, I want to smell it!"[pcms]
 *10585|
 [fc]
@@ -826,7 +826,7 @@ my body.[pcms]
 In front of this abnormal spectacle, I was at a loss for words.[pcms]
 *10673|
 [fc]
-[ns]レスリン[[nse]
+[ns]レスリン[nse]
 "Jun-san is mineeeee!"[pcms]
 *10674|
 [fc]
@@ -843,7 +843,7 @@ by it...[pcms]
 I could also be killed at any moment.[pcms]
 *10678|
 [fc]
-[ns]レスリン[[nse]
+[ns]レスリン[nse]
 "Ju-Jun-san's pussy... I-I can't see it..."[pcms]
 *10679|
 [fc]
@@ -873,7 +873,7 @@ He was a man of beast-like strength, just as his appearance suggested.[pcms]
 If I'm violated by such a man... I'll be broken.[pcms]
 *10685|
 [fc]
-[ns]レスリン[[nse]
+[ns]レスリン[nse]
 "Now, I can see your pussy!"[pcms]
 *10686|
 [fc]
@@ -894,7 +894,7 @@ untanned crotch was fully exposed.[pcms]
 "Bareee! A pure white, plump pussy!"[pcms]
 *10690|
 [fc]
-[ns]レスリン[[nse]
+[ns]レスリン[nse]
 "There's no hair! Jun-san, there's no hair on your pussy!"[pcms]
 *10691|
 [fc]
@@ -920,7 +920,7 @@ childish excitement.[pcms]
 [backlay][evcg storage="EV30_10" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10696|
 [fc]
-[ns]レスリン[[nse]
+[ns]レスリン[nse]
 "I can't hold back any longerrrr! I'm going to cum!"[pcms]
 *10697|
 [fc]
@@ -936,7 +936,7 @@ as the rugby shirt man's.[pcms]
 He flaunted it as he took it out from under his trousers.[pcms]
 *10700|
 [fc]
-[ns]レスリン[[nse]
+[ns]レスリン[nse]
 "Yeah, like thisssss!"[pcms]
 *10701|
 [fc]
@@ -953,7 +953,7 @@ I flailed my limbs, but the men didn't budge and kept holding me down[r]
 with strange smiles on their faces.[pcms]
 *10704|
 [fc]
-[ns]レスリン[[nse]
+[ns]レスリン[nse]
 "Just a little moreeee!"[pcms]
 *10705|
 [fc]
@@ -969,7 +969,7 @@ Yet... my small hole that had accepted Yuuji was stretching to the[r]
 point of bursting to accommodate it.[pcms]
 *10708|
 [fc]
-[ns]レスリン[[nse]
+[ns]レスリン[nse]
 "Almost thereeeee!"[pcms]
 [se buf=0 storage="se_sex01"]
 [evcg白フラ storage="EV30_11" layer=0 page=back visible=true left=0 top=0]
@@ -1000,7 +1000,7 @@ was convulsing as if dancing a strange dance.[pcms]
 [se buf=1 storage="se_sex03" loop=true]
 *10715|
 [fc]
-[ns]レスリン[[nse]
+[ns]レスリン[nse]
 "Ha, it's in! Your pussy feels so good!"[pcms]
 [backlay][evcg storage="EV30_13" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10716|
@@ -1015,7 +1015,7 @@ first experience, which was even pleasant, is now an intense pain that[r]
 I can't even remember.[pcms]
 *10718|
 [fc]
-[ns]レスリン[[nse]
+[ns]レスリン[nse]
 "Nho, nho, Jun-san's pussy! Ohhooooo!"[pcms]
 *10719|
 [fc]
@@ -1047,7 +1047,7 @@ But the wrestling man, unconcerned with such things, is greedily[r]
 devouring pleasure.[pcms]
 *10726|
 [fc]
-[ns]レスリン[[nse]
+[ns]レスリン[nse]
 "Your pussy is so tight! It's squeezing my dick!"[pcms]
 [backlay][evcg storage="EV30_13" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10727|
@@ -1057,7 +1057,7 @@ devouring pleasure.[pcms]
 "Agguh, guuuh, stop... it's suffocating... gyiiiiii!"[pcms]
 *10728|
 [fc]
-[ns]レスリン[[nse]
+[ns]レスリン[nse]
 "It feels so goooooood! Your pussy is the best!"[pcms]
 *10729|
 [fc]
@@ -1075,7 +1075,7 @@ The men are excited and crush my breasts with brute force.[pcms]
 But all I could do was endure it desperately, clenching my teeth.[pcms]
 *10733|
 [fc]
-[ns]レスリン[[nse]
+[ns]レスリン[nse]
 "Ooooh! I'm going to cum inside now!"[pcms]
 [backlay][evcg storage="EV30_12" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10734|
@@ -1112,7 +1112,7 @@ to do it too!"[pcms]
 "I want you to give birth! A strong baby, give birth to my baby!"[pcms]
 *10742|
 [fc]
-[ns]レスリン[[nse]
+[ns]レスリン[nse]
 "I'm going to impregnate you! I'll seal it with my semen inside!"[pcms]
 *10743|
 [fc]
@@ -1126,7 +1126,7 @@ the start.[pcms]
 aaaaah!"[pcms]
 *10745|
 [fc]
-[ns]レスリン[[nse]
+[ns]レスリン[nse]
 "I'm cumming!"[pcms]
 [stopse buf=1]
 [se buf=0 storage="se_sex01"]
@@ -1160,7 +1160,7 @@ Overwhelmed by that disgusting warmth, all I could do was cry.[pcms]
 [backlay][evcg storage="EV30_15" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10752|
 [fc]
-[ns]レスリン[[nse]
+[ns]レスリン[nse]
 "Nnn! Gufuu! Uuuu!"[pcms]
 *10753|
 [fc]
@@ -1180,7 +1180,7 @@ The thought of carrying the baby of such a disgusting man was[r]
 absolutely unbearable.[pcms]
 *10757|
 [fc]
-[ns]レスリン[[nse]
+[ns]レスリン[nse]
 "I'm going to cum again!"[pcms]
 *10758|
 [fc]

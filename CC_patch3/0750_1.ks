@@ -183,7 +183,7 @@ the answer button.[pcms]
 "What's up, mom? Oh, hello! What's up all of a sudden?"[pcms]
 *9940|
 [fc]
-[ns]ïÍ[[nse]
+[ns]ïÍ[nse]
 "...uh... that's why... hurry... come back..."[pcms]
 *9941|
 [fc]
@@ -701,7 +701,7 @@ Eventually, the lengthy game of rock-paper-scissors came to an end,[r]
 and a boya second-year from the track teamwas chosen.[pcms]
 *10042|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Uh, um... It's my turn now..."[pcms]
 *10043|
 [fc]
@@ -715,7 +715,7 @@ Normally Riri would never ask such a thing, but all that was on her[r]
 mind now was escaping this frustration.[pcms]
 *10045|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "That is... well... yes, I'm a virgin... So what if I am?!"[pcms]
 *10046|
 [fc]
@@ -747,7 +747,7 @@ trembling cock to the entrance.[pcms]
 And then she gently aligned it with her hot and moist hole.[pcms]
 *10052|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Ku... ugh. Ki-Kiyohara-san... I think I'm going to cum...!"[pcms]
 *10053|
 [fc]
@@ -765,13 +765,13 @@ The demand was perhaps too much for a virgin; the club member was just[r]
 confused. But that only served to anger the men waiting their turn.[pcms]
 *10056|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Hurry up already, you dawdler!!"[pcms]
 [se buf=0 storage="seB009"]
 [evcgîíÉtÉâ storage="EV27_06" layer=0 page=back visible=true left=0 top=0]
 *10057|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Uwaaaahhhhh!!?"[pcms]
 [se buf=1 storage="se_sex02" loop=true]
 *10058|
@@ -788,7 +788,7 @@ trembling cock was thrust into Riri's hole all the way to its base...[pcms]
 Riri arched her back and let out a sweet scream of ecstasy.[pcms]
 *10061|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Uh, kuuu... It's amazing... Kiyohara-san's inside is amazing...!!"[pcms]
 *10061a|
 [fc]
@@ -803,7 +803,7 @@ his penis.[pcms]
 "Ah, kuuuun. Is it... does it feel that good inside me...?"[pcms]
 *10063|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Yeah! Being inside a girl... inside a pussy, it feels so good! Ah,[r]
 ahhh! I think I'm going to cum!!"[pcms]
 *10064|
@@ -819,7 +819,7 @@ to endure the urge. It was both for her sake and his desire to prolong[r]
 this pleasure.[pcms]
 *10066|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "I've always... ugh, had feelings for you, Kiyohara-san..."[pcms]
 *10067|
 [fc]
@@ -837,7 +837,7 @@ But it was a fair contest to decide the order, and they could not[r]
 complain.[pcms]
 *10070|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "But... Kiyohara-san, there's no blood...?"[pcms]
 [backlay][evcg storage="EV27_09" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10071|
@@ -852,16 +852,16 @@ The men's faces lit up with a lewd smile at the sight of her indulging[r]
 in pleasure so freely, despite it being her first time.[pcms]
 *10073|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Hey hey, virgins aren't supposed to feel that good, are they?"[pcms]
 *10074|
 [fc]
-[ns]êÖâjïî[[nse]
+[ns]êÖâjïî[nse]
 "She must've been a slut from the start? Flashing her pussy to lure[r]
 men in like that."[pcms]
 *10075|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "So that means, Uchiya's guy had his girlfriend's virginity stolen[r]
 from him, huh?"[pcms]
 *10076|
@@ -890,7 +890,7 @@ extracting pleasure from it.[pcms]
 you can cum now!!"[pcms]
 *10080|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Kuuuh! Yeah, I'm going to cum! My first ejaculation is coming!!"[pcms]
 *10081|
 [fc]
@@ -914,7 +914,7 @@ reached climax. It was the pleasure she had been longing for,[r]
 something she couldn't achieve with masturbation alone.[pcms]
 *10084|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Ugh... kuuuh. Haa, haa! It's still coming out..."[pcms]
 *10085|
 [fc]
@@ -936,7 +936,7 @@ dream. Still, he managed to get up and pulled his penis out with a[r]
 slurp.[pcms]
 *10089|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Ah... That's blood, isn't it...?"[pcms]
 *10090|
 [fc]
@@ -956,7 +956,7 @@ Riri.[pcms]
 [backlay][evcg storage="EV27_13" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10093|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Seriously, stop dawdling. Damn it, Riri-chan's pussy is covered in[r]
 semen now."[pcms]
 *10094|
@@ -970,7 +970,7 @@ in a senior position in the club activities for Riri.[pcms]
 "Kuuun... It's your turn next, senpai. Are you a virgin too?"[pcms]
 *10096|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Don't make fun of me. I've had sex plenty of times already."[pcms]
 *10097|
 [fc]
@@ -993,7 +993,7 @@ semen.[pcms]
 be rougher if you want."[pcms]
 *10100|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "I don't need you to tell me that...!!"[pcms]
 *10101|
 [fc]
@@ -1015,7 +1015,7 @@ sensitive glans...[pcms]
 [éÀê∏ÉtÉâB]
 *10104|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Ku...aaaaah...!!!"[pcms]
 *10105|
 [fc]
@@ -1033,7 +1033,7 @@ There was no malice in Riri's words, but they greatly wounded his[r]
 pride. He couldn't believe this was happening, even with raw sex.[pcms]
 *10108|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Ku, damn it!! Ora, it's not over yet!!!"[pcms]
 [se buf=1 storage="se_sex03" loop=true]
 *10109|
@@ -1056,7 +1056,7 @@ The rough digging into her vaginal walls and the tingling pleasure at[r]
 the entrance to her womb made her head melt away.[pcms]
 *10113|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Damn it! I had no idea Riri-chan was such a slut!! Hey, how about[r]
 that, is this good enough for you?!"[pcms]
 *10114|
@@ -1079,7 +1079,7 @@ it. The wave-like surge quickly filled her up.[pcms]
 The moment her vaginal walls spasmed, the senior pulled out his dick.[pcms]
 *10118|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "This time, it's here! I'm going to cum on Riri-chan's abs!!!"[pcms]
 *10119|
 [fc]
@@ -1118,7 +1118,7 @@ the right to be third. However, his dick was already smeared with[r]
 semen.[pcms]
 *10125|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "S-sorry, senpai... I couldn't hold back..."[pcms]
 [backlay][evcg storage="EV27_19" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10126|
@@ -1131,7 +1131,7 @@ semen.[pcms]
 At Riri's teasing question, he blushed with embarrassment.[pcms]
 *10127|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Yes... Senpai was too erotic... and I masturbated... But! I can cum[r]
 many times! So...!!"[pcms]
 *10128|
@@ -1152,7 +1152,7 @@ With a strong nod to Riri's gentle yet lewd invitation, the junior[r]
 pounced like a beast released from its restraints.[pcms]
 *10131|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Haa, haa!! Pussy, senpai's pussy!! Hurry up and put it in! Quick...[r]
 oooohhh!!"[pcms]
 [se buf=0 storage="se_sex01"]
@@ -1183,7 +1183,7 @@ But perhaps he went too hard too fast because his movements suddenly[r]
 stopped.[pcms]
 *10137|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Kuuu... I'm sorry, I'm so sorry... I'm going to cum..."[pcms]
 *10138|
 [fc]
@@ -1198,7 +1198,7 @@ As told by Riri, the junior resumed thrusting while gritting his[r]
 teeth. But the pace was as slow as a slug crawling.[pcms]
 *10140|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Ngh, I'm sorry... This isn't very pleasurable for you, is it..."[pcms]
 *10141|
 [fc]
@@ -1222,7 +1222,7 @@ in response. The slower thrusts made its presence all the more felt.[pcms]
 penis. Ah, ah, you like my pussy too, don't you?"[pcms]
 *10145|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Ye... yes! Even though it's so slow, I feel like I'm going to cum![r]
 Senpai's pussy, the folds are wrapping around me... nkyaaaah!!"[pcms]
 *10146|
@@ -1235,11 +1235,11 @@ But such leisurely sex was frustrating those waiting their turn. As if[r]
 they could no longer bear it, two of them burst forth.[pcms]
 *10148|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Uooooh!! I can't take it anymore!!!"[pcms]
 *10149|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "What are you screaming like a girl for, you cross-dresser!!"[pcms]
 *10150|
 [fc]
@@ -1247,7 +1247,7 @@ The two glared at the junior entangled with Riri with fierce eyes and[r]
 began to furiously stroke their erections.[pcms]
 *10151|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "I always wanted to cum on your thighs!!"[pcms]
 *10152|
 [fc]
@@ -1255,7 +1255,7 @@ At the confession of the senior stroking his penis next to him,[r]
 another club member raised his voice.[pcms]
 *10153|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "I... I wanted to cum on Kiyohara's face too!! I wanted to smear that[r]
 feisty face with semen aaaaahhh!!"[pcms]
 *10154|
@@ -1287,7 +1287,7 @@ let out a scream.[pcms]
 [backlay][evcg storage="EV27_24" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10158|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Hyaaaah!! It's coming out, it's coming out! Nhyaaaah!!"[pcms]
 [stopse buf=1]
 [se buf=0 storage="se_sex01"]
@@ -1341,7 +1341,7 @@ me! Cum on me!!"[pcms]
 Riri spread her semen-covered hole herself and begged for a new penis.[pcms]
 *10168|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "O... okay!! It's my turn next, right?!"[pcms]
 [backlay][evcg storage="EV27_28" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10169|
@@ -1356,7 +1356,7 @@ before Riri with his pre-cum covered penis trembling.[pcms]
 you want to make me feel good!"[pcms]
 *10171|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Heh, hehe. Alright, Kiyohara. I'm more experienced than those guys;[r]
 I'll make you cum hard...!!"[pcms]
 *10172|
@@ -1373,7 +1373,7 @@ then began to insert himself slowly.[pcms]
 do it harder...!"[pcms]
 *10174|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Don't rush. You said you liked this kind of thing too, didn't you?"[pcms]
 [se buf=1 storage="se_sex02" loop=true]
 *10175|
@@ -1400,7 +1400,7 @@ persistent movements greatly pleased her.[pcms]
 feeling better and better!!"[pcms]
 *10179|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Your pussy feels amazing too... If I knew you had such a pussy, I[r]
 should've fucked you sooner!"[pcms]
 *10180|
@@ -1414,7 +1414,7 @@ listening. Her mind was occupied solely by pleasure.[pcms]
 "Ohh, ohhh! Kuh, kuhii, kuuuun!! Why are you... so good at sex...?"[pcms]
 *10182|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Hehe... I've been dating a married woman. She taught me a lot. Well,[r]
 I always made her moan for young cock!"[pcms]
 *10183|
@@ -1424,7 +1424,7 @@ cum. However, he was internally grateful for that since it allowed him[r]
 to make his juniors feel good.[pcms]
 *10184|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "But you know, I always used a condom. If Kiyohara lets me do it raw,[r]
 I'll fuck you whenever you want?"[pcms]
 [backlay][evcg storage="EV27_31" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
@@ -1436,7 +1436,7 @@ I'll fuck you whenever you want?"[pcms]
 anywhere!!"[pcms]
 *10186|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Uoooo! I don't need that older woman anymore!! I'll fuck you raw[r]
 every day!!"[pcms]
 [se buf=1 storage="se_sex03" loop=true]
@@ -1452,7 +1452,7 @@ shifted abruptly from leisurely to high-speed pistoning.[pcms]
 drenched in cum!!"[pcms]
 *10189|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Is that okay, even if you get pregnant!?"[pcms]
 *10190|
 [fc]
@@ -1466,7 +1466,7 @@ With that scream, Riri's insides began to squeeze the cock intensely.[r]
 He was led to that dead-end spot and jerked off vigorously.[pcms]
 *10192|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Guh, uuuuuh!! I'm gonna cum, I'm gonna cum...!! Ku...!!"[pcms]
 *10192a|
 [fc]
@@ -1503,7 +1503,7 @@ Riri trembled with back-to-back climaxes, convulsing uncontrollably.[r]
 It felt that good; she was that happy.[pcms]
 *10198|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Kuooh... amazing... it's sucking everything out..."[pcms]
 *10199|
 [fc]
@@ -1517,7 +1517,7 @@ out.[pcms]
 "Ohh... Don't pull your cock out yet..."[pcms]
 *10201|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Hehe, I wanna keep going too, but there are guys waiting their[r]
 turn..."[pcms]
 *10202|
@@ -1531,7 +1531,7 @@ As the senior stepped away, a grinning team member appeared in front[r]
 of Riri.[pcms]
 *10204|
 [fc]
-[ns]ó§è„ïî[[nse]
+[ns]ó§è„ïî[nse]
 "Hey, hurry up and turn your ass this way! Now it's my turn to satisfy[r]
 you."[pcms]
 [if exp="tf.scene_mode == 1 && tf.all_play == 0"]

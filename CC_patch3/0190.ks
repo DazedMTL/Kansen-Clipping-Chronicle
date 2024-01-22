@@ -146,11 +146,11 @@ I can't even sleep with my feet facing Mogami-senpai's room.[pcms]
 *1708|
 [fc]
 [vo_mo s="mogami0001"]
-[ns]ç≈[[nse]
+[ns]ç≈[nse]
 "Hehe, how is it? Tasty?"[pcms]
 *1709|
 [fc]
-[ns]êº[[nse]
+[ns]êº[nse]
 "Yes! It's very delicious, senpai!"[pcms]
 [backlay][mis_up_03_g05 layer=3 x="&sf.mi_up_x[3]" y="&sf.mi_up_y[0]"][trans time=150 method=crossfade][wt]
 *1710|

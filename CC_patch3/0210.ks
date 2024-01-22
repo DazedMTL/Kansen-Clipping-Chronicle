@@ -70,14 +70,15 @@ curtains, it's more humid than I thought.[pcms]
 I wonder if I can even sleep in this...[pcms]
 [if exp="tf.sys_sub == 0 || tf.‘I‘ğˆƒƒO•\¦‚µ‚Ä‚Ë == 1"]
 	
-(Choice "Sleep") (Choice "Go for a midnight stroll")[pcms]
+	[hisout txt="‘I‘ğˆgQ‚éh"][r]
+	[hisout txt="‘I‘ğˆg^–é’†‚Ì‚¨U•à‚Öh"][r]
 [endif]
 [hr]
 [—š—ğo—Í•œ‹A]
 [selbase]
 [eval exp="sf.seltext_x = 500"]
-[sel02 text="Sleep"            ][locate x="&sf.selold_x[0]" y="&sf.selold_y[2]"][button graphic="selectimage" recthit=false target=*Sleep]
-[sel04 text="Midnight Stroll"][locate x="&sf.selold_x[0]" y="&sf.selold_y[4]"][button graphic="selectimage" recthit=false target=*Midnight Stroll]
+[sel02 text="Sleep"            ][locate x="&sf.selold_x[0]" y="&sf.selold_y[2]"][button graphic="selectimage" recthit=false target=*Q‚é]
+[sel04 text="Midnight Stroll"][locate x="&sf.selold_x[0]" y="&sf.selold_y[4]"][button graphic="selectimage" recthit=false target=*^–é’†‚Ì‚¨U•à‚Ö]
 [s]
 *Q‚é
 *1881|Q‚é

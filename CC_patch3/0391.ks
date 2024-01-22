@@ -60,7 +60,7 @@ me.[pcms]
 [trans time=150 method=crossfade][wt]
 *3848|
 [fc]
-[ns]ä¥êı[[nse]
+[ns]ä¥êı[nse]
 "She's hiding in here."[pcms]
 *3849|
 [fc]
@@ -68,7 +68,7 @@ The first to answer was a young man who seemed to be a teacher from[r]
 another school or a chaperoning parent.[pcms]
 *3850|
 [fc]
-[ns]ä¥êı[[nse]
+[ns]ä¥êı[nse]
 "You can't run anymore. Wanna have some fun?"[pcms]
 *3851|
 [fc]
@@ -84,11 +84,11 @@ I could smell a familiar human--a woman's scent. For some reason, my[r]
 sense of smell was sharp, and I felt that way.[pcms]
 *3854|
 [fc]
-[ns]ä¥êı[[nse]
+[ns]ä¥êı[nse]
 "Won't you help us break down the door?"[pcms]
 *3855|
 [fc]
-[ns]ä¥êı[[nse]
+[ns]ä¥êı[nse]
 "There are three of them inside. You can choose whoever you want to[r]
 screw first if you help us out."[pcms]
 *3856|
@@ -130,7 +130,7 @@ behind the scenes, got it?"[pcms]
 [trans time=150 method=crossfade][wt]
 *3863|
 [fc]
-[ns]ä¥êı[[nse]
+[ns]ä¥êı[nse]
 "Fine by me. They're all my students; they'll obey quietly."[pcms]
 *3864|
 [fc]
@@ -146,7 +146,7 @@ jokingly knocked on the door as a substitute gesture.[pcms]
 *3866|
 [fc]
 [vo_mo s="mogami0002"]
-[ns]ç≈[[nse]
+[ns]ç≈[nse]
 "Who is it? Someone knocking normally... could it be a sane person?"[pcms]
 *3867|
 [fc]
@@ -154,7 +154,7 @@ This voice... isn't it Mogami-san?[pcms]
 *3868|
 [fc]
 [vo_mo s="kurosawa0005"]
-[ns]çï[[nse]
+[ns]çï[nse]
 "Are you from the police or fire department? Did you come to rescue[r]
 us? You're late! Way too late!"[pcms]
 *3869|
@@ -163,7 +163,7 @@ This assertive voice must be Kurosawa-san.[pcms]
 *3870|
 [fc]
 [vo_mo s="iwase0002"]
-[ns]ä‚[[nse]
+[ns]ä‚[nse]
 "Please help us! Everyone's gone crazy and violent!"[pcms]
 *3871|
 [fc]

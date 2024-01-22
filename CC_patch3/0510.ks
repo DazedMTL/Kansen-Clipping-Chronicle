@@ -93,7 +93,7 @@ too hard... Is Kiyohara-kun alright?"[pcms]
 [fadeoutbgm time=500]
 *5338|
 [fc]
-[ns]女子[[nse]
+[ns]女子[nse]
 "What the heck! Pervert!!"[pcms]
 [backlay][rui_up_01_f07 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *5339|
@@ -131,7 +131,7 @@ Sighing, Akira starts to head over to Yuuji to break up the commotion.[pcms]
 But--[pcms]
 *5347|
 [fc]
-[ns]女子[[nse]
+[ns]女子[nse]
 "What are you doing! Don't touch me, I said!"[pcms]
 *5348|
 [fc]
@@ -139,7 +139,7 @@ Yuuji's hand reaches out and grabs the soft-looking swell of the[r]
 girl's chest.[pcms]
 *5349|
 [fc]
-[ns]男子[[nse]
+[ns]男子[nse]
 "Hey, Yuuji stop it! What are you thinking?!"[pcms]
 [backlay][bg storage="プール飛び込み台"]
 [rui_up_01_f01 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"]
@@ -159,7 +159,7 @@ check it out..."[pcms]
 [backlay][chara_int][bg storage="BG11b"][trans method=universal rule="LtoR" vague=100 time=300][wt2]
 *5352|
 [fc]
-[ns]男子[[nse]
+[ns]男子[nse]
 "Gah... gyiiiiii!? Y-Yuuji!? Wha... gyaaaahhhhh!!"[pcms]
 [backlay][yuj_lo_04_f05 layer=3 x="&sf.yu_lo_x[3]" y="&sf.yu_lo_y[0]"][trans time=150 method=crossfade][wt]
 *5353|
@@ -314,7 +314,7 @@ The red color, thinned by the water, began to spread throughout the[r]
 pool.[pcms]
 *5386|
 [fc]
-[ns]女子[[nse]
+[ns]女子[nse]
 "Kyaaaaaaaaaaaaaaaaah!!"[pcms]
 *5387|
 [fc]
@@ -422,7 +422,7 @@ echoed.[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *5408|
 [fc]
-[ns]女子[[nse]
+[ns]女子[nse]
 "Aaaaahhh! Help meee!"[pcms]
 *5409|
 [fc]
@@ -449,7 +449,7 @@ And behind them, a bunch of strange people were chasing after them...[r]
 It was like a bizarre game of tag.[pcms]
 *5415|
 [fc]
-[ns]女子[[nse]
+[ns]女子[nse]
 "Ah... kyaaah!!"[pcms]
 *5416|
 [fc]
@@ -457,7 +457,7 @@ It was like a bizarre game of tag.[pcms]
 "Caught you! Ahahaah!!"[pcms]
 *5417|
 [fc]
-[ns]女子[[nse]
+[ns]女子[nse]
 "Gyah!!"[pcms]
 *5418|
 [fc]
