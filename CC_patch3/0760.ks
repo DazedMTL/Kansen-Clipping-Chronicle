@@ -308,7 +308,7 @@ flood of men pour into the room.[pcms]
 "Nooo! Let me goooo!"[pcms]
 *10548|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Uuoooh! She's mineee!"[pcms]
 *10549|
 [fc]
@@ -329,7 +329,7 @@ It wasn't just the rugby team; members of the wrestling and judo[r]
 clubs, all big-bodied men, had gathered.[pcms]
 *10553|
 [fc]
-[ns]レスリン[nse]
+[ns]Wrestling[nse]
 "We've caught Jun-san!"[pcms]
 *10554|
 [fc]
@@ -351,15 +351,15 @@ The vitality they displayed was overwhelming, almost mocking the[r]
 strength I had worked so hard to build.[pcms]
 *10559|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Ah, those thighs! Jun-chan's thighs!"[pcms]
 *10560|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "So soft, her body is so soft and melting!"[pcms]
 *10561|
 [fc]
-[ns]レスリン[nse]
+[ns]Wrestling[nse]
 "That smell! The sweet smell of a girl, it's irresistible!"[pcms]
 *10562|
 [fc]
@@ -387,11 +387,11 @@ What I usually did with Yuuji was completely different; there was no[r]
 doubt about it.[pcms]
 *10568|
 [fc]
-[ns]柔道票[nse]
+[ns]Judo Ticket[nse]
 "Jun-san's body, the tan lines are so erotic!"[pcms]
 *10569|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "I'm turned on by a body that's been worked out like this!"[pcms]
 *10570|
 [fc]
@@ -401,7 +401,7 @@ doubt about it.[pcms]
 know?!"[pcms]
 *10571|
 [fc]
-[ns]レスリン[nse]
+[ns]Wrestling[nse]
 "Jun-chan! Jun-chan's lovely smell!"[pcms]
 *10572|
 [fc]
@@ -434,7 +434,7 @@ many hands were reaching for them.[pcms]
 "Disgusting! Don't touch me! No more, I can't take it!"[pcms]
 *10579|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "My, my pussy is mine!"[pcms]
 [backlay][evcg storage="EV30_02" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10580|
@@ -451,11 +451,11 @@ And then he targeted my crotch, opening his lips to devour it.[pcms]
 "Eeeek! Stop it there! Get away from me!"[pcms]
 *10583|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "My pussy! Such a soft pussy! It's all mine!"[pcms]
 *10584|
 [fc]
-[ns]レスリン[nse]
+[ns]Wrestling[nse]
 "The crack of your ass feels so good! Fart, I want to smell it!"[pcms]
 *10585|
 [fc]
@@ -475,7 +475,7 @@ I had only just lost my virginity, and now these men were having their[r]
 way with my body; it was frustrating and sad, and tears overflowed.[pcms]
 *10589|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Nnnghh! Oh, your pussy, it's delicious!"[pcms]
 *10590|
 [fc]
@@ -504,7 +504,7 @@ was being touched...[pcms]
 I was being violated.[pcms]
 *10596|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "I can't take it anymore! Look at my dick!"[pcms]
 [backlay][evcg storage="EV30_03" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10597|
@@ -528,7 +528,7 @@ It was at least twice the size of Yuuji's.[pcms]
 There's no way... it could fit inside![pcms]
 *10602|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "I'm going to give you so much, so much cum!"[pcms]
 *10603|
 [fc]
@@ -541,7 +541,7 @@ spats.[pcms]
 "What? What are you doing?!"[pcms]
 *10605|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Fufiiii! My dick is enveloped by something so soft!"[pcms]
 *10606|
 [fc]
@@ -559,7 +559,7 @@ against my crotch without taking off the spats.[pcms]
 Due to his excessive excitement, he just kept repeating that action.[pcms]
 *10610|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Nooo! A girl's pussy!"[pcms]
 *10611|
 [fc]
@@ -580,7 +580,7 @@ that huge thing in, spats and all.[pcms]
 "Nyahaaaah! Stop it! It hurts so much!"[pcms]
 *10615|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Oh, pussy! The first time pussy!"[pcms]
 *10616|
 [fc]
@@ -636,7 +636,7 @@ And following that... a pain like nothing I had ever experienced[r]
 before shot through my entire body.[pcms]
 *10629|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Nhoohhhhh! It's in!"[pcms]
 [backlay][evcg storage="EV30_05" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10630|
@@ -653,7 +653,7 @@ A giant thing was being forcibly screwed into a hole that should never[r]
 have been able to accept it.[pcms]
 *10633|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Nhooh, nhoohoouh! My pussy feels so goooood!"[pcms]
 *10634|
 [fc]
@@ -680,7 +680,7 @@ seemed intent on breaking me.[pcms]
 [se buf=1 storage="se_sex03" loop=true]
 *10639|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Ha, my first time inside a pussy! So sooooft!"[pcms]
 *10640|
 [fc]
@@ -706,7 +706,7 @@ kneading my entire body.[pcms]
 I feel sick. But I don't have the luxury to say such things.[pcms]
 *10646|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Uvoohhh! Cumming inside! My first creampie!"[pcms]
 *10647|
 [fc]
@@ -724,7 +724,7 @@ suffering, disappearing somewhere.[pcms]
 "Agiyiiiiii! Please, pull it out alreadyyyyy!"[pcms]
 *10650|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "What a nice voice! I can't get enough of it!? Hahiiiiii! Nguoohhhhh!"[pcms]
 *10651|
 [fc]
@@ -748,7 +748,7 @@ into me.[pcms]
 "No, not inside! You can't! Noooooo!"[pcms]
 *10656|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "No way! I'm going to cum! It's coming out!"[pcms]
 [stopse buf=1]
 [se buf=0 storage="se_sex01"]
@@ -771,7 +771,7 @@ spilling out of my body instead.[pcms]
 "Ahhh...ahhhhh...no more, I can't take this...uuuuuh..."[pcms]
 *10660|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "I came...my first time in a pussy...I did it...I'll impregnate[r]
 you..."[pcms]
 *10661|
@@ -792,7 +792,7 @@ in the rugby shirt reached for me again.[pcms]
 "Again!? That's impossible, I can't take it anymore, stop it!!"[pcms]
 *10665|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "I can still go several more rounds! I'll definitely impregnate[r]
 you...bu"[pcms]
 [se buf=0 storage="seB008"]
@@ -826,7 +826,7 @@ my body.[pcms]
 In front of this abnormal spectacle, I was at a loss for words.[pcms]
 *10673|
 [fc]
-[ns]レスリン[nse]
+[ns]Wrestling[nse]
 "Jun-san is mineeeee!"[pcms]
 *10674|
 [fc]
@@ -843,7 +843,7 @@ by it...[pcms]
 I could also be killed at any moment.[pcms]
 *10678|
 [fc]
-[ns]レスリン[nse]
+[ns]Wrestling[nse]
 "Ju-Jun-san's pussy... I-I can't see it..."[pcms]
 *10679|
 [fc]
@@ -873,7 +873,7 @@ He was a man of beast-like strength, just as his appearance suggested.[pcms]
 If I'm violated by such a man... I'll be broken.[pcms]
 *10685|
 [fc]
-[ns]レスリン[nse]
+[ns]Wrestling[nse]
 "Now, I can see your pussy!"[pcms]
 *10686|
 [fc]
@@ -886,15 +886,15 @@ Pushing aside the orange underwear visible beneath the spats, my[r]
 untanned crotch was fully exposed.[pcms]
 *10688|
 [fc]
-[ns]柔道票[nse]
+[ns]Judo Ticket[nse]
 "Ohhhhh! It's a pussy!"[pcms]
 *10689|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Bareee! A pure white, plump pussy!"[pcms]
 *10690|
 [fc]
-[ns]レスリン[nse]
+[ns]Wrestling[nse]
 "There's no hair! Jun-san, there's no hair on your pussy!"[pcms]
 *10691|
 [fc]
@@ -920,7 +920,7 @@ childish excitement.[pcms]
 [backlay][evcg storage="EV30_10" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10696|
 [fc]
-[ns]レスリン[nse]
+[ns]Wrestling[nse]
 "I can't hold back any longerrrr! I'm going to cum!"[pcms]
 *10697|
 [fc]
@@ -936,7 +936,7 @@ as the rugby shirt man's.[pcms]
 He flaunted it as he took it out from under his trousers.[pcms]
 *10700|
 [fc]
-[ns]レスリン[nse]
+[ns]Wrestling[nse]
 "Yeah, like thisssss!"[pcms]
 *10701|
 [fc]
@@ -953,7 +953,7 @@ I flailed my limbs, but the men didn't budge and kept holding me down[r]
 with strange smiles on their faces.[pcms]
 *10704|
 [fc]
-[ns]レスリン[nse]
+[ns]Wrestling[nse]
 "Just a little moreeee!"[pcms]
 *10705|
 [fc]
@@ -969,7 +969,7 @@ Yet... my small hole that had accepted Yuuji was stretching to the[r]
 point of bursting to accommodate it.[pcms]
 *10708|
 [fc]
-[ns]レスリン[nse]
+[ns]Leslyn[nse]
 "Almost thereeeee!"[pcms]
 [se buf=0 storage="se_sex01"]
 [evcg白フラ storage="EV30_11" layer=0 page=back visible=true left=0 top=0]
@@ -1000,7 +1000,7 @@ was convulsing as if dancing a strange dance.[pcms]
 [se buf=1 storage="se_sex03" loop=true]
 *10715|
 [fc]
-[ns]レスリン[nse]
+[ns]Wrestling[nse]
 "Ha, it's in! Your pussy feels so good!"[pcms]
 [backlay][evcg storage="EV30_13" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10716|
@@ -1015,7 +1015,7 @@ first experience, which was even pleasant, is now an intense pain that[r]
 I can't even remember.[pcms]
 *10718|
 [fc]
-[ns]レスリン[nse]
+[ns]Wrestling[nse]
 "Nho, nho, Jun-san's pussy! Ohhooooo!"[pcms]
 *10719|
 [fc]
@@ -1047,7 +1047,7 @@ But the wrestling man, unconcerned with such things, is greedily[r]
 devouring pleasure.[pcms]
 *10726|
 [fc]
-[ns]レスリン[nse]
+[ns]Leslyn[nse]
 "Your pussy is so tight! It's squeezing my dick!"[pcms]
 [backlay][evcg storage="EV30_13" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10727|
@@ -1057,15 +1057,15 @@ devouring pleasure.[pcms]
 "Agguh, guuuh, stop... it's suffocating... gyiiiiii!"[pcms]
 *10728|
 [fc]
-[ns]レスリン[nse]
+[ns]Leslyn[nse]
 "It feels so goooooood! Your pussy is the best!"[pcms]
 *10729|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "It looks so good, hurry up and switch with me!"[pcms]
 *10730|
 [fc]
-[ns]柔道票[nse]
+[ns]Judo Ticket[nse]
 "I want to have sex tooooooo!"[pcms]
 *10731|
 [fc]
@@ -1075,7 +1075,7 @@ The men are excited and crush my breasts with brute force.[pcms]
 But all I could do was endure it desperately, clenching my teeth.[pcms]
 *10733|
 [fc]
-[ns]レスリン[nse]
+[ns]Wrestling[nse]
 "Ooooh! I'm going to cum inside now!"[pcms]
 [backlay][evcg storage="EV30_12" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10734|
@@ -1103,16 +1103,16 @@ And yet... to be cummed inside in a place like this![pcms]
 get pregnant like this!"[pcms]
 *10740|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Pregnant! Getting pregnant from a creampie! That's so awesome! I want[r]
 to do it too!"[pcms]
 *10741|
 [fc]
-[ns]柔道票[nse]
+[ns]Judo Ticket[nse]
 "I want you to give birth! A strong baby, give birth to my baby!"[pcms]
 *10742|
 [fc]
-[ns]レスリン[nse]
+[ns]Wrestling[nse]
 "I'm going to impregnate you! I'll seal it with my semen inside!"[pcms]
 *10743|
 [fc]
@@ -1126,7 +1126,7 @@ the start.[pcms]
 aaaaah!"[pcms]
 *10745|
 [fc]
-[ns]レスリン[nse]
+[ns]Wrestling[nse]
 "I'm cumming!"[pcms]
 [stopse buf=1]
 [se buf=0 storage="se_sex01"]
@@ -1160,7 +1160,7 @@ Overwhelmed by that disgusting warmth, all I could do was cry.[pcms]
 [backlay][evcg storage="EV30_15" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10752|
 [fc]
-[ns]レスリン[nse]
+[ns]Wrestling[nse]
 "Nnn! Gufuu! Uuuu!"[pcms]
 *10753|
 [fc]
@@ -1180,7 +1180,7 @@ The thought of carrying the baby of such a disgusting man was[r]
 absolutely unbearable.[pcms]
 *10757|
 [fc]
-[ns]レスリン[nse]
+[ns]Wrestling[nse]
 "I'm going to cum again!"[pcms]
 *10758|
 [fc]
@@ -1200,7 +1200,7 @@ the air.[pcms]
 It wasn't me, it was the large body of the wrestling man.[pcms]
 *10762|
 [fc]
-[ns]柔道票[nse]
+[ns]Judo Ticket[nse]
 "Tsuooooo! Iiiiiii!"[pcms]
 [se buf=0 storage="seB012"]
 [backlay][black_toplayer][trans method=universal rule="RtoL" vague=100 time=200][wt2][hide_chara_int]
@@ -1225,7 +1225,7 @@ at a strange angle.[pcms]
 [backlay][kan_de0 layer=3 x="&sf.de_lo_x[3]" y="&sf.de_lo_y[0]"][trans time=150 method=crossfade][wt]
 *10767|
 [fc]
-[ns]柔道票[nse]
+[ns]Judo Ticket[nse]
 "Hofu, now it's my turn!"[pcms]
 *10768|
 [fc]
@@ -1234,7 +1234,7 @@ exposed gigantic thing.[pcms]
 [backlay][kan_ru layer=3 x="&sf.ra_lo_x[3]" y="&sf.ra_lo_y[0]"][trans time=150 method=crossfade][wt]
 *10769|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Next, it's my turn!"[pcms]
 *10770|
 [fc]

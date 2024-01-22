@@ -141,11 +141,11 @@ crawling on her stomach down the stairs towards me.[pcms]
 I felt a chill at the sight of her, moving like a ghost.[pcms]
 *5474|
 [fc]
-[ns]ó§è„ïî[nse]
+[ns]Track and Field Club[nse]
 "Uwaaaah~... That's Riri's butt!"[pcms]
 *5475|
 [fc]
-[ns]ó§è„ïî[nse]
+[ns]Track and Field Club[nse]
 "Ugh! Rui-senpai is here too!"[pcms]
 *5476|
 [fc]
@@ -370,11 +370,11 @@ just a little faster than me or Rui-senpai.[pcms]
 "Ah... Ah! That was dangerous... I almost fell! Ahaha..."[pcms]
 *5522|
 [fc]
-[ns]íjéqï[nse][Åznse]
+[ns]Male ticket[nse]
 "Ugh, whoa... it's slippery... ah, ahhhh~!!"[pcms]
 *5523|
 [fc]
-[ns]íjéqï[nse][Åznse]
+[ns]Male Vote[nse]
 "Hey, are you okay... ah, whoaah~"[pcms]
 *5524|
 [fc]

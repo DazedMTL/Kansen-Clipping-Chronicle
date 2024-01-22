@@ -3,7 +3,7 @@
 [sysbt_meswin]
 *1|
 [fc]
-[ns]クドー[nse]
+[ns]Kudo[nse]
 "Phew..."[pcms]
 *2|
 [fc]
@@ -11,7 +11,7 @@ In the pitch-dark garage, the orange glow of my cigarette and the pale[r]
 blue light of my laptop illuminate my silver car faintly.[pcms]
 *3|
 [fc]
-[ns]クドー[nse]
+[ns]Kudo[nse]
 "Who knows how long I'll be able to get my hands on this beauty. Might[r]
 as well enjoy it while I can."[pcms]
 *4|
@@ -30,7 +30,7 @@ paired with brandy. It calms the mind.[pcms]
 [se buf=0 storage="seB102"]
 *6|
 [fc]
-[ns]クドー[nse]
+[ns]Kudo[nse]
 "Oh, oh... You've come all the way here, huh? But no matter how hard[r]
 you try, I'm not opening up for you."[pcms]
 [backlay][bg storage="BG800"][trans time=500 method=crossfade][wt2]
@@ -45,7 +45,7 @@ Soon after, the sound of banging on the shutter and the groaning[r]
 stops.[pcms]
 *9|
 [fc]
-[ns]クドー[nse]
+[ns]Kudo[nse]
 "You might not have realized it yet, but this place isn't absolutely[r]
 safe either."[pcms]
 *10|
@@ -54,7 +54,7 @@ While rolling my favorite cigar in my mouth, I reach out for my[r]
 laptop.[pcms]
 *11|
 [fc]
-[ns]クドー[nse]
+[ns]Kudo[nse]
 "What a convenient world we live in."[pcms]
 *12|
 [fc]
@@ -80,7 +80,7 @@ Except when using this, the laptop is basically standalone. Just like[r]
 me right now, completely isolated.[pcms]
 *16|
 [fc]
-[ns]クドー[nse]
+[ns]Kudo[nse]
 "Alright then..."[pcms]
 [se buf=0 storage="seC077"]
 *17|
@@ -157,7 +157,7 @@ This was a big client, so without hesitation, I dashed out of the[r]
 restaurant and immediately flew to Japan.[pcms]
 *36|
 [fc]
-[ns]クドー[nse]
+[ns]Kudo[nse]
 "The job was easy..."[pcms]
 *37|
 [fc]
@@ -536,7 +536,7 @@ Fortunately, the 100-horsepower car I bought in this town, named after[r]
 hell outside.[pcms]
 *133|
 [fc]
-[ns]クドー[nse]
+[ns]Kudo[nse]
 "All that's left is to find the right timing to escape. Though when[r]
 that timing will come is the question... huh?"[pcms]
 [se buf=0 storage="seC003"]
@@ -557,7 +557,7 @@ The savory fragrance lingers in the garage. I quietly inhale it[r]
 deeply, enjoying the feeling of contentment.[pcms]
 *138|
 [fc]
-[ns]クドー[nse]
+[ns]Kudo[nse]
 "There's something about living for... yeah. The pleasure of a smoke[r]
 when you're alive."[pcms]
 *139|
@@ -574,7 +574,7 @@ When a message confirming a new deposit arrives, I carefully check the[r]
 amount and send a short message of "Acknowledged" back to the client.[pcms]
 *142|
 [fc]
-[ns]クドー[nse]
+[ns]Kudo[nse]
 "Ah, damn it... I messed up! I should've extorted them for more..."[pcms]
 *143|
 [fc]
@@ -582,7 +582,7 @@ Really, it's a bad habit. If I'm going to sell myself anyway, I should[r]
 sell for a higher price.[pcms]
 *144|
 [fc]
-[ns]クドー[nse]
+[ns]Kudo[nse]
 "I've got to fix this someday... But well, it doesn't have to be[r]
 today..."[pcms]
 [stopse_all]

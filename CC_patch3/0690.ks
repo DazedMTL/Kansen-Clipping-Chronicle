@@ -503,7 +503,7 @@ ground with the last of my strength.[pcms]
 [backlay][kan_ma0 layer=3 x="&sf.ma_lo_x[3]" y="&sf.ma_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8945|
 [fc]
-[ns]ä¥ê[[nse]
+[ns]Profound[nse]
 "Aghh... it hurts... ohhh god..."[pcms]
 *8946|
 [fc]
@@ -554,7 +554,7 @@ My strangely twisted leg is spread apart, and my body creaks as it's[r]
 tormented...[pcms]
 *8958|
 [fc]
-[ns]ä¥ê[[nse]
+[ns]Profound[nse]
 "Ohhh... god..."[pcms]
 *8959|
 [fc]
@@ -571,7 +571,7 @@ And then they will climb on top of me.[pcms]
 With their filthy thing, stiff and rigid...[pcms]
 *8963|
 [fc]
-[ns]ä¥ê[[nse]
+[ns]Profound[nse]
 "Ohh... it's mine... ahhh..."[pcms]
 *8964|
 [fc]
@@ -598,7 +598,7 @@ Movements filled with intent, unlike those of the others...[pcms]
 *8969|
 [fc]
 [quakesp time=10000 laynum=3 hmax=10 vmax=10]
-[ns]ä¥ê[[nse]
+[ns]Profound[nse]
 "Aghh... stop... ugh!"[pcms]
 [se buf=0 storage="seB025"]
 *8970|
@@ -610,7 +610,7 @@ cheekbones as they burrowed in.[pcms]
 *8971|
 [fc]
 [quakesp time=10000 laynum=3 hmax=10 vmax=10]
-[ns]ä¥ê[[nse]
+[ns]Profound[nse]
 "Ugh... ahhh... ughhh... splat"[pcms]
 *8972|
 [fc]

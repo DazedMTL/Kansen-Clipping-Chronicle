@@ -426,7 +426,7 @@ from inside it...[pcms]
 [backlay][kan_ma layer=3 x="&sf.ma_lo_x[3]" y="&sf.ma_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7620|
 [fc]
-[ns]男[nse]
+[ns]Male[nse]
 "Hee, heehee...woooomaaan!!!"[pcms]
 [backlay][rir_lo_03_f16 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7621|
@@ -465,7 +465,7 @@ do.[pcms]
 In that moment, the man charges towards Riri--[pcms]
 *7630|
 [fc]
-[ns]男[nse]
+[ns]Male[nse]
 "Ooooohhhhh... bluh!!"[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 [se buf=0 storage="seB012"]
@@ -530,7 +530,7 @@ However--[pcms]
 [backlay][kan_ma layer=5 x="&sf.ma_lo_x[5]" y="&sf.ma_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7643|
 [fc]
-[ns]男[nse]
+[ns]Male[nse]
 "Hehe...uheheheheheheheh!!! You woman!!!"[pcms]
 [backlay][rir_lo_03_f16 layer=4 x="&sf.ri_lo_x[4]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7644|
@@ -551,7 +551,7 @@ is bad! Really bad!! I have to do something...![pcms]
 [backlay][kan_ma layer=3 x="&sf.ma_lo_x[3]" y="&sf.ma_lo_y[0]"][trans time=150 method=crossfade][wt]
 *7647|
 [fc]
-[ns]男[nse]
+[ns]Male[nse]
 "Fufufufuh, cute! Delicious! Soooo tasty!"[pcms]
 [backlay][rir_up_03_f17 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *7648|
@@ -682,7 +682,7 @@ She lowered the stone and tried to move the man's large body off of[r]
 Riri. The moment she touched him, the man's body throbbed violently.[pcms]
 *7676|
 [fc]
-[ns]男[nse]
+[ns]Male[nse]
 "Ah, ahhh...auuuuuuuuu..."[pcms]
 *7677|
 [fc]

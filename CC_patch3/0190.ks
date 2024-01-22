@@ -60,7 +60,7 @@ Although I feel fatigue throughout my body, I also feel a sense of[r]
 fulfillment like never before, both mentally and physically.[pcms]
 *1695|
 [fc]
-[ns]ëÂã[[nse]
+[ns]Daigi[nse]
 "Focus more on your form... Cough, hack, hack...!"[pcms]
 [backlay][tak_lo_03_f12a layer=3 x="&sf.ta_lo_x[3]" y="&sf.ta_lo_y[0]"][trans time=150 method=crossfade][wt]
 *1696|
@@ -146,11 +146,11 @@ I can't even sleep with my feet facing Mogami-senpai's room.[pcms]
 *1708|
 [fc]
 [vo_mo s="mogami0001"]
-[ns]ç≈[nse]
+[ns]Zui[nse]
 "Hehe, how is it? Tasty?"[pcms]
 *1709|
 [fc]
-[ns]êº[nse]
+[ns]West[nse]
 "Yes! It's very delicious, senpai!"[pcms]
 [backlay][mis_up_03_g05 layer=3 x="&sf.mi_up_x[3]" y="&sf.mi_up_y[0]"][trans time=150 method=crossfade][wt]
 *1710|

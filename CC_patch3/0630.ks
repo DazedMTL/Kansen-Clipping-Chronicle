@@ -289,11 +289,11 @@ inside--[pcms]
 Monsters came flying out with a torrential force.[pcms]
 *7895|
 [fc]
-[ns]’j[nse]
+[ns]Male[nse]
 "A woman! A womaaaaaaah!!!"[pcms]
 *7896|
 [fc]
-[ns]’j‚Q[nse]
+[ns]Male 2[nse]
 "Kyahi, nhihahahahahahahaha!!"[pcms]
 *7897|
 [fc]

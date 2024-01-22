@@ -782,7 +782,7 @@ sight... that's another dangerous distraction for the groin area.[pcms]
 *964a|
 [fc]
 [vo_ri s="mix0002"]
-[ns][ns]—œ—¢•ƒ[nse]
+[ns]Riri & Jun[nse]
 "Mukyu!"[pcms]
 *965|
 [fc]
@@ -797,7 +797,7 @@ And then--[pcms]
 *967|
 [fc]
 [vo_ri s="mix0003"]
-[ns][ns]—œ—¢•ƒ[nse]
+[ns]Riri & Jun[nse]
 "Dahahaha!"[pcms]
 *969|
 [fc]
@@ -1183,7 +1183,7 @@ for details. It's a relief for me, but I'm a bit curious too.[pcms]
 *1038|
 [fc]
 [vo_mo s="misuzu0007"]
-[ns]‰›•”ü—é[nse]
+[ns]Akira & Misuzu[nse]
 "Tch...!"[pcms]
 [backlay][rir_up_01_g01 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *1040|
@@ -1376,7 +1376,7 @@ a black cloak!"[pcms]
 *1070|
 [fc]
 [vo_ri s="mix0004"]
-[ns]‰›•—œ—¢•”ü—é[nse]
+[ns]Akira & Riri & Misuzu[nse]
 "Huh?"[pcms]
 [backlay]
 [rir_lo_01_f08 layer=1 x="&sf.ri_lo_x[1]" y="&sf.ri_lo_y[0]"]

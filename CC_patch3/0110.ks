@@ -1771,7 +1771,7 @@ know...!"[pcms]
 *429|
 [fc]
 [vo_ru s="mix0001"]
-[ns]—œ—¢•—İ[nse]
+[ns]Riri & Rui[nse]
 "Officer! This guy right here!!"[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 [jump target=*‡—¬1]

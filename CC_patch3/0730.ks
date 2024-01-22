@@ -114,7 +114,7 @@ I reach out slowly and carefully.[pcms]
 And then...[pcms]
 *9325|
 [fc]
-[ns]’j«ƒLƒ[[nse]
+[ns]Male Character[nse]
 "Cough, cough!"[pcms]
 *9326|
 [fc]

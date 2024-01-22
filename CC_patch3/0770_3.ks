@@ -13,7 +13,7 @@
 [sysbt_meswin]
 *11005|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Yesss! I'm cominggggg!"[pcms]
 *11006|
 [fc]
@@ -30,7 +30,7 @@ The burly men grab my body and toss me lightly.[pcms]
 "Kyaaahhhhh!"[pcms]
 *11009|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Catchhhhhhh!"[pcms]
 *11010|
 [fc]
@@ -38,11 +38,11 @@ Lying on my back on the floor, I'm passed onto a man who catches me[r]
 with his rugged arms and chest.[pcms]
 *11011|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Uoohra, get out of the wayyyyy!"[pcms]
 *11012|
 [fc]
-[ns]野球票[nse]
+[ns]Baseball ticket[nse]
 "Gagyuuu!"[pcms]
 *11013|
 [fc]
@@ -55,7 +55,7 @@ And then, they disappear into the crowd of rugby players, becoming[r]
 invisible.[pcms]
 *11014|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Guh, ever since we were practicing on the field, the rugby club has[r]
 been eyeing you, Jun-chan!"[pcms]
 *11015|
@@ -72,15 +72,15 @@ And then... the three of them start groping my body with their rough[r]
 hands.[pcms]
 *11018|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Ju-Jun-chan, your forehead is so cuteeeee!"[pcms]
 *11019|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "You guys! It's definitely the ass, righttttt?!"[pcms]
 *11020|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "For me, it's definitely the legs that are the best!"[pcms]
 *11021|
 [fc]
@@ -96,15 +96,15 @@ Of course, it's not a caress but rather a violent force, just touching[r]
 wherever they want.[pcms]
 *11024|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Form a scrummmmm! Setttttt!"[pcms]
 *11025|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Yessssssssss!"[pcms]
 *11026|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Raaaaaaahhhhhhhhhhh!"[pcms]
 [se buf=0 storage="se_sex01"]
 [evcg白フラ storage="EV33_02" layer=0 page=back visible=true left=0 top=0]
@@ -134,15 +134,15 @@ body is violated.[pcms]
 "Gabooh, gabooohhh! Guboohhhhhhhhh!"[pcms]
 *11031|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Push! Pushhhh! Get your body in thereeeeee!"[pcms]
 *11032|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "This anus! It goes in foreverrrrrr!"[pcms]
 *11033|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "This mouth and throat toooo! They're being penetrateddddddd!"[pcms]
 *11034|
 [fc]
@@ -166,15 +166,15 @@ intense that it kept me from passing out.[pcms]
 "Agguuuoohhh! Ngabuuuh! Gebuuuh! Gabuuuh!"[pcms]
 *11039|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Alright, I'm going to release it nowwwwwww!"[pcms]
 *11040|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Oooooohhhh, yessssssss!"[pcms]
 *11041|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Jun-chan! I'm going to cummmmmmmmm!"[pcms]
 *11042|
 [fc]
@@ -200,7 +200,7 @@ I felt a sickening warmth on my forehead amidst the pain that felt[r]
 like the mucous membrane of my throat was being forcibly peeled away.[pcms]
 *11046|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Your ass! Jun-chan's ass!"[pcms]
 [stopse buf=1]
 [se buf=0 storage="se_sex01"]
@@ -219,7 +219,7 @@ sound and sprayed his hot semen on my spats.[pcms]
 "Gebuh, geeeh! Gabuh, koboh, gohoh, haa, haa..."[pcms]
 *11049|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Mmm, good, good."[pcms]
 *11050|
 [fc]
@@ -235,7 +235,7 @@ My rear was slippery with a large amount of saliva, and the semen had[r]
 soaked into my underwear.[pcms]
 *11053|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Next up, it's your guys' turn!"[pcms]
 [backlay][black_toplayer][trans method=universal rule="DtoT" vague=300 time=300][wt2][hide_chara_int]
 *11054|
@@ -251,19 +251,19 @@ side as if passing it.[pcms]
 "Gefuh, gehoh...ah...kyaaahhh!"[pcms]
 *11056|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Catch! Let's form a scrum!"[pcms]
 [se buf=0 storage="se_sex01"]
 [evcg白フラ storage="EV33a_10" layer=0 page=back visible=true left=0 top=0]
 *11057|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Alright! Perfect!"[pcms]
 [se buf=0 storage="se_sex01"]
 [evcg白フラ storage="EV33a_11" layer=0 page=back visible=true left=0 top=0]
 *11058|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Charge! Muhahaha!"[pcms]
 [backlay][evcg storage="EV33a_12" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11059|
@@ -279,15 +279,15 @@ rear hole.[pcms]
 [se buf=1 storage="se_sex03" loop=true]
 *11061|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Hahahaha! I'm feeling absolutely great!"[pcms]
 *11062|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Anal feels so goooood! Sex is the best!"[pcms]
 *11063|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Charge! Right now! I can fend off any tackle!"[pcms]
 *11064|
 [fc]
@@ -316,15 +316,15 @@ Without any intention of caring for the girl, they were simply[r]
 indulging in pleasure, driven by their male instincts.[pcms]
 *11070|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Nooooo! Are you ready?!"[pcms]
 *11071|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "I'm going to cum! I'll impregnate you through your anus!"[pcms]
 *11072|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Shoot!"[pcms]
 *11073|
 [fc]
@@ -333,15 +333,15 @@ indulging in pleasure, driven by their male instincts.[pcms]
 "Gubouuuh! Nguuuuahh! Gabugoooh!"[pcms]
 *11074|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Take it! Get pregnant!"[pcms]
 *11075|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Deep in the anal! It's the best!"[pcms]
 *11076|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Charge! Uraaaaah!"[pcms]
 [stopse buf=1]
 [se buf=0 storage="se_sex01"]
@@ -375,15 +375,15 @@ Until the men had finished releasing everything, I wasn't even allowed[r]
 to struggle.[pcms]
 *11083|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Oofuuuuh, feels so good..."[pcms]
 *11084|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 The tightness of the anal is the best![pcms]
 *11085|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Shashashashaaa![pcms]
 [backlay][evcg storage="EV33a_16" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 [se buf=0 storage="seD017"]
@@ -407,15 +407,15 @@ All the semen accumulated in my belly is coming out.[pcms]
 Yet, even as I vomit, the semen doesn't seem to run out.[pcms]
 *11091|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Semen is coming out of my nose![pcms]
 *11092|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Next, it's my turn! Move it![pcms]
 *11093|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 I'm taking the anal! Hyahhyahhya-![pcms]
 *11094|
 [fc]
@@ -431,13 +431,13 @@ I was easily picked up again and passed to different men.[pcms]
 [evcg白フラ storage="EV33_18" layer=0 page=back visible=true left=0 top=0]
 *11096|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Here I go! I got it![pcms]
 [se buf=0 storage="se_sex01"]
 [evcg白フラ storage="EV33_19" layer=0 page=back visible=true left=0 top=0]
 *11097|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Hyaaa! The anal is so tight![pcms]
 *11098|
 [fc]
@@ -461,19 +461,19 @@ the pain in my lower half feels sharper.[pcms]
 "Please, no more... I'm going to die..."[pcms]
 *11102|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Let me use the pussy too![pcms]
 *11103|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 I'm using it right now, wait your turn.[pcms]
 *11104|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Follow the order![pcms]
 *11105|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 I can't wait! It's mine![pcms]
 [backlay][evcg storage="EV33_21" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11106|
@@ -487,15 +487,15 @@ The man who cut in didn't listen to anyone trying to stop him and[r]
 pressed his rod against the slit that already had one inside.[pcms]
 *11108|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Here I go! I'm using it now![pcms]
 *11109|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 We can use it together, right?![pcms]
 *11110|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Can't be helped then![pcms]
 *11111|
 [fc]
@@ -517,7 +517,7 @@ The place slick with other men's semen received his forceful thrusts.[pcms]
 "This is going to kill me... I'm going to die!"[pcms]
 *11115|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 I'm in! It's in![pcms]
 [backlay][evcg storage="EV33_19" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11116|
@@ -530,11 +530,11 @@ I'm in! It's in![pcms]
 As I clenched my teeth in resistance, two rods mockingly entered me.[pcms]
 *11118|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Oooh, the dicks are rubbing against each other![pcms]
 *11119|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Your dick is so hard...[pcms]
 [backlay][evcg storage="EV33_22" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11120|
@@ -557,15 +557,15 @@ All that comes out is semen, but the vomiting doesn't stop.[pcms]
 "Gafuuu, gefuuu, uuuuuh, uuuuuh..."[pcms]
 *11124|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Ahhh, it's so tight...[pcms]
 *11125|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Endure it! We're all going to use it![pcms]
 *11126|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 The dicks are rubbing against each other... it feels so weird...[pcms]
 [backlay][evcg storage="EV33_24" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11127|
@@ -583,7 +583,7 @@ Together, the three of them seemed to make up half of my waist,[r]
 digging inside me.[pcms]
 *11130|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 What's this, there's still one place left...[pcms]
 *11131|
 [fc]
@@ -598,7 +598,7 @@ No way... this...[pcms]
 "This is no good... I'm really going to die..."[pcms]
 *11134|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Shut up! Don't get cocky![pcms]
 [backlay][evcg storage="EV33_25" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11135|
@@ -615,7 +615,7 @@ The stinking massive rod penetrated so deep it reached my esophagus,[r]
 moving back and forth as if to destroy my insides.[pcms]
 *11138|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Ohh, my throat, it feels so good![pcms]
 *11139|
 [fc]
@@ -628,15 +628,15 @@ I can't breathe. It's so huge that my throat is compressed, and I[r]
 can't even breathe through my nose.[pcms]
 *11141|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 It feels better to use the pussy alone.[pcms]
 *11142|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 The dicks are rubbing... ooh, it's a strange feeling.[pcms]
 *11143|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Ahh, the anus is bliss... I can feel two of them through the wall...[pcms]
 [backlay][evcg storage="EV33_26" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11144|
@@ -646,19 +646,19 @@ Ahh, the anus is bliss... I can feel two of them through the wall...[pcms]
 "Nguuuu, nguuu! Nnnn! Ninuuuu!"[pcms]
 *11145|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Ooooooh! I'm coming![pcms]
 *11146|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Are we going to come together?![pcms]
 *11147|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 I'm also, I'm also cumming![pcms]
 *11148|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Nhoo, nfuuh, my throat feels so good![pcms]
 *11149|
 [fc]
@@ -668,15 +668,15 @@ My consciousness is fading away.[pcms]
 I desperately hoped they would release their semen quickly...[pcms]
 *11151|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 I'm cumming![pcms]
 *11152|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Ooooooh! I'm also cumming![pcms]
 *11153|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Ahhhh! Let your intestines catch it![pcms]
 [stopse buf=1]
 [se buf=0 storage="se_sex01"]
@@ -692,7 +692,7 @@ And... the man violating my throat was also trembling with his[r]
 abnormally swollen thing.[pcms]
 *11156|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 I'll fill your insolent throat to the brim![pcms]
 [stopse buf=1]
 [se buf=0 storage="se_sex01"]
@@ -720,7 +720,7 @@ I had no idea how long the ejaculation lasted.[pcms]
 But then, it was suddenly pulled out.[pcms]
 *11162|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Ahhh, that feels so good...[pcms]
 [backlay][evcg storage="EV33_28" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11163|

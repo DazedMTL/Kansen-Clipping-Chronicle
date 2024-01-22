@@ -85,7 +85,7 @@ chest...[pcms]
 It was a splendid body that had been trained over many years.[pcms]
 *8791|
 [fc]
-[ns]ä¥ê[[nse]
+[ns]Profound[nse]
 "Oohh, nghh, ughhh! Guhh!"[pcms]
 *8792|
 [fc]
@@ -108,7 +108,7 @@ increasing his momentum even further.[pcms]
 And then...[pcms]
 *8797|
 [fc]
-[ns]ä¥ê[[nse]
+[ns]Profound[nse]
 "Ooh! Oooh! Nphuuuh! Nbuuh!"[pcms]
 [stopse buf=1]
 [se buf=0 storage="se_sex01"]

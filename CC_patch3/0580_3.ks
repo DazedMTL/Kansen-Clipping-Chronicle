@@ -136,7 +136,7 @@ But then someone made an oblivious comment.[pcms]
 [backlay][evcg storage="EV25_05" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *7129|
 [fc]
-[ns]â¡[nse]
+[ns]Add[nse]
 "Onodera-sensei! Let me help with the guidance too!!"[pcms]
 [se buf=0 storage="se_sex01"]
 [evcgîíÉtÉâ storage="EV25_07" layer=0 page=back visible=true left=0 top=0]
@@ -161,7 +161,7 @@ couldn't endure this.[pcms]
 "Oooh! You're Kato, huh? As vice-captain, assist me!!"[pcms]
 *7133a|
 [fc]
-[ns]â¡[nse]
+[ns]Add[nse]
 "Understood!! I'll do my best too!! Hyahahahaha!!"[pcms]
 *7134|
 [fc]
@@ -179,7 +179,7 @@ But no matter how much the senior begged for forgiveness, Onodera and[r]
 the others didn't stop. They even wore thin smiles on their faces.[pcms]
 *7137|
 [fc]
-[ns]â¡[nse]
+[ns]Add[nse]
 "To be honest, I wanted to fuck this pussy again. This pussy feels so[r]
 good, I can't stand it!"[pcms]
 *7138|
@@ -228,7 +228,7 @@ engrossed in their self-centered movements, simply gouging the[r]
 senior's hole.[pcms]
 *7147|
 [fc]
-[ns]â¡[nse]
+[ns]Add[nse]
 "Uu, uuuu! Teacher... I'm going to come...!!"[pcms]
 *7148|
 [fc]
@@ -271,7 +271,7 @@ his weapon quickly filled the senior's belly and overflowed from the[r]
 union in no time.[pcms]
 *7154|
 [fc]
-[ns]â¡[nse]
+[ns]Add[nse]
 "Kuooo, te-teacher, that's... amazing..."[pcms]
 *7155|
 [fc]
@@ -312,7 +312,7 @@ As the two were about to switch Rui-senpai's limp body, a new[r]
 challenger appeared with a weapon no less formidable than Onodera's.[pcms]
 *7162|
 [fc]
-[ns]ç≤[nse]
+[ns]Sato[nse]
 "Onodera-sensei! Could you let me take over this time?"[pcms]
 *7163|
 [fc]
@@ -344,7 +344,7 @@ over the senior in the same position as Onodera.[pcms]
 "Uu... Aah, again... why... always me... uuh."[pcms]
 *7168|
 [fc]
-[ns]ç≤[nse]
+[ns]Sato[nse]
 "That's because you're erotic. With such breasts hanging there, you've[r]
 been tempting us all along. Kuhuhuhu."[pcms]
 *7169|
@@ -354,7 +354,7 @@ Then after enjoying himself for a while, he pressed against her semen[r]
 and love juice covered slit.[pcms]
 *7170|
 [fc]
-[ns]ç≤[nse]
+[ns]Suda[nse]
 "Kuhuhu, my little sister isn't quite like this, but mine is amazing[r]
 too, right? Now, let's see which one you prefer!"[pcms]
 *7171|
@@ -383,7 +383,7 @@ seemed to be an unexpected development for him too as he kept tilting[r]
 his head in confusion.[pcms]
 *7175|
 [fc]
-[ns]ç≤[nse]
+[ns]Sato[nse]
 "Well, it's fine. Ashina-san's ass feels like a pussy and it's so[r]
 good! Kuuuuh, yeah, this is great toooooo!!"[pcms]
 [backlay][evcg storage="EV25a_12" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
@@ -401,7 +401,7 @@ cock, the senior didn't seem to feel much pain anymore.[pcms]
 In fact, despite spewing insults, her voice sounded rather sweet.[pcms]
 *7177|
 [fc]
-[ns]ç≤[nse]
+[ns]Sato[nse]
 "Calling us scum is harsh. Ashina-san shouldn't say such dirty[r]
 things."[pcms]
 [se buf=1 storage="se_sex03" loop=true]
@@ -645,7 +645,7 @@ But the owner of the beer-bottle-sized cock continued to brutally[r]
 ravage Senpai's mouth as if he felt no pain at all.[pcms]
 *7224|
 [fc]
-[ns]ç≤[nse]
+[ns]Sato[nse]
 "Kuuuh! This tightness is too much...!!"[pcms]
 *7225|
 [fc]

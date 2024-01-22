@@ -53,7 +53,7 @@ Wow, as expected of the senior. She's enduring such a leech-like[r]
 assault. Or maybe she doesn't want to show us any more disgrace?[pcms]
 *6919|
 [fc]
-[ns]‰Á[nse]
+[ns]Add[nse]
 "Hey, Suda, hurry up and stick it in. I'm getting tired of this."[pcms]
 *6920|
 [fc]
@@ -255,7 +255,7 @@ I need to quickly scrape out that semen and return it to being my[r]
 pussy alone. Yes, quickly, quickly, quickly...[pcms]
 *6959|
 [fc]
-[ns]‘å‹[[nse]
+[ns]Daigi[nse]
 "...Next is my turn. Fufufu, I've always wanted to do this with her."[pcms]
 *6960|
 [fc]
@@ -263,7 +263,7 @@ But before I could reach out, a new intruder had snatched Senpai away.[r]
 It was Coach Okubo who had appeared out of nowhere.[pcms]
 *6961|
 [fc]
-[ns]‘å‹[[nse]
+[ns]Daigi[nse]
 "I heard about you, Ashina. You're quite the slut, aren't you? When[r]
 was your first time? Was it when I first set my eyes on you, back in[r]
 your first year?"[pcms]
@@ -284,7 +284,7 @@ Coach Okubo didn't seem to expect an answer and without waiting for[r]
 one, he twisted his long dick into her pussy.[pcms]
 *6963|
 [fc]
-[ns]‘å‹[[nse]
+[ns]Daigi[nse]
 "I don't really care. I'm an adult, after all! More importantly, I'm[r]
 going to enjoy these big tits!"[pcms]
 *6964|
@@ -299,7 +299,7 @@ If his dick is like a snake, then this part is too.[pcms]
 in a position to guide us...nhiiii!!"[pcms]
 *6966|
 [fc]
-[ns]‘å‹[[nse]
+[ns]Daigi[nse]
 "That's why I'm guiding you. With an adult dick, I'll guide you!"[pcms]
 *6966a|
 [fc]
@@ -308,7 +308,7 @@ painful to watch. But more than that, I was angry at having been[r]
 usurped.[pcms]
 *6967|
 [fc]
-[ns]‘å‹[[nse]
+[ns]Taigi[nse]
 "Here I go, Ashina! This is my guidance for youuuu~~~!"[pcms]
 [se buf=0 storage="se_sex01"]
 [evcg”’ƒtƒ‰ storage="EV24a_10" layer=0 page=back visible=true left=0 top=0]
@@ -336,7 +336,7 @@ relentlessly.[pcms]
 stop...please!!"[pcms]
 *6972|
 [fc]
-[ns]‘å‹[[nse]
+[ns]Daigi[nse]
 "Not yet. The guidance has just begun. Guhuh, guhihihihi!!"[pcms]
 *6973|
 [fc]
@@ -357,7 +357,7 @@ Senpai could no longer contain her moans. She could only scatter her[r]
 sweet and muddled voice.[pcms]
 *6976|
 [fc]
-[ns]‘å‹[[nse]
+[ns]Taigi[nse]
 "Ashina, I can tell you're about to cum, right? You're gonna cum,[r]
 aren't you?"[pcms]
 *6977|
@@ -378,7 +378,7 @@ It was due to the strong will she once had, but it was insufficient to[r]
 suppress the surging urge and Coach's torment.[pcms]
 *6981|
 [fc]
-[ns]‘å‹[[nse]
+[ns]Daigi[nse]
 "You're drooling but have no persuasive power, do you? Ohh~, even your[r]
 nose is running!"[pcms]
 *6982|
@@ -391,7 +391,7 @@ But I couldn't help but find such a Senpai dear to me. No matter whose[r]
 dick she was sucking on, I still love Senpai...[pcms]
 *6984|
 [fc]
-[ns]‘å‹[[nse]
+[ns]Daigi[nse]
 "It's about time for you to cum. It feels good, doesn't it? So good[r]
 you could die from it!!"[pcms]
 [se buf=0 storage="se_sex01"]
@@ -421,11 +421,11 @@ While bursting out with an incredible climaxing voice, Senpai began to[r]
 convulse. She had been cumming before, but this was incomparable.[pcms]
 *6989|
 [fc]
-[ns]—¤ã[nse]
+[ns]Track and Field[nse]
 "Ohhhhh~~! She came again, she cameeeee~~!"[pcms]
 *6990|
 [fc]
-[ns]…‰j[nse]
+[ns]Swimming[nse]
 "She came while being violated! She came with such a loud voice!"[pcms]
 *6991|
 [fc]
@@ -444,7 +444,7 @@ still not dead. She desperately endured the voices and gazes showered[r]
 upon her. Yes, this was Ashina Rui.[pcms]
 *6994|
 [fc]
-[ns]‘å‹[[nse]
+[ns]Daigi[nse]
 "Guhuhu. I haven't cum yet. That's right, since it's come to this,[r]
 I'll take her anal!"[pcms]
 [backlay][evcg storage="EV24a_15" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
@@ -515,7 +515,7 @@ It's good that it hurts. It's proof of her first time, proof that[r]
 Senpai isn't a bitch.[pcms]
 *7007|
 [fc]
-[ns]‘å‹[[nse]
+[ns]Daigi[nse]
 "Damn you. Well, whatever. I'm gonna move too, Ashinaaa!"[pcms]
 *7008|
 [fc]
@@ -531,7 +531,7 @@ penetration.[pcms]
 starting to feel goooood!!"[pcms]
 *7010|
 [fc]
-[ns]‘å‹[[nse]
+[ns]Daigi[nse]
 "Ohh! That's good, the tightness is getting better!! Shibueee!! Move[r]
 more!!"[pcms]
 *7011|
@@ -569,7 +569,7 @@ Good. Senpai is starting to feel good too. My sincere feelings must[r]
 have reached her.[pcms]
 *7018|
 [fc]
-[ns]‘å‹[[nse]
+[ns]Daigi[nse]
 "Not bad, Shibue. Alright, let's attack together."[pcms]
 *7019|
 [fc]
@@ -660,11 +660,11 @@ violate her pussy once more.[pcms]
 Just as I was thinking about moving Coach Okubo aside--[pcms]
 *7033|
 [fc]
-[ns]…‰j•[[nse]
+[ns]Swimming ticket[nse]
 "Wait a sec, let us have a turn next!"[pcms]
 *7034|
 [fc]
-[ns]…‰j•[[nse]
+[ns]Swimming ticket[nse]
 "Yeah, yeah. After seeing that, how could we hold back!"[pcms]
 *7035|
 [fc]
@@ -672,7 +672,7 @@ While saying such things, teammates from the gallery came out. Their[r]
 dicks were already rock hard, clearly unable to wait any longer.[pcms]
 *7036|
 [fc]
-[ns]‘å‹[[nse]
+[ns]Daigi[nse]
 "Can't be helped. Shibue, this is for the unity of the swim club."[pcms]
 *7036a|
 [fc]
@@ -703,7 +703,7 @@ Maybe she really did sacrifice herself for the unity of the club, just[r]
 as Coach said.[pcms]
 *7040|
 [fc]
-[ns]…‰j•[[nse]
+[ns]Swimming ticket[nse]
 "Ohhh! As expected of our Princess! The best, the best!! This erotic[r]
 Princess is too amazing, I'm gonna die!!"[pcms]
 *7041|
@@ -718,7 +718,7 @@ ease. The pleasure quickly showing on Senpai's face was proof of that.[pcms]
 to... aheeeeee!!"[pcms]
 *7043|
 [fc]
-[ns]…‰j•[[nse]
+[ns]Swimming ticket[nse]
 "Ohoho, saying that, how many times have you cum? Here here here!"[pcms]
 *7044|
 [fc]
@@ -727,7 +727,7 @@ Seeing this, another guy approached her ass hole without missing a[r]
 beat.[pcms]
 *7045|
 [fc]
-[ns]…‰j•[[nse]
+[ns]Swimming ticket[nse]
 "Damn it. I wanted the pussy too. Anal is so dirty."[pcms]
 *7045a|
 [fc]
@@ -740,7 +740,7 @@ just penetrated it, insertion would surely be easy.[pcms]
 "No, nooo! Not the ass anymore! That place is off limits!!"[pcms]
 *7047|
 [fc]
-[ns]…‰j•[[nse]
+[ns]Swimming ticket[nse]
 "Shut up. You were just getting pounded and cumming a second ago. I[r]
 have no choice either... here I go!!"[pcms]
 [se buf=0 storage="se_sex01"]
@@ -760,35 +760,35 @@ However, it was only the second time. Pain was evident on Senpai's[r]
 face.[pcms]
 *7051|
 [fc]
-[ns]…‰j•[[nse]
+[ns]Swimming ticket[nse]
 "Ohh! This side is tightening up too! Hey hey, how about you over[r]
 there?"[pcms]
 *7052|
 [fc]
-[ns]…‰j•[[nse]
+[ns]Swimming ticket[nse]
 "Anal isn't so bad either. But more than that, being able to do[r]
 whatever we want with the Princess's body is... ohh! Unbeatable!!"[pcms]
 *7053|
 [fc]
-[ns]…‰j•[[nse]
+[ns]Swimming ticket[nse]
 "Right?! I've been jerking off to her for so long. These huge tits[r]
 have made me cum countless times, can't even remember how many."[pcms]
 *7054|
 [fc]
-[ns]…‰j•[[nse]
+[ns]Swimming ticket[nse]
 "Huh? Paizuri is for amateurs. I'm all about assjobs. Sandwiching my[r]
 dick between these plump cheeks and jerking off, right?"[pcms]
 *7055|
 [fc]
-[ns]…‰j•[[nse]
+[ns]Swimming ticket[nse]
 "You what, a pervert? The softness of tits is the best!"[pcms]
 *7056|
 [fc]
-[ns]…‰j•[[nse]
+[ns]Swimming ticket[nse]
 "Shut up! The real pervert here is this guy, the boss, right?"[pcms]
 *7057|
 [fc]
-[ns]…‰j•[[nse]
+[ns]Swimming ticket[nse]
 "Now that you mention it, yeah. The Princess has evolved into a[r]
 perverted Princess, power upô"[pcms]
 *7058|
@@ -800,7 +800,7 @@ their heart's content.[pcms]
 Indeed, this might be what Coach meant by teamwork.[pcms]
 *7060|
 [fc]
-[ns]…‰j•[[nse]
+[ns]Swimming ticket[nse]
 "Boss, thank you so much! With this, I'm practically graduated."[pcms]
 *7061|
 [fc]
@@ -810,7 +810,7 @@ Indeed, this might be what Coach meant by teamwork.[pcms]
 misdeeds... ugh, I will never... forget them...!"[pcms]
 *7062|
 [fc]
-[ns]…‰j•[[nse]
+[ns]Swimming ticket[nse]
 "Don't say such terrible things. This guy, and me too, we really[r]
 admired the Princess!"[pcms]
 *7063|
@@ -877,7 +877,7 @@ I felt like she was glaring at me, but it must be my imagination.[r]
 After all, she came from my dick in her ass; we must be in sync.[pcms]
 *7075|
 [fc]
-[ns]…‰j•[[nse]
+[ns]Swimming ticket[nse]
 "Amazing! This is like a triple play, right? It's so hot!!"[pcms]
 *7076|
 [fc]
@@ -914,7 +914,7 @@ I don't know who trained her like this, but it sure feels good. And if[r]
 I think she was trained for me, I can bear it.[pcms]
 *7083|
 [fc]
-[ns]…‰j•[[nse]
+[ns]Swimming ticket[nse]
 "Uhh... ohhhh!! Cumming... I'm cummingggg!!"[pcms]
 *7084|
 [fc]

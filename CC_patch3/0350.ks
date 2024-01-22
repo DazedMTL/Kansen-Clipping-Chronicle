@@ -464,11 +464,11 @@ As I whispered to Riri, whom I was embracing, she nodded slightly.[pcms]
 "Ugh...whoaahhh!!"[pcms]
 *2772|
 [fc]
-[ns]男子部員Z[nse]
+[ns]Male Club Member Z[nse]
 "Woahhhhhhhhhhhhhhhhhhhhh!!"[pcms]
 *2773|
 [fc]
-[ns]男子部員D[nse]
+[ns]Male Club Member D[nse]
 "Woman woman woman woman flesh flesh flesh"[pcms]
 *2774|
 [fc]
@@ -705,7 +705,7 @@ started jumping out of the window after us.[pcms]
 [se buf=0 storage="seB025"]
 *2816|
 [fc]
-[ns]男子生徒Z[nse]
+[ns]Male Student Z[nse]
 "Gih, guh..."[pcms]
 *2817|
 [fc]
@@ -724,7 +724,7 @@ bodies bent in strange directions like discarded toys.[pcms]
 [se buf=0 storage="seB025"]
 *2820|
 [fc]
-[ns]男子生徒D[nse]
+[ns]Male Student D[nse]
 "Ah, what the...my arm? It won't move..."[pcms]
 *2821|
 [fc]

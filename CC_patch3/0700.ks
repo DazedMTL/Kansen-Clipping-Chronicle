@@ -15,7 +15,7 @@ I take out my cellphone to check my email.[pcms]
 There are no new messages, nor any missed calls.[pcms]
 *9044|
 [fc]
-[ns]æ‹q‚Ì‚¨‚¶‚³‚ñ[nse]
+[ns]Passenger Uncle[nse]
 "*cough*... *gasp*... *cough*... Ah... why do I have to catch a cold[r]
 at a time like this..."[pcms]
 *9045|
@@ -526,7 +526,7 @@ At the same time, the inside of the train began to buzz with[r]
 commotion.[pcms]
 *9161|
 [fc]
-[ns]ƒAƒiƒEƒ“ƒX[nse]
+[ns]Announcement[nse]
 "We apologize for the inconvenience to our customers. The train has[r]
 been stopped due to the emergency stop button being pressed."[pcms]
 *9162|
@@ -564,11 +564,11 @@ What a nuisance, I think as I'm about to put my earphones back in.[pcms]
 [bgm storage="bgm05" time=1000]
 *9169|
 [fc]
-[ns]Œ‚Á•¥‚¢‚Ì‹q[nse]
+[ns]Drunken Customer[nse]
 "Ohh ohh! Where do you think you're going?!"[pcms]
 *9170|
 [fc]
-[ns]¬‚³‚È’j‚Ìq[nse]
+[ns]Little boy[nse]
 "Kyaa!"[pcms]
 *9171|
 [fc]
@@ -578,7 +578,7 @@ What's this, a drunk causing trouble? Is that why the police are here?[pcms]
 Such an annoyance...[pcms]
 *9173|
 [fc]
-[ns]Œ‚Á•¥‚¢‚Ì‹q[nse]
+[ns]Drunken Customer[nse]
 "You there, don't you dare move a muscle!"[pcms]
 *9174|
 [fc]
@@ -605,7 +605,7 @@ The old man receives my flying kick squarely and is sent flying,[r]
 hitting his back and head against the corridor wall.[pcms]
 *9177|
 [fc]
-[ns]Œ‚Á•¥‚¢‚Ì‹q[nse]
+[ns]Drunken Customer[nse]
 "Aghh? What do you think you're doing, you brat?!"[pcms]
 *9179|
 [fc]
@@ -627,16 +627,16 @@ I feel intimidated by the light emanating from those eyes and[r]
 involuntarily step back.[pcms]
 *9184|
 [fc]
-[ns]“S“¹Œx@[nse]
+[ns]Railway Police[nse]
 "Hey! Don't make such a fuss, you good-for-nothing! Seriously, using[r]
 brute force like that, you're gonna get it now!"[pcms]
 *9185|
 [fc]
-[ns]Œ‚Á•¥‚¢‚Ì‹q[nse]
+[ns]Drunken Customer[nse]
 "Let me go! You bastard!"[pcms]
 *9186|
 [fc]
-[ns]“S“¹Œx@[nse]
+[ns]Railway Police[nse]
 "Shut up!"[pcms]
 *9187|
 [fc]

@@ -14,7 +14,7 @@
 [se buf=1 storage="se_sex03" loop=true]
 *10775|
 [fc]
-[ns]ƒ‰ƒOƒr[[nse]
+[ns]Rugby[nse]
 "Hey, hey, how about it, my cock! How is it?!"[pcms]
 *10776|
 [fc]
@@ -59,7 +59,7 @@ be.[pcms]
 After all... they are men whose names or anything else I don't know...[pcms]
 *10786|
 [fc]
-[ns]ƒ‰ƒOƒr[[nse]
+[ns]Rugby[nse]
 "Guuoooh! I'm gonna cum! I'm gonna creampie!"[pcms]
 *10787|
 [fc]
@@ -76,7 +76,7 @@ I endure the pain and suffering, leaking out a voice that doesn't even[r]
 turn into a scream.[pcms]
 *10790|
 [fc]
-[ns]ƒ‰ƒOƒr[[nse]
+[ns]Rugby[nse]
 "Noooohhh! It's coming outtttt!"[pcms]
 *10791|
 [fc]
@@ -108,7 +108,7 @@ When the man pulls out his huge thing with satisfaction, semen spurts[r]
 out from my slit as if I were peeing.[pcms]
 *10796|
 [fc]
-[ns]ƒ‰ƒOƒr[[nse]
+[ns]Rugby[nse]
 "Hah, hah, still not enough, still not done!"[pcms]
 *10797|
 [fc]
@@ -133,7 +133,7 @@ In front and behind, there are still plenty of men in the room,[r]
 watching me being raped with bizarre cries.[pcms]
 *10801|
 [fc]
-[ns]–ì‹…•[[nse]
+[ns]Baseball ticket[nse]
 "Next, it's my turnnnnnn!"[pcms]
 [se buf=0 storage="seB040"]
 [wait2 time=500]
@@ -142,7 +142,7 @@ watching me being raped with bizarre cries.[pcms]
 *10802|
 [fc]
 [quakesp time=500 laynum=4 hmax=20 vmax=20]
-[ns]ƒ‰ƒOƒr[[nse]
+[ns]Rugby[nse]
 "Nmbushu..."[pcms]
 [backlay][chara_int4][trans time=150 method=crossfade][wt]
 *10803|
@@ -160,7 +160,7 @@ With a swing just like hitting a ball in baseball, he catches the[r]
 man's head.[pcms]
 *10806|
 [fc]
-[ns]–ì‹…•[[nse]
+[ns]Baseball ticket[nse]
 "Nice batting!"[pcms]
 *10807|
 [fc]
@@ -183,7 +183,7 @@ This room alone seems cut off from the world, making me feel like I'm[r]
 being offered as a sacrifice.[pcms]
 *10812|
 [fc]
-[ns]–ì‹…•[[nse]
+[ns]Baseball ticket[nse]
 "I've been interested in you since I saw you on the field, Jun-chan."[pcms]
 *10813|
 [fc]
@@ -200,7 +200,7 @@ seemed harder than the men before.[pcms]
 I feel like it's even more muscular.[pcms]
 *10817|
 [fc]
-[ns]–ì‹…•[[nse]
+[ns]Baseball ticket[nse]
 "Then, here I go!"[pcms]
 [sysbt_meswin clear]
 [backlay][evcg storage="EV31_05" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
@@ -222,7 +222,7 @@ The pain is unlike anything I've felt before, as if it's reshaping my[r]
 womb from the inside.[pcms]
 *10821|
 [fc]
-[ns]–ì‹…•[[nse]
+[ns]Baseball ticket[nse]
 "Nooo! The feeling of it entering is incredible!"[pcms]
 [se buf=1 storage="se_sex03" loop=true]
 *10822|
@@ -240,7 +240,7 @@ Unaware of my pain, the baseball club guy continues to thrust his hips[r]
 violently.[pcms]
 *10825|
 [fc]
-[ns]–ì‹…•[[nse]
+[ns]Baseball ticket[nse]
 "I want to go deeper!"[pcms]
 [backlay][evcg storage="EV31_07" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10826|
@@ -262,7 +262,7 @@ It's like he's drilling a tunnel, a sex that seems intent on breaking[r]
 my body.[pcms]
 *10830|
 [fc]
-[ns]–ì‹…•[[nse]
+[ns]Baseball ticket[nse]
 "My dick wants to go deep inside a girl!"[pcms]
 *10831|
 [fc]
@@ -278,7 +278,7 @@ Twisting his hips and changing angles, he desperately tries to force[r]
 the tip into my cervical opening.[pcms]
 *10834|
 [fc]
-[ns]–ì‹…•[[nse]
+[ns]Baseball ticket[nse]
 "Damn it! It won't go in! You bitch!"[pcms]
 [backlay][evcg storage="EV31_08" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *10835|
@@ -294,7 +294,7 @@ I've resigned myself to being violated.[pcms]
 But I can't escape the pain and suffering.[pcms]
 *10838|
 [fc]
-[ns]–ì‹…•[[nse]
+[ns]Baseball ticket[nse]
 "Ahhh! I'm going to cum! Even though it's too soon!"[pcms]
 *10839|
 [fc]
@@ -310,7 +310,7 @@ his thick muscles writhing.[pcms]
 But I have no techniques to encourage sex; I can only be violated.[pcms]
 *10842|
 [fc]
-[ns]–ì‹…•[[nse]
+[ns]Baseball ticket[nse]
 "Ahhh! I'm cumming!"[pcms]
 [stopse buf=1]
 [se buf=0 storage="se_sex01"]
@@ -342,7 +342,7 @@ his long thing with a satisfied look on his face.[pcms]
 Then, following it, semen drips out as if chasing after it.[pcms]
 *10848|
 [fc]
-[ns]–ì‹…•[[nse]
+[ns]Baseball ticket[nse]
 "Now, it's time for the back attack!"[pcms]
 *10849|
 [fc]
@@ -353,13 +353,13 @@ for me.[pcms]
 The painful and difficult sex is about to start again.[pcms]
 *10851|
 [fc]
-[ns]ƒTƒbƒJ[[nse]
+[ns]Soccer[nse]
 "Raaahhhhh!"[pcms]
 [se buf=0 storage="seB008"]
 [Ôƒtƒ‰]
 *10852|
 [fc]
-[ns]–ì‹…•[[nse]
+[ns]Baseball ticket[nse]
 "Abshuu..."[pcms]
 [backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]
 *10853|

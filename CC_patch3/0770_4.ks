@@ -14,7 +14,7 @@
 [sysbt_meswin]
 *11170|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Well, well, looks like it's almost my turn...[pcms]
 *11171|
 [fc]
@@ -38,7 +38,7 @@ At the brink of being killed... I was able to protect myself. But...[r]
 this lynching isn't over yet.[pcms]
 *11176|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 What the hell? Your pussy is all sloppy, isn't it?[pcms]
 *11177|
 [fc]
@@ -49,7 +49,7 @@ untouched.[pcms]
 Among those, the lower abdomen... must be the most defiled part.[pcms]
 *11179|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Hey! Take care of the tools properly, clean them up![pcms]
 *11180|
 [fc]
@@ -57,7 +57,7 @@ One of the men is oddly angry. The "tools" he's referring to... could[r]
 it be...?[pcms]
 *11181|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 I understand, I'll clean it up![pcms]
 *11182|
 [fc]
@@ -95,7 +95,7 @@ But the man, as if actually cleaning a tool, pushes his fist deep into[r]
 my vagina.[pcms]
 *11189|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Gosh gosh, until it's clean, gosh gosh.[pcms]
 [backlay][evcg storage="EV32_19" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11190|
@@ -110,7 +110,7 @@ and forth as if pushing it in.[pcms]
 [backlay][evcg storage="EV32_21" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11192|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 I'll scrape out all the filth inside![pcms]
 *11193|
 [fc]
@@ -139,7 +139,7 @@ From my nose, from my ears... and from my eyes, the tears wouldn't[r]
 stop.[pcms]
 *11199|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 All cleaned up![pcms]
 [backlay][evcg storage="EV32_23" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11200|
@@ -151,11 +151,11 @@ The man pulls out his arm that he had thrust in.[pcms]
 I... foam at the mouth as I wet myself.[pcms]
 *11202|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Ahhh! It's dirty again![pcms]
 *11203|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 I'm sorry! I'll wash it again![pcms]
 [stopse buf=0]
 [backlay][evcg storage="EV32_24" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
@@ -167,13 +167,13 @@ Again... once more... once more...[pcms]
 Those words were tantamount to a death sentence.[pcms]
 *11206|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Enough already![pcms]
 [se buf=0 storage="seB008"]
 [赤フラ]
 *11207|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 Gabujyuu![pcms]
 [sysbt_meswin clear]
 [backlay][red_toplayer][trans method=universal rule="blood2" vague=50 time=1500][wt2][hide_chara_int]
@@ -190,7 +190,7 @@ His face smashed against the wall, he slides down slowly.[pcms]
 The wall, now stained red, is splattered with flesh and brain matter.[pcms]
 *11211|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Your bad habit of breaking tools with your rough cleaning!"[pcms]
 [sysbt_meswin clear]
 [backlay][black_toplayer][trans time=501 method=crossfade][wt2][hide_chara_int]
@@ -206,7 +206,7 @@ from behind.[pcms]
 Me, a tool... to be cleaned again...[pcms]
 *11214|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Tools should be used gently and with care! Got that, everyone!"[pcms]
 *11215|
 [fc]
@@ -216,7 +216,7 @@ into me.[pcms]
 [evcg白フラ storage="EV30_20" layer=0 page=back visible=true left=0 top=0]
 *11216|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Ooooooh! This is a good tool!"[pcms]
 *11217|
 [fc]
@@ -239,7 +239,7 @@ the body heat of the men sandwiching me from front and back...[pcms]
 What those men were doing... I couldn't understand anymore.[pcms]
 *11222|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Fuuuuuuck! I'm gonna cum!"[pcms]
 [stopse buf=1]
 [se buf=0 storage="se_sex01"]
@@ -255,14 +255,14 @@ Again... it seemed like the man had climaxed using my body.[pcms]
 The semen flowed thickly out of my freshly cleaned vagina.[pcms]
 *11225|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Going for the second round!"[pcms]
 *11226|
 [fc]
 Ah... again...[pcms]
 *11227|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Gabujyuu!"[pcms]
 [backlay][evcg storage="EV30_23" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11228|
@@ -271,7 +271,7 @@ This time, the man who was tackled from the side was blown away and[r]
 disappeared from my field of vision.[pcms]
 *11229|
 [fc]
-[ns]ラグビー[nse]
+[ns]Rugby[nse]
 "Being too greedy disrupts the harmony of the team! Got it!"[pcms]
 [se buf=0 storage="se_sex01"]
 [evcg白フラ storage="EV30_19" layer=0 page=back visible=true left=0 top=0]
@@ -291,7 +291,7 @@ But the number of men inside the room had clearly decreased.[pcms]
 All those men... there were so many...[pcms]
 *11234|
 [fc]
-[ns]柔道票[nse]
+[ns]Judo Ticket[nse]
 "Take this! You third-rate athletes hogging all the fun are ten years[r]
 too early!"[pcms]
 *11235|
@@ -299,7 +299,7 @@ too early!"[pcms]
 A large group of men in judo uniforms entered the destroyed room.[pcms]
 *11236|
 [fc]
-[ns]野球票[nse]
+[ns]Baseball ticket[nse]
 "You muscle-bound fatties! The unpopular club guys better clear out[r]
 fast!"[pcms]
 *11237|
@@ -308,7 +308,7 @@ Then, after them, more than a whole team's worth of baseball players[r]
 showed up.[pcms]
 *11238|
 [fc]
-[ns]サッカー[nse]
+[ns]Soccer[nse]
 "Get along, everyone, it's all in turns!"[pcms]
 [backlay][evcg storage="EV30_23" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *11239|

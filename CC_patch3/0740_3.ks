@@ -24,7 +24,7 @@ the so-called reverse cowgirl position, and at this very moment, he is[r]
 about to lose his virginity.[pcms]
 *9804|
 [fc]
-[ns]ê¬ñÿ[nse]
+[ns]Aoki[nse]
 "But... I never imagined Ashina could be this erotic."[pcms]
 *9805|
 [fc]
@@ -44,7 +44,7 @@ completely enveloping Akira's penis inside her vagina.[pcms]
 [evcgîíÉtÉâ storage="EV20_02" layer=0 page=back visible=true left=0 top=0]
 *9808|
 [fc]
-[ns]ê¬ñÿ[nse]
+[ns]Aoki[nse]
 "Guh... this is a woman... this is the feeling of Ashina's pussy...[r]
 I'm grateful to lose my virginity to someone as erotic and beautiful[r]
 as Ashina."[pcms]
@@ -65,12 +65,12 @@ hand, she holds Daiba's penis, and in her left, she holds Gouda's,[r]
 performing handjobs on both.[pcms]
 *9812|
 [fc]
-[ns]ë‰èÍ[nse]
+[ns]Daiba[nse]
 "Princess... you lewd princess... your devilish finger technique...[r]
 guh!"[pcms]
 *9813|
 [fc]
-[ns]ãΩìc[nse]
+[ns]Gouda[nse]
 "Erotic president... what a move... you know all the weak spots of[r]
 men!"[pcms]
 *9814|
@@ -84,11 +84,11 @@ individuals who were experienced in sex in general and were revealed[r]
 not to be virgins this time.[pcms]
 *9816|
 [fc]
-[ns]êÁót[nse]
+[ns]Chiba[nse]
 "Ashina... you're amazing."[pcms]
 *9817|
 [fc]
-[ns]ì°ë∫[nse]
+[ns]Fujimura[nse]
 "Director... I'm moved... I've always wanted to try this."[pcms]
 *9818|
 [fc]
@@ -96,7 +96,7 @@ The armpit sex this time is coordinated with the handjobs. It's a[r]
 bonus pleasure derived from the arm movements.[pcms]
 *9819|
 [fc]
-[ns]é≠ìá[nse]
+[ns]Kashima[nse]
 "Senpai... I'm so happy... to receive a blowjob from you!"[pcms]
 *9820|
 [fc]
@@ -109,7 +109,7 @@ collective centered around Rui and masturbate while watching the lewd[r]
 spectacle.[pcms]
 *9822|
 [fc]
-[ns]ç]êÏ[nse]
+[ns]Egawa[nse]
 "Damn it... if only I had won at rock-paper-scissors, I could have[r]
 been..."[pcms]
 *9823|
@@ -131,7 +131,7 @@ continued to smolder.[pcms]
 "Fuaaahn... my hips are moving on their own... I'm sorry everyone!"[pcms]
 *9827|
 [fc]
-[ns]ê¬ñÿ[nse]
+[ns]Aoki[nse]
 "Uoooohh? Ashina, if you move like that I'm going to... uh?"[pcms]
 [stopse buf=1]
 [se buf=0 storage="se_sex01"]
@@ -158,7 +158,7 @@ harden and heat up inside her vagina again despite having just[r]
 ejaculated.[pcms]
 *9831|
 [fc]
-[ns]ê¬ñÿ[nse]
+[ns]Aoki[nse]
 "Well, I'm on the receiving end of the service here, so I won't[r]
 complain too much. Besides... it revived so quickly."[pcms]
 [se buf=1 storage="se_sex03" loop=true]
@@ -181,7 +181,7 @@ Kashima's impatient penis is thrust at her mouth.[pcms]
 "I'm sorry about that. It's not that I forgot."[pcms]
 *9836|
 [fc]
-[ns]é≠ìá[nse]
+[ns]Kashima[nse]
 "Then please... hurry up..."[pcms]
 *9837|
 [fc]
@@ -195,7 +195,7 @@ spreads it all over his penis as if painting it.[pcms]
 "Amun... mohyu... nnn... pu... nmu... nnn..."[pcms]
 *9839|
 [fc]
-[ns]é≠ìá[nse]
+[ns]Kashima[nse]
 "She's sucking me off... it's like a dream!"[pcms]
 *9840|
 [fc]
@@ -212,11 +212,11 @@ first time, but her technique was excellent.[pcms]
 I still wanted to enjoy this more.[pcms]
 *9843|
 [fc]
-[ns]ë‰èÍ[nse]
+[ns]Daiba[nse]
 Princess![pcms]
 *9844|
 [fc]
-[ns]ãΩìc[nse]
+[ns]Gouda[nse]
 "Don't forget about the handjob over here."[pcms]
 *9845|
 [fc]
@@ -235,11 +235,11 @@ Rui's fingers move with the smoothness of a piano performance, as if[r]
 to say she could make them cum whenever they wanted.[pcms]
 *9848|
 [fc]
-[ns]ë‰èÍ[nse]
+[ns]Daiba[nse]
 As expected of the Princess![pcms]
 *9849|
 [fc]
-[ns]ãΩìc[nse]
+[ns]Gouda[nse]
 "Makes me want to monopolize you... Kuu!?"[pcms]
 *9850|
 [fc]
@@ -256,11 +256,11 @@ As Rui focuses on the handjob, she also provides varied stimulation to[r]
 the penises trapped under her arms.[pcms]
 *9853|
 [fc]
-[ns]êÁót[nse]
+[ns]Chiba[nse]
 "No, I like it this way."[pcms]
 *9854|
 [fc]
-[ns]ì°ë∫[nse]
+[ns]Fujimura[nse]
 "Me too."[pcms]
 *9855|
 [fc]
@@ -269,12 +269,12 @@ subtle changes under her arms. They didn't seem dissatisfied to begin[r]
 with.[pcms]
 *9856|
 [fc]
-[ns]êÁót[nse]
+[ns]Chiba[nse]
 "Sometimes I get to rub against Ashina's breasts... her underboob.[r]
 It's a luxurious service and quite interesting."[pcms]
 *9857|
 [fc]
-[ns]ì°ë∫[nse]
+[ns]Fujimura[nse]
 "Yeah, me too."[pcms]
 [backlay][evcg storage="EV20_05" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *9858|
@@ -294,7 +294,7 @@ climax. The excitement from touching many penises gradually[r]
 accelerated her hip movements.[pcms]
 *9861|
 [fc]
-[ns]ê¬ñÿ[nse]
+[ns]Aoki[nse]
 Ashina... I'm going to cum again... I'll spill it all inside Ashina's[r]
 vagina![pcms]
 *9862|
@@ -309,7 +309,7 @@ Rui's urgent voice and the acceleration of her hip movements amplified[r]
 everyone's pleasure, prompting them to ejaculate.[pcms]
 *9864|
 [fc]
-[ns]ê¬ñÿ[nse]
+[ns]Aoki[nse]
 "Uoooooooh!"[pcms]
 *9865|
 [fc]
@@ -354,7 +354,7 @@ boys, still seeking pleasure.[pcms]
 [backlay][evcg storage="EV20_10" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *9872|
 [fc]
-[ns]ç]êÏ[nse]
+[ns]Egawa[nse]
 Dammit! It's just me again![pcms]
 *9873|
 [fc]
@@ -370,7 +370,7 @@ student, was left just watching and masturbating.[pcms]
 The one engaging with Rui in reverse cowgirl was Daiba.[pcms]
 *9876|
 [fc]
-[ns]ë‰èÍ[nse]
+[ns]Daiba[nse]
 Princess! Your princess pussy is the best! I'm going to ejaculate...[r]
 I'll definitely impregnate the princess with my sperm![pcms]
 *9877|
@@ -388,7 +388,7 @@ she continued to service the boys, she moved her hips on her own and[r]
 climaxed.[pcms]
 *9879|
 [fc]
-[ns]ë‰èÍ[nse]
+[ns]Daiba[nse]
 Kuh... Even though I'm erect, the pleasure is dull because I just[r]
 ejaculated... I wanted to ejaculate inside the princess pussy and[r]
 impregnate her.[pcms]
@@ -403,7 +403,7 @@ However, there was one boy who openly expressed his dissatisfaction.[r]
 It was a second-year student named Egawa.[pcms]
 *9882|
 [fc]
-[ns]ç]êÏ[nse]
+[ns]Egawa[nse]
 "I can't hold back anymore... I haven't had a turn yet... Do something[r]
 for me too!"[pcms]
 *9883|
@@ -414,7 +414,7 @@ for me too!"[pcms]
 body left unused."[pcms]
 *9884a|
 [fc]
-[ns]ë‰èÍ[nse]
+[ns]Daiba[nse]
 "An unused part... That's it! This might feel good!"[pcms]
 [backlay][evcg storage="EV20_11" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *9885a|
@@ -437,12 +437,12 @@ semen and love juices as a substitute for lotion.[pcms]
 [backlay][evcg storage="EV20_13" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
 *9888|
 [fc]
-[ns]ë‰èÍ[nse]
+[ns]Daiba[nse]
 "Wow, such tightness? It's true what they say about feeling like my[r]
 dick's gonna get ripped off at the base... Kuuuuuh!"[pcms]
 *9888a|
 [fc]
-[ns]ç]êÏ[nse]
+[ns]Egawa[nse]
 "Yes! The pussy's free!"[pcms]
 *9889a|
 [fc]
@@ -452,12 +452,12 @@ penis into her vagina.[pcms]
 [evcgîíÉtÉâ storage="EV20_14" layer=0 page=back visible=true left=0 top=0]
 *9890|
 [fc]
-[ns]ç]êÏ[nse]
+[ns]Egawa[nse]
 "Whoa!? The pussy's squeezing so tight! And through the thin inner[r]
 walls... I can feel Daiba-senpai's dick, can you?"[pcms]
 *9891|
 [fc]
-[ns]ë‰èÍ[nse]
+[ns]Daiba[nse]
 "This is that double penetration thing they do in erotic manga!"[pcms]
 *9892|
 [fc]
@@ -509,11 +509,11 @@ showered their milky release onto Rui.[pcms]
 experienced..."[pcms]
 *9899|
 [fc]
-[ns]ê¬ñÿ[nse]
+[ns]Aoki[nse]
 "It's still not enough... I want to fuck more!"[pcms]
 *9900|
 [fc]
-[ns]î‘ìc[nse]
+[ns]Banda[nse]
 "Me too!"[pcms]
 *9901|
 [fc]

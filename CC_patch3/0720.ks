@@ -5,12 +5,12 @@
 *9252|
 [fc]
 [vo_mo s="kurosawa0042"]
-[ns]çï[nse]
+[ns]Kuro[nse]
 "Ah, this is delicious! We'd never have this at home."[pcms]
 *9253|
 [fc]
 [vo_mo s="iwase0031"]
-[ns]ä‚[nse]
+[ns]Rock[nse]
 "Eh, really...? What do you usually eat at your place?"[pcms]
 *9254|
 [fc]
@@ -21,12 +21,12 @@ someone other than my mom cook for me."[pcms]
 *9255|
 [fc]
 [vo_mo s="kurosawa0043"]
-[ns]çï[nse]
+[ns]Black[nse]
 "Yeah, yeah. I want to eat like this all the time."[pcms]
 *9256|
 [fc]
 [vo_mo s="iwase0032"]
-[ns]ä‚[nse]
+[ns]Rock[nse]
 "And at night, it's nice that everyone takes turns cooking. Tonight[r]
 it's the third-years' turn, right? Moe-senpai?"[pcms]
 *9257|
@@ -83,7 +83,7 @@ so I don't have it with me.[pcms]
 *9269|
 [fc]
 [vo_mo s="kurosawa0044"]
-[ns]çï[nse]
+[ns]Black[nse]
 "What's that, a police car? Hey, hey, look, there's a police car[r]
 coming."[pcms]
 *9270|
@@ -99,12 +99,12 @@ Since there was no siren sounding, I must not have noticed it.[pcms]
 *9273|
 [fc]
 [vo_mo s="kurosawa0045"]
-[ns]çï[nse]
+[ns]Black[nse]
 "Is it about this morning's incident... maybe?"[pcms]
 *9274|
 [fc]
 [vo_mo s="iwase0033"]
-[ns]ä‚[nse]
+[ns]Rock[nse]
 "No, I think it's something different. Apparently, students from[r]
 another school were talking about it..."[pcms]
 *9275|
@@ -128,12 +128,12 @@ been hit were anywhere to be found.[pcms]
 *9280|
 [fc]
 [vo_mo s="kurosawa0046"]
-[ns]çï[nse]
+[ns]Black[nse]
 "Seriously... that's creepy..."[pcms]
 *9281|
 [fc]
 [vo_mo s="iwase0034"]
-[ns]ä‚[nse]
+[ns]Rock[nse]
 "Right? It's scary."[pcms]
 *9282|
 [fc]
@@ -143,12 +143,12 @@ been hit were anywhere to be found.[pcms]
 *9283|
 [fc]
 [vo_mo s="kurosawa0047"]
-[ns]çï[nse]
+[ns]Black[nse]
 "Now that you mention it..."[pcms]
 *9284|
 [fc]
 [vo_mo s="iwase0035"]
-[ns]ä‚[nse]
+[ns]Rock[nse]
 "It's identical... isn't it?"[pcms]
 *9285|
 [fc]

@@ -93,7 +93,7 @@ too hard... Is Kiyohara-kun alright?"[pcms]
 [fadeoutbgm time=500]
 *5338|
 [fc]
-[ns]女子[nse]
+[ns]Girl[nse]
 "What the heck! Pervert!!"[pcms]
 [backlay][rui_up_01_f07 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"][trans time=150 method=crossfade][wt]
 *5339|
@@ -131,7 +131,7 @@ Sighing, Akira starts to head over to Yuuji to break up the commotion.[pcms]
 But--[pcms]
 *5347|
 [fc]
-[ns]女子[nse]
+[ns]Girl[nse]
 "What are you doing! Don't touch me, I said!"[pcms]
 *5348|
 [fc]
@@ -139,7 +139,7 @@ Yuuji's hand reaches out and grabs the soft-looking swell of the[r]
 girl's chest.[pcms]
 *5349|
 [fc]
-[ns]男子[nse]
+[ns]Boy[nse]
 "Hey, Yuuji stop it! What are you thinking?!"[pcms]
 [backlay][bg storage="プール飛び込み台"]
 [rui_up_01_f01 layer=3 x="&sf.ru_up_x[3]" y="&sf.ru_up_y[0]"]
@@ -159,7 +159,7 @@ check it out..."[pcms]
 [backlay][chara_int][bg storage="BG11b"][trans method=universal rule="LtoR" vague=100 time=300][wt2]
 *5352|
 [fc]
-[ns]男子[nse]
+[ns]Boy[nse]
 "Gah... gyiiiiii!? Y-Yuuji!? Wha... gyaaaahhhhh!!"[pcms]
 [backlay][yuj_lo_04_f05 layer=3 x="&sf.yu_lo_x[3]" y="&sf.yu_lo_y[0]"][trans time=150 method=crossfade][wt]
 *5353|
@@ -287,14 +287,14 @@ They supported the struggling man's body and started to move back[r]
 towards the poolside.[pcms]
 *5379|
 [fc]
-[ns]男子深[nse]
+[ns]Deep Male[nse]
 "Hey, stop thrashing around! It's dangerous! Hey!"[pcms]
 *5380|
 [fc]
 It seems my chance to help has passed...[pcms]
 *5381|
 [fc]
-[ns]男子深[nse]
+[ns]Male Deep[nse]
 "Guh... ah, agaaaaah! This guy! He bit me!"[pcms]
 *5382|
 [fc]
@@ -306,7 +306,7 @@ The drowning man, like Yuuji earlier, had bitten into the man who came[r]
 to his rescue.[pcms]
 *5384|
 [fc]
-[ns]男子深[nse]
+[ns]Male Deep[nse]
 "Guh... ah, aggh... it hurts!! It really hurts!!"[pcms]
 *5385|
 [fc]
@@ -314,11 +314,11 @@ The red color, thinned by the water, began to spread throughout the[r]
 pool.[pcms]
 *5386|
 [fc]
-[ns]女子[nse]
+[ns]Girl[nse]
 "Kyaaaaaaaaaaaaaaaaah!!"[pcms]
 *5387|
 [fc]
-[ns]男子深[nse]
+[ns]Male Deep[nse]
 "Hey, this is bad! Run!!"[pcms]
 *5388|
 [fc]
@@ -422,19 +422,19 @@ echoed.[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *5408|
 [fc]
-[ns]女子[nse]
+[ns]Girl[nse]
 "Aaaaahhh! Help meee!"[pcms]
 *5409|
 [fc]
-[ns]男[nse]
+[ns]Male[nse]
 "Ahahaha! Wait, wait, wait~!"[pcms]
 *5410|
 [fc]
-[ns]男[nse]
+[ns]Male[nse]
 "Uhehahahaha! Let me join in!"[pcms]
 *5411|
 [fc]
-[ns]男子票nse][】nse]
+[ns]Male ticket[nse]
 "Uwah, uwaahhh!!"[pcms]
 *5412|
 [fc]
@@ -449,26 +449,26 @@ And behind them, a bunch of strange people were chasing after them...[r]
 It was like a bizarre game of tag.[pcms]
 *5415|
 [fc]
-[ns]女子[nse]
+[ns]Girl[nse]
 "Ah... kyaaah!!"[pcms]
 *5416|
 [fc]
-[ns]男[nse]
+[ns]Male[nse]
 "Caught you! Ahahaah!!"[pcms]
 *5417|
 [fc]
-[ns]女子[nse]
+[ns]Girl[nse]
 "Gyah!!"[pcms]
 *5418|
 [fc]
 A man pounced on a girl who stumbled and fell.[pcms]
 *5419|
 [fc]
-[ns]男[nse]
+[ns]Male[nse]
 "I'm so hungry! Ahh-ahh, I can't stand it! Agaah~... mmm!!"[pcms]
 *5420|
 [fc]
-[ns]男子深[nse]
+[ns]Deep Male[nse]
 "Gyaaaaaaaahhhhhhhhhhhhhhhhhhh!!"[pcms]
 *5421|
 [fc]

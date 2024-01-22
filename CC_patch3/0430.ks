@@ -43,14 +43,14 @@ region".[pcms]
 *4986|
 [fc]
 [vo_mo s="announcer0001"]
-[ns]アナウ[nse]
+[ns]Anaou[nse]
 "Regarding the chaos that has been occurring since last night in the[r]
 Tohoku region, there are no signs of it subsiding today, with small-[r]
 scale riots and assault incidents occurring intermittently,"[pcms]
 *4987|
 [fc]
 [vo_mo s="announcer0002"]
-[ns]アナウ[nse]
+[ns]Anaou[nse]
 "Various agencies such as the police and fire departments are[r]
 overwhelmed with responses, and the situation remains unpredictable,"[pcms]
 *4988|
@@ -63,14 +63,14 @@ It's as if everyone had anticipated this, I suppose.[pcms]
 *4990|
 [fc]
 [vo_mo s="announcer0003"]
-[ns]アナウ[nse]
+[ns]Anaou[nse]
 "The attacks are carried out by individuals or small groups, up to a[r]
 dozen people, targeting shops and pedestrians, resulting in[r]
 destruction of stores and looting of goods--"[pcms]
 *4991|
 [fc]
 [vo_mo s="announcer0004"]
-[ns]アナウ[nse]
+[ns]Anau[nse]
 "Confirmed acts include beating and kicking,"[pcms]
 *4992|
 [fc]
@@ -123,8 +123,7 @@ the situation will improve, so it's natural to feel this way.[pcms]
 *5002|
 [fc]
 [vo_mo s="announcer0005"]
-[ns]アナウ[nse]
-"Next up is more news related to Tohoku,"[pcms]
+[ns]Announcer"[pcms]
 *5003|
 [fc]
 The caption that followed was "Succession of traffic accidents."[pcms]

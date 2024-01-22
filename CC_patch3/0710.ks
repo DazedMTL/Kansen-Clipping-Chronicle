@@ -38,7 +38,7 @@ He too, while talking with friends, sends me a mischievous smile.[pcms]
 Geez...[pcms]
 *9203|
 [fc]
-[ns]女子陸[nse]
+[ns]Girls' Land[nse]
 "What's wrong?"[pcms]
 *9204|
 [fc]
@@ -47,7 +47,7 @@ Geez...[pcms]
 "N-nothing, just... you know, that thing, that thing."[pcms]
 *9205|
 [fc]
-[ns]女子陸[nse]
+[ns]Girls' Land[nse]
 "Eh-, you seem kind of suspicious."[pcms]
 *9206|
 [fc]
@@ -131,7 +131,7 @@ If I end up taking Yuuji's hard one in my mouth in such an unfamiliar[r]
 place for the first time...[pcms]
 *9227|
 [fc]
-[ns]女子陸[nse]
+[ns]Girls' Land[nse]
 "Hey, Jun!"[pcms]
 *9228|
 [fc]
@@ -166,7 +166,7 @@ campsite, and sometimes you end up at a dead end near the kitchen area[r]
 in the back.[pcms]
 *9235|
 [fc]
-[ns]男性キゼ[nse]
+[ns]Male Character[nse]
 "Gohh! Goughh! Gobuhh..."[pcms]
 *9236|
 [fc]
@@ -191,11 +191,11 @@ The woman who seemed to be his girlfriend was patting his back, but it[r]
 didn't seem to be very effective.[pcms]
 *9241|
 [fc]
-[ns]女性キゼ[nse]
+[ns]Female Kize[nse]
 "Maybe we should just go home?"[pcms]
 *9242|
 [fc]
-[ns]男性キゼ[nse]
+[ns]Male Character[nse]
 "I don't have much of a fever, and if I rest until noon I'll be fine,[r]
 thank you."[pcms]
 *9243|
@@ -221,7 +221,7 @@ to camp while having a cold.[pcms]
 Also, I wonder if it's okay to leave that cooler box as it is...[pcms]
 *9248|
 [fc]
-[ns]女子陸[nse]
+[ns]Girls' Land[nse]
 "Ugh! Jun! It's not my problem anymore!"[pcms]
 *9249|
 [fc]

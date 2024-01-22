@@ -57,11 +57,11 @@ somehow keep up with her.[pcms]
 [backlay][rir_up_01_f10 layer=3 x="&sf.ri_up_x[3]" y="&sf.ri_up_y[0]"][trans time=150 method=crossfade][wt]
 *2842|
 [fc]
-[ns]íjê´ï[nse][Åznse]
+[ns]Male ticket[nse]
 "Wait, wait! Hand over Riri, give her to me!"[pcms]
 *2843|
 [fc]
-[ns]íjê[nse][Åznse]
+[ns]Male[nse]
 "Kyaaaaaaaaaaaaaaaaaaaaaaaaa!"[pcms]
 *2844|
 [fc]

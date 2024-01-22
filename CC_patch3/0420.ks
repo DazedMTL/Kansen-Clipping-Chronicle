@@ -165,7 +165,7 @@ all.[pcms]
 "Um... Suda-senpai?"[pcms]
 *4847|
 [fc]
-[ns]ç≤í|[nse]
+[ns]Satake[nse]
 "...Eh, ah... Ki-Kiyohara, go back to your room quickly."[pcms]
 [backlay][rir_lo_02_f08 layer=3 x="&sf.ri_lo_x[3]" y="&sf.ri_lo_y[0]"][trans time=150 method=crossfade][wt]
 *4848|
@@ -230,7 +230,7 @@ fall.[pcms]
 [backlay][chara_int][trans time=150 method=crossfade][wt]
 *4860|
 [fc]
-[ns]ç≤í|[nse]
+[ns]Satake[nse]
 "Ah, yeah... I'm fine, I'm fine. All good, all good."[pcms]
 *4861|
 [fc]
@@ -238,7 +238,7 @@ fall.[pcms]
 "...Are you really okay?"[pcms]
 *4862|
 [fc]
-[ns]ç≤í|[nse]
+[ns]Satake[nse]
 "Ah, yeah... I'm fine, I'm fine. All good, all good."[pcms]
 *4863|
 [fc]

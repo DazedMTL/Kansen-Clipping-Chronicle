@@ -285,7 +285,7 @@ moment, he appeared like a great mother earth goddess, with a halo of[r]
 benevolence shining behind him.[pcms]
 *1362|
 [fc]
-[ns]êº[nse]
+[ns]West[nse]
 "It's Mogami-senpai's curry, huh? Man, I'm looking forward to this~"[pcms]
 *1363|
 [fc]

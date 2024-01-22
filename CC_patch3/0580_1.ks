@@ -243,12 +243,12 @@ stripped away, and the large twin mounds I had fantasized about[r]
 spilled out.[pcms]
 *6787|
 [fc]
-[ns]êÖâj[nse]
+[ns]Swimming[nse]
 "Hehehe, so this is the princess's raw tits, huh. Uhoohoo, I can't[r]
 remember how many times I've jerked off to this."[pcms]
 *6788|
 [fc]
-[ns]ó§è„[nse]
+[ns]Track and Field[nse]
 "They're warm, her thighs are smooth and warm too. Ahh, I just wanna[r]
 rub my dick on them right now."[pcms]
 *6789|
@@ -262,7 +262,7 @@ Ah yes, that's right. I was searching to have sex with Senpai. That[r]
 body is mine. Those tits, those thighs, that pussy too![pcms]
 *6791|
 [fc]
-[ns]é·Ç¢[nse]
+[ns]Young[nse]
 "Hey, brats, let me teach you how to use a pussy. Move aside!!"[pcms]
 *6792|
 [fc]
@@ -281,7 +281,7 @@ Senpai Rui screamed and kicked her heel into the staff member's face,[r]
 but instead of flinching, he just smiled broadly.[pcms]
 *6795|
 [fc]
-[ns]é·Ç¢[nse]
+[ns]Young[nse]
 "I love it, you know! Fucking a bitchy girl like this!"[pcms]
 *6796|
 [fc]
@@ -294,7 +294,7 @@ The moment Senpai's anguished scream burst forth, I felt my head go[r]
 red with rage... and my vein-throbbing hand reached out.[pcms]
 *6797|
 [fc]
-[ns]é·Ç¢[nse]
+[ns]Young[nse]
 "Ah, geh...? Agah, agagagagagaga!!"[pcms]
 *6798|
 [fc]
@@ -633,7 +633,7 @@ organ.[pcms]
 As I'm contemplating this, I hear a familiar voice from behind.[pcms]
 *6861|
 [fc]
-[ns]â¡[nse]
+[ns]Add[nse]
 "O...i, let me have sex with Ashina-san too..."[pcms]
 *6862|
 [fc]
@@ -642,7 +642,7 @@ As I'm contemplating this, I hear a familiar voice from behind.[pcms]
 virgin, right?"[pcms]
 *6863|
 [fc]
-[ns]â¡[nse]
+[ns]Add[nse]
 "Ah...? That's because you did her, right...?"[pcms]
 *6864|
 [fc]
@@ -664,7 +664,7 @@ This was an invitation not just for Katou-senpai but also for the[r]
 disappointed members of the swim team around us.[pcms]
 *6868|
 [fc]
-[ns]â¡[nse]
+[ns]Add[nse]
 "That's right, that's right, that's right! A bitch deserves[r]
 punishment!!"[pcms]
 *6869|
@@ -685,7 +685,7 @@ expected of a high jumper, the strength of her back muscles is no[r]
 joke.[pcms]
 *6872|
 [fc]
-[ns]â¡[nse]
+[ns]Add[nse]
 "Guhi...hihihi, what are you saying, bitch. With this whore hole, how[r]
 many have you taken in?"[pcms]
 *6873|
@@ -702,7 +702,7 @@ handsome guy, Senpai starts pounding his hips.[pcms]
 mess me up like that!!!"[pcms]
 *6875|
 [fc]
-[ns]â¡[nse]
+[ns]Add[nse]
 "Ahhh? Can't count them if you've used it this much? It's laughable[r]
 that you put on such a proud face."[pcms]
 *6876|
@@ -764,7 +764,7 @@ in and out. The overflowing pre-cum quickly froths up and starts[r]
 making lewd noises.[pcms]
 *6887|
 [fc]
-[ns]â¡[nse]
+[ns]Add[nse]
 "I'm coming... I'm cominggggg! Gehahahahahaha!!"[pcms]
 *6888|
 [fc]
