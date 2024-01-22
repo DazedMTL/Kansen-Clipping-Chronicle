@@ -15,7 +15,7 @@ Where am I?[pcms]
 I felt a slight chill enveloping my body and shivered lightly.[pcms]
 *4|
 [fc]
-I lifted my face and looked around.[pcms]
+I raised my face and looked around.[pcms]
 *5|
 [fc]
 The darkness was so deep that it seemed to swallow my gaze entirely.[pcms]
@@ -32,13 +32,14 @@ In the distance, I could see the silhouette of a large tree. One,[r]
 two...[pcms]
 *9|
 [fc]
-Before I knew it, a dark forest of towering trees had revealed itself.[pcms]
+Before I knew it, a dense forest of towering black trees had revealed[r]
+itself.[pcms]
 *10|
 [fc]
 In the penetrating silence, I slowly surveyed my surroundings.[pcms]
 *11|
 [fc]
-The shadows of the vast forest that had emerged from the darkness[r]
+The massive shadows of the forest that had emerged from the darkness[r]
 stretched unbroken, encircling me from afar.[pcms]
 *12|
 [fc]
@@ -65,21 +66,23 @@ The countless stars shining in the sky, dawn just around the corner.[pcms]
 I gazed down at the tranquil twinkling with a sense of wonder.[pcms]
 *19|
 [fc]
-Then, against that backdrop, I saw my own face looking back at me and[r]
-the white boat that carried me.[pcms]
+Then, I saw my own face looking back at me with that backdrop, and the[r]
+white boat that carried me.[pcms]
 *20|
 [fc]
 Yes, it wasn't a starry sky but a water surface.[pcms]
 *21|
 [fc]
-As far as I could see, I was alone on the water, floating in a boat.[pcms]
+Afloat on a boat alone, I was drifting on an expanse of water as far[r]
+as the eye could see.[pcms]
 *22|
 [fc]
-Every slight movement I made caused ripples to spread across the[r]
-mirror-like surface of the water from the boat.[pcms]
+Every slight movement I made sent ripples across the mirror-like[r]
+surface of the water from the boat.[pcms]
 *23|
 [fc]
-The continuous smooth rings of waves expanded ever outward, endlessly.[pcms]
+The continuous smooth rings of waves spread out endlessly, ever so[r]
+far.[pcms]
 *24|
 [fc]
 This is a lake.[pcms]
@@ -88,18 +91,18 @@ This is a lake.[pcms]
 A vast, dark lake surrounded by forest.[pcms]
 *26|
 [fc]
-I am now drifting alone on its surface in a boat.[pcms]
+Right now, I'm drifting alone on its surface in a boat.[pcms]
 *27|
 [fc]
 I reached out and touched the surface of the lake.[pcms]
 *28|
 [fc]
-The sensation of wetness transmitted to my fingertips, and a gentle[r]
-coldness rose up.[pcms]
+A wet sensation transmitted to my fingertips, and a gentle coldness[r]
+rose up.[pcms]
 *29|
 [fc]
-As I moved my fingertips, the ripples I created disturbed the mirror-[r]
-like lake surface, and the reflected stars gently swayed.[pcms]
+As I moved my fingers, the ripples I created disturbed the mirror-like[r]
+lake surface, and the reflected stars gently swayed.[pcms]
 *30|
 [fc]
 I looked at one of them--[pcms]
@@ -125,11 +128,11 @@ After a while gazing at the large star on the water's surface, I[r]
 suddenly felt like scooping it up from the rippling reflection.[pcms]
 *37|
 [fc]
-Leaning out from the boat over the lake filled with billions of[r]
-sparkles, I gently reached for the star I aimed for.[pcms]
+I leaned out from the boat over the lake that spread billions of[r]
+sparkles and reached out gently towards the star I aimed for.[pcms]
 *38|
 [fc]
-At that moment, I felt a gaze and stopped my outstretched hand.[pcms]
+At that moment, I felt someone's gaze and stopped my reaching hand.[pcms]
 *39|
 [fc]
 The pale blue light of the star flickered at my fingertips.[pcms]
@@ -138,7 +141,7 @@ The pale blue light of the star flickered at my fingertips.[pcms]
 The gaze seemed to extend from that light.[pcms]
 *41|
 [fc]
-...No, that's not it. ...It's deeper inside.[pcms]
+...No, that's not it. ...It's deeper than that.[pcms]
 *42|
 [fc]
 Beyond the stars shining on the lake's surface.[pcms]
@@ -151,7 +154,7 @@ that gaze.[pcms]
 Who is it? Who is watching me from such a dark abyss?[pcms]
 *45|
 [fc]
-Following the gaze, I leaned further out from the boat, over the[r]
+Following the gaze, I leaned further out from the boat towards the[r]
 lake's surface.[pcms]
 *46|
 [fc]
@@ -181,14 +184,14 @@ A high-pitched, strained scream, released from the depths of my body,[r]
 muddied with terror.[pcms]
 *51|
 [fc]
-Breaking the silence, violently shaking the air, my own scream echoed[r]
-endlessly.[pcms]
+Breaking the silence, violently trembling the air, my own scream[r]
+echoed endlessly.[pcms]
 *52|
 [fc]
 That scream--[pcms]
 *53|
 [fc]
-The disturbed waters of the lake reflecting light, and the silent,[r]
+Disturbed the lake's water greatly, reflecting light, and the silent[r]
 black forest surrounding the lake.[pcms]
 *54|
 [fc]

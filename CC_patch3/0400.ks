@@ -4,11 +4,11 @@
 [sysbt_meswin]
 *4658|
 [fc]
-[【央】]
-「うぉぉおおおおぉぉっっ！！　ヤバイヤバイヤバイ！」[pcms][endhact]
+[ns]Akira[nse]
+"Uoooohhh!! Yabai yabai yabai!"[pcms]
 *4659|
 [fc]
-I hurriedly change out of my pajamas and into my gym clothes.[pcms]
+Hurriedly changing from pajamas into exercise clothes.[pcms]
 [if exp="f.l_riri_look == 1"]
 	[jump target=*見てはいけないものを見た]
 [endif]
