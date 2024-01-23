@@ -203,7 +203,7 @@ I alone dive into my futon--[pcms]
 *1719a|
 [fc]
 [vo_ru s="rui0119a"]
-[ns]？ーnse]？】
+[ns]？[nse]
 "Kill me mama!!"[pcms]
 *1720|
 [fc]

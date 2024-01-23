@@ -119,7 +119,7 @@ It seems he has noticed us too, as he turns his body towards us and[r]
 starts walking.[pcms]
 *8388|
 [fc]
-[ns]í[nse]Åznse]
+[ns][nse][nse]
 "Grrr, gahhh...! Gahhhhhhhhhhhhhhh!! Womannnnnnn!!!"[pcms]
 *8389|
 [fc]
@@ -129,7 +129,7 @@ Having spotted Riri, he quickens his pace and charges towards her.[pcms]
 With his movement in a simple straight line, I ready my bat--[pcms]
 *8391|
 [fc]
-[ns]í[nse]Åznse]
+[ns][nse][nse]
 "Nghiiiiiiii!! Womannnnnbugh!!"[pcms]
 [se buf=0 storage="seB040"]
 *8392|

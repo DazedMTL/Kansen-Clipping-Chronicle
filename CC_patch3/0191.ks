@@ -3,6 +3,7 @@
 [endif]
 [jump storage="0195.ks"]
 *zap|視点変更　純
+[eval exp="f.selbt = 1"]
 [sysbt_meswin clear]
 [backlay][bg storage="bg_zap"][trans method=universal rule="random" vague=10 time=1000][wt2]
 *zap2|視点変更選択肢　純

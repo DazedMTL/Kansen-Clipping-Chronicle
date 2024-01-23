@@ -968,7 +968,7 @@ Even though she said that with a vomit-covered face... I scratched my[r]
 head when suddenly a loud voice echoed across the pool.[pcms]
 *7094|
 [fc]
-[ns]è¨ñ[nse]õ[Åznse]
+[ns]è¨[nse]
 "What the hell are you doing?! Have some shame, some shameeee!!"[pcms]
 *7095|
 [fc]
@@ -985,7 +985,7 @@ Senpai's attempt to crawl closer to Onodera abruptly stopped with a[r]
 jolt.[pcms]
 *7098|
 [fc]
-[ns]è¨ñ[nse]õ[Åznse]
+[ns]è¨[nse]
 "Absolutely disgraceful! Hey, Ashina!! Do you call yourself a student[r]
 council president with that behavior?! Fool!!"[pcms]
 *7099|
@@ -995,7 +995,7 @@ but Senpai's face was crushed with despair. Oh, is it because she's[r]
 being scolded?[pcms]
 *7100|
 [fc]
-[ns]è¨ñ[nse]õ[Åznse]
+[ns]è¨[nse]
 "Such lewdness cannot be overlooked!! I will retrain that sloppy pussy[r]
 of yours!!"[pcms]
 *7101|

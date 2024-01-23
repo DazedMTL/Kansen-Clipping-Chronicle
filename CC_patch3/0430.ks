@@ -123,7 +123,7 @@ the situation will improve, so it's natural to feel this way.[pcms]
 *5002|
 [fc]
 [vo_mo s="announcer0005"]
-[ns]Announcer"[pcms]
+[ns]Announcer"[nse]
 *5003|
 [fc]
 The caption that followed was "Succession of traffic accidents."[pcms]

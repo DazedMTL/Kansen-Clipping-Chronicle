@@ -3,6 +3,7 @@
 [endif]
 [jump storage="0130.ks"]
 *zap
+[eval exp="f.selbt = 1"]
 [sysbt_meswin clear]
 [fadeoutbgm time=500]
 [stopse_all]

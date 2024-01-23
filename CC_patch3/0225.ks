@@ -789,7 +789,7 @@ achieved simultaneous climaxes.[pcms]
 [fc]
 [vo_ju s="jun0282"]
 [ns]Jun[nse]
-"Eheheheô Thank you, Yuuji-kuns)[pcms]
+"Eheheheô Thank you, Yuuji-kun[pcms]
 *2148|
 [fc]
 After getting dressed and finishing the cleanup, the lovey-dovey[r]

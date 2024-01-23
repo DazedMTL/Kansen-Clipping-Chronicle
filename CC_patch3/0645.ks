@@ -74,7 +74,7 @@ And then to us--[pcms]
 [backlay][kan_ru layer=3 x="&sf.ra_lo_x[3]" y="&sf.ra_lo_y[0]"][trans time=150 method=crossfade][wt]
 *8303|
 [fc]
-[ns]í[nse]Åznse]
+[ns][nse][nse]
 "Aaaaaaaahhhhhhhhhhhhh!!!!!"[pcms]
 *8304|
 [fc]

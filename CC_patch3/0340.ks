@@ -124,7 +124,7 @@ desperate expression as she ran towards us.[pcms]
 "Ple-please help..."[pcms]
 *2581|
 [fc]
-[ns]？ーnse]？】
+[ns]？[nse]
 "No waaay! No helpingHyahaha!"[pcms]
 *2582|
 [fc]
