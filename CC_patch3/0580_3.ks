@@ -13,7 +13,7 @@
 [sysbt_meswin]
 *7103|
 [fc]
-[ns]è¨[nse]
+[ns]Xiao[nse]
 "Nuuuu! What is this breast! This is outrageous, outrageous!!"[pcms]
 *7104|
 [fc]
@@ -31,7 +31,7 @@ teacher's palms.[pcms]
 "Ah...guh. It hurts, teacher... Don't squeeze them like that..."[pcms]
 *7107|
 [fc]
-[ns]è¨[nse]
+[ns]Xiao[nse]
 "What's that, outrageous! You dare defy my guidance! Fool!"[pcms]
 *7108|
 [fc]
@@ -52,7 +52,7 @@ As I inadvertently swallowed my saliva, Onodera slowly aligned that[r]
 weapon to a place other than her pussy...[pcms]
 *7112|
 [fc]
-[ns]è¨[nse]
+[ns]Xiao[nse]
 "For a lecher like you, this is the best treatment!!"[pcms]
 [se buf=0 storage="se_sex01"]
 [evcgê‘ÉtÉâ storage="EV25_03" layer=0 page=back visible=true left=0 top=0]
@@ -73,7 +73,7 @@ The tremendous scream shook the air, and the senior began to tremble[r]
 violently. She looked like a fish being reeled in.[pcms]
 *7116|
 [fc]
-[ns]è¨[nse]
+[ns]Xiao[nse]
 "Humph, swallow it down to the root! This is the proof of your[r]
 lewdness!! Gufu, gufufufufufu!!"[pcms]
 [se buf=1 storage="se_sex03" loop=true]
@@ -94,7 +94,7 @@ No matter that I had penetrated her ass before, that thing is[r]
 cheating. No matter how accustomed she is, it must hurt for sure.[pcms]
 *7120|
 [fc]
-[ns]è¨[nse]
+[ns]Xiao[nse]
 "Fool! The pain is because you're a lecher! If you cure your lechery,[r]
 such things won't hurt anymore!!"[pcms]
 *7121|
@@ -117,7 +117,7 @@ kept screaming with her eyes bulging and her tongue sticking out.[pcms]
 anyone, help meeeeee!! Ngooooohhh!!"[pcms]
 *7125|
 [fc]
-[ns]è¨[nse]
+[ns]Xiao[nse]
 "There's no help for you!! Listen, Ashina! You are the bad one! It's[r]
 your fault for being lecherous!!"[pcms]
 *7126|
@@ -157,7 +157,7 @@ now with the insertion into her pussy. Even a promiscuous bitch[r]
 couldn't endure this.[pcms]
 *7133|
 [fc]
-[ns]è¨[nse]
+[ns]Xiao[nse]
 "Oooh! You're Kato, huh? As vice-captain, assist me!!"[pcms]
 *7133a|
 [fc]
@@ -184,7 +184,7 @@ the others didn't stop. They even wore thin smiles on their faces.[pcms]
 good, I can't stand it!"[pcms]
 *7138|
 [fc]
-[ns]è¨[nse]
+[ns]Xiao[nse]
 "Gehahaha! Me too. I've been hardening my dick thinking about screwing[r]
 this erotic body someday!!"[pcms]
 *7139|
@@ -204,7 +204,7 @@ Enduring the pain, the senior moaned. Her anger surpassed everything[r]
 else in what was nothing but rape under the guise of guidance.[pcms]
 *7142|
 [fc]
-[ns]è¨[nse]
+[ns]Xiao[nse]
 "What did you say, you fool! It's just guidance, with practical[r]
 experience added! Kato! Make this fool shut up!"[pcms]
 *7143|
@@ -236,7 +236,7 @@ Having treated her like an onahole, it was easy to reach the limit.[r]
 But Onodera solemnly nodded at Kato-senpai's pathetic words.[pcms]
 *7149|
 [fc]
-[ns]è¨[nse]
+[ns]Xiao[nse]
 "Alright, let it out!! Imprint the proof of guidance into this lewd[r]
 woman!!"[pcms]
 *7149a|
@@ -275,7 +275,7 @@ union in no time.[pcms]
 "Kuooo, te-teacher, that's... amazing..."[pcms]
 *7155|
 [fc]
-[ns]è¨[nse]
+[ns]Xiao[nse]
 "Gehahahaha! There's still more coming out, more and more!!"[pcms]
 [stopse buf=1]
 [se buf=0 storage="se_sex01"]
@@ -292,7 +292,7 @@ On top of that, he didn't care about the senior writhing in agony; he[r]
 just let his desires burst forth.[pcms]
 *7158|
 [fc]
-[ns]è¨[nse]
+[ns]Xiao[nse]
 "Nn... Ooh! Gufufu, I let out more than usual. Look at this, you guys.[r]
 This is my guidance juice."[pcms]
 [backlay][evcg storage="EV25_09" layer=0 page=back visible=true left=0 top=0][trans time=300 method=crossfade][wt2]
@@ -303,7 +303,7 @@ From the hole where the thick cock was pulled out, semen was dripping[r]
 down. I even worried if it would ever close again.[pcms]
 *7160|
 [fc]
-[ns]è¨[nse]
+[ns]Xiao[nse]
 "Hey, Kato. Next, we're changing places. You're going to..."[pcms]
 [backlay][bg storage="BG11a"][trans time=500 method=crossfade][wt2]
 *7161|
@@ -316,7 +316,7 @@ challenger appeared with a weapon no less formidable than Onodera's.[pcms]
 "Onodera-sensei! Could you let me take over this time?"[pcms]
 *7163|
 [fc]
-[ns]è¨[nse]
+[ns]Xiao[nse]
 "Mmmmm, you? Hmm hmm, with that member, I guess it's okay to leave it[r]
 to you."[pcms]
 *7164|
@@ -326,7 +326,7 @@ and field club president's crotch, Onodera beckoned with a kick while[r]
 pushing away the dissatisfied Kato.[pcms]
 *7165|
 [fc]
-[ns]è¨[nse]
+[ns]Xiao[nse]
 "First, try doing it alone. Don't disappoint me, okay?"[pcms]
 *7166|
 [fc]
@@ -572,7 +572,7 @@ Senpai started thrashing wildly on top of Satake-senpai, but then a[r]
 thunderous angry voice roared.[pcms]
 *7210|
 [fc]
-[ns]è¨[nse]
+[ns]Xiao[nse]
 "Idiots!! Whether she's okay or not is for us to decide!! I'll take[r]
 care of that weak-mouthed pussy of yours!!"[pcms]
 *7211|
@@ -601,7 +601,7 @@ Just when I thought I heard a cute noise, Senpai began convulsing[r]
 violently. Maybe Onodera's cock dislocated her jaw?[pcms]
 *7215|
 [fc]
-[ns]è¨[nse]
+[ns]Xiao[nse]
 "What is this! Because she hasn't trained her jaw, it dislocates[r]
 easily!!"[pcms]
 *7216|
@@ -654,7 +654,7 @@ voice drunk on pleasure. It was the same for me and Suda. This[r]
 tightness was extraordinary.[pcms]
 *7226|
 [fc]
-[ns]è¨[nse]
+[ns]Xiao[nse]
 "Very well, after a little more effort, let's unload into this lewd[r]
 woman!"[pcms]
 *7227|
@@ -676,7 +676,7 @@ by the urge to ejaculate.[pcms]
 And at that moment, we confirmed it with each other.[pcms]
 *7231|
 [fc]
-[ns]è¨[nse]
+[ns]Xiao[nse]
 "Cummm!! Discipline this lewd woman!!"[pcms]
 *7232|
 [fc]
@@ -698,7 +698,7 @@ The moment guidance juices were released from four cocks into three[r]
 holes, Senpai Rui rolled her eyes back and her body stiffened.[pcms]
 *7235|
 [fc]
-[ns]è¨[nse]
+[ns]Xiao[nse]
 "Hmm! Good job, you guys! Gehahahaha!!"[pcms]
 *7236|
 [fc]
@@ -726,7 +726,7 @@ Perhaps that was the final blow; Senpai's head drooped down and she[r]
 lost consciousness.[pcms]
 *7241|
 [fc]
-[ns]è¨[nse]
+[ns]Xiao[nse]
 "This is why women are no good. Seriously, they're just not up to[r]
 par!"[pcms]
 *7242|
@@ -735,7 +735,7 @@ Onodera placed his hand on Senpai's slackened jaw and turned his[r]
 glittering eyes towards me.[pcms]
 *7243|
 [fc]
-[ns]è¨[nse]
+[ns]Xiao[nse]
 "Finally, all of you should discipline her together. The order is up[r]
 to you."[pcms]
 *7244|
